@@ -79,13 +79,13 @@ This process repeats for all j > k.
 
 ### 5. Implications
 
-#### This explains:
+#### ✅ This explains:
 
 * Cascading collapse in cognition (e.g. trauma, psychosis)
 * Structural failure in reasoning systems (e.g. misaligned models)
 * Collapse of trust or coherence in societal systems
 
-#### It introduces:
+#### ✅ It introduces:
 
 * A criterion for **resilience**: maintain stabilization at foundational levels
 * A diagnostic principle: **find the earliest ∆ that failed to hold**
@@ -101,7 +101,7 @@ This process repeats for all j > k.
          ↓
          F₁ = ⊚(R(F₀))
             ↓
-            ...
+            ...  
             ↓
             Fn
 

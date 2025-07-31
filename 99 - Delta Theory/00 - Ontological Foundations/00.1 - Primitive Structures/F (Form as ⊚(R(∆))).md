@@ -80,7 +80,7 @@ Where:
     
 - [[⊚ — Stabilization Operator]]
     
-- [[⊚(Rⁿ(∆₀)) — Stabilized Recursive Embedding|⊚(Rⁿ(∆₀))]]
+- [[⊚(Rⁿ(∆₀)) – Stabilized Recursive Embedding|⊚(Rⁿ(∆₀))]]
     
 - [[ClosureStrength(Fₙ)]]
     
