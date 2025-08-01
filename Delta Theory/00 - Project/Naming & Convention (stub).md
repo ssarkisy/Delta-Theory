@@ -1,0 +1,1 @@
+# Naming logic for files/types/domains
