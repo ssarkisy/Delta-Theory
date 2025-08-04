@@ -91,7 +91,7 @@ This note explains how **self-identity in cognition emerges through recursive st
 
 |Type|Link|Purpose|
 |---|---|---|
-|Meta|[[Delta Theory Model as Tetrahedral Closure]]|Core closure mechanism from Ontology to Model.|
+|Meta|[[Delta Theory Model as Ontomolecule Closure]]|Core closure mechanism from Ontology to Model.|
 |Meta|[[Ontological Geometry of Difference]]|Triangle and Tetrahedron as minimal structures of stabilized difference.|
 |Meta|[[Complexity vs Compactness]]|Shows how identity loops scale through recursion, not ontology bloat.|
 |Meta|[[Triangular Structuring in 3D Graphics]]|Cross-domain application of recursive difference structuring.|

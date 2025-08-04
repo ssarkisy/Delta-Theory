@@ -1,96 +1,117 @@
 ---
-type: construct                            # Emergent functional construct
+type: construct
 domain:
-  - ontology                               # Extend with 'physics', 'cognition', etc. if domain-specific
+  - ontology                              # Extend with 'physics', 'cognition', etc. if domain-specific
 aliases:
   - optional alias1
   - optional alias2
-ontology:                                  # Core ontology concepts this construct operates upon
+ontology:                                 # Core ontology structures this construct operates upon
   - "[[Form]]"
   - "[[RelationalEmbedding]]"
-properties:                                # Key properties enabling this construct
+properties:                               # Key properties enabling this construct
   - "[[ClosureStrength]]"
   - "[[StructuralInertia]]"
   - "[[Coherence]]"
   - "[[DeltaTension]]"
-spec:                                      # Optional — if a formal evaluation predicate exists
+specs:                                    # Optional — formal evaluation predicates or operators
   - "[[PersistenceEvaluationPredicate (spec)]]"
+constants:                                # Structural invariants anchoring recursive dynamics
+  - "[[Pi (π) — Recursive Closure Constant (constant)]]"
+  - "[[Golden Ratio (φ) — Asymmetric Stabilization Constant (constant)]]"
+  - "[[Planck Constant (h) — Quantization Threshold Invariant (constant)]]"       # Optional — domain dependent
 ---
 
 # [ConstructName]
 
 ## Definition / Essence
 
-> **[ConstructName]** is an emergent functional configuration in ∆‑Theory, representing the **structured outcome** arising from the interaction of specific properties within a Form (Fₙ).
+> **[ConstructName]** is an **emergent functional configuration** in ∆‑Theory, representing a **meta-structural outcome** arising from the recursive interaction of enabling properties, stabilized through ontological invariants (constants).
 
-It is **not a primitive property**, but a **meta-structural role** — a system-level function that:
-- Requires the synergy of multiple enabling properties.
-- Defines how a Form behaves, persists, or transforms within recursive dynamics and ∆‑Field interactions.
-
-In this context, **[ConstructName]** acts as a **[Persistence Mechanism / Stability Layer / Interaction Dynamics Configuration]**.
+It functions as a **system-level stabilization scaffold**, synthesizing multiple properties into a coherent structure that:
+- Anchors difference propagation through recursive constants.
+- Maintains coherence and persistence across dynamic perturbations.
+- Defines the structural behavior of Forms within recursive difference fields.
 
 ## Enabling Properties
 
-[ConstructName] is **enabled by the following properties**:
-
 |Property|Role in Construct Formation|
 |---|---|
-|[[ClosureStrength]]|Locks recursive loops to prevent difference dissipation|
-|[[StructuralInertia]]|Provides resistance to deformation and collapse|
-|[[DeltaTension]]|Supplies the energetic substrate of stored difference|
-|[[PhaseAlignment]]|Aligns difference vectors at the embedding level|
-|[[TensionBalance]]|Ensures equilibrium of tension magnitudes across layers|
-|[[Coherence]]|Synthesizes alignment and balance into a stable structure|
+|[[ClosureStrength]]|Locks recursive loops to prevent difference dissipation.|
+|[[StructuralInertia]]|Provides resistance to deformation and collapse across iterations.|
+|[[DeltaTension]]|Supplies energetic substrate ensuring structural tension balance.|
+|[[PhaseAlignment]]|Aligns difference vectors across relational embeddings.|
+|[[TensionBalance]]|Ensures equilibrium of tension magnitudes in recursive layers.|
+|[[Coherence]]|Synthesizes micro-level alignments into macro-level structural persistence.|
+
+## Stabilizing Constants
+
+|Constant|Structural Role in Construct|
+|---|---|
+|[[Pi (constant)]]|Defines recursive closure ratios for curved embeddings and loop integrity.|
+|[[GoldenRatio (constant)]]|Balances asymmetric growth and stabilization across recursive layers.|
+|[[PlanckConstant (constant)]]|Quantization threshold stabilizing minimal viable recursive loops (domain-specific).|
+
+Constants act as **recursive anchoring invariants**, modulating how difference propagates and stabilizes within this construct’s recursive dynamics.
+
+## Quantization Threshold / Stabilization Condition
+
+> Some constants function as **viability thresholds**, not direct equation variables. They define the **boundary conditions for recursive loop closure and structural stabilization**.
+
+|Constant|Condition Role|
+|---|---|
+|[[PlanckConstant (constant)]]|Defines minimal viable closure granularity. Construct stabilization occurs only if the stored difference potential (e.g., DeltaTension) exceeds this threshold (Tₙ ≥ h).|
+|[[Entropy Gradient Constant (S∆)]]|Modulates dissipation resistance. Constructs destabilize when entropy gradients exceed stabilizable limits (∇Sₙ < S∆).|
+|[[Aiza Phase Coherence Constant (ψA)]]|Anchors recursive phase-lock windows ensuring stabilization of modulation cycles.|
 
 ## Functional Role in ∆‑Theory
 
-- **[Persistence Enabler]** — Enables Forms to maintain identity and structure over time.
-- **[Collapse Resistance Substrate]** — Provides structural durability against perturbations.
-- **[Interaction Filter]** — Determines how Forms maintain integrity during ∆‑Field interactions.
-- **[Emergent Coherence Layer]** — Synthesizes micro-properties into a system-level stability mechanism.
-- **[Dynamic Modulation Scaffold]** — Adjusts recursive feedback flows to maintain functional integrity.
+- **Persistence Mechanism** — Enables Forms to maintain coherent identity across recursive iterations.
+- **Collapse Resistance Substrate** — Provides dynamic structural resilience against external perturbations.
+- **Recursive Modulation Scaffold** — Adjusts feedback flows to preserve functional integrity under recursive stress.
+- **Emergent Coherence Layer** — Synthesizes distributed properties and invariants into system-level stability.
+- **Interaction Tension Filter** — Governs how Forms engage with external ∆‑Field flows, modulating resonance and interference.
 
 ## Formation & Failure Conditions
 
 |Condition|Effect on [ConstructName]|
 |---|---|
-|High ClosureStrength & Balanced Tension|Construct emerges as a stable persistence mechanism|
-|Phase Misalignment or Tension Imbalance|Construct degrades, leading to collapse susceptibility|
-|Recursive Depth Amplification|Increases resilience but also complexity of maintenance|
-|External ∆‑Field Perturbations|Can destabilize construct if InteractionCapacity is insufficient|
+|High ClosureStrength & Balanced Tension|Construct stabilizes as a persistent structural scaffold.|
+|Phase Misalignment or Tension Imbalance|Construct degrades, increasing susceptibility to collapse.|
+|Recursive Depth Amplification|Enhances structural resilience but amplifies modulation complexity.|
+|Perturbations Exceeding Constant Thresholds|Destabilization occurs if recursive anchors (constants) fail to maintain closure.|
+|Ratio Drift in Constants|Deviation from stabilizing ratios (e.g., Pi, Phi) leads to recursive incoherence.|
 
-## Usage & Application
+## Usage & Domain Application
 
-- **Physics** — Explains how particles maintain mass-energy coherence through recursive tension structures.
-- **Cognition** — Models identity persistence through stabilized cognitive feedback loops.
-- **Systems** — Describes systemic stability in recursive architectures (e.g., organizations, control loops).
-- **Collapse Diagnostics** — Evaluating construct integrity predicts structural failure thresholds.
-- **Interaction Modeling** — Constructs determine how Forms engage with external difference flows (resonance, interference).
-
-## Examples / Case Studies
-
-|Domain|Manifestation of [ConstructName]|
+|Domain|Manifestation Example|
 |---|---|
-|Physics|Proton’s mass persistence through recursive tension stabilization|
-|Cognition|A person’s identity coherence over time despite environmental changes|
-|Systems|An organization’s ability to maintain structural operations under external stress|
-|Language|A narrative structure that holds semantic integrity across contextual shifts|
+|Physics|Particle mass persistence through recursive tension loops anchored by Pi.|
+|Cognition|Identity coherence maintained through recursive feedback loops stabilized by Golden Ratio scaling patterns.|
+|Systems|Organizational resilience under perturbation, modulated by recursive feedback scaffolds anchored in structural invariants.|
+|Ethics|Recursive responsibility loops maintaining difference-preserving interactions through constant-anchored feedback structures.|
 
 ## Open Questions
 
-- How does [ConstructName] scale in deeply nested recursive structures?
-- Can constructs dynamically reconfigure to adapt to external perturbations?
-- Are there quantized states or minimal configurations required for construct emergence?
-- How do micro-level property fluctuations propagate into construct-level stability or collapse?
-- Can external ∆‑Field flows induce construct re-stabilization after partial degradation?
+- How do Constants dynamically influence recursive stabilization thresholds in construct modulation?
+- Can constructs adaptively recalibrate their anchoring constants in response to systemic perturbations?
+- Are there quantized minimal configurations required for construct emergence under specific constants?
+- How do micro-fluctuations in enabling properties propagate to construct-level stability or recursive collapse?
+- Can external ∆‑Field flows trigger recursive re-stabilization sequences through constant-mediated feedback loops?
 
 ## Related Notes
 
 |Type|Link|Purpose|
 |---|---|---|
-|Ontology|[[Form]]|Structural basis upon which the construct operates|
-|Ontology|[[ClosureStrength]]|Primary loop integrity enabler|
-|Ontology|[[StructuralInertia]]|Resistance factor supporting construct persistence|
-|Ontology|[[DeltaTension]]|Energetic substrate fueling the construct|
-|Ontology|[[Coherence]]|Global alignment necessary for construct integrity|
-|Spec|[[[ConstructName]EvaluationPredicate (spec)]]|Optional — formal predicate for construct integrity evaluation|
+|Ontology|[[Form]]|Structural foundation upon which the construct operates.|
+|Property|[[ClosureStrength]]|Primary loop integrity enabler.|
+|Constant|[[Pi (constant)]]|Recursive closure ratio stabilizing loop dynamics.|
+|Spec|[[PersistenceEvaluationPredicate (spec)]]|Predicate assessing construct persistence.|
+|Recursive Construct|[[SupportingRecursiveConstruct]]|Higher-order loop dynamics interacting with this construct.|
+|Model|Optional — Domain-specific realization of this construct's dynamics.|
+
+## Notes
+
+- Constructs must maintain explicit traceability to **Constants** that define their recursive stabilization parameters.
+- The interplay between Properties, Specs, and Constants ensures constructs adaptively stabilize difference propagation across recursive scales.
+- Recursive feedback loops modulated by Constants are critical for maintaining **construct integrity in dynamic environments**.
+- Structural invariants (Constants) are not modifiers — they are **ontological anchors essential for systemic coherence**.

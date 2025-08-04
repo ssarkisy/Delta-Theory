@@ -1,1 +1,0 @@
-// TODO: Index and purpose of the ontology layer

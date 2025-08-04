@@ -118,5 +118,5 @@ The ∆‑Theory Knowledge Base aims to:
 |---|---|---|
 |Meta|[[About the Project]]|Defines the project’s purpose, origin, and scope.|
 |Meta|[[Knowledge Base Architecture]]|Structural rules for note types, naming, and traceability.|
-|Meta|[[10 - Ontology Overview]]|Defines the structural hierarchy of the Ontology layer.|
+|Meta|[[10 - Ontology (meta)]]|Defines the structural hierarchy of the Ontology layer.|
 |Meta|[[Complexity vs Compactness]]|Explains ∆‑Theory’s scaling logic without ontological bloat.|

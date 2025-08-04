@@ -95,6 +95,6 @@ The Knowledge Base covers:
 |Type|Link|Purpose|
 |---|---|---|
 |Meta|[[Knowledge Base Architecture]]|Defines file types, naming patterns, and traceability rules.|
-|Meta|[[Delta Theory Model as Tetrahedral Closure]]|Core traceability chain from Ontology to Model.|
+|Meta|[[Delta Theory Model as Ontomolecule Closure]]|Core traceability chain from Ontology to Model.|
 |Meta|[[Ontology File Structure]]|Hierarchical structure of the Ontology folder.|
 |Meta|[[Complexity vs Compactness]]|Explains ∆‑Theory's structural minimalism compared to conventional frameworks.|

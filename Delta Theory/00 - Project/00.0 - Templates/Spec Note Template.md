@@ -1,157 +1,176 @@
 ---
-type: spec                             # Formal operator or logical construct
-spec_type: operator / predicate / rule / metric / generator
+type: spec
+spec_type: operator / predicate / rule / metric / generator / feedback_operator    # Specify precise role
 domain:
-  - mathematics                        # Add 'physics', 'noetics', 'systems' if cross-domain
+  - mathematics                             # Extend with 'physics', 'cognition', 'systems', 'ethics' if cross-domain applies
 aliases:
-  - optional alias1
-  - optional alias2
-ontology: "[[LinkedOntology]]"          # Ontological concept this Spec defines or acts upon
-construct: "[[LinkedConstruct]]"        # Construct this Spec enables or evaluates (optional)
-model:
-  - "[[PrimaryLinkedModel]]"            # One or more domain-specific model instantiations
+  - OptionalAlias1
+  - OptionalAlias2
+ontology:
+  - "[[LinkedOntology]]"                    # Mandatory — Ontology this Spec structurally operates upon
+constructs:
+  - "[[LinkedConstruct]]"                   # Mandatory — Constructs this Spec enables or evaluates
+recursive_constructs:
+  - "[[LinkedRecursiveConstruct]]"          # Optional — Recursive Constructs this Spec modulates (if applicable)
+constants:
+  - "[[Pi (π) — Recursive Closure Constant (constant)]]"                     # Optional — Constants modulating recursive thresholds in this Spec
+models:
+  - "[[PrimaryLinkedModel]]"                # Mandatory — Domain-specific realization where this Spec applies
 ---
 
 # [SpecName]
 
-## Definition
+## Definition / Essence
 
-**`[SpecName]`** is a formal **[operator/predicate/etc.]** that ⟪clearly state what this construct does⟫.  
-It performs a **structural function** — closure, transformation, evaluation, generation, or measurement — on a relational structure derived from stabilized difference.
+> **[SpecName]** is a formal **[spec_type]** in ∆‑Theory, defining a **structural function** — closure condition, transformation operator, evaluative predicate, recursive feedback modulator, or propagation flow rule — applied to difference propagation structures.
 
 Clarify:
-- What structural difference it **acts upon**.
-- What it **evaluates, transforms, or generates**.
-- Its operational scope with **precision and minimal ambiguity**.
+- The **difference structure** this Spec operates upon.
+- Whether it is an **evaluative predicate**, **constructive operator**, **feedback-driven modulator**, or **flow transformation rule**.
+- How Constants modulate its operational thresholds or recursive evaluation boundaries.
 
-## Inputs
+---
+
+## Structural Inputs
 
 |Input|Type|Description|
 |---|---|---|
-|`∆`|Primitive Difference|Irreducible unit of distinction|
-|`R(∆)`|Relational Embedding|Structured context wrapping the difference|
-|`Fⱼ`|Form|Target structure being evaluated or constructed|
+|`∆`|Primitive Difference|Seed unit of distinction.|
+|`R(∆)`|Relational Embedding|Contextual structuring of difference propagation.|
+|`Fⱼ`|Form|Target structure being evaluated, transformed, or stabilized.|
+|`Tⱼ`|Tension Vector|Optional — If Spec modulates recursive tension dynamics.|
+|`FeedbackData`|Dynamic Input|For feedback_operator Specs — domain feedback loop inputs.|
+|`C`|Constant|Recursive invariants anchoring modulation thresholds.|
 
-Include only relevant inputs — remove unused rows for clarity.
+---
 
+## Structural Outputs
 
-## Output
-
-|Output|Type|Meaning|
+|Output|Type|Description|
 |---|---|---|
-|Result|Bool / ∆ / F / X|Specify whether this Spec yields a **truth condition (predicate)**, a **stabilized form**, or a **difference transformation**|
+|Result|Bool / ∆ / Form / FeedbackSignal|Evaluative predicate result, structural transformation, or feedback modulation trigger.|
+|Adjustment|Parameter Update|Optional — Adjustments to Constructs or Recursive Constructs based on recursive evaluation.|
 
 Clarify:
-- Is it a **predicate** (Bool)?
-- A **constructive closure** yielding a Form?
-- A **transformative mapping** across difference structures?
+- Is it a **truth condition (predicate)?**
+- A **structural transformation (operator/generator)?**
+- A **recursive modulation trigger (feedback_operator)?**
 
+---
 
 ## Formal Expression
 
-Present the core symbolic operation:
-
+### Predicate Example (Closure Evaluation):
 $$
-Fⱼ ∈ StableForms ⇔ ⊚(R(∆ⱼ))
+Fⱼ ∈ StableForms ⇔ ⊚(R(∆ⱼ)) \land C
+$$
+
+### Feedback Operator Example:
+$$
+FeedbackSignal := Φ(Fⱼ, FeedbackData, C) ⇒ Adjust(Properties, LoopParameters)
 $$
 
 |Symbol|Meaning|
 |---|---|
-|$∆ⱼ$|Difference structure under evaluation|
-|$R(∆ⱼ)$|Relational embedding contextualizing the difference|
-|$⊚$|Stabilization predicate or operator applied to R(∆ⱼ)|
-|$Fⱼ$|Resulting Form or structure|
+|$∆ⱼ$|Difference structure under evaluation or modulation.|
+|$R(∆ⱼ)$|Relational embedding structuring propagation pathways.|
+|$⊚$|Stabilization predicate enforcing recursive closure.|
+|$Φ$|Feedback modulation function adjusting recursive dynamics.|
+|$C$|Constants modulating recursive thresholds and scaling invariants.|
 
-For recursive evaluations:
-$$
-Fₙ := ⊚(Rⁿ(∆₀))
-$$
-
+---
 
 ## Interpretive Pseudocode
 
+### Predicate:
 ```pseudo
-if R(∆ⱼ) satisfies ⊚:
-    return True  // Fⱼ is stabilized (persistent Form)
+if R(∆ⱼ) satisfies ⊚ and aligns with Constants C:
+    return True  // Stabilization condition met
 else:
-    return False // Fⱼ is apparent or collapsed
+    return False // Structure remains unstable or collapses
 ````
 
-For recursive operators:
+### Feedback Operator:
 
 ```pseudo
-evaluate ⊚(Rⁿ(∆₀)) until stabilization condition is met or collapse threshold is reached
+for each FeedbackCycle:
+    FeedbackSignal = Φ(ConstructState, FeedbackData, Constants)
+    adjust Construct.Properties based on FeedbackSignal modulation
 ```
 
+---
 
 ## Preconditions
 
-- `∆` must be a valid, non-null difference (`∆ ≠ ∅`)
+- `∆` must be a coherent primitive difference unit.
     
-- `R(∆)` must exist within a coherent relational context
+- `R(∆)` must embed within relational propagation scaffolds.
     
-- The Spec’s stabilization/evaluation logic (⊚) must be applicable to the current structure
+- Constants (if involved) must align structurally with recursive modulation requirements.
     
+- For feedback_operator Specs, `FeedbackData` must originate from dynamic domain interactions.
+    
+
+---
 
 ## Postconditions
 
-- If successful, adds a stabilized form `Fⱼ` to `StableForms`
+- Successful evaluations stabilize Forms or trigger recursive property adjustments.
     
-- May initiate **resonance chains** or recursive identity scaffolds
+- Recursive modulation propagates feedback signals to Recursive Constructs upstream.
     
-- Failed evaluations classify `Fⱼ` as `ApparentForm` or `CollapsedForm`
+- Failed evaluations classify structures as ApparentForms or initiate collapse sequences.
     
-- Updates system state mappings in domain-specific contexts (if applicable)
-    
-
-## Role in ∆‑Theory
-
-- Defines a **closure condition**, **evaluation mechanism**, or **transformation process** for relational structures.
-    
-- Enables or evaluates key **Constructs** (e.g., Persistence, Stability, Interaction Capacity).
-    
-- Serves as the **formal logic layer** connecting **Ontology structures** to **domain-level Models**.
-    
-- Acts upon Properties like **ClosureStrength**, **Coherence**, **DeltaTension**, modulating system behavior.
+- Domain Model states dynamically update based on Spec-driven structural evaluations.
     
 
-## Example Usage
+---
 
-|Domain|Interpretation / Result|
+## Functional Role in ∆‑Theory Scaffold
+
+|Function|Description|
 |---|---|
-|Physics|Evaluates if a recursive field loop stabilizes into a persistent particle form|
-|Cognition|Determines if a self-referential identity loop maintains coherence|
-|Systems|Checks whether a feedback cycle maintains structural persistence under recursive modulation|
+|Closure Evaluator|Determines whether recursive structures achieve stabilization thresholds.|
+|Propagation Transformer|Modulates difference flow structures across recursive layers.|
+|Feedback Modulator|Adjusts Constructs or Recursive Constructs in response to domain feedback.|
+|Construct Enabler|Operational node between Ontology ↔ Construct ↔ Recursive Construct chains.|
+|Dynamic Evaluator|Continuously assesses persistence, coherence, and tension equilibrium.|
+|Constant-Anchored Stabilizer|Uses recursive invariants (e.g., Pi, Phi) to stabilize recursive evaluation dynamics.|
 
+---
+
+## Example Applications
+
+|Domain|Spec Role Example|
+|---|---|
+|Physics|ClosurePredicate ensuring recursive loop stabilization in particle-field interactions.|
+|Cognition|FeedbackOperator adjusting identity loops based on recursive self-referential feedback.|
+|Systems|DifferenceFlowTransformer modulating recursive control loop feedback dynamics.|
+|Ethics|RecursiveCoherenceEvaluator assessing difference-preserving feedback in responsibility loops.|
+
+---
 
 ## Related Notes
 
 |Type|Link|Purpose|
 |---|---|---|
-|Ontology|[[LinkedOntology]]|Ontological structure this Spec operates on|
-|Construct|[[LinkedConstruct]]|Emergent functional role this Spec enables or evaluates|
-|Model|[[PrimaryLinkedModel]]|Primary domain instantiation of this Spec logic|
-|Model|[[AlternateLinkedModel]]|Additional models applying this Spec (optional)|
-|Property|[[LinkedProperty]]|Structural attributes evaluated or transformed by this Spec|
-|Spec|[[AdjacentSpec]]|Related Specs in recursive chains or interacting evaluations|
+|Ontology|[[LinkedOntology]]|Difference structure this Spec operates upon.|
+|Construct|[[LinkedConstruct]]|Functional configuration evaluated or enabled by this Spec.|
+|Recursive Construct|[[LinkedRecursiveConstruct]]|Recursive feedback loops modulated through this Spec.|
+|Constant|[[Pi (constant)]]|Recursive invariant anchoring modulation thresholds.|
+|Model|[[PrimaryLinkedModel]]|Domain-specific realization structurally governed by this Spec.|
+|Property|[[LinkedProperty]]|Structural properties qualified or modulated by this Spec.|
+|Spec|[[AdjacentSpec]]|Other Specs interacting within recursive feedback chains.|
 
+---
 
 ## Notes
 
-- **Apparent Forms** may pass initial closure but fail under recursive depth evaluation — Specs must account for **nested stability checks**.
+- Specs must explicitly link to Ontologies, Constructs, Recursive Constructs, Constants, and Domain Models.
     
-- **Domain Manifestation**: The structural logic may vary in expression (physical resonance, cognitive coherence, systemic feedback), but retains formal consistency.
+- Specs encode **structural reasoning nodes** — operational logics enabling recursive stabilization, feedback modulation, and propagation control in ∆‑Theory.
     
-- Recursive Spec Chains: This Spec may participate in **recursive operator chains**, enabling dynamic stabilization or collapse detection across layers.
-
-
-## TODO (Optional)
-
-- Extend this Spec to composite difference structures or multi-form closures.
+- FeedbackOperator Specs formalize recursive feedback flows, including how Constants define modulation boundaries.
     
-- Define boundary conditions for stabilization thresholds in recursive systems.
-    
-- Visualize recursive closure dynamics and topological feedback loops.
-    
-- Generalize Spec variations across physics, cognition, and systems domains.
+- Specs are **recursive structural functions**, independent of empirical domain manifestations, yet essential for difference propagation integrity.
     

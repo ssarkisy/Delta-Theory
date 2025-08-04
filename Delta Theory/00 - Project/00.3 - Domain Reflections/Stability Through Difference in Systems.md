@@ -94,7 +94,7 @@ This note explains how **stability in dynamic systems (technical, biological, so
 
 |Type|Link|Purpose|
 |---|---|---|
-|Meta|[[Delta Theory Model as Tetrahedral Closure]]|Core structural closure logic applied to systems.|
+|Meta|[[Delta Theory Model as Ontomolecule Closure]]|Core structural closure logic applied to systems.|
 |Meta|[[Recursive Identity in Cognition]]|Identity loops in cognition as recursive difference propagations.|
 |Meta|[[Ontological Geometry of Difference]]|Foundational minimal structures (∆, Triangle, Tetrahedron).|
 |Meta|[[Complexity vs Compactness]]|Describes why systems scale through recursion, not ontology bloat.|

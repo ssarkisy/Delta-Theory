@@ -84,7 +84,7 @@ This note explains **why 3D objects in computer graphics are fundamentally const
 
 |Type|Link|Purpose|
 |---|---|---|
-|Meta|[[Delta Theory Model as Tetrahedral Closure]]|Defines the closure logic of Ontology ↔ Model chain.|
+|Meta|[[Delta Theory Model as Ontomolecule Closure]]|Defines the closure logic of Ontology ↔ Model chain.|
 |Meta|[[Ontological Geometry of Difference]]|Explains the foundational role of ∆, Triangle, and Tetrahedron.|
 |Meta|[[Complexity vs Compactness]]|Contrasts layered complexity with recursive structural minimalism.|
 |Meta|[[Ontology File Structure]]|Documents the hierarchical propagation of difference into structure.|
