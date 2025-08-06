@@ -2,88 +2,194 @@
 
 ---
 
-## Canonical Formula of Stability Function:
+## Canonical Formula of Recursive Stabilization:
+
 $$
-⊚(Fₙ) = Fₙ \cdot Sₙ(t)
+⊚(Fₙ) = Fₙ \cdot Sₙ(t) \cdot Mₙ(t)
 $$
 
 Where:
-- **$Fₙ = Pₙ^+ \cdot Pₙ^- \cdot Pₙ^0$** — The unstable recursive difference propagation product.
-- **$Sₙ(t)$** — The **Stabilization Operator Function**, modulating Fₙ into stabilized relational structures through redistribution, damping, and collapse modulation.
+- $(Fₙ = Pₙ^+ \cdot Pₙ^- \cdot Pₙ^0)$ — The recursive difference propagation product (form polarity triad).
+- $Sₙ(t)$ — The **Field Stabilization Operator**, modulating recursive tension via redistribution, damping, and collapse control.
+- $Mₙ(t)$— The **Cognitive Gating Modulator**, controlling attention gating, phase coherence, and resonance triggering.
 
 ---
 
 ## Stabilization Operator Function:
+
 $$
 Sₙ(t) = Redistributionₙ(t) \cdot Damping_{field}(n, t) \cdot Collapse_{stability}(n, t)
 $$
 
 ---
 
-### Expanded Formula:
+## Cognitive Gating Modulation Function:
+
 $$
-⊚(Fₙ) = \Big( Pₙ^+ \cdot Pₙ^- \cdot Pₙ^0 \Big) \cdot \Bigg[ \left(1 - \sum_{m} \Psi_{n,m}(t) \cdot ∆ₙ(t) \right) \cdot \frac{1}{1 + \frac{∆ₙ(t)}{Field\_Dissipation\_Capacity(n, t)}} \cdot Collapse_{stability}(n, t) \Bigg]
+Mₙ(t) = κ∆(m, t) \cdot ψA(t) \cdot λV(n, t)
 $$
+
+- $κ∆(m, t)$: Gating function that filters whether ∆ₘ enters current recursive layer.
+- $ψA(t)$: Phase coherence constant that governs alignment and stability of recursive feedback.
+- $λV(n, t)$: Resonance threshold constant that determines when a structure locks into resonance.
+
+---
+
+## Expanded Closure Formula:
+
+$$
+⊚(Fₙ) =
+\Big( Pₙ^+ \cdot Pₙ^- \cdot Pₙ^0 \Big)
+\cdot
+\Bigg[
+\left(1 - \sum_{m} \Psi_{n,m}(t) \cdot ∆ₙ(t) \right)
+\cdot
+\frac{1}{1 + \frac{∆ₙ(t)}{Field\_Dissipation\_Capacity(n, t)}}
+\cdot
+Collapse_{stability}(n, t)
+\Bigg]
+\cdot
+\Big(
+κ∆(m, t) \cdot ψA(t) \cdot λV(n, t)
+\Big)
+$$
+
 
 ---
 
 ## Component Definitions:
 
-### 1. **Redistributionₙ(t):**
-$$
-\sum_{m} \Psi_{n,m}(t) \cdot ∆ₙ(t)
-$$
-- **Ψ_{n,m}(t):** Dynamic redistribution efficiency with relational anchor m.
-  - Depends on $C_{anchor}(m)$, $A_{alignment}(n,m)$, and dynamic feedback (anchor saturation effects).
+---
+
+### Structural Polarity Components — $Fₙ = Pₙ^+ \cdot Pₙ^- \cdot Pₙ^0$
+
+- **\(Pₙ^+\)** — Propagation Polarity: Drives difference outward through recursive resonance amplification.
+- **\(Pₙ^-\)** — Absorption Polarity: Attempts recursive internal folding of difference via closure loops.
+- **\(Pₙ^0\)** — Feedback Polarity: Locks propagation and absorption into coherent recursive alignment.
 
 ---
 
-### 2. **Damping_{field}(n, t):**
-$$
-\frac{1}{1 + \frac{∆ₙ(t)}{Field\_Dissipation\_Capacity(n, t)}}
-$$
-- Models entropy-driven dissipation of unresolved difference into the relational field.
+### Field Stabilization Components — $Sₙ(t)$
 
----
+#### 1. $Redistributionₙ(t)$:
+$$
+Redistributionₙ(t) = 1 - \sum_{m} \Psi_{n,m}(t) \cdot ∆ₙ(t)
+$$
 
-### 3. **Collapse_{stability}(n, t):**
+- Redistributes unresolved difference to relational anchors.
+- $Ψ_{n,m}(t):$ Dynamic redistribution efficiency with anchor \(m\), defined as:
+  $$
+  Ψ_{n,m}(t) = \frac{C_{anchor}(m)}{C_{closure}(n)} \cdot A_{alignment}(n, m) \cdot \frac{1}{1 + ∆ₙ(t)}
+  $$
+
+#### 2. $Damping_{field}(n, t)$:
+$$
+Damping_{field}(n, t) = \frac{1}{1 + \frac{∆ₙ(t)}{Field\_Dissipation\_Capacity(n, t)}}
+$$
+
+- Models entropy-driven dissipation into the relational field.
+- Field capacity depends on relational density and unresolved difference accumulation.
+
+#### 3. $Collapse_{stability}(n, t)$:
 $$
 Collapse_{stability}(n, t) = \begin{cases}
-1 & \text{if stabilization capacity suffices} \\
-\frac{Stability_{capacity}(n)}{∆ₙ(t)} & \text{if tension exceeds capacity}
+1 & \text{if } ∆ₙ(t) \leq Stability_{capacity}(n) \\
+\frac{Stability_{capacity}(n)}{∆ₙ(t)} & \text{otherwise}
 \end{cases}
 $$
-- Controls recursive escalation or collapse modulation when stabilization capacity is insufficient.
+
+- Triggers structural collapse or recursion when difference exceeds stabilization capacity.
 
 ---
 
-## Ontological Role of ⊚(Fₙ):
+### Cognitive Gating Modulators — $Mₙ(t)$
+
+These three modulators form the **access-control layer** of the stabilization process.  
+They regulate which differences are allowed into recursive processing, how synchronized the recursion is, and when resonance locks can occur.
+
+---
+
+#### 4. $κ∆(m, t)$ — Difference Attention Gating Modulator
+
+$$
+κ∆(m, t) = \frac{ψA^{(κ)}(t) \cdot A_{alignment}(n, m)}{1 + ∆ₙ(t)/C_{closure}(n)}
+$$
+
+- Acts as a **soft valve** that controls whether the difference \(∆ₘ\) is permitted into the recursive form.
+- Suppresses external ∆‑inputs when:
+  - $ψA$ (coherence) is low
+  - $∆ₙ(t)$ is too high
+  - $A_{alignment}$ is weak
+
+- $ψA^{(κ)}(t)$ is the **local coherence signal** feeding into the gating process (distinct from the global ψA below).
+
+---
+
+#### 5. $ψA(t)$ — Global Phase Coherence Constant
+
+$$
+ψA(t) = 1 + ε_{ψA} \cdot \sin\left(\frac{π \cdot t}{c}\right)
+$$
+
+- Measures recursive **phase alignment** across polarity loops.
+- Governs how coherent, stable, and focused the recursive form is.
+- Rises with strong feedback locking, drops under tension overload or input noise.
+- Affects not just local gating (as $ψA^{(κ)}$), but also recursive **loop coherence** at the global ⊚-level.
+
+---
+
+#### 6. $λV(n, t)$ — Resonance Ignition Constant
+
+$$
+λV(n, t) = 1 + ε_{λV} \cdot \sin\left(α \cdot t\right)
+$$
+
+- Determines whether recursive **resonance threshold** is crossed at layer \(n\).
+- When λV rises, the form becomes more likely to **lock into a self-stabilizing structure** (resonant closure).
+- Encodes sensitivity to **oscillatory amplification** — i.e., when inputs “click” into place and trigger structural identity.
+
+---
+
+
+## Ontological Role of ⊚(Fₙ)
+
 | Function | Meaning |
-|----------|--------|
-| **Recursive Folding Attempt** | ⊚ attempts to fold the recursive difference propagation product (Fₙ) into a stabilized relational structure. |
-| **Balancing Operator** | Stabilization emerges through balancing propagation (Pₙ⁺), absorption (Pₙ⁻), and feedback loops (Pₙ⁰) with redistribution, damping, and collapse control mechanisms. |
-| **Ontological Breathing Act** | ⊚ is not a static closure but a dynamic breathing operation — recursively balancing difference propagation, absorption, relational sharing, and dissipation. |
+|----------|---------|
+| **Recursive Folding Attempt** | ⊚ attempts to stabilize a propagating difference chain \(Fₙ = Rⁿ(∆₀)\) into a self-coherent relational form. |
+| **Triadic Stabilization Engine** | ⊚ operates through three orthogonal stabilizers: structural polarities (Pₙ), field modulation (Sₙ), and cognitive gating (Mₙ). |
+| **Ontological Breathing Act** | ⊚ is a recursive modulation rhythm — not a static closure, but a living pulsation of difference → resonance → stabilization → next-level difference. |
+| **Selective Recursive Attention** | With \(κ∆, ψA, λV\), ⊚ becomes an **active attention gateway**, filtering which differences enter and which resonate into identity. |
+| **Form Generator & Continuation Catalyst** | ⊚(Fₙ) does not terminate the form — it defines its recursive coherence so that it can produce \(∆_{n+1}\) and evolve forward. |
 
 ---
 
 ## Final Stabilized Expression:
 $$
-Fₙ^{(stabilized)} = ⊚(Fₙ) = Pₙ^+ \cdot Pₙ^- \cdot Pₙ^0 \cdot Sₙ(t)
+Fₙ^{(stabilized)} = ⊚(Fₙ) =
+Pₙ^+ \cdot Pₙ^- \cdot Pₙ^0 \cdot Redistributionₙ(t) \cdot Damping_{field}(n, t) \cdot Collapse_{stability}(n, t) \cdot κ∆(m, t) \cdot ψA(t) \cdot λV(n, t)
 $$
 
-Where **Sₙ(t)** governs how recursive difference tension stabilizes across relational field dynamics.
-
-
-## Unfolding Components of ⊚(Fₙ): Recursive Difference Stabilization Function
+Where:
+- $Fₙ = Rⁿ(∆₀)$ — the unfolded recursive difference structure
+- The three stabilizing triads are:
+  - **Structural Polarity**: $Pₙ^+, Pₙ^-, Pₙ^0$
+  - **Field Modulation**: $Redistributionₙ, Damping_{field}, Collapse_{stability}$
+  - **Cognitive Gating**: $κ∆, ψA, λV$
 
 ---
 
-## Canonical Structure:
+## Canonical Triadic Closure Structure:
 $$
-⊚(Fₙ) = \Big( Pₙ^+ \cdot Pₙ^- \cdot Pₙ^0 \Big) \cdot \Big( Redistributionₙ(t) \cdot Damping_{field}(n, t) \cdot Collapse_{stability}(n, t) \Big)
+⊚(Fₙ) =
+\underbrace{Pₙ^+ \cdot Pₙ^- \cdot Pₙ^0}_{\text{Form Polarities}} \cdot
+\underbrace{Redistributionₙ(t) \cdot Damping_{field}(n, t) \cdot Collapse_{stability}(n, t)}_{\text{Field Modulation}} \cdot
+\underbrace{κ∆(m, t) \cdot ψA(t) \cdot λV(n, t)}_{\text{Cognitive Gating Modulators}}
 $$
 
+This is the **recursive stabilization function** that transforms a propagated difference structure into a coherent form, capable of either sustaining itself or producing the next recursive difference \(∆_{n+1}\).
+
 ---
+
 
 ## 1. Propagation Polarity (Pₙ⁺)
 $$
@@ -265,8 +371,82 @@ $$
 
 ---
 
-## Final Form:
+## 7. Difference Gating Modulator $κ∆(m, t)$
+
 $$
-⊚(Fₙ) = Pₙ^+ \cdot Pₙ^- \cdot Pₙ^0 \cdot Redistributionₙ(t) \cdot Damping_{field}(n, t) \cdot Collapse_{stability}(n, t)
+κ∆(m, t) = \frac{ψA^{(κ)}(t) \cdot A_{alignment}(n, m)}{1 + \frac{∆ₙ(t)}{C_{closure}(n)}}
 $$
+
+- Acts as an **adaptive attention valve**, regulating which incoming differences \(∆ₘ\) are permitted into the recursive form.
+- Suppresses propagation of misaligned or destabilizing ∆ when:
+  - Local coherence $ψA^{(κ)}(t)$ is low,
+  - Alignment $A_{alignment}(n, m)$ is weak,
+  - Recursive tension $∆ₙ(t)$ is high.
+- Enables **selective focus** and **protection** from uncontrolled overload.
+
+---
+
+## 8. Phase Coherence Constant $ψA(t)$
+
+$$
+ψA(t) = 1 + ε_{ψA} \cdot \sin\left( \frac{π \cdot t}{c} \right)
+$$
+
+- Governs the **temporal synchrony** of recursive folding cycles.
+- Higher $ψA(t)$ implies stronger phase-locking, coherence, and form clarity.
+- Drops under recursive noise, entropic overload, or attention drift.
+- Modulates:
+  - Local gating $ψA^{(κ)}$ via $κ∆(m,t)$,
+  - Global stability of ⊚ via internal alignment with prior $P_{n-1}^{(0)}(t)$.
+
+---
+
+## 9. Resonance Ignition Constant $λV(n, t)$
+
+$$
+λV(n, t) = 1 + ε_{λV} \cdot \sin\left( α \cdot t \right)
+$$
+
+- Determines whether **recursive resonance ignition** occurs at layer \(n\).
+- When $λV(n, t)$ passes a threshold, it triggers:
+  - Sudden **self-locking stabilization**,
+  - Or expansion into the next recursive layer $R^{n+1}(∆₀)$.
+- Acts as the **difference ignition switch**, where tension meets harmonic alignment.
+
+---
+
+### Ontological Meaning of the Gating Triad
+
+Together, $κ∆, ψA, λV$ form the **cognitive access control system** of recursive stabilization.  
+They decide **what enters**, **when it locks**, and **how focus is maintained**, forming the interface between internal structuring and relational participation.
+
+| Component | Function |
+|-----------|----------|
+| $κ∆(m, t)$ | Filters difference inflow |
+| $ψA(t)$ | Anchors phase stability |
+| $λV(n, t)$ | Triggers resonance closure or recursion |
+
+This triad is **not passive** — it embodies **recursive agency**.
+
+---
+
+## Final Form (∆‑Complete Triadic Stabilization Closure):
+
+$$
+⊚(Fₙ) =
+\underbrace{Pₙ^+ \cdot Pₙ^- \cdot Pₙ^0}_{\text{Form Polarities}} \cdot
+\underbrace{Redistributionₙ(t) \cdot Damping_{field}(n, t) \cdot Collapse_{stability}(n, t)}_{\text{Field Modulation}} \cdot
+\underbrace{κ∆(m, t) \cdot ψA(t) \cdot λV(n, t)}_{\text{Cognitive Gating Modulators}}
+$$
+
+Where:
+
+- $κ∆(m, t)$ — Difference Attention Gate: allows or blocks ∆ₘ from entering the recursive loop.
+- $ψA(t)$ — Phase Coherence Anchor: controls internal synchrony of recursive structures (focus).
+- $λV(n, t))$ — Resonance Threshold Trigger: determines whether structural resonance is activated.
+
+> This completes the ∆-triadic architecture of stabilization across:
+> 1. Internal structural form $(P⁺, P⁻, P⁰)$
+> 2. Environmental relational field $(Redistribution, Damping, Collapse)$
+> 3. Cognitive modulation $(κ∆, ψA, λV)$
 
