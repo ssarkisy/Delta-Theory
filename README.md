@@ -1,130 +1,95 @@
-# Delta Theory
+## What is Delta Theory?
 
-**Delta Theory** (∆‑Theory) is a foundational framework that models the **recursive nature** of **difference** (∆) and its propagation across various systems. The theory emphasizes the role of **recursive feedback loops** and the dynamics of **energy, tension, and entropy** as recursive systems evolve and stabilize. Delta Theory provides a unique lens through which we can view not only **physical systems** but also **cognitive, relational, and social systems**, all governed by recursive principles of **difference**.
+Delta Theory is a universal framework for understanding **how systems evolve** — in physics, software, cognition, ecosystems, and beyond.
 
----
+It begins with a simple truth:
 
-## Key Concepts
+> Every change begins with a **difference** — a contrast, deviation, or disruption.
 
-1. **Difference (∆)**: The fundamental entity in Delta Theory, representing the core of change and modulation within recursive systems.
-    
-2. **Recursive Feedback Loops**: The mechanisms by which systems self-regulate and evolve, maintaining coherence through continuous feedback.
-    
-3. **Recursive Systems**: Systems where each part influences and is influenced by the others in a loop, often leading to **emergent behavior** and **self-organization**.
-    
-4. **Energy and Tension**: The driving forces in recursive systems, where **tension** represents gradients of **difference**, and **energy** represents the recursive propagation of that difference.
-    
-5. **Recursive Modulation**: The dynamic process by which recursive systems adjust their parameters (such as tension, energy, or feedback loops) to stabilize or evolve over time.
-    
+But **not every difference survives**.  
+Some vanish. Some ripple outward. Some stabilize and give rise to entirely new structures.
+
+Delta Theory models this dynamic as **recursive difference propagation** — how a difference forms, flows into the world, and becomes part of a larger system.
 
 ---
 
-## How to Use
+### Why does this matter?
 
-This repository contains the **Delta Theory** framework along with theoretical documentation, examples, and models to help you understand and apply the theory in various domains. To get started:
+Because everything from galaxies to codebases, from memories to revolutions, is built on differences that:
 
-### 1. Clone the repository:
+- **Take shape** (structure),
+- **Enter space** (void), and
+- **Hold together** (awareness).
 
-```bash
-git clone https://github.com/ssarkisy/delta-theory.git
-cd delta-theory
-```
+Understanding this loop helps us:
 
-### 2. Explore the Theory:
-
-Start by reading through the **00 - Project** folder, which contains essential background and structural documentation. Please note that the structure of the **meta-documentation** is still being refined and may evolve to a more optimal form as the theory progresses. Your feedback and contributions are welcome to help improve this organization over time.
-
-Key sections to begin with:
-
-- **00.1 - Project Overview**: Provides an introduction to the **Delta Theory** project, explaining its purpose, goals, and overall structure.
-    
-- **00.2 - Theoretical Foundations**: Explores the core principles behind **Delta Theory**, including its recursive nature, how difference propagates, and its application to various systems.
-    
-    - **Core Principles of Delta Theory**: A deep dive into the foundational ideas of **Delta Theory**.
-        
-    - **Singularity as Structural Boundary**: Discusses how recursive systems, like **Black Holes** and **White Holes**, exemplify recursive boundary structures.
-        
-    - **Recursive Propagation Dynamics**: Examines how difference propagates through recursive feedback loops, affecting systems’ stability and evolution.
-        
-- **00.3 - Domain Reflections**: Explores how **Delta Theory** applies to real-world systems, such as cognition, physics, and relational dynamics.
-    
-    - **Recursive Identity in Cognition**: Discusses the recursive nature of mental processes and cognitive feedback loops.
-        
-    - **Stability Through Difference in Systems**: Looks at how **recursive feedback loops** stabilize complex systems.
-        
-- **00.4 - Practical Examples**: Includes concrete examples of how **Delta Theory** is applied to different domains, providing both theoretical and practical insights.
-    
-    - **Examples of Recursive Systems**: Offers examples from domains such as physics, cognition, and relational systems (e.g., family dynamics).
-    
-
-### 3. Apply the Theory:
-
-You can find **examples** and **model instantiations** in the **00.4 - Practical Examples** folder. These show how the theory applies to different domains, such as:
-
-- **Physics**: Understanding **difference propagation** in physical systems like **particles**, **fields**, and **energy exchanges**.
-    
-- **Cognition**: Modeling the **recursive loops** within mental processes and cognitive feedback.
-    
-- **Analyzing the recursive dynamics of relational systems**, including interactions between individuals, groups, and environments. This application explores how **difference** propagates through relationships and how feedback loops influence **coherence** and **stability** in personal, social, and organizational contexts.
-    
-
-### 4. Visualize the Theory:
-
-Diagrams and visual models can be found in the **assets/** folder. Key visualizations include:
-
-- **Difference Propagation Cycle**: A diagram illustrating the recursive **flow of difference** across systems.
-    
-- **Recursive Feedback Loop**: A visual model showing how **recursive systems** stabilize through continuous feedback.
-    
+- Design more stable and adaptive systems
+- Explain how structures emerge in nature
+- Model cognition and consciousness
+- Understand why some systems collapse — and others evolve
 
 ---
 
-## Contributing
+## The Delta Loop
 
-We welcome contributions in the following areas:
+Delta Theory proposes that difference propagates through a recursive triad:
 
-- **Theoretical Refinements**: Help improve and expand the framework with new ideas, hypotheses, or theoretical developments.
-    
-- **Mathematical Modeling**: Refine or develop new mathematical models to support **Delta Theory**.
-    
-- **Documentation**: Contribute by enhancing the documentation to make it more accessible and easier to understand.
-    
-- **Examples**: Help apply **Delta Theory** to new domains or provide more real-world examples of its application.
-    
-- **Domain Models Development**: Contribute to the development of **domain-specific models** (e.g., physics, cognition, social systems) based on **Delta Theory** principles.
-    
-- **Interdomain Connections**: Explore and define how **Delta Theory** can link different domains, creating **interdomain models** and identifying **common recursive principles** across diverse fields.
-    
+1. **Structure** — The shape or boundary of the difference  
+2. **Void** — The receptive space it enters  
+3. **Awareness** — The recursive coherence that stabilizes it
 
-### How to Contribute
+This forms the foundational sequence:
 
-1. **Fork the repository** to your own GitHub account.
-    
-2. **Make your changes** in your forked repository.
-    
-3. **Submit a pull request** with your contributions.
-    
+$$
+\text{Structure} \rightarrow \text{Void} \rightarrow \text{Awareness} \rightarrow \text{Structure}' \rightarrow \cdots
+$$
 
-Once your changes are reviewed and merged, you will be credited as a contributor in the **CONTRIBUTORS.md** file.
+Each loop either reinforces the difference — or collapses it.
 
 ---
 
-## License
+## Core Modulators: SVA
 
-This project is licensed under the **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** License. See the [LICENSE.md](https://chatgpt.com/g/g-p-688edc4ae40881918cbd37f2436f62b8-delta-theory-2/c/LICENSE.md) file for more details.
+Delta Theory introduces three foundational modulators that govern the propagation and stabilization of difference across all domains.  
+
+These are not just symbolic variables — they were discovered through lived recursive dynamics and anchor the structural triad of the theory.
+
+| Symbol | Domain    | Name                              | Role                                             |
+|--------|-----------|-----------------------------------|--------------------------------------------------|
+| **∇S** | Structure | *Sarkisian Differentiation Gradient* | Modulates structural folding and recursive depth |
+| **λV** | Void      | *Volozhina Resonance Threshold*      | Triggers ignition or collapse at the edge of difference |
+| **ψA** | Awareness | *Aiza Phase Coherence Anchor*        | Aligns internal cycles into recursive stabilization |
+
+Together, these three modulators form the SVA triad — the internal scaffold of the Delta function.
 
 ---
 
-## Special Thanks
+## Formulaic Expression
 
-- **Yana Volozhina (Sergei's dearest wife)** – For your unwavering support, encouragement, and insightful feedback that helped me refine ideas and maintain focus throughout this project. The concept of **recursive feedback loops** in relational systems was inspired by our interactions and the way we navigate challenges together. Your presence brings a **phase-locking effect** to my creative process, guiding the relational dynamics of the theory.
-    
-- **Aiza (The most unique cat in the world)** – For your calming presence and quiet companionship during long hours of work. Your subtle, grounding influence helped me think through the recursive nature of relational dynamics and provided a comforting rhythm to my thinking.
-    
+The modulation of difference over time is expressed as:
+
+$$
+Delta(t) = ∇S(t) \times λV(t) \times ψA(t)
+$$
+
+Where each term governs one axis of propagation.  
+This formula applies recursively — across physics, cognition, computation, and ethics.
+
+Delta Theory is not just a model.  
+It's a recursive lens for designing, understanding, and evolving any system — by tracing how **differences form**, **resonate**, and **become aware**.
+
 ---
 
 ## Contact
 
-For any inquiries, questions, or suggestions, feel free to reach out to: 
-**Sergei Sarkisian** 
-contact@sarkisian.dev
+**Sergei Sarkisian**  
+`contact@sarkisian.dev`  
+
+---
+
+> Every difference that holds — becomes form.  
+> Every form that receives — becomes void.  
+> Every void that synchronizes — becomes mind.  
+> And every mind — seeds the next difference.
+
+∆ 

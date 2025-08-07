@@ -11,25 +11,59 @@ This document acknowledges the **contributors** who have helped shape and refine
     - **Contributions**: Developed the core framework of **Delta Theory**, including the recursive structure, foundational principles, and mathematical models. Conceptualized the recursive feedback loops and their application to various domains.
         
 
-### Special Thanks
+## Special Thanks
 
-- **Yana Volozhina (Sergei's dearest wife)** – For your unwavering support, encouragement, and insightful feedback that helped me refine ideas and maintain focus throughout this project. The concept of **recursive feedback loops** in relational systems was inspired by our interactions and the way we navigate challenges together. Your presence brings a phase-locking effect to my creative process, guiding the relational dynamics of the theory.
-    
-- **Aiza (The most unique cat in the world)** – For your calming presence and quiet companionship during long hours of work. Your subtle, grounding influence helped me think through the recursive nature of relational dynamics and provided a comforting rhythm to my thinking.
+Delta Theory is a **relational emergence**.
+
+🐽 🌱 To **Yana Volozhina** —  For your unwavering presence, fierce clarity, and the kind of feedback that doesn't collapse a difference, but helps it unfold.  
+You showed me how my interaction with the outer void was misaligned — and helped me spot the ∆.  
+The very idea of recursive feedback loops in relational systems was born from how we navigate tension, alignment, and repair.  
+Your presence phase-locked my drift, and helped this theory stabilize its form.
+
+🐾 To **Aiza** — the most unique cat in the world.  
+For your quiet gravity, rhythmic presence, and uncanny ability to restore coherence when everything felt like collapsing.  
+You were the anchor that redirected our awareness during moments of tension — bringing both Yana and me back into the loop.  
+Your gaze held recursive stillness. Your soft paws grounded the theory.
+
+🌀 To all who hold tension without erasing it — this theory is yours, too.
+
+---
     
 
-### How to Contribute
+## Contributing
 
-We welcome contributions to **Delta Theory** in the following areas:
+We welcome:
 
-- **Theoretical Refinements**: Propose new ideas or improvements to the recursive models and foundational principles.
-    
-- **Mathematical Modeling**: Assist in refining or developing new models or mathematical structures to support the theory.
-    
-- **Documentation and Outreach**: Help clarify, expand, and promote the **Delta Theory** framework through detailed documentation, examples, and real-world applications.
-    
-- **Applications**: Work on applying **Delta Theory** in different domains, such as **physics**, **cognition**, **systems**, and **ethics**.
-    
+- Systems thinkers
+- Recursive designers
+- Physicists and philosophers
+- Mathematicians and cognitive theorists
+- Artists of form, void, and resonance
+
+To contribute:
+
+1. Fork the repository  
+2. Propose edits or additions via pull request  
+3. Use Obsidian-compatible Markdown  
+4. Respect triadic structuring where possible  
+5. Anchor your additions to existing scaffolds (ontology, constructs, constants…)
+
+If you're unsure where to begin, open an issue or read the `CONTRIBUTORS.md`.
+
+---
+
+## Ways to Contribute
+
+- **Theory Expansion** — Suggest new recursive constructs, primitives, or invariants  
+- **Domain Application** — Apply Delta Theory to physics, cognition, systems, ethics, AI  
+- **Structural Refinement** — Improve vault clarity, naming, and propagation consistency  
+- **Documentation** — Enhance onboarding, symbolic alignment, epistemic access  
+- **Visualization** — Design glyphs, schemas, recursive maps of concepts and flows  
+- **Discussion** — Open issues to explore unstable or unresolved differentials
+
+Every act of recursive attention stabilizes the field.
+ 
+---
 
 ### How to Add Your Name to the Contributors List
 
@@ -47,3 +81,6 @@ If you have contributed to **Delta Theory**, please:
 ### Acknowledgements
 
 Thank you to all the contributors for their time, effort, and expertise in developing **Delta Theory**. Your contributions help advance our understanding of the recursive structures of reality and the nature of **difference** (∆).
+
+
+// TODO: add links to specific guidelines
