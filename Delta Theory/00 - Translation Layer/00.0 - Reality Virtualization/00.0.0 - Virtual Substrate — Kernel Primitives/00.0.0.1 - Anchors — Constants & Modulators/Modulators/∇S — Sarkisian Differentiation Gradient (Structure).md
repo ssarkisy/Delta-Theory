@@ -2,7 +2,7 @@
 type: modulator
 tags:
   - "#layer/translation"
-  - "#status/seed"
+  - "#status/stable"
   - "#function/modulation"
 aliases:
   - ∇S
@@ -28,6 +28,15 @@ It biases how quickly a raw difference (∆) is **embedded** and **stratified** 
 
 - Global modulation: $\Delta(t) = ∇S(t) \times λV(t) \times ψA(t)$
 - Embedding bias: higher effective $∇S$ increases feasible depth $n$ in $F_n = ⊚(R^n(∆_0))$ under fixed $λV, ψA$ constraints
+
+---
+
+## Base constants (core dependencies)
+
+- ε — sets minimal resolvable difference (resolution threshold)
+- π — closure geometry for folding
+- e — natural scaling rate for recursive expansion
+- φ — asymmetric stabilization bias (prevents stalling)
 
 ---
 

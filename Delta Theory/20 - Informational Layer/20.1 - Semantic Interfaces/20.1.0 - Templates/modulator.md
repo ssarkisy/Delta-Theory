@@ -51,6 +51,13 @@ uid: <uuid>
 
 ---
 
+## Base constants (core dependencies)
+
+- List the conceptual anchors this modulator relies on (from ε, π, e, φ, c)
+- Brief “why” per anchor (one line each)
+
+---
+
 ## Role in the loop
 
 - Where: Structure / Void / Awareness

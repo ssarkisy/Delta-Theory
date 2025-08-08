@@ -2,7 +2,7 @@
 type: modulator
 tags:
   - "#layer/translation"
-  - "#status/seed"
+  - "#status/stable"
   - "#function/modulation"
 aliases:
   - ψA
@@ -28,6 +28,14 @@ retention needed for patterns to persist beyond a single interaction window.
 
 - Global modulation: $\Delta(t) = ∇S(t) \times λV(t) \times ψA(t)$
 - Identity persistence: higher effective $ψA$ increases probability of $F_{n+1}$ given $F_n$ under fixed $∇S, λV$
+
+---
+
+## Base constants (core dependencies)
+
+- ε — phase resolution limit for synchronization
+- π — cyclic/phase geometry of coherence loops
+- c — bound on maximum synchronization speed through the field
 
 ---
 

@@ -2,7 +2,7 @@
 type: modulator
 tags:
   - "#layer/translation"
-  - "#status/seed"
+  - "#status/stable"
   - "#function/modulation"
 aliases:
   - λV
@@ -28,6 +28,14 @@ will spark propagation vs be absorbed. In practice, λV shapes backpressure, sat
 
 - Global modulation: $\Delta(t) = ∇S(t) \times λV(t) \times ψA(t)$
 - Gate semantics: for input signal $x$, propagation requires $x \geq λV$ under available $ψA$ and $∇S$ support
+
+---
+
+## Base constants (core dependencies)
+
+- ε — minimal signal to engage the field
+- φ — imbalance tolerance for ignition vs damping
+- c — propagation ceiling for resonance through the field
 
 ---
 
