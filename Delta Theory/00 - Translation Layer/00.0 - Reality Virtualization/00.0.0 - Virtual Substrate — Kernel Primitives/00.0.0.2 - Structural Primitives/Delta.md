@@ -42,13 +42,13 @@ $$
 
 ---
 
-## Conditions / Invariants
+## Axioms & Derived invariants
 
-- Irreducibility — cannot be decomposed without loss of distinction
-- Generativity — every structure ultimately originates in stabilizable ∆
-- Asymmetry — ∆(A, B) ≠ ∆(B, A)
-- NonNumerical — encodes qualitative contrast, not merely quantity
-- Recursivity — participates in recursive embeddings enabling layered complexity
+- [[A1 — Irreducibility (axiom)]] — ∆ cannot be decomposed without loss of distinction
+- [[A2 — Asymmetry (axiom)]] — ∆(A, B) ≠ ∆(B, A) in general
+- [[A3 — Recursivity (axiom)]] — ∆ participates in recursive embeddings enabling layered complexity
+- Derived: Generativity — stable structures ultimately originate in stabilizable ∆ (from A1 + A3)
+- Definition-level: NonNumerical — ∆ encodes qualitative contrast; quantities arise via embedding/measurement
 
 ---
 
