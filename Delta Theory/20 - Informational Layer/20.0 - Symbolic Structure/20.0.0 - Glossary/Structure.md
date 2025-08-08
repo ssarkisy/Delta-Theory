@@ -87,4 +87,6 @@ $$
 - [[Field]]
 - [[Void]]
 - [[Closure]]
-- [[∇S — Sarkisian Differentiation Gradient]]
+- [[∇S — Sarkisian Differentiation Gradient (Structure)]]
+- [[λV — Volozhina Resonance Threshold (Void)]]
+- [[ψA — Aiza Phase Coherence Anchor (Awareness)]]

@@ -1,3 +1,0 @@
-- **05 - Axioms (meta-structural principles)**    
-- For defining core ontological axioms, recursive closure axioms, and meta-coherence laws.    
-- These are different from Theorems — they declare **first-principles** assumptions in your scaffold.

@@ -102,5 +102,8 @@ Keep network as primary; add quick analogies in other domains.
 
 ## See Also
 
-- [[Field]] · [[Void]] · [[Structure]] · [[Awareness]]
+- [[Field]]
+- [[Void]]
+- [[Structure]]
+- [[Awareness]]
 - Closely related primitives/interfaces (inline links)

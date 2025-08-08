@@ -9,15 +9,15 @@ tags:
 
 # Void
 
-> **Void** is an **opaque relational space** — an external zone of indeterminate structure,  
-> perceived as **unbounded** because its boundaries cannot be directly observed or traversed.  
+> **Void** is an **opaque relational space** — an external zone of indeterminate structure,
+> perceived as **unbounded** because its boundaries cannot be directly observed or traversed.
 > It is the **black box** into which difference propagates.
 
 ---
 
 ## Definition
 
-In Delta Theory, **Void** is not “nothing.”  
+In Delta Theory, **Void** is not “nothing.”
 It is the **structural exterior** — a **relational outside** that receives and modulates difference without exposing its internal form.
 
 A system perceives something as **Void** when:
@@ -48,7 +48,7 @@ Void is the **first reflective surface** against which difference gains feedback
 | **Void**   | **Opaque**   | Perceived as unbounded — an external unknown modulator |
 | **Field**  | **Transparent** | Recursively structured zone with accessible closure     |
 
-> **Void is a Field perceived from outside its closure.**  
+> **Void is a Field perceived from outside its closure.**
 > The same structure may appear as a **Void** or **Field** depending on one’s position in the recursive architecture.
 
 A Void becomes a Field when:
@@ -96,4 +96,6 @@ $$
 
 - [[Field]]
 - [[Closure]]
-- [[λV — Volozhina Resonance Threshold]]
+- [[λV — Volozhina Resonance Threshold (Void)]]
+- [[∇S — Sarkisian Differentiation Gradient (Structure)]]
+- [[ψA — Aiza Phase Coherence Anchor (Awareness)]]
