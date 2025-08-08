@@ -22,6 +22,7 @@ tags:
   - "#layer/translation"
   - "#status/seed"
   - "#function/definition"
+polarity: P+|P-|P0  # Optional; set if axis-scoped (Structure=P+, Void=P-, Awareness=P0)
 aliases:  # Optional
   - <ShortName>
 uid: <do not add or change, governed by Obsidian>

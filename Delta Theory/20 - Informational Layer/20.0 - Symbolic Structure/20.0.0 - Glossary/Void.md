@@ -4,10 +4,11 @@ tags:
   - "#layer/translation"
   - "#status/stable"
   - "#function/definition"
+polarity: P-
 uid: 1ec18a16-0186-4f57-b6c9-5e1a85a5269f
 ---
 
-# Void
+# Void (P-)
 
 > **Void** is an **opaque relational space** — an external zone of indeterminate structure,
 > perceived as **unbounded** because its boundaries cannot be directly observed or traversed.

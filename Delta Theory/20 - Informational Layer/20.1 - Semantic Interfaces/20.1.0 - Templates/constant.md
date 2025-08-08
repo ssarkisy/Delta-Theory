@@ -22,6 +22,7 @@ tags:
   - "#layer/translation"   # authoring location; still an anchor type
   - "#status/seed"
   - "#function/definition"
+polarity: P+|P-|P0  # Optional; set if this constant is axis-skewed (most are neutral)
 aliases:  # Optional
   - <Symbol>
 uid: <do not add or change, governed by Obsidian>

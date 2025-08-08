@@ -22,6 +22,7 @@ tags:
   - "#layer/translation"
   - "#status/seed"
   - "#function/definition"
+polarity: P+|P-|P0  # Optional; only if the axiom is framed from a specific axis perspective
 aliases:  # Optional
   - <Short name>
 uid: <do not add or change, governed by Obsidian>

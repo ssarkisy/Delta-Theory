@@ -4,12 +4,13 @@ tags:
   - "#layer/translation"
   - "#status/stable"
   - "#function/definition"
+polarity: P+
 aliases:
   - Structures
 uid: e5748318-ad19-431c-8244-576e067bf2a2
 ---
 
-# Structure
+# Structure (P+)
 
 > **Structure** is the **boundary-forming pattern of difference** — the closure that gives shape to propagation, making it **locally coherent, addressable, and interactable** within a Field.
 

@@ -22,6 +22,7 @@ tags:
   - "#layer/translation"   # authoring location for anchors
   - "#status/seed"
   - "#function/modulation"
+polarity: P+|P-|P0  # Required for SVA; Structure=P+, Void=P-, Awareness=P0
 aliases:  # Optional
   - <Symbol>
 uid: <do not add or change, governed by Obsidian>

@@ -7,20 +7,20 @@ tags:
 uid: 4ff94bbc-7697-4281-85ce-5de4ad2683c4
 ---
 
-# Tag Guidelines for Delta Theory  
+# Tag Guidelines for Delta Theory
 > Tags as recursive diagnostics — seeing ∆ through structure, phase, and role
 
 ---
 
 ## Why Tags Exist
 
-In Delta Theory, **tags are not cosmetic**.  
+In Delta Theory, **tags are not cosmetic**.
 They serve as **recursive overlays** for:
 
-- Navigating the vault via Obsidian’s graph view  
-- Diagnosing propagation status of each note  
-- Categorizing notes by their recursive **layer**, **phase**, and **function**  
-- Enabling future indexing, search, and filtering via tools like Dataview  
+- Navigating the vault via Obsidian’s graph view
+- Diagnosing propagation status of each note
+- Categorizing notes by their recursive **layer**, **phase**, and **function**
+- Enabling future indexing, search, and filtering via tools like Dataview
 
 Tags are **the visible echo of the invisible structure**.
 
@@ -40,7 +40,7 @@ Delta Theory uses **9 core tags**, distributed across **3 dimensions**:
 
 ## Canonical Tag Set (3 × 3)
 
-### Status Tags (`#status/…`)  
+### Status Tags (`#status/…`)
 > Represent a note’s **temporal phase** in recursive stabilization
 
 | Tag                  | Description |
@@ -49,18 +49,18 @@ Delta Theory uses **9 core tags**, distributed across **3 dimensions**:
 | `#status/unstable`   | Actively evolving; major ideas or structures still changing |
 | `#status/stable`     | Recursive modulation has slowed below threshold `ε_note` (see below) |
 
-> Stability is not finality.  
-> A note is stable when its change rate is low enough to be self-sustaining.  
+> Stability is not finality.
+> A note is stable when its change rate is low enough to be self-sustaining.
 
 **By default**, a note becomes `stable` if:
-- It hasn’t been modified for **21+ days**,  
-- AND no active issues or open questions remain.  
+- It hasn’t been modified for **21+ days**,
+- AND no active issues or open questions remain.
 
 This reflects recursive **damping**: when external difference has been absorbed into internal coherence.
 
 ---
 
-### Layer Tags (`#layer/…`)  
+### Layer Tags (`#layer/…`)
 > Represent the structural position of a note within the recursive architecture
 
 | Tag                      | Meaning |
@@ -71,7 +71,7 @@ This reflects recursive **damping**: when external difference has been absorbed 
 
 ---
 
-### Function Tags (`#function/…`)  
+### Function Tags (`#function/…`)
 > Represent what kind of recursive action this note performs
 
 | Tag                        | Meaning |
@@ -84,9 +84,9 @@ This reflects recursive **damping**: when external difference has been absorbed 
 
 ## Usage Guidelines
 
-- Apply **3 tags** per note  
-- Use one tag from each axis (`status/`, `layer/`, `function/`)  
-- Do not duplicate YAML fields (`type:`, `domain:`) as tags  
+- Apply **3 tags** per note
+- Use one tag from each axis (`status/`, `layer/`, `function/`)
+- Do not duplicate YAML fields (`type:`, `domain:`) as tags
 - Use tags for **graph clarity** and **system-level diagnostics**
 
 ---
@@ -103,9 +103,9 @@ This reflects recursive **damping**: when external difference has been absorbed 
 
 ## Tags vs YAML Fields
 
-- YAML contains **full structured metadata**  
-- Tags are **graph-exposed signals**  
-- Tags may **subset** fields (e.g. type, status, layer) for graph clarity  
+- YAML contains **full structured metadata**
+- Tags are **graph-exposed signals**
+- Tags may **subset** fields (e.g. type, status, layer) for graph clarity
 
 > **All tags are fields, but not all fields are tags.**
 
@@ -113,10 +113,11 @@ This reflects recursive **damping**: when external difference has been absorbed 
 
 ## Future Tag Dimensions (Experimental)
 
-As the system evolves, new recursive axes may be added:
+As the system evolves, new recursive axes may be added. Polarity is now standardized as a YAML field with optional tags:
 
-- `#polarity/+`, `#polarity/–`, `#polarity/0`  
-- `#anchor/root`, `#anchor/link`, `#anchor/interface`  
+- YAML field (canonical): `polarity: P+|P-|P0` (Structure=P+, Void=P-, Awareness=P0)
+- Optional tags (for graph filters): `#polarity/P+`, `#polarity/P-`, `#polarity/P0`
+- `#anchor/root`, `#anchor/link`, `#anchor/interface`
 - `#subsystem/physics`, `#subsystem/ontology`, etc.
 
 ---
@@ -125,8 +126,8 @@ As the system evolves, new recursive axes may be added:
 
 Tags in Delta Theory serve as **recursive overlays**, aligning:
 
-- **Structure**: `#status/…`  
-- **Void**: `#layer/…`  
-- **Awareness**: `#function/…`  
+- **Structure**: `#status/…`
+- **Void**: `#layer/…`
+- **Awareness**: `#function/…`
 
-They let the system visualize its own propagation state.  They are not just labels. 
+They let the system visualize its own propagation state.  They are not just labels.

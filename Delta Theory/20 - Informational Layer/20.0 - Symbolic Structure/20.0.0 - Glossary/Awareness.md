@@ -4,13 +4,14 @@ tags:
   - "#layer/translation"
   - "#status/stable"
   - "#function/definition"
+polarity: P0
 aliases:
   - Coherence
   - Phase Coherence
 uid: 5e267a43-e0e1-4ce0-83b7-22e0731420de
 ---
 
-# Awareness
+# Awareness (P0)
 
 > **Awareness** is the **recursive coherence of a system** — the capacity of a Field to **synchronize** and **retain identity across loops**, stabilizing structural patterns over time.
 

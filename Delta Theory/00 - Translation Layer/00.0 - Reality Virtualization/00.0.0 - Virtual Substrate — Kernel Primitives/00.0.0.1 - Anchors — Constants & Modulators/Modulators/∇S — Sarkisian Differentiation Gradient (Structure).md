@@ -4,6 +4,7 @@ tags:
   - "#layer/translation"
   - "#status/stable"
   - "#function/modulation"
+polarity: P+
 aliases:
   - ∇S
   - Sarkisian Differentiation Gradient
