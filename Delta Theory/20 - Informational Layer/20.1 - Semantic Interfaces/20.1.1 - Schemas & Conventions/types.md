@@ -4,16 +4,17 @@ tags:
   - "#layer/information"
   - "#status/stable"
   - "#function/definition"
+uid: 281b88b1-0025-4b80-9383-9694ff0dbab8
 ---
 
-# Note Types in Delta Theory  
+# Note Types in Delta Theory
 > Canonical type system for recursive structuring, propagation, and reflection
 
 ---
 
 ## Purpose
 
-This note defines the **canonical set of note types** used across the Delta Theory repository.  
+This note defines the **canonical set of note types** used across the Delta Theory repository.
 Each type reflects a **specific modulation role** in the recursive system, grounded in the three structural layers:
 
 - **Translation Layer** — defines and bridges structural primitives
@@ -30,16 +31,16 @@ Additionally, two **Anchor Types** sit outside recursion, forming the ontologica
 
 | Type     | Description |
 |----------|-------------|
-| `meta`   | Note about system structure, architecture, or propagation logic |
+| `axiom`  | Foundational ontological truth (e.g., Difference precedes Form) |
 
 ---
 
 ### 2. Anchor Layer
 
-| Type      | Description |
-|-----------|-------------|
-| `axiom`   | Foundational ontological truth (e.g. Difference precedes Form) |
-| `constant`| Recursive structural invariant (e.g. π, ∇S, ψA) |
+| Type        | Description |
+|-------------|-------------|
+| `constant`  | Numeric/ratio invariant (e.g., π, e, φ) — not modulators |
+| `modulator` | Canonical modulation anchors (SVA triad: ∇S, λV, ψA) |
 
 ---
 
@@ -47,21 +48,21 @@ Additionally, two **Anchor Types** sit outside recursion, forming the ontologica
 
 | Type        | Description |
 |-------------|-------------|
-| `primitive` | Core metaphysical distinction (e.g. Field, Closure, Delta) |
-| `interface` | Functional link between primitives (e.g. PhaseLockLoop) |
-| `bridge`    | Domain concept mapped into recursive structure (e.g. Force, Voltage) |
+| `primitive` | Core metaphysical distinction (e.g., Field, Closure, Delta) |
+| `interface` | Functional link between primitives (e.g., PhaseLockLoop) |
+| `bridge`    | Domain concept mapped into recursive structure (e.g., Force, Voltage) |
 
 ---
 
 ### 4. Implementation Layer (Void)
 
-| Type        | Description |
-|-------------|-------------|
-| `module`    | Executable recursive unit (e.g. Construct, Identity Loop) |
-| `stream`    | Directed difference propagation (e.g. DeltaFlux) |
-| `seed`      | Minimal recursive stabilizer (e.g. microkernel) |
-| `protocol`  | Coordination logic across modules (e.g. Synchronization) |
-| `modulator` | Recursive regulator of dynamics (e.g. ψA, λV, ∇S) |
+| Type         | Description |
+|--------------|-------------|
+| `module`     | Executable recursive unit (e.g., Construct, Identity Loop) |
+| `stream`     | Directed difference propagation (stream construct) |
+| `seed`       | Minimal recursive stabilizer (e.g., microkernel) |
+| `protocol`   | Coordination logic across modules (e.g., Synchronization) |
+| `controller` | Concrete mechanism that enacts modulation (implements ∇S/λV/ψA behavior) |
 
 ---
 
@@ -69,11 +70,11 @@ Additionally, two **Anchor Types** sit outside recursion, forming the ontologica
 
 | Type         | Description |
 |--------------|-------------|
+| `meta`       | System-level observation: structure, architecture, propagation logic |
 | `glossary`   | Canonical concept definition with aliases |
 | `index`      | Structural or conceptual folder map |
 | `log`        | Change trace or history |
 | `styleguide` | Design, naming, and formatting rules |
-| `reflexion`  | Philosophical or metacognitive insight |
 | `access`     | Query or link aggregation interface |
 | `semantic`   | Metadata schema, tag definition, ontological markup |
 
@@ -83,7 +84,7 @@ Additionally, two **Anchor Types** sit outside recursion, forming the ontologica
 
 The type system follows a recursive prime-sequence:
 
-- 1 core meta type
+- 1 core axiom type
 - 2 anchor types
 - 3 translation types
 - 5 implementation types
@@ -97,6 +98,7 @@ This enables **minimal complexity with maximal propagation coherence** — a pri
 
 - Every note **must** include a `type:` field in the YAML frontmatter.
 - The type determines its **linking logic**, **graph visibility**, and **propagation role**.
+- Stability is governed by tags: use `#status/seed`, `#status/unstable`, or `#status/stable` as appropriate.
 
 ---
 

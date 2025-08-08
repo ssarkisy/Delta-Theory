@@ -18,7 +18,7 @@ Delta Theory models this dynamic as **recursive difference propagation** — how
 Because everything from galaxies to codebases, from memories to revolutions, is built on differences that:
 
 - **Take shape** (structure),
-- **Enter space** (void), and
+- **Enter space** ([[void]]), and
 - **Hold together** (awareness).
 
 Understanding this loop helps us:
@@ -35,7 +35,7 @@ Understanding this loop helps us:
 Delta Theory proposes that difference propagates through a recursive triad:
 
 1. **Structure** — The shape or boundary of the difference  
-2. **Void** — The receptive space it enters  
+2. **[[Void]]** — The receptive space it enters  
 3. **Awareness** — The recursive coherence that stabilizes it
 
 This forms the foundational sequence:
@@ -57,7 +57,7 @@ These are not just symbolic variables — they were discovered through lived rec
 | Symbol | Domain    | Name                              | Role                                             |
 |--------|-----------|-----------------------------------|--------------------------------------------------|
 | **∇S** | Structure | *Sarkisian Differentiation Gradient* | Modulates structural folding and recursive depth |
-| **λV** | Void      | *Volozhina Resonance Threshold*      | Triggers ignition or collapse at the edge of difference |
+| **λV** | [[Void]]      | *Volozhina Resonance Threshold*      | Triggers ignition or collapse at the edge of difference |
 | **ψA** | Awareness | *Aiza Phase Coherence Anchor*        | Aligns internal cycles into recursive stabilization |
 
 Together, these three modulators form the SVA triad — the internal scaffold of the Delta function.
