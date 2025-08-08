@@ -6,7 +6,7 @@ tags:
   - "#function/definition"
 aliases:
   - Difference Propagation Limit
-uid: 91ca9750-1740-45b4-a4f7-48d1ee79ca24
+uid: 4011b781-8766-4219-aca5-6c3afd6c923b
 ---
 
 # c — Difference Propagation Limit (constant)

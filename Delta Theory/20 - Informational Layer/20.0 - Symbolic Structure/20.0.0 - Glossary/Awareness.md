@@ -1,5 +1,4 @@
 ---
-uid: 9274a14c-2e87-422e-b838-f68bad8d8d01
 type: glossary
 tags:
   - "#layer/translation"
@@ -8,6 +7,7 @@ tags:
 aliases:
   - Coherence
   - Phase Coherence
+uid: 5e267a43-e0e1-4ce0-83b7-22e0731420de
 ---
 
 # Awareness

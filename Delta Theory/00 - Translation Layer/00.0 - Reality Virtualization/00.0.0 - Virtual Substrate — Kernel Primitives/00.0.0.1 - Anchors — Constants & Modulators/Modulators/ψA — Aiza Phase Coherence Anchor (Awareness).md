@@ -7,7 +7,7 @@ tags:
 aliases:
   - ψA
   - Aiza Phase Coherence Anchor
-uid: 43510216-8a6c-491f-adc8-1543713c0384
+uid: 0984a0ca-9fa5-4b21-9344-e1e496718acf
 ---
 
 # ψA — Aiza Phase Coherence Anchor (Awareness)

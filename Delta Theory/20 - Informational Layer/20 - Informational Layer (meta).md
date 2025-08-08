@@ -4,6 +4,7 @@ tags:
   - "#layer/information"
   - "#status/stable"
   - "#function/observation"
+uid: cc411800-3e72-49b7-8937-d45516574478
 ---
 
 # 20 - Informational Layer (meta)

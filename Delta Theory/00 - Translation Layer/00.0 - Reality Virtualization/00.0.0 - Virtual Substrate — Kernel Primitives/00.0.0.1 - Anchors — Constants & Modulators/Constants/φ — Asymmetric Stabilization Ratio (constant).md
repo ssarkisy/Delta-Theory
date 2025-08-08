@@ -5,10 +5,8 @@ tags:
   - "#status/stable"
   - "#function/definition"
 aliases:
-  - φ
-  - Golden Ratio
   - Asymmetric Stabilization Ratio
-uid: 23f2a1c9-209f-4864-b4dc-d0cf66e850d3
+uid: c627b2e7-947f-4105-b62d-f2df3304ddd7
 ---
 
 # φ — Asymmetric Stabilization Ratio (constant)

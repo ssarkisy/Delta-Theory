@@ -1,13 +1,13 @@
 ---
-uid: 9a9f6e02-1c56-4e77-8b2d-8c0df62f4fd1
 type: primitive
 tags:
   - "#layer/translation"
-  - "#status/seed"
+  - "#status/stable"
   - "#function/definition"
 aliases:
   - ∆
   - Primitive Difference
+uid: 90830de9-1af5-4647-99cf-2d6dcc66128e
 ---
 
 # Delta (Primitive Difference)
@@ -19,6 +19,13 @@ aliases:
 ## Definition
 
 ∆ is not a magnitude or object. It is the **minimal difference event** from which relational embedding and stabilization proceed.
+
+---
+
+## Clarification (terminology)
+
+- We use the word “difference”, not “signal” or “event”. Treating ∆ as signals/events suggests there can be two “same” signals/events.
+- Two identical differences cannot exist as separate items: the identity of a difference is tied to its relational context. If context is the same, it is the same difference; if context differs, the differences are not the same.
 
 ---
 

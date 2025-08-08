@@ -1,10 +1,10 @@
 ---
-uid: 270331f3-22da-407a-bcdc-e5f8f2525f1b
 type: glossary
 tags:
   - "#layer/translation"
   - "#status/stable"
   - "#function/definition"
+uid: 1ec18a16-0186-4f57-b6c9-5e1a85a5269f
 ---
 
 # Void

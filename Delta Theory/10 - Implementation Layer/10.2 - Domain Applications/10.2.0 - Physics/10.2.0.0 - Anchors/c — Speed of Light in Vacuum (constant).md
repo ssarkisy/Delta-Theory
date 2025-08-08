@@ -7,7 +7,8 @@ tags:
 aliases:
   - c
   - Speed of Light
-uid: 91ca9750-1740-45b4-a4f7-48d1ee79ca24
+  - Difference Propagation Limit (physics)
+uid: 825dc60c-01cb-4441-a835-310a5338ec63
 ---
 
 # c — Maximum Propagation Speed (physics: speed of light) (constant)

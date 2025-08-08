@@ -8,7 +8,7 @@ aliases:
   - ε
   - Epsilon
   - Difference Resolution Quantum
-uid: 3882e5f8-85c2-4217-a35d-08dfc695e081
+uid: 9674da67-0a64-4c15-9a1b-03ad3ed550c7
 ---
 
 # ε — Difference Resolution Quantum (constant)

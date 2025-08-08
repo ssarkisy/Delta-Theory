@@ -6,7 +6,7 @@ tags:
   - "#function/definition"
 aliases:
   - Asymmetry
-uid: 9e1d2c3b-4a5f-6e7d-8c9b-0a1b2c3d4e5f
+uid: e02c11de-4361-43b6-8bda-e480d2b5daa2
 ---
 
 # A2 — Asymmetry (axiom)

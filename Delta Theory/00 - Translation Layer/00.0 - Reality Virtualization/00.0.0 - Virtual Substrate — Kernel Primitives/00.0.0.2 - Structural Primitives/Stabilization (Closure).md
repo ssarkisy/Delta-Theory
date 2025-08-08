@@ -1,14 +1,14 @@
 ---
-uid: c3e9c7d1-5c24-49b7-9d35-3b88f6d1c0a2
 type: primitive
 tags:
   - "#layer/translation"
-  - "#status/seed"
+  - "#status/stable"
   - "#function/definition"
 aliases:
   - ⊚
-  - Closure
   - Stabilization
+  - Closure (operation)
+uid: 7e1f82b4-5dd8-4b6c-a199-71fa9766f884
 ---
 
 # Stabilization (Closure) — ⊚

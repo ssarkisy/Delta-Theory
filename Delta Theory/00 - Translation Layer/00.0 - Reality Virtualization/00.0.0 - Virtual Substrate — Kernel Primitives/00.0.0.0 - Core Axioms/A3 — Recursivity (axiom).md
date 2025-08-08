@@ -6,7 +6,7 @@ tags:
   - "#function/definition"
 aliases:
   - Recursivity
-uid: 2f3e4d5c-6b7a-4891-8c0d-1e2f3a4b5c6d
+uid: 9c1ef92c-d31d-4923-803b-95f0fb6689a0
 ---
 
 # A3 — Recursivity (axiom)

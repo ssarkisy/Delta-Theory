@@ -4,7 +4,7 @@ tags:
   - "#layer/information"
   - "#status/stable"
   - "#function/observation"
-uid: c5a3a2c1-2d8d-4d04-9c7a-8b6a21e1d9f0
+uid: 2e82b896-6a12-4abe-9653-ea4de2bc2613
 ---
 
 # Constant (template)
@@ -24,7 +24,7 @@ tags:
   - "#function/definition"
 aliases:  # Optional
   - <Symbol>
-uid: <uuid>
+uid: <do not add or change, governed by Obsidian>
 ---
 ```
 

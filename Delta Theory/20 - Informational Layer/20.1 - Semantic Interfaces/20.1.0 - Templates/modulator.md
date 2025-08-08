@@ -4,7 +4,7 @@ tags:
   - "#layer/information"
   - "#status/stable"
   - "#function/observation"
-uid: 5b9c3a61-2e41-4a6b-8b0f-8a9a5a3f2e10
+uid: 47f6f8e0-d58a-43d6-a515-9141c8521f98
 ---
 
 # Modulator (template)
@@ -24,7 +24,7 @@ tags:
   - "#function/modulation"
 aliases:  # Optional
   - <Symbol>
-uid: <uuid>
+uid: <do not add or change, governed by Obsidian>
 ---
 ```
 

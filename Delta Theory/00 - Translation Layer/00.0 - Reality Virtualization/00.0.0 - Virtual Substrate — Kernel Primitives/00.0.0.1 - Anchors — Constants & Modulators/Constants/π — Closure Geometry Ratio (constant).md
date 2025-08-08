@@ -5,10 +5,8 @@ tags:
   - "#status/stable"
   - "#function/definition"
 aliases:
-  - π
-  - Pi
   - Closure Geometry Ratio
-uid: f847af6d-f3b9-41b7-896e-6063f26b7ecb
+uid: 0f53726c-8aa1-4487-9f53-0586270267e2
 ---
 
 # π — Closure Geometry Ratio (constant)

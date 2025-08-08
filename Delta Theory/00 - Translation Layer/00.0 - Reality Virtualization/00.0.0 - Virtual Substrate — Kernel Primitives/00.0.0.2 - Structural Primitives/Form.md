@@ -1,18 +1,18 @@
 ---
-uid: 3f6a1b2c-7d8e-4a1c-9b3f-2e4d5f6a7b8c
-type: primitive
+type: interface
 tags:
   - "#layer/translation"
-  - "#status/seed"
+  - "#status/stable"
   - "#function/definition"
 aliases:
   - F
   - Form
+uid: 42e36e3b-2787-4c62-a354-1868e105ed56
 ---
 
 # Form (F)
 
-> **Form** is the **stabilized configuration of embedded difference** — a coherent unit capable of persistence and interaction.
+> Interface for module: stabilized configuration of embedded difference (output of $⊚(R(·))$) — a coherent unit capable of persistence and interaction.
 
 ---
 

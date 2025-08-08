@@ -7,7 +7,7 @@ tags:
 aliases:
   - λV
   - Volozhina Resonance Threshold
-uid: 55a9ea81-3fa6-4561-9a2f-04758a661ce6
+uid: f49c2064-2655-480e-8f90-9b49af0f8b28
 ---
 
 # λV — Volozhina Resonance Threshold (Void)

@@ -7,7 +7,7 @@ tags:
 aliases:
   - ħ
   - Reduced Planck Constant
-uid: 6f7a5c3d-1e2b-4a6f-9c8d-0b1a2c3d4e5f
+uid: 2990b54e-94ce-474d-ab0c-a795ce507360
 ---
 
 # ħ — Reduced Planck Constant (constant)

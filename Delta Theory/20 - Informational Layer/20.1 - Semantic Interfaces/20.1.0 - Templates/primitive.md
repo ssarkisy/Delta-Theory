@@ -4,7 +4,7 @@ tags:
   - "#layer/information"
   - "#status/stable"
   - "#function/observation"
-uid: 680357ff-f639-4fea-b5bb-ccd087e997b1
+uid: ae9945a5-1814-4a69-8d88-e68715a3bd24
 ---
 
 # Primitive (template)
@@ -24,6 +24,7 @@ tags:
   - "#function/definition"
 aliases:  # Optional
   - <ShortName>
+uid: <do not add or change, governed by Obsidian>
 ---
 ```
 

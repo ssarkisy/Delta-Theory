@@ -7,7 +7,7 @@ tags:
 aliases:
   - k_B
   - Boltzmann Constant
-uid: 5e4d3c2b-1a0f-4c6e-8d9b-0a1b2c3d4e5f
+uid: 5d6d70b3-605b-48bc-a0bc-b3976b8cbbc5
 ---
 
 # k_B — Boltzmann Constant (constant)

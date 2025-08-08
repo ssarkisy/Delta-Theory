@@ -8,7 +8,7 @@ aliases:
   - α
   - Alpha
   - Fine-Structure Constant
-uid: 7397ce56-6f28-4908-8dc9-33153652ef40
+uid: 70eb398b-72a8-4896-beb3-184f6dcce7f4
 ---
 
 # α — Fine-Structure Constant (constant)

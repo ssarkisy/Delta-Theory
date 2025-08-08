@@ -1,5 +1,4 @@
 ---
-uid: baf87916-97b2-410a-a108-8c9a0ef0862f
 type: glossary
 tags:
   - "#layer/translation"
@@ -7,6 +6,7 @@ tags:
   - "#function/definition"
 aliases:
   - Structures
+uid: e5748318-ad19-431c-8244-576e067bf2a2
 ---
 
 # Structure

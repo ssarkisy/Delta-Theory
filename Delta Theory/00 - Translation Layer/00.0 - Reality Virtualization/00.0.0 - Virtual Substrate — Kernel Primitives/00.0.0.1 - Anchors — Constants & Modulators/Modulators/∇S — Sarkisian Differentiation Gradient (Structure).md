@@ -7,7 +7,7 @@ tags:
 aliases:
   - ∇S
   - Sarkisian Differentiation Gradient
-uid: 8ce5cb99-f86b-4ab6-bbe4-c71b9aa53bfa
+uid: ceb7e5ad-fed2-4bdf-a59e-d157636d5c2a
 ---
 
 # ∇S — Sarkisian Differentiation Gradient (Structure)

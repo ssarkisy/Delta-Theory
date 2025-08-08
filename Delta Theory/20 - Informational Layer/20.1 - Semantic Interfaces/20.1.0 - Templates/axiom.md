@@ -4,7 +4,7 @@ tags:
   - "#layer/information"
   - "#status/stable"
   - "#function/observation"
-uid: 3a5f2d1b-6f21-4b41-8c5e-6b3a1a6c0f90
+uid: 73fd4ba4-31bf-4e87-98b1-db3b50e5fa01
 ---
 
 # Axiom (template)
@@ -24,7 +24,7 @@ tags:
   - "#function/definition"
 aliases:  # Optional
   - <Short name>
-uid: <uuid>
+uid: <do not add or change, governed by Obsidian>
 ---
 ```
 

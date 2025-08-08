@@ -7,7 +7,8 @@ tags:
 aliases:
   - π
   - Pi
-uid: 3c1a8c4a-3b3d-4f8a-9e10-7d2b5c6a1f90
+  - Circle Constant
+uid: 2609a770-2095-4655-a306-c9e342fa51e0
 ---
 
 # π — Circle Constant (constant)

@@ -1,13 +1,13 @@
 ---
-uid: 1f6d8b92-6a7d-4e3f-9a8b-2e92a7f3f0af
 type: primitive
 tags:
   - "#layer/translation"
-  - "#status/seed"
+  - "#status/stable"
   - "#function/definition"
 aliases:
   - R(·)
   - Relational Embedding
+uid: d7d145bc-b05a-40cc-aa7a-b71c11ebf3e7
 ---
 
 # Relational Embedding — R(·)

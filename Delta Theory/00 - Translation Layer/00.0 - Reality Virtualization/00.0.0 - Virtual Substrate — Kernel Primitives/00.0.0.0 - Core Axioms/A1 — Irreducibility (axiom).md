@@ -6,7 +6,7 @@ tags:
   - "#function/definition"
 aliases:
   - Irreducibility
-uid: 7c2c1a3f-5b7e-4c6d-9a1e-0b2c3d4e5f6a
+uid: 40ffcd37-0c39-4529-91a4-2de5158fbc10
 ---
 
 # A1 — Irreducibility (axiom)

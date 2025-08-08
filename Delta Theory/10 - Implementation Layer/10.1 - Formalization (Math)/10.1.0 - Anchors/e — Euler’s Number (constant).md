@@ -7,7 +7,8 @@ tags:
 aliases:
   - e
   - Euler’s Number
-uid: 4b0e5a1c-0d3c-4a2f-9a7e-2b6c5d1a3f8e
+  - Natural Transformation Rate (math)
+uid: db0dcc9c-aaf5-4dac-8f5c-617c42e4c993
 ---
 
 # e — Euler’s Number (constant)

@@ -6,7 +6,7 @@ tags:
   - "#function/definition"
 aliases:
   - Natural Transformation Rate
-uid: 21ed6009-8d6b-4c86-9477-b3afee371fd7
+uid: 67732fb5-d46c-4f54-a6db-b9a38fbfa073
 ---
 
 # e — Natural Transformation Rate (constant)
