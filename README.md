@@ -1,16 +1,3 @@
-## Obsidian Setup
-
-This vault is designed to work out‑of‑the‑box in Obsidian (no required plugins).
-
-1) Install Obsidian (local‑first): `https://obsidian.md`
-2) Open repository as the vault folder.
-3) Recommended core features:
-   - Graph view for navigating S/V/A links
-   - Backlinks pane for recursive traceability
-   - File explorer for the dot‑decimal structure
-
-Notes use YAML fields (`type`, `tags`, optional `polarity`) and internal wikilinks. Unique IDs are not required; avoid custom plugins to keep the kernel portable.
-
 ## What is Delta Theory?
 
 Delta Theory is a universal framework for understanding **how systems evolve** — in physics, software, cognition, ecosystems, and beyond.
@@ -92,6 +79,33 @@ Delta Theory is not just a model.
 It's a recursive lens for designing, understanding, and evolving any system — by tracing how **differences form**, **resonate**, and **become aware**.
 
 ---
+
+## Obsidian Setup
+
+This vault is designed to work out‑of‑the‑box in Obsidian (no required plugins).
+
+1) Install Obsidian (local‑first): `https://obsidian.md`
+2) Open repository as the vault folder.
+3) Recommended core features:
+   - Graph view for navigating S/V/A links
+   - Backlinks pane for recursive traceability
+   - File explorer for the dot‑decimal structure
+
+Notes use YAML fields (`type`, `tags`, optional `polarity`) and internal wikilinks. Unique IDs are not required; avoid custom plugins to keep the kernel portable.
+
+### Attachments
+
+Recommended Obsidian setting: store new attachments in a subfolder next to the current file.
+- Settings → Files & Links → Default location for new attachments → "In subfolder next to current file"
+- Subfolder name: `_assets`
+
+Policy:
+- Default: keep note‑specific assets in `./_assets/` beside the note (portable, refactor‑safe)
+- Shared/reusable: place in `Delta Theory/90 - Assets/` and link vault‑relative
+- Name files with the note slug prefix (e.g., `delta-ontomolecule-diagram-v1.svg`)
+- Keep diagram source with export (e.g., `.drawio` + `.svg`) in the same folder
+
+See the full styleguide: [[assets]].
 
 ## Contact
 

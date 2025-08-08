@@ -66,10 +66,15 @@ $$
 
 ---
 
-## Cross-domain examples
+## Domain Mapping
 
-- Human interactions / society: first “hello” or unexpected message
-- Money / economy: noticing a cheaper price elsewhere
+- Physics: symmetry break or fluctuation that seeds a new phase/path
+- Chemistry: a reactive site encounters a compatible partner (activation begins)
+- Biology: a novel stimulus triggers a signaling pathway
+- Social: first “hello” or unexpected message
+- Economy: noticing a cheaper price elsewhere
+- Politics: a new agenda item disrupts status quo alignment
+- Networks: a configuration change introduces a new route/peer
 - Cognition: a surprising sound grabs attention
 
 ---

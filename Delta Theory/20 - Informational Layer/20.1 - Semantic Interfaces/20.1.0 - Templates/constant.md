@@ -99,6 +99,6 @@ aliases:  # Optional
 ## See Also
 
 - Related constants
-- [[∇S — Sarkisian Differentiation Gradient (Structure)]]
-- [[λV — Volozhina Resonance Threshold (Void)]]
-- [[ψA — Aiza Phase Coherence Anchor (Awareness)]]
+- [[∇S — Structure Differentiation Gradient (Sarkisian)]]
+- [[λV — Void Resonance Threshold (Volozhina)]]
+- [[ψA — Awareness Phase Coherence Anchor (Aiza)]]

@@ -8,9 +8,10 @@ polarity: P-
 aliases:
   - λV
   - Volozhina Resonance Threshold
+  - Void Resonance Threshold
 ---
 
-# λV — Volozhina Resonance Threshold (Void)
+# λV — Void Resonance Threshold (Volozhina)
 
 > Void‑facing modulator that sets the **receptivity/ignition threshold** at interfaces.
 > Decides whether incoming difference is **amplified**, **passed through**, or **damped/collapses**.
@@ -70,10 +71,15 @@ Three rows reflect S/V/A perspectives of the same modulator.
 
 ---
 
-## Cross-domain examples
+## Domain Mapping
 
-- Human interactions / society: decide when to reply or engage; minimal effort to join a group
-- Money / economy: minimum order size; collateral/margin requirements
+- Physics: ignition thresholds; percolation onset
+- Chemistry: activation energy; catalyst lowers λV equivalent
+- Biology: sensory threshold; receptor activation curves
+- Social: decide when to reply or engage; minimal effort to join a group
+- Economy: minimum order size; collateral/margin requirements
+- Politics: quorum rules; legislative thresholds
+- Networks: rate limits; circuit breakers
 - Cognition: stimulus must exceed notice threshold to enter awareness
 
 ---

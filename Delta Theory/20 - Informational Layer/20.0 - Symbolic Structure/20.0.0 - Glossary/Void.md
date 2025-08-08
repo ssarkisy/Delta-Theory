@@ -51,6 +51,15 @@ Void is the **first reflective surface** against which difference gains feedback
 > **Void is a Field perceived from outside its closure.**
 > The same structure may appear as a **Void** or **Field** depending on one’s position in the recursive architecture.
 
+### Observer-scale note (cosmic)
+
+Even if local interfaces are open (Field), the universe at large can remain Void‑like to us because:
+- Causal horizons (speed‑of‑propagation and finite age) bound access
+- Cosmological expansion/curvature produce permanent opacity beyond some scale
+- Resolution/capacity limits (ε, bandwidth) yield indistinguishability at distance (saturation)
+- Finite coherence windows (ψA) block phase‑locking across very long loops
+- Interface gating (λV) prevents traversal/discovery from our position
+
 A Void becomes a Field when:
 - Its **interface becomes transparent**
 - Its **internal difference structures are recursively accessible**
@@ -96,6 +105,6 @@ $$
 
 - [[Field]]
 - [[Closure]]
-- [[λV — Volozhina Resonance Threshold (Void)]]
-- [[∇S — Sarkisian Differentiation Gradient (Structure)]]
-- [[ψA — Aiza Phase Coherence Anchor (Awareness)]]
+- [[λV — Void Resonance Threshold (Volozhina)]]
+- [[∇S — Structure Differentiation Gradient (Sarkisian)]]
+- [[ψA — Awareness Phase Coherence Anchor (Aiza)]]

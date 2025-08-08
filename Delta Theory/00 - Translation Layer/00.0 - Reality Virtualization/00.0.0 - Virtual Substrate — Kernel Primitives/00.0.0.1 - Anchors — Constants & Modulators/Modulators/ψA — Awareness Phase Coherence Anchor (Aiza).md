@@ -8,9 +8,10 @@ polarity: P0
 aliases:
   - ψA
   - Aiza Phase Coherence Anchor
+  - Awareness Phase Coherence Anchor
 ---
 
-# ψA — Aiza Phase Coherence Anchor (Awareness)
+# ψA — Awareness Phase Coherence Anchor (Aiza)
 
 > Awareness‑facing modulator that **synchronizes cycles** and **retains identity** across loops.
 > Binds structure through time so Forms remain coherent under perturbation.
@@ -70,10 +71,15 @@ Three rows reflect S/V/A perspectives of the same modulator.
 
 ---
 
-## Cross-domain examples
+## Domain Mapping
 
-- Human interactions / society: show up consistently; shared routines keep ties strong
-- Money / economy: rollover/renewal keeps positions/contracts alive
+- Physics: phase locking; coherence length maintained
+- Chemistry: oscillating reactions synchronized (e.g., BZ reaction)
+- Biology: circadian and neural rhythm synchronization
+- Social: show up consistently; shared routines keep ties strong
+- Economy: rollover/renewal keeps positions/contracts alive
+- Politics: coalition discipline; message cadence coherence
+- Networks: clock sync (NTP/PTP); consensus steady state
 - Cognition: spaced repetition and sleep consolidate memory
 
 ---

@@ -86,10 +86,15 @@ Three rows reflect S/V/A perspectives of the same modulator.
 
 ---
 
-## Cross-domain examples
+## Domain Mapping
 
-- Human interactions / society: <short, concrete>
-- Money / economy: <short, concrete>
+- Physics: <short, concrete>
+- Chemistry: <short, concrete>
+- Biology: <short, concrete>
+- Social: <short, concrete>
+- Economy: <short, concrete>
+- Politics: <short, concrete>
+- Networks: <short, concrete>
 - Cognition: <short, concrete>
 
 ---

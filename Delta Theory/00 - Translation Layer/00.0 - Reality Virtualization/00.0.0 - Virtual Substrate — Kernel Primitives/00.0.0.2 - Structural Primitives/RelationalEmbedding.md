@@ -56,10 +56,15 @@ $$
 
 ---
 
-## Cross-domain examples
+## Domain Mapping
 
-- Human interactions / society: mutual friends/shared group give context
-- Money / economy: which exchange/broker/payment rail you use
+- Physics: potential landscape/topology guiding feasible paths
+- Chemistry: reaction environment (solvent, pH) enabling/limiting closure
+- Biology: tissue/organ context shaping signal fate
+- Social: mutual friends/shared group give context
+- Economy: which exchange/broker/payment rail you use
+- Politics: institutional pathways and committees determine feasibility
+- Networks: AS topology and policy constraints shape routes
 - Cognition: where the sound fits (place/time); related memories
 
 ---

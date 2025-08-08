@@ -85,7 +85,7 @@ Domain instantiations:
 - [[e — Natural Transformation Rate (constant)]]
 - [[φ — Asymmetric Stabilization Ratio (constant)]]
 - [[c — Difference Propagation Limit (constant)]]
-- [[∇S — Sarkisian Differentiation Gradient (Structure)]]
-- [[λV — Volozhina Resonance Threshold (Void)]]
-- [[ψA — Aiza Phase Coherence Anchor (Awareness)]]
+- [[∇S — Structure Differentiation Gradient (Sarkisian)]]
+- [[λV — Void Resonance Threshold (Volozhina)]]
+- [[ψA — Awareness Phase Coherence Anchor (Aiza)]]
 

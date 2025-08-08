@@ -13,8 +13,8 @@ tags:
 |                   | **Structure (P⁺)** – *Form-making* | **Void (P⁻)** – *Environment/Field*           | **Awareness (P⁰)** – *Cognitive*                                             |
 | ----------------- | ---------------------------------- | --------------------------------------------- | ---------------------------------------------------------------------------- |
 | **Formation**     | $P_n^+$ – outward creation         | $\text{Redistribution}_n(t)$ – flow balancing | $\kappa_\Delta(m,t)$ – selective gating                                      |
-| **Stabilization** | $P_n^-$ – inward folding           | $\text{Damping}_n(t)$ – entropy absorption    | [[ψA — Aiza Phase Coherence Anchor (Awareness)\|ψA]] $(t)$ – phase alignment |
-| **Ignition**      | $P_n^0$ – feedback closure         | $\text{Collapse}_n(t)$ – reformation trigger  | [[λV — Volozhina Resonance Threshold (Void)\|λV]] $(t)$ – resonance ignition |
+| **Stabilization** | $P_n^-$ – inward folding           | $\text{Damping}_n(t)$ – entropy absorption    | [[ψA — Awareness Phase Coherence Anchor (Aiza)\|ψA]] $(t)$ – phase alignment |
+| **Ignition**      | $P_n^0$ – feedback closure         | $\text{Collapse}_n(t)$ – reformation trigger  | [[λV — Void Resonance Threshold (Volozhina)\|λV]] $(t)$ – resonance ignition |
 This matrix expresses how [[Structure]], [[Void]], and [[Awareness]] interact across three functional layers:
 - Formation layer → initiating qualities
 - Stabilization layer → sustaining qualities
@@ -24,7 +24,7 @@ This matrix expresses how [[Structure]], [[Void]], and [[Awareness]] interact ac
 
 ## 2. Constants as Ontological Anchors
 
-Conceptual names for the constants used in generating the three modulators ([[∇S — Sarkisian Differentiation Gradient (Structure)|∇S]] – structure, [[λV — Volozhina Resonance Threshold (Void)|λV]] – void, [[ψA — Aiza Phase Coherence Anchor (Awareness)|ψA]] – awareness):
+Conceptual names for the constants used in generating the three modulators ([[∇S — Structure Differentiation Gradient (Sarkisian)|∇S]] – structure, [[λV — Void Resonance Threshold (Volozhina)|λV]] – void, [[ψA — Awareness Phase Coherence Anchor (Aiza)|ψA]] – awareness):
 
 | Symbol | Conceptual Name                                                                   | Role in Modulators                                                  |
 | ------ | --------------------------------------------------------------------------------- | ------------------------------------------------------------------- |

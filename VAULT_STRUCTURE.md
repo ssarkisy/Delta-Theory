@@ -1,7 +1,7 @@
-# VAULT_STRUCTURE  
+# VAULT_STRUCTURE
 > Delta Theory Vault — Recursive Knowledge Architecture
 
-This repository is structured as a **recursive vault** — a layered knowledge kernel designed to propagate difference (`∆`) across domains.  
+This repository is structured as a **recursive vault** — a layered knowledge kernel designed to propagate difference (`∆`) across domains.
 The structure itself reflects the internal ontology of Delta Theory: every part of the vault **mirrors** the recursive triad that defines the theory.
 
 ---
@@ -46,11 +46,11 @@ Delta Theory/
 This vault is not just a folder system — it is a **living recursive kernel**:
 
 - **Structure Layer (`00`)**: Encodes the difference and its formal interface with domains
-    
+
 - **Void Layer (`10`)**: Propagates and modulates that difference recursively
-    
+
 - **Awareness Layer (`20`)**: Reflects and stabilizes difference via symbolic access
-    
+
 
 This recursive system **enables propagation**, not just storage.
 
@@ -61,19 +61,30 @@ This recursive system **enables propagation**, not just storage.
 To keep the vault stable and traceable:
 
 1. Respect triadic recursion (no unanchored folders)
-    
+
 2. If adding a new concept, determine:
-    
+
     - What layer it belongs to (Structure / Void / Awareness)
-        
+
     - What role it plays (primitive, function, modulation, interface, etc.)
-        
+
 3. All files should use **Obsidian-compatible Markdown**
-    
+
 4. Use internal links (`[[Like This]]`) to connect notes
-    
+
 5. See [[README.md]]  and [[CONTRIBUTORS.md]] for more
-    
+## Assets
+
+Attachments follow two placement modes:
+
+- Per‑note assets: store next to the note in a subfolder named `_assets/` (Obsidian setting: Default location for new attachments → "In subfolder next to current file").
+- Shared assets: use `Delta Theory/90 - Assets/` for logos, canonical diagrams, and widely reused media.
+
+Conventions:
+- Prefix filenames with the note slug; keep diagram source with export (e.g., `.drawio` + `.svg`).
+- Promote frequently reused assets from local `_assets/` to `90 - Assets/` to reduce duplication.
+
+
 
 ---
 

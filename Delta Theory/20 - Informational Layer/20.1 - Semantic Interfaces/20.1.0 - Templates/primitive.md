@@ -79,25 +79,9 @@ Map the primitive concept to concrete network constructs and (if available) inte
 
 ---
 
-## Cross-domain examples
+## Domain Mapping
 
-Keep network as primary; add quick analogies in other domains.
-
-- Human interactions / society:
-  - ∆: first “hello” or unexpected message
-  - R(·): mutual friends / shared group give context
-  - ⊚: both confirm plan (time/place)
-  - F: an ongoing chat or a friendship forms
-- Money / economy:
-  - ∆: you notice a cheaper price elsewhere
-  - R(·): choose exchange/broker/payment rail
-  - ⊚: payment/settlement is confirmed
-  - F: balance/position/contract now exists
-- Cognition:
-  - ∆: a surprising sound grabs attention
-  - R(·): you place it in context (where/when)
-  - ⊚: you commit it to memory (rehearsal/sleep)
-  - F: a concept/schema you can recall later
+Keep network as primary; add quick analogies in other domains. Suggested ordering: Physics, Chemistry, Biology, Social, Economy, Politics, Networks, Cognition.
 
 ---
 

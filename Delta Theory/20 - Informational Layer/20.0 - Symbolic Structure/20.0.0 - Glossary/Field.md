@@ -42,15 +42,24 @@ and become **part of a recursive closure system**.
 
 ---
 
-## Field vs Void
+## Field vs Void (clarification)
 
 | Term   | Boundary     | Description                                       |
 |--------|--------------|---------------------------------------------------|
 | **Field**  | **Transparent** | Internal recursion visible and accessible        |
 | **Void**   | **Opaque**      | External recursion inaccessible (black box zone) |
 
-> A Field is **Void with resolved closure**.
-> A Void is **Field perceived from the outside** — without access to internal structure.
+> Field = Void with open, transparent interfaces (observable, addressable) — not “stabilized Void.”
+> A Void is the same system perceived from outside its interfaces; when gates open and capacity permits, it appears as a Field.
+
+### Observer-scale note (cosmic)
+
+At universe scale, our observation may still present as Void‑like because:
+- Causal limits (c) and finite age create horizons (inaccessible regions)
+- Expansion/curvature yield permanent opacity beyond some scale
+- Resolution/capacity (ε, bandwidth) make distant signals indistinguishable (saturation)
+- Finite coherence windows (ψA) prevent binding very long loops
+- Gating (λV) at interfaces blocks traversal from our position
 
 The **same system** may appear as a Field or a Void depending on **recursive position**, **modulation depth**, or **interface clarity**.
 
@@ -88,6 +97,6 @@ The Field is where **form is sustained**, **structure can evolve**, and **awaren
 
 - [[Void]]
 - [[Closure]]
-- [[∇S — Sarkisian Differentiation Gradient (Structure)]]
-- [[λV — Volozhina Resonance Threshold (Void)]]
-- [[ψA — Aiza Phase Coherence Anchor (Awareness)]]
+- [[∇S — Structure Differentiation Gradient (Sarkisian)]]
+- [[λV — Void Resonance Threshold (Volozhina)]]
+- [[ψA — Awareness Phase Coherence Anchor (Aiza)]]

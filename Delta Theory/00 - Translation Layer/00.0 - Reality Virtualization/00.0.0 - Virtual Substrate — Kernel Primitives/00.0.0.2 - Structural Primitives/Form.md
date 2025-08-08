@@ -47,10 +47,15 @@ $$
 
 ---
 
-## Cross-domain examples
+## Domain Mapping
 
-- Human interactions / society: a lasting friendship/partnership forms
-- Money / economy: a contract/position exists in your account
+- Physics: bound state, stable phase/domain forms
+- Chemistry: molecule/complex forms; product stabilized
+- Biology: durable phenotype/trait; stable cell identity
+- Social: a lasting friendship/partnership forms
+- Economy: a contract/position exists in your account
+- Politics: an enacted policy/institution persists
+- Networks: durable session/identity; committed state
 - Cognition: a concept you can recall and use across situations
 
 ---

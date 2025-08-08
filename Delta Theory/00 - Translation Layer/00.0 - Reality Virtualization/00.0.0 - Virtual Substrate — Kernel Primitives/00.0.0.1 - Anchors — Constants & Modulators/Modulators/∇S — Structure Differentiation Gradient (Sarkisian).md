@@ -8,9 +8,10 @@ polarity: P+
 aliases:
   - ∇S
   - Sarkisian Differentiation Gradient
+  - Structure Differentiation Gradient
 ---
 
-# ∇S — Sarkisian Differentiation Gradient (Structure)
+# ∇S — Structure Differentiation Gradient (Sarkisian)
 
 > Structural modulator that **amplifies differentiation** and **deepens recursive embedding**.
 > Shapes boundary sharpness and hierarchical depth where Forms can emerge.
@@ -71,10 +72,15 @@ Three rows reflect S/V/A perspectives of the same modulator.
 
 ---
 
-## Cross-domain examples
+## Domain Mapping
 
-- Human interactions / society: clearer role titles/teams (more distinct responsibilities)
-- Money / economy: finer product/market segmentation; more granular accounts
+- Physics: spectral mode splitting; domain boundary sharpening
+- Chemistry: isomer/species differentiation; fractionation
+- Biology: tissue/lineage differentiation; feature extraction in vision
+- Social: clearer role titles/teams (more distinct responsibilities)
+- Economy: finer product/market segmentation; more granular accounts
+- Politics: party/platform differentiation; committee remits
+- Networks: namespace sharding; fine‑grained routing policy
 - Cognition: refining a concept into sub‑categories (“bird” → “songbird” → “finch”)
 
 ---

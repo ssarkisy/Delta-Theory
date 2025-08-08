@@ -71,6 +71,12 @@ aliases:  # Optional
 
 ---
 
+## Domain Mapping (optional)
+
+- If illustrative, provide brief cross‑domain consequences in the order: Physics, Chemistry, Biology, Social, Economy, Politics, Networks, Cognition.
+
+---
+
 ## See Also
 
 - [[00.0.0.0 - Core Axioms (meta)]]

@@ -39,6 +39,8 @@ $$
 - Negotiates Void perturbations via thresholds and boundary conditions
 - Enables Awareness to maintain identity across cycles
 
+Note: ⊚ stabilizes Structure → Form. Void → Field is not a stabilization; it is interface transparency (λV) and capacity making an exterior observable.
+
 ---
 
 ## Conditions / Invariants
@@ -57,10 +59,15 @@ $$
 
 ---
 
-## Cross-domain examples
+## Domain Mapping
 
-- Human interactions / society: both people say “yes” to meet (time/place agreed)
-- Money / economy: payment confirmed; settlement final
+- Physics: phase transition nucleates; bound state forms
+- Chemistry: bond formation; reaction reaches completion criterion
+- Biology: synaptic consolidation; homeostatic setpoint attainment
+- Social: both people say “yes” to meet (time/place agreed)
+- Economy: payment confirmed; settlement final
+- Politics: bill passes all gates; policy becomes enforceable
+- Networks: consensus reached; transaction committed
 - Cognition: you rehearsed/slept; memory “sticks”
 
 ---
