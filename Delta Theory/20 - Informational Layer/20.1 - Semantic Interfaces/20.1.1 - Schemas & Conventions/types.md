@@ -4,7 +4,6 @@ tags:
   - "#layer/information"
   - "#status/stable"
   - "#function/definition"
-uid: 66d38e20-f21a-4285-953d-c6d7a407585f
 ---
 
 # Note Types in Delta Theory

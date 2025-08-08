@@ -4,7 +4,6 @@ tags:
   - "#layer/translation"
   - "#status/stable"
   - "#function/observation"
-uid: 4b092861-dcbb-4fbd-bb88-0d9b3c878a1f
 ---
 
 # 00 - Translation Layer (meta)

@@ -8,7 +8,6 @@ polarity: P+
 aliases:
   - ∇S
   - Sarkisian Differentiation Gradient
-uid: ceb7e5ad-fed2-4bdf-a59e-d157636d5c2a
 ---
 
 # ∇S — Sarkisian Differentiation Gradient (Structure)

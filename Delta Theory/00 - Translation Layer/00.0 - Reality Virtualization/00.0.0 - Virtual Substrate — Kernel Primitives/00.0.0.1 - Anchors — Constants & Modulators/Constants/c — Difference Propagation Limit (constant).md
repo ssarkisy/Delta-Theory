@@ -6,7 +6,6 @@ tags:
   - "#function/definition"
 aliases:
   - Difference Propagation Limit
-uid: 4011b781-8766-4219-aca5-6c3afd6c923b
 ---
 
 # c — Difference Propagation Limit (constant)
@@ -39,7 +38,7 @@ uid: 4011b781-8766-4219-aca5-6c3afd6c923b
 ## See Also
 
 - [[ε — Difference Resolution Quantum (constant)]]
-- [[π — Closure Geometry Ratio (constant)]] 
-- [[e — Natural Transformation Rate (constant)]] 
+- [[π — Closure Geometry Ratio (constant)]]
+- [[e — Natural Transformation Rate (constant)]]
 - [[φ — Asymmetric Stabilization Ratio (constant)]]
 

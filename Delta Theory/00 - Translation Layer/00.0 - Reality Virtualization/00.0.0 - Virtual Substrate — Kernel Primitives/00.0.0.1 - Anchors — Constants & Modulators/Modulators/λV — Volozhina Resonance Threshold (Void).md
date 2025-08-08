@@ -8,7 +8,6 @@ polarity: P-
 aliases:
   - λV
   - Volozhina Resonance Threshold
-uid: f49c2064-2655-480e-8f90-9b49af0f8b28
 ---
 
 # λV — Volozhina Resonance Threshold (Void)

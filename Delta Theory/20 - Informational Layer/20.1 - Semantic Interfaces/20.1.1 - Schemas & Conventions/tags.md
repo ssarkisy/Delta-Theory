@@ -4,7 +4,6 @@ tags:
   - "#status/stable"
   - "#layer/information"
   - "#function/observation"
-uid: 4ff94bbc-7697-4281-85ce-5de4ad2683c4
 ---
 
 # Tag Guidelines for Delta Theory

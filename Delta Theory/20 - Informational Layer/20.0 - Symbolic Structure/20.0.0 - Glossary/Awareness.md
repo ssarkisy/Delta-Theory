@@ -8,7 +8,6 @@ polarity: P0
 aliases:
   - Coherence
   - Phase Coherence
-uid: 5e267a43-e0e1-4ce0-83b7-22e0731420de
 ---
 
 # Awareness (P0)

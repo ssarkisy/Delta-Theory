@@ -5,7 +5,6 @@ tags:
   - "#status/stable"
   - "#function/observation"
 aliases: []
-uid: 8cc789ec-29c2-4bc1-9d0f-216aa2e7d431
 ---
 
 # Closure

@@ -7,7 +7,6 @@ tags:
 aliases:
   - R(·)
   - Relational Embedding
-uid: d7d145bc-b05a-40cc-aa7a-b71c11ebf3e7
 ---
 
 # Relational Embedding — R(·)

@@ -4,7 +4,6 @@ tags:
   - "#layer/information"
   - "#status/stable"
   - "#function/observation"
-uid: 2e82b896-6a12-4abe-9653-ea4de2bc2613
 ---
 
 # Constant (template)
@@ -25,7 +24,7 @@ tags:
 polarity: P+|P-|P0  # Optional; set if this constant is axis-skewed (most are neutral)
 aliases:  # Optional
   - <Symbol>
-uid: <do not add or change, governed by Obsidian>
+
 ---
 ```
 

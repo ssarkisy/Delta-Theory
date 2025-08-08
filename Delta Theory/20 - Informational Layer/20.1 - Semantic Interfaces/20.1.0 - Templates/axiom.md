@@ -4,7 +4,6 @@ tags:
   - "#layer/information"
   - "#status/stable"
   - "#function/observation"
-uid: 73fd4ba4-31bf-4e87-98b1-db3b50e5fa01
 ---
 
 # Axiom (template)
@@ -25,7 +24,7 @@ tags:
 polarity: P+|P-|P0  # Optional; only if the axiom is framed from a specific axis perspective
 aliases:  # Optional
   - <Short name>
-uid: <do not add or change, governed by Obsidian>
+
 ---
 ```
 

@@ -8,7 +8,6 @@ aliases:
   - ⊚
   - Stabilization
   - Closure (operation)
-uid: 7e1f82b4-5dd8-4b6c-a199-71fa9766f884
 ---
 
 # Stabilization (Closure) — ⊚

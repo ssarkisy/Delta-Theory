@@ -7,7 +7,6 @@ tags:
 aliases:
   - ∆
   - Primitive Difference
-uid: 90830de9-1af5-4647-99cf-2d6dcc66128e
 ---
 
 # Delta (Primitive Difference)

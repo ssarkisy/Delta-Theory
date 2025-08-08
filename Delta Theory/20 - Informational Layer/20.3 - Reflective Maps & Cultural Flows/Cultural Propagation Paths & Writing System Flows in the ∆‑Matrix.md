@@ -4,7 +4,6 @@ tags:
   - "#layer/information"
   - "#status/seed"
   - "#function/observation"
-uid: 197e3447-7353-4aa4-8fb3-aead5b59abbc
 ---
 
 # Cultural Propagation Paths & Writing System Flows in the ∆‑Matrix

@@ -5,7 +5,6 @@ tags:
   - "#status/stable"
   - "#function/definition"
 polarity: P-
-uid: 1ec18a16-0186-4f57-b6c9-5e1a85a5269f
 ---
 
 # Void (P-)

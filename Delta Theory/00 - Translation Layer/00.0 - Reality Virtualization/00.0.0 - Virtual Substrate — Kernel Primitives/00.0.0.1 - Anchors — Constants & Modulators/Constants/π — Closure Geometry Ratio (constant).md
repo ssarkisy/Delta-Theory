@@ -6,7 +6,6 @@ tags:
   - "#function/definition"
 aliases:
   - Closure Geometry Ratio
-uid: 0f53726c-8aa1-4487-9f53-0586270267e2
 ---
 
 # π — Closure Geometry Ratio (constant)

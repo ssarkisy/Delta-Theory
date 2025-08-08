@@ -8,7 +8,6 @@ aliases:
   - φ
   - Golden Ratio
   - Asymmetric Stabilization Ratio (math)
-uid: 78d6077b-1930-4500-9497-e01d4c3fa99a
 ---
 
 # φ — Golden Ratio (constant)

@@ -7,7 +7,6 @@ tags:
 polarity: P+
 aliases:
   - Structures
-uid: e5748318-ad19-431c-8244-576e067bf2a2
 ---
 
 # Structure (P+)

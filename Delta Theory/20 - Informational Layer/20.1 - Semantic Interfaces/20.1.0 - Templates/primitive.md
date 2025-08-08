@@ -4,7 +4,6 @@ tags:
   - "#layer/information"
   - "#status/stable"
   - "#function/observation"
-uid: ae9945a5-1814-4a69-8d88-e68715a3bd24
 ---
 
 # Primitive (template)
@@ -25,7 +24,7 @@ tags:
 polarity: P+|P-|P0  # Optional; set if axis-scoped (Structure=P+, Void=P-, Awareness=P0)
 aliases:  # Optional
   - <ShortName>
-uid: <do not add or change, governed by Obsidian>
+
 ---
 ```
 

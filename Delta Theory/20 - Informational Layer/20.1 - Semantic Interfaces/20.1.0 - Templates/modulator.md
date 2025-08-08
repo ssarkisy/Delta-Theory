@@ -4,7 +4,6 @@ tags:
   - "#layer/information"
   - "#status/stable"
   - "#function/observation"
-uid: 47f6f8e0-d58a-43d6-a515-9141c8521f98
 ---
 
 # Modulator (template)
@@ -25,7 +24,7 @@ tags:
 polarity: P+|P-|P0  # Required for SVA; Structure=P+, Void=P-, Awareness=P0
 aliases:  # Optional
   - <Symbol>
-uid: <do not add or change, governed by Obsidian>
+
 ---
 ```
 

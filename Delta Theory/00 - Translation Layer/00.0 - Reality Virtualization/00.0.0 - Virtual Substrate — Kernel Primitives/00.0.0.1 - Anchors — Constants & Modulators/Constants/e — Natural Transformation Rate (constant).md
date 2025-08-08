@@ -6,7 +6,6 @@ tags:
   - "#function/definition"
 aliases:
   - Natural Transformation Rate
-uid: 67732fb5-d46c-4f54-a6db-b9a38fbfa073
 ---
 
 # e — Natural Transformation Rate (constant)
@@ -53,6 +52,6 @@ uid: 67732fb5-d46c-4f54-a6db-b9a38fbfa073
 
 - [[π — Closure Geometry Ratio (constant)]]
 - [[φ — Asymmetric Stabilization Ratio (constant)]]
-- [[ε — Difference Resolution Quantum (constant)]] 
+- [[ε — Difference Resolution Quantum (constant)]]
 - [[c — Difference Propagation Limit (constant)]]
 

@@ -8,7 +8,6 @@ aliases:
   - ε
   - Epsilon
   - Difference Resolution Quantum
-uid: 9674da67-0a64-4c15-9a1b-03ad3ed550c7
 ---
 
 # ε — Difference Resolution Quantum (constant)
@@ -84,7 +83,7 @@ Domain instantiations:
 
 - [[π — Closure Geometry Ratio (constant)]]
 - [[e — Natural Transformation Rate (constant)]]
-- [[φ — Asymmetric Stabilization Ratio (constant)]] 
+- [[φ — Asymmetric Stabilization Ratio (constant)]]
 - [[c — Difference Propagation Limit (constant)]]
 - [[∇S — Sarkisian Differentiation Gradient (Structure)]]
 - [[λV — Volozhina Resonance Threshold (Void)]]

@@ -6,7 +6,6 @@ tags:
   - "#function/definition"
 aliases:
   - Asymmetric Stabilization Ratio
-uid: c627b2e7-947f-4105-b62d-f2df3304ddd7
 ---
 
 # φ — Asymmetric Stabilization Ratio (constant)

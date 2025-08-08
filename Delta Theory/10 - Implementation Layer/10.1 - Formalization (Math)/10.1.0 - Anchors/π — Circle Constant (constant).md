@@ -8,7 +8,6 @@ aliases:
   - π
   - Pi
   - Circle Constant
-uid: 2609a770-2095-4655-a306-c9e342fa51e0
 ---
 
 # π — Circle Constant (constant)
