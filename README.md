@@ -14,7 +14,7 @@ With five kernel invariants (ε, π, e, φ, c) and three modulators (∇S, λV, 
 - Canonical summary:
 
 $$
-\Delta' = \;\; \boldsymbol{\odot}\big(\, R(\Delta;\, \nabla S,\, \lambda V,\, \psi A);\; \varepsilon,\, \pi,\, e,\, \varphi,\, c\,\big)
+\Delta' = \boldsymbol{\odot}\big(R(\Delta; \nabla S,\ \lambda V,\ \psi A); \varepsilon, \pi, e, \varphi, c\big)
 $$
 
 Where:
@@ -25,18 +25,16 @@ Where:
 3‑modulator canonical form:
 
 $$
-F^{\Delta}(t) = M^{(\nabla S)}(t)\; M^{(\psi A)}(t)\; M^{(\lambda V)}(t)
+F^{∆}(t) = ⊚\left( R^{n(t)}(∆₀) \right) = M^{(∇S)}(t) \cdot M^{(ψA)}(t) \cdot M^{(λV)}(t)
 $$
 
 9‑term expansion (legacy):
 
 $$
-\odot(F_{n}) =
-\underbrace{P_{n}^{+}\,\cdot\,P_{n}^{-}\,\cdot\,P_{n}^{0}}_{\text{Structural}}\,
-\cdot\,
-\underbrace{\mathrm{Redistribution}_{n}(t)\,\cdot\,\mathrm{Damping}_{\mathrm{field}}(n,t)\,\cdot\,\mathrm{Collapse}_{\mathrm{stability}}(n,t)}_{\text{Field}}\,
-\cdot\,
-\underbrace{\kappa_{\Delta}(m,t)\,\cdot\,\psi A(t)\,\cdot\,\lambda V(n,t)}_{\text{Awareness}}
+⊚(F_n) =
+(P_n^+ \cdot P_n^- \cdot P_n^0 \ \text{(Structural Polarities)}) \cdot
+(Redistribution_n(t) \cdot Damping_{field}(n,t) \cdot Collapse_{stability}(n,t) \ \text{(Field Polarities)}) \cdot
+(κ∆(m,t) \cdot ψA(t) \cdot λV(n,t) \ \text{(Awareness Polarities)})
 $$
 
 ### Constants and SVA triad
