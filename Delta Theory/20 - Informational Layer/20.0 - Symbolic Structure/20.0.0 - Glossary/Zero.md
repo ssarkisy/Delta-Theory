@@ -2,8 +2,8 @@
 type: glossary
 tags:
   - "#layer/information"
-  - "#status/seed"
-  - "#function/observation"
+  - "#status/stable"
+  - "#function/definition"
 aliases:
   - Unmanifested Difference
   - Under-resolution
@@ -12,47 +12,147 @@ polarity: P-
 
 # Zero
 
-> In Delta Theory, “Zero” is not numeric 0 or an ontological primitive. It names a difference that is below the current resolution threshold ε — operationally non‑actionable and indistinguishable for a given interface or domain.
+> In Delta Theory, "Zero" is not numeric 0 or an ontological primitive. It names a difference that is below the current resolution threshold ε — operationally non‑actionable and indistinguishable for a given interface or domain.
 
 ---
 
 ## Definition
 
-- Zero denotes “no manifested difference” relative to the chosen ε (resolution quantum)
-- If |∆| < ε for the relevant interface, it will not pass gates, partitioning, or bind into form
-- Zero is context‑dependent: ε differs by domain (e.g., ħ in physics; 1 bit in computing)
+In Delta Theory, **Zero** denotes absence of manifested difference:
+- |∆| < ε for the relevant interface
+- Will not pass gates or bind into form
+- Context-dependent (ε varies by domain)
 
----
-
-## Operational Meaning (relative to ε)
-
-- Gate ([[λV — Void Resonance Threshold (Volozhina)|λV]]): sub‑ε signals do not ignite propagation
-- Partition ([[∇S — Structure Differentiation Gradient (Sarkisian)|∇S]]): sub‑ε variation is ignored in differentiation
-- Coherence ([[ψA — Awareness Phase Coherence Anchor (Aiza)|ψA]]): sub‑ε fluctuations do not affect phase binding
-- Closure ([[Stabilization (Closure)|⊚]]): sub‑ε perturbations do not destabilize an established Form
-
----
-
-## Not
-
+Key aspects:
 - Not a primitive or constant
 - Not numeric 0 in arithmetic
-- Not [[Void]] (Void is an opaque outside; Zero is under‑resolution inside a given frame)
+- Not Void (which is opaque outside)
 
 ---
 
-## Implications
+## Dual‑register mapping
 
-- Choosing ε explicitly per domain prevents category errors
-- Stability guidance: maintain noise < ε to preserve Form
-- Measurement design: adjust ε to expose or suppress relevant differences
+### Technical (network/computational)
+
+| Term concept | Network construct | Interface example |
+|-------------|------------------|-------------------|
+| Resolution | Threshold | `Epsilon`, `MinVal` |
+| Filter | Gate | `Filter`, `Cutoff` |
+| Noise | Sub-threshold | `Noise`, `Jitter` |
+
+### Humane (biological/relational)
+
+| Term concept | Humane construct | Example |
+|-------------|------------------|----------|
+| Resolution | Notice limit | "Too small to see" |
+| Filter | Attention gate | "Doesn't register" |
+| Noise | Background | "Just noise" |
+
+### Crosswalk (bridge)
+
+| Technical term | Humane term | Ontological meaning |
+|---------------|-------------|-------------------|
+| Threshold | Notice | What we can detect |
+| Gate | Filter | What gets through |
+| Sub-threshold | Background | What fades away |
+
+### Domain Examples
+
+| Domain | Technical manifestation | Humane manifestation |
+|--------|------------------------|---------------------|
+| Physics | Quantum limit | Natural threshold |
+| Networks | Noise floor | Living boundary |
+| Cognition | Subliminal | Below awareness |
+| Systems | Error margin | Natural limit |
+
+---
+
+## Scale Effects
+
+How Zero manifests differently at various scales:
+
+### Micro Scale (ε-bounded)
+
+| Constant | Effect | Example |
+|----------|--------|---------|
+| ε | Quantum zero | Planck scale |
+| λV | State cutoff | Energy gap |
+
+### Human Scale (ψA-bounded)
+
+| Constant | Effect | Example |
+|----------|--------|---------|
+| ψA | Notice threshold | Attention limit |
+| ∇S | Pattern cutoff | Form boundary |
+
+### Universe Scale (c-bounded)
+
+| Constant | Effect | Example |
+|----------|--------|---------|
+| c | Causal zero | Event horizon |
+| λV | Signal cutoff | Cosmic limit |
+
+Note: At each scale, "Zero" manifests as a specific form of threshold or cutoff relative to that scale's fundamental limits.
+
+---
+
+## Ontological Role
+
+| Domain | Role |
+|--------|------|
+| Structure | Sets minimal feature |
+| Void | Defines opacity floor |
+| Awareness | Bounds coherence |
+
+Zero marks the boundary between manifested and unmanifested difference.
+
+---
+
+## Comparisons
+
+Compare with related terms:
+
+| Term | Distinction | Example |
+|------|------------|---------|
+| Zero | Below threshold | Noise floor |
+| Void | Outside opacity | Black box |
+| Infinite | Beyond bound | Overflow |
+
+---
+
+## Recursive Function
+
+Zero appears at resolution boundary:
+
+$$
+|∆| < ε \implies \text{Zero}
+$$
+
+Where:
+- |∆| = difference magnitude
+- ε = resolution quantum
+- Zero = unmanifested state
+
+---
+
+## Design rationale
+
+This term must maintain dual-register intelligibility per governance (see [PRINCIPLES.md](../../../../PRINCIPLES.md)). Neither technical thresholds nor experiential invisibility alone captures its full meaning.
 
 ---
 
 ## See Also
 
 - [[ε — Difference Resolution Quantum (constant)]]
-- [[RelationalEmbedding]] · [[Stabilization (Closure)]] · [[Form]]
-- [[Void]] · [[Structure]] · [[Awareness]]
+- [[Void]]
+- [[Structure]]
+- [[Infinite]]
 
+---
 
+## Dual‑register checklist
+
+- [x] Technical mapping provided
+- [x] Humane mapping provided
+- [x] Crosswalk table included
+- [x] Scale effects documented

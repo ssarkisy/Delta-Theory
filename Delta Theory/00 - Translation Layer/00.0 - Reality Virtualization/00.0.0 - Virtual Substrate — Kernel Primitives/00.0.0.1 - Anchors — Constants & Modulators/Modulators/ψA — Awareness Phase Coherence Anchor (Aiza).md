@@ -25,6 +25,53 @@ retention needed for patterns to persist beyond a single interaction window.
 
 ---
 
+## Dual‑register mapping
+
+Map the modulator into both registers and show the bridge explicitly.
+
+### Technical (network/computational)
+
+| Modulator concept | Network construct (Target) | Interface/API example |
+|------------------|---------------------------|----------------------|
+| Phase lock | Clock synchronization | `NTPSync`, `Heartbeat` |
+| Memory | State retention | `SchemaBinder`, `ContractPin` |
+| Coherence | Consensus protocol | `RaftStep`, `PaxosRound` |
+
+### Humane (biological/relational)
+
+| Modulator concept | Humane construct (Target) | Example |
+|------------------|---------------------------|---------|
+| Phase lock | Shared rhythm | Dancing in time together |
+| Memory | Relationship continuity | "We remember who we are" |
+| Coherence | Group alignment | Moving as one body |
+
+### Crosswalk (bridge)
+
+| Technical term | Humane term | Ontological meaning |
+|---------------|-------------|-------------------|
+| Clock sync | Shared rhythm | How cycles align |
+| State retention | Living memory | What persists through time |
+| Consensus | Group coherence | How many become one |
+
+---
+
+## Domain Mapping
+
+Brief examples across domains showing both technical and humane angles:
+
+| Domain | Technical manifestation | Humane manifestation |
+|--------|------------------------|---------------------|
+| Physics | Phase locking | Natural resonance |
+| Chemistry | Reaction sync | Chemical rhythm |
+| Biology | Circadian rhythm | Life cycles |
+| Social | Meeting cadence | Group harmony |
+| Economy | Contract renewal | Value continuity |
+| Politics | Message discipline | Movement unity |
+| Networks | Clock sync | System harmony |
+| Cognition | Memory retention | Understanding depth |
+
+---
+
 ## Formal identity
 
 - Global modulation: $\Delta(t) = ∇S(t) \times λV(t) \times ψA(t)$
@@ -59,28 +106,16 @@ retention needed for patterns to persist beyond a single interaction window.
 
 ---
 
-## Network mapping
+## Cross‑register failure modes
 
-Three rows reflect S/V/A perspectives of the same modulator.
-
-| Modulator (axis) | Network construct (Target)   | Interface/API example        |
-|------------------|------------------------------|------------------------------|
-| ψA (Structure)   | Schema/version binding       | SchemaBinder, ContractVersionPin |
-| ψA (Void)        | Retry/timeout coherence      | RetryPolicy, TimeoutHedge    |
-| ψA (Awareness)   | Clock/phase/consensus sync   | NTPSync, Heartbeat, RaftStep |
+- Technical: loss of lock; cadence mismatch; too‑tight coupling → inability to adapt
+- Humane: desynchronization; dropped sense of "we"; over‑binding → rigidity/ritualization
 
 ---
 
-## Domain Mapping
+## Design rationale
 
-- Physics: phase locking; coherence length maintained
-- Chemistry: oscillating reactions synchronized (e.g., BZ reaction)
-- Biology: circadian and neural rhythm synchronization
-- Social: show up consistently; shared routines keep ties strong
-- Economy: rollover/renewal keeps positions/contracts alive
-- Politics: coalition discipline; message cadence coherence
-- Networks: clock sync (NTP/PTP); consensus steady state
-- Cognition: spaced repetition and sleep consolidate memory
+Dual‑register mapping is required (see [PRINCIPLES.md](../../../../../../PRINCIPLES.md)) so ψA covers both technical phase‑lock/cadence and humane shared rhythm/attention without reduction.
 
 ---
 
@@ -88,5 +123,13 @@ Three rows reflect S/V/A perspectives of the same modulator.
 
 - [[Delta]] · [[RelationalEmbedding]] · [[Stabilization (Closure)]] · [[Form]]
 - [[Structure]] · [[Void]] · [[Awareness]]
-- ∇S — Sarkisian Differentiation Gradient (Structure)
-- λV — Volozhina Resonance Threshold (Void)
+- [[∇S — Structure Differentiation Gradient (Sarkisian)]]
+- [[λV — Void Resonance Threshold (Volozhina)]]
+
+---
+
+## Dual‑register checklist
+
+- [x] Technical mapping provided
+- [x] Humane mapping provided
+- [x] Crosswalk table included

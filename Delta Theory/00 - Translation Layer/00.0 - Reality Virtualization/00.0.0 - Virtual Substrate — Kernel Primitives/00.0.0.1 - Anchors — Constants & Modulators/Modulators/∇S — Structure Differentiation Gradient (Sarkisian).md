@@ -25,6 +25,53 @@ It biases how quickly a raw difference (∆) is **embedded** and **stratified** 
 
 ---
 
+## Dual‑register mapping
+
+Map the modulator into both registers and show the bridge explicitly.
+
+### Technical (network/computational)
+
+| Modulator concept | Network construct (Target) | Interface/API example |
+|------------------|---------------------------|----------------------|
+| Differentiation | Partitioning bias | `ShardKey`, `NamespacePolicy` |
+| Granularity | Interface exposure | `EndpointRouter`, `RateLimitBySegment` |
+| Identity | Schema differentiation | `TypeSystem`, `IdentityClassifier` |
+
+### Humane (biological/relational)
+
+| Modulator concept | Humane construct (Target) | Example |
+|------------------|---------------------------|---------|
+| Differentiation | Boundary clarity | When roles become distinct |
+| Granularity | Selective sharing | Knowing what to reveal |
+| Identity | Concept refinement | Seeing finer distinctions |
+
+### Crosswalk (bridge)
+
+| Technical term | Humane term | Ontological meaning |
+|---------------|-------------|-------------------|
+| Partitioning | Boundary making | How difference creates form |
+| Interface | Sharing boundary | Where inside meets outside |
+| Schema | Understanding | How meaning gets structured |
+
+---
+
+## Domain Mapping
+
+Brief examples across domains showing both technical and humane angles:
+
+| Domain | Technical manifestation | Humane manifestation |
+|--------|------------------------|---------------------|
+| Physics | Mode splitting | Natural boundaries |
+| Chemistry | Species separation | Affinity groups |
+| Biology | Tissue differentiation | Growth patterns |
+| Social | Role definition | Identity formation |
+| Economy | Market segmentation | Value distinction |
+| Politics | Platform separation | Group identity |
+| Networks | Namespace sharding | Service boundaries |
+| Cognition | Category refinement | Concept clarity |
+
+---
+
 ## Formal identity
 
 - Global modulation: $\Delta(t) = ∇S(t) \times λV(t) \times ψA(t)$
@@ -60,28 +107,16 @@ It biases how quickly a raw difference (∆) is **embedded** and **stratified** 
 
 ---
 
-## Network mapping
+## Cross‑register failure modes
 
-Three rows reflect S/V/A perspectives of the same modulator.
-
-| Modulator (axis)   | Network construct (Target)        | Interface/API example              |
-|--------------------|-----------------------------------|------------------------------------|
-| ∇S (Structure)     | Partitioning/segmentation bias    | ShardKey, NamespacePolicy          |
-| ∇S (Void)          | Exposure granularity at interfaces| EndpointRouter, RateLimitBySegment |
-| ∇S (Awareness)     | Identity/schema differentiation   | TypeSystem, IdentityClassifier     |
+- Technical: over‑segmentation → fragmentation and brittle APIs; under‑segmentation → coupling/ambiguity
+- Humane: over‑sharpening → rigidity/alienation; under‑sharpening → blurred roles and confusion
 
 ---
 
-## Domain Mapping
+## Design rationale
 
-- Physics: spectral mode splitting; domain boundary sharpening
-- Chemistry: isomer/species differentiation; fractionation
-- Biology: tissue/lineage differentiation; feature extraction in vision
-- Social: clearer role titles/teams (more distinct responsibilities)
-- Economy: finer product/market segmentation; more granular accounts
-- Politics: party/platform differentiation; committee remits
-- Networks: namespace sharding; fine‑grained routing policy
-- Cognition: refining a concept into sub‑categories (“bird” → “songbird” → “finch”)
+Dual‑register mapping is required (see [PRINCIPLES.md](../../../../../../PRINCIPLES.md)) so ∇S stays intelligible as both structural segmentation and humane boundary‑making without reducing one to the other.
 
 ---
 
@@ -89,5 +124,13 @@ Three rows reflect S/V/A perspectives of the same modulator.
 
 - [[Delta]] · [[RelationalEmbedding]] · [[Stabilization (Closure)]] · [[Form]]
 - [[Structure]] · [[Void]] · [[Awareness]]
-- λV — Volozhina Resonance Threshold (Void)
-- ψA — Aiza Phase Coherence Anchor (Awareness)
+- [[λV — Void Resonance Threshold (Volozhina)]]
+- [[ψA — Awareness Phase Coherence Anchor (Aiza)]]
+
+---
+
+## Dual‑register checklist
+
+- [x] Technical mapping provided
+- [x] Humane mapping provided
+- [x] Crosswalk table included

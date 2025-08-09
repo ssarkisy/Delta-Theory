@@ -9,6 +9,18 @@ Delta Theory is a minimal, domain‑agnostic kernel for how differences become s
 - Stabilization as closure into recognizable form (⊚ → F)
 With five kernel invariants (ε, π, e, φ, c) and three modulators (∇S, λV, ψA), it explains why some differences fade, some cascade, and some become enduring structures across physics, cognition, computation, and social systems.
 
+### Onboarding
+
+Start with the core principles and governance: [PRINCIPLES.md](PRINCIPLES.md)
+
+---
+
+### Core principles
+
+1. **Difference as ontological ground** — All change begins with a recognizable difference
+2. **Recursive stabilization** — Differences propagate and stabilize through recursive loops
+3. **Dual-register virtualization** — Technical and humane mappings must coexist for ethical stability ([PRINCIPLES](PRINCIPLES.md))
+
 ### Canonical kernel
 
 - Minimal ontology: **Difference → Recursion → Stabilization → Form**
@@ -60,12 +72,15 @@ $$
 - Use GitHub’s “Cite this repository” (via `CITATION.cff`).
 - Related philosophical core preprint: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16423653.svg)](https://doi.org/10.5281/zenodo.16423653)
 
-### Roadmap
+### Development
 
-- v0.2 — Interfaces: network and domain mapping examples; template hardening
-- v0.3 — Physics application note (c, ħ, k_B mappings); diagnostics examples
-- v0.4 — Cognition application note (ψA cadence/interval); awareness diagnostics
+See [ROADMAP.md](ROADMAP.md) for detailed development plan including v0.0.2 bi-tech dual channel implementation and future domain integrations.
 
+### License
+
+This work is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). You are free to share and adapt with attribution and under the same license. See [LICENSE.md](LICENSE.md) for full terms.
+
+---
 
 Delta Theory is a universal framework for understanding **how systems evolve** — in physics, software, cognition, ecosystems, and beyond.
 

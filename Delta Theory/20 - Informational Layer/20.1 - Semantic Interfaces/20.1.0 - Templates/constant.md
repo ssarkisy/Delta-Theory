@@ -47,6 +47,47 @@ aliases:  # Optional
 
 ---
 
+## Dual‑register mapping (concept)
+
+Map the constant into both registers and show the bridge explicitly.
+
+### Technical (network/computational)
+
+| Constant concept | Network construct (Target) | Interface/API example |
+|-----------------|---------------------------|----------------------|
+| <concept>       | <technical target>        | `<API example>`     |
+
+### Humane (biological/relational)
+
+| Constant concept | Humane construct (Target) | Example |
+|-----------------|---------------------------|---------|
+| <concept>       | <felt experience>         | <lived example> |
+
+### Crosswalk (bridge)
+
+| Technical term | Humane term | Ontological meaning |
+|---------------|-------------|-------------------|
+| <tech term>   | <felt term> | <shared meaning>  |
+
+---
+
+## Domain Mapping
+
+Brief examples across domains showing both technical and humane angles:
+
+| Domain | Technical manifestation | Humane manifestation |
+|--------|------------------------|---------------------|
+| Physics | <technical example> | <experiential example> |
+| Chemistry | <technical example> | <experiential example> |
+| Biology | <technical example> | <experiential example> |
+| Social | <technical example> | <experiential example> |
+| Economy | <technical example> | <experiential example> |
+| Politics | <technical example> | <experiential example> |
+| Networks | <technical example> | <experiential example> |
+| Cognition | <technical example> | <experiential example> |
+
+---
+
 ## Formal identity (concept)
 
 - Minimal defining relation(s) or limit/series, e.g.:
@@ -82,12 +123,6 @@ aliases:  # Optional
 
 ---
 
-## References
-
-- Source(s) or canonical definitions (brief links or citations)
-
----
-
 ## Instances (domain bindings)
 
 - Physics: `<link to physics instance>`
@@ -102,3 +137,11 @@ aliases:  # Optional
 - [[∇S — Structure Differentiation Gradient (Sarkisian)]]
 - [[λV — Void Resonance Threshold (Volozhina)]]
 - [[ψA — Awareness Phase Coherence Anchor (Aiza)]]
+
+---
+
+## Dual‑register checklist
+
+- [ ] Technical mapping provided
+- [ ] Humane mapping provided
+- [ ] Crosswalk table included

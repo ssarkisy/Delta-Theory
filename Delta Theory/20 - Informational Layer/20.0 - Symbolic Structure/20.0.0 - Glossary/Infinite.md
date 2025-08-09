@@ -2,73 +2,156 @@
 type: glossary
 tags:
   - "#layer/information"
-  - "#status/seed"
-  - "#function/observation"
+  - "#status/stable"
+  - "#function/definition"
 aliases:
   - Infinity
+  - Unbounded
 ---
 
 # Infinite
 
-> In Delta Theory, “infinite” is a limit concept, not a constant. It names unbounded continuation (e.g., recursion depth, measure) rather than a realizable state inside a bounded system.
+> In Delta Theory, "infinite" is a limit concept, not a constant. It names unbounded continuation (e.g., recursion depth, measure) rather than a realizable state inside a bounded system.
 
 ---
 
 ## Definition
 
-- Mathematical limit notion: quantities or processes without finite bound (e.g., $n \to \infty$ in $R^n(\Delta_0)$)
-- Conceptual contrast to operational limits set by anchors (ε, c, …)
-- Not an object or value; a boundary idealization used for reasoning
+In Delta Theory, **Infinite** is a boundary idealization:
+- Mathematical limit notion: quantities without finite bound
+- Conceptual contrast to operational limits (ε, c)
+- Not an object or value; a reasoning tool
+
+Systems are bounded by anchors and capacities, showing:
+- Below resolution: "Zero" (|∆| < ε)
+- Within capacity: distinguishable structure
+- Beyond capacity: saturation/opacity
 
 ---
 
-## Operational Meaning vs Saturation
+## Dual‑register mapping
 
-- Systems are bounded by anchors and capacities. Practically, you observe:
-  - Below resolution: “[[Zero]]” (|∆| < ε)
-  - Within capacity: distinguishable structure
-  - Beyond capacity: saturation/opacity (indistinguishable), not true infinity
-- Thus, “infinite” behavior appears as saturation or divergence relative to anchors, not as an attained state
+### Technical (network/computational)
+
+| Term concept | Network construct | Interface example |
+|-------------|------------------|-------------------|
+| Limit | Asymptotic bound | `MAX_VALUE`, `∞` |
+| Saturation | Overflow | `Saturate`, `Clip` |
+| Capacity | Resource bound | `Limit`, `Quota` |
+
+### Humane (biological/relational)
+
+| Term concept | Humane construct | Example |
+|-------------|------------------|----------|
+| Limit | Beyond reach | "Goes on forever" |
+| Saturation | Overwhelm | "Too much to handle" |
+| Capacity | Natural bounds | "All we can take" |
+
+### Crosswalk (bridge)
+
+| Technical term | Humane term | Ontological meaning |
+|---------------|-------------|-------------------|
+| Asymptote | Horizon | What we can't reach |
+| Overflow | Overwhelm | When bounds break |
+| Quota | Limit | What contains us |
+
+### Domain Examples
+
+| Domain | Technical manifestation | Humane manifestation |
+|--------|------------------------|---------------------|
+| Physics | Singularity | Natural limit |
+| Networks | Buffer overflow | Living boundary |
+| Cognition | Stack overflow | Mind's edge |
+| Systems | Resource exhaustion | Natural capacity |
 
 ---
 
-## Where it appears in the kernel
+## Scale Effects
 
-- Recursive embedding: $R^n(\Delta_0)$ with unbounded $n$ (theoretical)
-- Growth/decay: processes driven by [[e — Natural Transformation Rate (constant)|e]] can diverge in idealized models
-- Spectral/series limits: ideal sums/integrals used for analysis
+How Infinite manifests differently at various scales:
+
+### Micro Scale (ε-bounded)
+
+| Constant | Effect | Example |
+|----------|--------|---------|
+| ε | Quantum infinity | Planck scale |
+| λV | State saturation | Energy cutoff |
+
+### Human Scale (ψA-bounded)
+
+| Constant | Effect | Example |
+|----------|--------|---------|
+| ψA | Coherence limit | Attention span |
+| ∇S | Structure bound | Pattern limit |
+
+### Universe Scale (c-bounded)
+
+| Constant | Effect | Example |
+|----------|--------|---------|
+| c | Causal horizon | Event horizon |
+| λV | Opacity limit | Cosmic bound |
+
+Note: At each scale, "infinite" manifests as a specific form of boundary or saturation relative to that scale's fundamental limits.
 
 ---
 
-## Interactions (anchors and modulators)
+## Ontological Role
 
-- [[ε — Difference Resolution Quantum (constant)]]: sets lower resolution; below → “Zero”
-- [[c — Difference Propagation Limit (constant)]]: caps propagation speed; “infinite speed” is disallowed
-- [[∇S — Structure Differentiation Gradient (Sarkisian)]]: high ∇S without support leads to fragmentation, not infinity
-- [[λV — Void Resonance Threshold (Volozhina)]]: too low/high thresholds yield noise/starvation, not infinity
-- [[ψA — Awareness Phase Coherence Anchor (Aiza)]]: bounded coherence windows prevent infinite binding
+| Domain | Role |
+|--------|------|
+| Structure | Theoretical unbounding |
+| Void | Opacity beyond capacity |
+| Awareness | Coherence limitation |
 
----
-
-## Not
-
-- Not a constant or parameter
-- Not synonymous with “very large” or “indistinguishable field” (that is saturation)
-- Not a physical state reached inside anchored systems
+"Infinite" appears as saturation or divergence relative to anchors, not as an attained state.
 
 ---
 
-## Implications
+## Comparisons
 
-- Use infinity for proofs/ideal models; translate conclusions back through anchors (ε, c, …) to assess feasibility
-- Design stance: manage resolution and capacity to avoid confusing saturation with “infinite complexity”
+Compare with related terms:
+
+| Term | Distinction | Example |
+|------|------------|---------|
+| Infinite | Unbounded limit | Asymptotic growth |
+| Zero | Below resolution | Quantum threshold |
+| Finite | Within bounds | Measurable value |
+
+---
+
+## Recursive Function
+
+Infinite appears in limit operations:
+
+1. **Recursive embedding**
+   $$R^n(\Delta_0) \text{ with } n \to \infty$$
+
+2. **Growth processes**
+   $$e^x \text{ divergence in ideal models}$$
+
+3. **Series limits**
+   $$\sum_{n=0}^{\infty} \text{ in analysis}$$
+
+---
+
+## Design rationale
+
+This term must maintain dual-register intelligibility per governance (see [PRINCIPLES.md](../../../../PRINCIPLES.md)). Neither technical asymptotes nor experiential overwhelm alone captures its full meaning.
 
 ---
 
 ## See Also
 
 - [[Zero]]
-- [[ε — Difference Resolution Quantum (constant)]] · [[c — Difference Propagation Limit (constant)]]
-- [[RelationalEmbedding]] · [[Stabilization (Closure)]] · [[Form]]
+- [[ε — Difference Resolution Quantum (constant)]]
+- [[c — Difference Propagation Limit (constant)]]
+- [[Recursive Depth]]
 
+---
 
+## Dual‑register checklist
+
+- [x] Technical mapping provided
+- [x] Humane mapping provided
+- [x] Crosswalk table included
+- [x] Scale effects documented

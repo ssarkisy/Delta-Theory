@@ -44,6 +44,48 @@ aliases:  # Optional
 
 ---
 
+## Dual‑register mapping
+
+Map the axiom into both registers and show the bridge explicitly.
+
+### Technical (network/computational)
+
+| Axiom concept | Network construct (Target) | Interface/API example |
+|---------------|---------------------------|----------------------|
+| <concept 1> | <technical target> | `<API example>` |
+| <concept 2> | <technical target> | `<API example>` |
+| <concept 3> | <technical target> | `<API example>` |
+
+### Humane (biological/relational)
+
+| Axiom concept | Humane construct (Target) | Example |
+|---------------|---------------------------|---------|
+| <concept 1> | <felt experience> | <lived example> |
+| <concept 2> | <emotional resonance> | <embodied example> |
+| <concept 3> | <intuitive knowing> | <heart-centered example> |
+
+### Crosswalk (bridge)
+
+| Technical term | Humane term | Ontological meaning |
+|---------------|-------------|-------------------|
+| <tech term> | <felt term> | <shared meaning> |
+| <tech term> | <felt term> | <shared meaning> |
+| <tech term> | <felt term> | <shared meaning> |
+
+---
+
+## Domain Mapping
+
+Provide brief, concrete consequences (1 line each) across domains. Use the common order: Physics, Chemistry, Biology, Social, Economy, Politics, Networks, Cognition. Include both technical and humane angles where helpful, and link to domain examples when they exist.
+
+---
+
+## Register note (if governance)
+
+- If this is a repository/theory governance principle (not kernel axiom), mark it as such and link from README/Onboarding.
+
+---
+
 ## Rationale (context)
 
 - Brief motivation and where it anchors in the theory (do not prove the axiom)
@@ -52,7 +94,7 @@ aliases:  # Optional
 
 ## Dependencies & scope
 
-- Independent of: <list or “none”>
+- Independent of: <list or "none">
 - Applies to: primitives / embeddings / closure operations
 
 ---
@@ -71,13 +113,14 @@ aliases:  # Optional
 
 ---
 
-## Domain Mapping (optional)
+## Dual‑register checklist
 
-- If illustrative, provide brief cross‑domain consequences in the order: Physics, Chemistry, Biology, Social, Economy, Politics, Networks, Cognition.
+- [ ] Technical mapping provided
+- [ ] Humane mapping provided
+- [ ] Crosswalk table included
 
 ---
 
 ## See Also
 
 - [[00.0.0.0 - Core Axioms (index)]]
-

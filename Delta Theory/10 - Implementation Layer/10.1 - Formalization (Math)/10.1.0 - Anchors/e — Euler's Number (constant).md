@@ -5,23 +5,23 @@ tags:
   - "#status/stable"
   - "#function/definition"
 aliases:
-  - π
-  - Pi
-  - Circle Constant
+  - e
+  - Euler's Number
+  - Natural Growth Constant
 ---
 
-# π — Circle Constant (constant)
+# e — Euler's Number (constant)
 
-> Mathematical implementation of closure geometry ratio.
-> See [[π — Closure Geometry Ratio (constant)]] for core conceptual meaning.
+> Mathematical implementation of natural transformation rate.
+> See [[e — Natural Transformation Rate (constant)]] for core conceptual meaning.
 
 ---
 
 ## Definition
 
-- Symbol: π
-- Value: 3.141592653589793... (dimensionless)
-- Primary: Ratio of circle's circumference to diameter
+- Symbol: e
+- Value: 2.718281828459045... (dimensionless)
+- Primary: Base of natural logarithm
 - Precision: Double precision (≈1e-15) typically sufficient
 
 ---
@@ -34,25 +34,25 @@ Map the implementation into both registers while preserving core meaning.
 
 | Implementation | Mathematical construct | Code example |
 |----------------|----------------------|--------------|
-| Value | Transcendental number | `Math.PI` |
-| Series | Leibniz formula | `4 * sum((-1)^k/(2k+1))` |
-| Integral | Area formula | `2 * integral(1/(1+x^2))` |
+| Value | Transcendental number | `Math.E` |
+| Series | Taylor expansion | `sum(1/k!)` |
+| Limit | Compound interest | `(1 + 1/n)^n` |
 
 ### Humane (experiential)
 
 | Implementation | Natural example | Experience |
 |----------------|----------------|------------|
-| Value | Full circle | Complete return |
-| Series | Step by step | Building cycles |
-| Integral | Smooth flow | Continuous motion |
+| Value | Growth rate | Natural pace |
+| Series | Step accumulation | Building up |
+| Limit | Smooth growth | Flowing change |
 
 ### Crosswalk (bridge)
 
 | Math term | Natural term | Implementation meaning |
 |-----------|-------------|----------------------|
-| Ratio | Cycle | How circles close |
+| Base | Pace | How change flows |
 | Series | Steps | How to compute |
-| Integral | Flow | How to measure |
+| Limit | Growth | How to measure |
 
 ---
 
@@ -60,41 +60,41 @@ Map the implementation into both registers while preserving core meaning.
 
 ### Primary Formulas
 
-1. **Geometric definition**
-   $$\pi = \frac{C}{D}$$
-   where $C$ is circumference and $D$ is diameter
+1. **Series definition**
+   $$e = \sum_{k=0}^{\infty} \frac{1}{k!}$$
+   (Taylor series at 0)
 
-2. **Series computation**
-   $$\pi = 4\sum_{k=0}^{\infty} \frac{(-1)^k}{2k+1}$$
-   (Leibniz formula)
+2. **Limit definition**
+   $$e = \lim_{n \to \infty} \left(1 + \frac{1}{n}\right)^n$$
+   (compound interest limit)
 
-3. **Integral form**
-   $$\pi = 2\int_0^1 \frac{dx}{1+x^2}$$
-   (arctangent formula)
+3. **Differential form**
+   $$\frac{d}{dx}e^x = e^x$$
+   (unique self-derivative)
 
 ### Usage Guidelines
 
 1. **Precision**
-   - Use built-in Math.PI when possible
+   - Use built-in Math.E when possible
    - Double precision sufficient for most uses
    - Specify precision needs explicitly
 
 2. **Performance**
-   - Cache π value, don't recompute
-   - Use built-in trig functions
+   - Cache e value, don't recompute
+   - Use built-in exp/log functions
    - Consider lookup tables for speed
 
 3. **Validation**
    - Test against known decimals
-   - Verify geometric properties
-   - Check cyclic behavior
+   - Verify growth properties
+   - Check differential behavior
 
 ---
 
 ## Scope & Constraints
 
-- Valid in Euclidean geometry
-- Different interpretations in curved space
+- Natural base for exponential growth
+- Optimal rate for continuous change
 - Computational approximations sufficient
 
 ---
@@ -107,8 +107,8 @@ This implementation maintains dual-register intelligibility per governance (see 
 
 ## See Also
 
-- [[π — Closure Geometry Ratio (constant)]] (core concept)
-- [[e — Euler's Number (constant)]] · [[φ — Golden Ratio (constant)]]
+- [[e — Natural Transformation Rate (constant)]] (core concept)
+- [[π — Circle Constant (constant)]] · [[φ — Golden Ratio (constant)]]
 - [[10.1 - Formalization (Math) (index)]]
 
 ---

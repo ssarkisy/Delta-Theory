@@ -47,6 +47,13 @@ tags:
 
 ---
 
+## Dual‑register tests
+
+- Technical: error budget (ε) and capacity (c) headroom ≥ target SLO; λV hysteresis configured; ψA covers recurrence interval
+- Humane: “can we miss and recover?” tolerance present; shared rhythm holds under typical gaps; smallest meaningful issues still noticed
+
+Depends on: [[ε — Difference Resolution Quantum (constant)]], [[c — Difference Propagation Limit (constant)]], [[λV — Void Resonance Threshold (Volozhina)]], [[ψA — Awareness Phase Coherence Anchor (Aiza)]], [[∇S — Structure Differentiation Gradient (Sarkisian)]].
+
 ## Domain Mapping
 
 - Physics: control stability margins; safety factors

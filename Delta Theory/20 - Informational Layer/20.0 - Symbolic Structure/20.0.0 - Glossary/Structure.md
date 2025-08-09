@@ -1,12 +1,13 @@
 ---
 type: glossary
 tags:
-  - "#layer/translation"
+  - "#layer/information"
   - "#status/stable"
   - "#function/definition"
 polarity: P+
 aliases:
   - Structures
+  - Form-making
 ---
 
 # Structure (P+)
@@ -17,64 +18,114 @@ aliases:
 
 ## Definition
 
-In Delta Theory, **Structure** is not a material object; it is a **configuration of recursive relations** that establishes **closure** and **boundary conditions** for difference. Structure is the shape of stabilization: where recursive feedback retains form and delineates an inside from an outside.
+In Delta Theory, **Structure** is not a material object; it is a **configuration of recursive relations** that establishes **closure** and **boundary conditions** for difference.
 
 A system exhibits Structure when:
 - **Closure is present** (feedback loops retain difference)
-- **Boundary conditions are explicit** (what is inside/outside is legible)
-- **Modulation patterns persist** (coherence is sustained over time)
+- **Boundary conditions are explicit** (inside/outside is legible)
+- **Modulation patterns persist** (coherence over time)
 
-Structure is thus a property of recursion that becomes **visible in a [[Field]]** and **projected into a [[Void]]**.
+---
+
+## Dual‑register mapping
+
+### Technical (network/computational)
+
+| Term concept | Network construct | Interface example |
+|-------------|------------------|-------------------|
+| Boundary | Interface | `API`, `Protocol` |
+| Closure | Loop | `Circuit`, `Cycle` |
+| Pattern | Configuration | `Schema`, `Type` |
+
+### Humane (biological/relational)
+
+| Term concept | Humane construct | Example |
+|-------------|------------------|----------|
+| Boundary | Clear edge | "Where it ends" |
+| Closure | Complete cycle | "Comes full circle" |
+| Pattern | Living form | "Has its shape" |
+
+### Crosswalk (bridge)
+
+| Technical term | Humane term | Ontological meaning |
+|---------------|-------------|-------------------|
+| Interface | Edge | Where inside meets outside |
+| Circuit | Cycle | How patterns close |
+| Schema | Form | What shape holds |
+
+### Domain Examples
+
+| Domain | Technical manifestation | Humane manifestation |
+|--------|------------------------|---------------------|
+| Physics | Symmetry group | Natural pattern |
+| Networks | API schema | Clear interface |
+| Cognition | Mental model | Felt shape |
+| Systems | Protocol | Living form |
+
+---
+
+## Scale Effects
+
+How Structure manifests differently at various scales:
+
+### Micro Scale (ε-bounded)
+
+| Constant | Effect | Example |
+|----------|--------|---------|
+| ε | Quantum structure | Wave function |
+| λV | Interface granularity | Discrete states |
+
+### Human Scale (ψA-bounded)
+
+| Constant | Effect | Example |
+|----------|--------|---------|
+| ψA | Pattern coherence | Stable form |
+| ∇S | Boundary clarity | Clear shape |
+
+### Universe Scale (c-bounded)
+
+| Constant | Effect | Example |
+|----------|--------|---------|
+| c | Causal structure | Cosmic web |
+| λV | Pattern horizon | Galaxy clusters |
+
+Note: At extreme scales, Structure may blur into Field-like or Void-like presentations due to fundamental limits (e.g., quantum uncertainty at ε, cosmic horizons at c).
 
 ---
 
 ## Ontological Role
 
-| Domain     | Role                                                |
-|------------|-----------------------------------------------------|
-| Structure  | Defines closure and boundary; shapes Forms          |
-| [[Void]]       | Receives structural projection and perturbs it      |
-| Awareness  | Tunes coherence; stabilizes structural persistence  |
+| Domain | Role |
+|--------|------|
+| Structure | Defines closure and boundary |
+| Void | Receives structural projection |
+| Awareness | Stabilizes persistence |
 
 Structure provides the **conditions for Form** to arise and persist within a receptive Field.
 
 ---
 
-## Structure vs Field vs Void
+## Comparisons
 
-| Term        | Boundary          | Description                                                     |
-|-------------|-------------------|-----------------------------------------------------------------|
-| **Structure** | **Closure-defined** | Patterned relations that impose shape and boundary on difference |
-| **[[Field]]**     | **Transparent**     | Recursively structured zone where internal loops are accessible  |
-| **[[Void]]**      | **Opaque**          | External relational outside with hidden internal recursion       |
+Compare with related terms:
 
-> A Field is where Structure becomes **accessible**; a Void is where Structure is **inaccessible**.
-
----
-
-## Examples
-
-| Domain          | Structure Example                             | Field Example                          | Void Example                         |
-|-----------------|-----------------------------------------------|----------------------------------------|--------------------------------------|
-| Network Systems | API schema, routing graph (boundary rules)     | Container with exposed metrics         | Unknown service behind firewall      |
-| Cognition       | Self-concept schema, narrative boundary         | Focused attention loop                 | Unconscious processing               |
-| Programming     | Type system, module interface (closure)         | Scoped memory with introspection       | `void` return / inaccessible buffer  |
-| Physics         | Symmetry group, conservation boundary           | Electromagnetic field                  | Vacuum / unobservable curvature      |
+| Term | Distinction | Example |
+|------|------------|---------|
+| Structure | Closure pattern | API schema |
+| Field | Access zone | Observable system |
+| Void | Hidden zone | Black box |
 
 ---
 
 ## Recursive Function
 
-Structure emerges where recursive embedding resolves into stable boundary conditions:
+Structure emerges through closure:
 
 $$
-F_n = ⊚(R^n(∆_0)) \quad \text{as structural closure within a transparent Field}
+F_n = ⊚(R^n(∆_0)) \quad \text{as structural closure}
 $$
 
-- $R^n(∆_0)$ — nth-level recursive embedding of difference
-- $⊚$ — stabilization operator (feedback, retention, closure)
-
-Structure participates in the recursive loop:
+Structure participates in the loop:
 
 $$
 \text{Structure} \rightarrow \text{Void} \rightarrow \text{Awareness} \rightarrow \text{Structure}'
@@ -82,11 +133,24 @@ $$
 
 ---
 
-## Related Terms
+## Design rationale
+
+This term must maintain dual-register intelligibility per governance (see [PRINCIPLES.md](../../../../PRINCIPLES.md)). Neither technical patterns nor experiential forms alone captures its full meaning.
+
+---
+
+## See Also
 
 - [[Field]]
 - [[Void]]
 - [[Closure]]
 - [[∇S — Structure Differentiation Gradient (Sarkisian)]]
-- [[λV — Void Resonance Threshold (Volozhina)]]
-- [[ψA — Awareness Phase Coherence Anchor (Aiza)]]
+
+---
+
+## Dual‑register checklist
+
+- [x] Technical mapping provided
+- [x] Humane mapping provided
+- [x] Crosswalk table included
+- [x] Scale effects documented

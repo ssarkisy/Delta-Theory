@@ -15,6 +15,59 @@ aliases:
 
 ---
 
+## Definition
+
+A Form is a stabilized configuration of embedded difference that can persist and interact. It emerges when closure succeeds and maintains coherence under perturbation.
+
+---
+
+## Dual‑register mapping
+
+Map the interface into both registers and show the bridge explicitly.
+
+### Technical (network/computational)
+
+| Form concept | Network construct (Target) | Interface/API example |
+|-------------|---------------------------|----------------------|
+| Identity | Stable session | `Session`, `IdentityTracker` |
+| State | Committed data | `StateManager`, `Snapshot` |
+| Boundary | Interface contract | `Boundary`, `Protocol` |
+
+### Humane (biological/relational)
+
+| Form concept | Humane construct (Target) | Example |
+|-------------|---------------------------|---------|
+| Identity | Recognized pattern | "I know this shape" |
+| State | Living memory | "This is how it is" |
+| Boundary | Clear edges | "Where it starts/ends" |
+
+### Crosswalk (bridge)
+
+| Technical term | Humane term | Ontological meaning |
+|---------------|-------------|-------------------|
+| Session | Recognition | Stable identity over time |
+| State | Memory | What persists |
+| Contract | Edge | Where form meets world |
+
+---
+
+## Domain Mapping
+
+Brief examples across domains showing both technical and humane angles:
+
+| Domain | Technical manifestation | Humane manifestation |
+|--------|------------------------|---------------------|
+| Physics | Bound state | Natural shape |
+| Chemistry | Stable molecule | Distinct substance |
+| Biology | Cell identity | Living form |
+| Social | Partnership record | Lasting bond |
+| Economy | Account position | Owned value |
+| Politics | Institution | Living tradition |
+| Networks | Durable session | Known identity |
+| Cognition | Memory trace | Clear concept |
+
+---
+
 ## Formal identity
 
 $$
@@ -39,24 +92,9 @@ $$
 
 ---
 
-## Network mapping
+## Design rationale
 
-| Primitive concept | Network construct (Target) | Interface/API example |
-|-------------------|----------------------------|-----------------------|
-| F                 | Stabilized session/identity | Session, IdentityTracker |
-
----
-
-## Domain Mapping
-
-- Physics: bound state, stable phase/domain forms
-- Chemistry: molecule/complex forms; product stabilized
-- Biology: durable phenotype/trait; stable cell identity
-- Social: a lasting friendship/partnership forms
-- Economy: a contract/position exists in your account
-- Politics: an enacted policy/institution persists
-- Networks: durable session/identity; committed state
-- Cognition: a concept you can recall and use across situations
+Dual‑register mapping is required (see [PRINCIPLES.md](../../../../../PRINCIPLES.md)) to avoid reducing Form to either a technical session/state or a humane recognition alone; it must be legible in both.
 
 ---
 
@@ -66,3 +104,11 @@ $$
 - [[RelationalEmbedding]]
 - [[Stabilization (Closure)]]
 - [[Structure]]
+
+---
+
+## Dual‑register checklist
+
+- [x] Technical mapping provided
+- [x] Humane mapping provided
+- [x] Crosswalk table included

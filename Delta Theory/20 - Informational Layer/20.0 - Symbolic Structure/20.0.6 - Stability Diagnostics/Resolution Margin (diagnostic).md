@@ -37,6 +37,13 @@ tags:
 
 ---
 
+## Dual‑register tests
+
+- Technical: sampling fidelity ensures signal‑to‑ε headroom; adaptive ε by context; misclassifications vs Zero minimized
+- Humane: smallest meaningful distinctions are still perceived; no loss of nuance under normal load
+
+Depends on: [[ε — Difference Resolution Quantum (constant)]], [[∇S — Structure Differentiation Gradient (Sarkisian)]], [[λV — Void Resonance Threshold (Volozhina)]].
+
 ## Domain Mapping
 
 - Physics: instrument resolution limits

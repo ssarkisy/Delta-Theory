@@ -22,6 +22,53 @@ Stabilization is the **closure operation** that locks feedback loops and boundar
 
 ---
 
+## Dual‑register mapping
+
+Map the primitive into both registers and show the bridge explicitly.
+
+### Technical (network/computational)
+
+| Primitive concept | Network construct (Target) | Interface/API example |
+|------------------|---------------------------|----------------------|
+| Closure | Control loop | `SessionCloser` |
+| Feedback | State lock | `StateLock` |
+| Coherence | Consensus | `QuorumGate` |
+
+### Humane (biological/relational)
+
+| Primitive concept | Humane construct (Target) | Example |
+|------------------|---------------------------|---------|
+| Closure | Habit formation | "It sticks now" |
+| Feedback | Self-reinforcing | "Gets stronger" |
+| Coherence | Group rhythm | "Moving as one" |
+
+### Crosswalk (bridge)
+
+| Technical term | Humane term | Ontological meaning |
+|---------------|-------------|-------------------|
+| Control loop | Habit | What keeps form stable |
+| State lock | Memory | What holds shape |
+| Consensus | Unity | How parts align |
+
+---
+
+## Domain Mapping
+
+Brief examples across domains showing both technical and humane angles:
+
+| Domain | Technical manifestation | Humane manifestation |
+|--------|------------------------|---------------------|
+| Physics | Phase lock | Natural stability |
+| Chemistry | Bond formation | Chemical unity |
+| Biology | Homeostasis | Life balance |
+| Social | Agreement | Trust bond |
+| Economy | Settlement | Value lock |
+| Politics | Enactment | Power hold |
+| Networks | Commitment | System state |
+| Cognition | Memory lock | Understanding |
+
+---
+
 ## Formal identity
 
 $$
@@ -51,24 +98,9 @@ Note: ⊚ stabilizes Structure → Form. Void → Field is not a stabilization; 
 
 ---
 
-## Network mapping
+## Design rationale
 
-| Primitive concept | Network construct (Target) | Interface/API example |
-|-------------------|----------------------------|-----------------------|
-| ⊚                 | Control/feedback closure    | SessionCloser, QuorumGate |
-
----
-
-## Domain Mapping
-
-- Physics: phase transition nucleates; bound state forms
-- Chemistry: bond formation; reaction reaches completion criterion
-- Biology: synaptic consolidation; homeostatic setpoint attainment
-- Social: both people say “yes” to meet (time/place agreed)
-- Economy: payment confirmed; settlement final
-- Politics: bill passes all gates; policy becomes enforceable
-- Networks: consensus reached; transaction committed
-- Cognition: you rehearsed/slept; memory “sticks”
+Dual‑register mapping is required (see [PRINCIPLES.md](../../../../../PRINCIPLES.md)) to prevent reducing closure to either technical loops or humane habits; ⊚ must be legible in both.
 
 ---
 
@@ -78,3 +110,11 @@ Note: ⊚ stabilizes Structure → Form. Void → Field is not a stabilization; 
 - [[Delta]]
 - [[Form]]
 - [[Structure]]
+
+---
+
+## Dual‑register checklist
+
+- [x] Technical mapping provided
+- [x] Humane mapping provided
+- [x] Crosswalk table included

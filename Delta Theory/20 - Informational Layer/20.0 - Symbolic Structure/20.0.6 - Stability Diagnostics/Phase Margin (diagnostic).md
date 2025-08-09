@@ -38,6 +38,13 @@ tags:
 
 ---
 
+## Dual‑register tests
+
+- Technical: PLL/consensus phase reserve sufficient; cadence window covers recurrence interval; jitter ≤ ε
+- Humane: shared rhythm holds; attention windows overlap enough for identity continuity
+
+Depends on: [[π — Closure Geometry Ratio (constant)]], [[ε — Difference Resolution Quantum (constant)]], [[ψA — Awareness Phase Coherence Anchor (Aiza)]], [[λV — Void Resonance Threshold (Volozhina)]].
+
 ## Domain Mapping
 
 - Physics: control/PLL phase margin

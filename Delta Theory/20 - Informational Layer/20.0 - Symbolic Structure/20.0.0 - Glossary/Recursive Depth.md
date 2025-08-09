@@ -2,8 +2,11 @@
 type: glossary
 tags:
   - "#layer/information"
-  - "#status/seed"
-  - "#function/observation"
+  - "#status/stable"
+  - "#function/definition"
+aliases:
+  - Embedding Depth
+  - Layer Count
 ---
 
 # Recursive Depth (n)
@@ -14,38 +17,136 @@ tags:
 
 ## Definition
 
-- `R(·)` embeds a difference `∆` into relations; `R^n` repeats that act `n` times
-- `n` is dimensionless; it indexes contextual layering, not spatial distance
+In Delta Theory, **Recursive Depth** measures relational layering:
+- `R(·)` embeds difference into relations
+- `R^n` repeats that embedding n times
+- n is dimensionless; indexes context, not distance
 
 ---
 
-## Operational Role
+## Dual‑register mapping
 
-- More depth exposes constraints and interfaces, enabling closure when supported
-- Cost/feasibility: required signal strength and coherence typically rise with `n`
+### Technical (network/computational)
+
+| Term concept | Network construct | Interface example |
+|-------------|------------------|-------------------|
+| Depth | Layer count | `StackDepth`, `Level` |
+| Cost | Resource use | `Complexity`, `Budget` |
+| Signal | Strength decay | `Attenuation`, `Loss` |
+
+### Humane (biological/relational)
+
+| Term concept | Humane construct | Example |
+|-------------|------------------|----------|
+| Depth | Understanding levels | "How deep it goes" |
+| Cost | Energy required | "Takes more effort" |
+| Signal | Clarity loss | "Gets harder to see" |
+
+### Crosswalk (bridge)
+
+| Technical term | Humane term | Ontological meaning |
+|---------------|-------------|-------------------|
+| Layer | Level | How far embedded |
+| Resource | Effort | What it takes |
+| Decay | Fading | How strength drops |
+
+### Domain Examples
+
+| Domain | Technical manifestation | Humane manifestation |
+|--------|------------------------|---------------------|
+| Physics | Field coupling layers | Natural nesting |
+| Networks | Protocol stack | Living layers |
+| Cognition | Memory hierarchy | Depth of meaning |
+| Systems | Nested systems | Organic levels |
 
 ---
 
-## Interactions (anchors/modulators)
+## Scale Effects
 
-- [[ε — Difference Resolution Quantum (constant)]]: sets minimal resolvable change per layer
-- [[λV — Void Resonance Threshold (Volozhina)]]: each interface traversed adds gating
-- [[ψA — Awareness Phase Coherence Anchor (Aiza)]]: needs sufficient memory/phase to span layers
-- [[∇S — Structure Differentiation Gradient (Sarkisian)]]: enables finer stratification if supported
+How Recursive Depth manifests differently at various scales:
+
+### Micro Scale (ε-bounded)
+
+| Constant | Effect | Example |
+|----------|--------|---------|
+| ε | Quantum layers | Wave functions |
+| λV | State hierarchy | Energy levels |
+
+### Human Scale (ψA-bounded)
+
+| Constant | Effect | Example |
+|----------|--------|---------|
+| ψA | Coherence span | Attention depth |
+| ∇S | Layer clarity | Clear levels |
+
+### Universe Scale (c-bounded)
+
+| Constant | Effect | Example |
+|----------|--------|---------|
+| c | Causal depth | Cosmic structure |
+| λV | Layer horizon | Galaxy hierarchy |
+
+Note: At extreme scales, Recursive Depth faces fundamental limits (e.g., quantum uncertainty at ε, causal disconnection at c) that affect how many layers can be stably maintained.
 
 ---
 
-## Not
+## Ontological Role
 
-- Not a geometric depth or physical distance
-- Not inherently “better”: excessive `n` without support yields dissipation
+| Domain | Role |
+|--------|------|
+| Structure | Enables stratification |
+| Void | Adds interface layers |
+| Awareness | Tests coherence span |
+
+More depth exposes constraints and interfaces, enabling closure when supported.
+
+---
+
+## Comparisons
+
+Compare with related terms:
+
+| Term | Distinction | Example |
+|------|------------|---------|
+| Depth | Layer count | Stack levels |
+| Interval | Time span | Cycle period |
+| Closure | Stability test | Pattern lock |
+
+---
+
+## Recursive Function
+
+Depth appears in embedding iteration:
+
+$$
+R^n(\Delta_0) \quad \text{with cost } \propto f(n)
+$$
+
+Where:
+- n = recursion depth
+- f(n) = cost function
+- $\Delta_0$ = initial difference
+
+---
+
+## Design rationale
+
+This term must maintain dual-register intelligibility per governance (see [PRINCIPLES.md](../../../../PRINCIPLES.md)). Neither technical stack depth nor experiential understanding levels alone captures its full meaning.
 
 ---
 
 ## See Also
 
-- [[Relation]] · [[RelationalEmbedding]]
-- [[Stabilization (Closure)]] · [[Form]]
-- [[RecurrenceInterval]]
+- [[Relation]]
+- [[RelationalEmbedding]]
+- [[Stabilization (Closure)]]
+- [[Recurrence Interval]]
 
+---
 
+## Dual‑register checklist
+
+- [x] Technical mapping provided
+- [x] Humane mapping provided
+- [x] Crosswalk table included
+- [x] Scale effects documented

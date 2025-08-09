@@ -23,6 +23,53 @@ aliases:
 
 ---
 
+## Dual‑register mapping (concept)
+
+Map the constant into both registers and show the bridge explicitly.
+
+### Technical (network/computational)
+
+| Constant concept | Network construct (Target) | Interface/API example |
+|-----------------|---------------------------|----------------------|
+| Closure | Cycle completion | `CycleCounter` |
+| Rotation | Phase angle | `PhaseRotator` |
+| Containment | Boundary metric | `BoundaryRatio` |
+
+### Humane (biological/relational)
+
+| Constant concept | Humane construct (Target) | Example |
+|-----------------|---------------------------|---------|
+| Closure | Sense of completion | When a cycle feels "whole" |
+| Rotation | Natural rhythm | Full turn of the seasons |
+| Containment | Holding space | Creating a safe container |
+
+### Crosswalk (bridge)
+
+| Technical term | Humane term | Ontological meaning |
+|---------------|-------------|-------------------|
+| Cycle count | Completion sense | When difference returns home |
+| Phase angle | Natural rhythm | How cycles measure time |
+| Boundary ratio | Container shape | How space holds form |
+
+---
+
+## Domain Mapping
+
+Brief examples across domains showing both technical and humane angles:
+
+| Domain | Technical manifestation | Humane manifestation |
+|--------|------------------------|---------------------|
+| Physics | Wave period | Resonant cycles |
+| Chemistry | Orbital shells | Molecular harmony |
+| Biology | Growth cycles | Life rhythms |
+| Social | Feedback loops | Community cycles |
+| Economy | Market cycles | Value rhythms |
+| Politics | Policy cycles | Cultural periods |
+| Networks | Protocol rounds | System heartbeat |
+| Cognition | Memory loops | Thought cycles |
+
+---
+
 ## Formal identity (concept)
 
 - Math instance (Euclidean): $\pi = C/D$; series/integral forms standard
@@ -64,3 +111,10 @@ aliases:
 - [[ε — Difference Resolution Quantum (constant)]]
 - [[c — Difference Propagation Limit (constant)]]
 
+---
+
+## Dual‑register checklist
+
+- [x] Technical mapping provided
+- [x] Humane mapping provided
+- [x] Crosswalk table included

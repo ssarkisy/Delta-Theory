@@ -32,7 +32,7 @@ aliases:  # Optional
 
 ## Title
 
-`# <Name> (primitive)`
+`# <n> (primitive)`
 
 > One-sentence essence capturing the role of this primitive in recursion.
 
@@ -41,6 +41,45 @@ aliases:  # Optional
 ## Definition
 
 2–4 sentences. Avoid domain-specific jargon; use vault-native terms (∆, R(·), ⊚, Field/Void/Awareness) where helpful.
+
+---
+
+## Dual-register mapping
+
+Map the primitive into both registers and show the bridge explicitly.
+
+### Technical (network/computational)
+
+| Primitive concept | Network construct (Target) | Interface/API example |
+|-------------------|----------------------------|-----------------------|
+| ∆                 | Divergent event on a stream | `ChangeDetector`, `EventSource` |
+| R(·)              | Topology/context graph      | `ContextGraph`, `PathSelector` |
+| ⊚                 | Control/feedback closure    | `SessionCloser`, `QuorumGate` |
+| F                 | Stabilized session/identity | `Session`, `IdentityTracker` |
+
+### Humane (biological/relational)
+
+| Primitive concept | Humane construct (Target)     | Example |
+|-------------------|-------------------------------|---------|
+| ∆                 | Perceptual moment (distinction)| Noticing a mismatch |
+| R(·)              | Relationship/context           | Role, situation, setting |
+| ⊚                 | Habit/rhythm (closure)         | Settling into a routine |
+| F                 | Recognized form/identity       | "This is the pattern" |
+
+### Crosswalk (bridge)
+
+| Technical term  | Humane term          | Ontological meaning                    |
+|-----------------|----------------------|----------------------------------------|
+| Node/event      | Perceptual moment    | Distinct difference recognized         |
+| Edge/topology   | Relationship/context | Difference embedded into larger whole  |
+| Loop/closure    | Habit/rhythm         | Self-reinforcing stabilization         |
+| Resonance       | Mutual attunement    | Stability via alignment of differences |
+
+---
+
+## Domain Mapping
+
+Provide brief, concrete examples (1 line each) across domains. Use the common order: Physics, Chemistry, Biology, Social, Economy, Politics, Networks, Cognition. Include both technical and humane angles where helpful, and link to domain instances when they exist.
 
 ---
 
@@ -66,25 +105,6 @@ aliases:  # Optional
 
 ---
 
-## Network mapping
-
-Map the primitive concept to concrete network constructs and (if available) interfaces/APIs.
-
-| Primitive concept | Network construct (Target) | Interface/API example |
-|-------------------|----------------------------|-----------------------|
-| ∆                 | Divergent event on a stream | `ChangeDetector`, `EventSource` |
-| R(·)              | Topology/context graph      | `ContextGraph`, `PathSelector` |
-| ⊚                 | Control/feedback closure    | `SessionCloser`, `QuorumGate` |
-| F                 | Stabilized session/identity | `Session`, `IdentityTracker` |
-
----
-
-## Domain Mapping
-
-Keep network as primary; add quick analogies in other domains. Suggested ordering: Physics, Chemistry, Biology, Social, Economy, Politics, Networks, Cognition.
-
----
-
 ## See Also
 
 - [[Field]]
@@ -92,3 +112,11 @@ Keep network as primary; add quick analogies in other domains. Suggested orderin
 - [[Structure]]
 - [[Awareness]]
 - Closely related primitives/interfaces (inline links)
+
+---
+
+## Dual‑register checklist
+
+- [ ] Technical mapping provided
+- [ ] Humane mapping provided
+- [ ] Crosswalk table included

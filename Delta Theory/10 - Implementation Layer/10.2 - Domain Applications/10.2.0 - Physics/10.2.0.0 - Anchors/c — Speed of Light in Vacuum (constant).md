@@ -2,7 +2,7 @@
 type: constant
 tags:
   - "#layer/implementation"
-  - "#status/seed"
+  - "#status/stable"
   - "#function/definition"
 aliases:
   - c
@@ -10,46 +10,109 @@ aliases:
   - Difference Propagation Limit (physics)
 ---
 
-# c — Maximum Propagation Speed (physics: speed of light) (constant)
+# c — Speed of Light in Vacuum (constant)
 
-> Conceptual: maximum difference propagation speed through the Void.
-> Physics instantiation: exact speed of light in vacuum (defines the meter).
+> Physical implementation of difference propagation limit.
+> See [[c — Difference Propagation Limit (constant)]] for core conceptual meaning.
 
 ---
 
 ## Definition
 
 - Symbol: c
-- Name: Speed of Light in Vacuum
-- Value: 299 792 458 m/s (exact, by SI definition)
-- Definition: exact value defining the meter via distance = $c \cdot$ time
+- Value: 299 792 458 m/s (exact, by SI definition)
+- Primary: Maximum propagation speed in vacuum
+- Units: Defines the meter via distance = c × time
 
 ---
 
-## Formal identity (if applicable)
+## Dual‑register mapping
 
-- $x = c\,t$ (null interval); invariant speed in special relativity
-- Metric signature with $c$ sets Lorentz transformations and light cones
+Map the implementation into both registers while preserving core meaning.
+
+### Technical (physical)
+
+| Implementation | Physical construct | Code example |
+|----------------|-------------------|--------------|
+| Value | Light speed | `c = 299792458` |
+| Metric | Spacetime interval | `ds^2 = -c^2dt^2 + dx^2` |
+| Energy | Mass relation | `E = mc^2` |
+
+### Humane (experiential)
+
+| Implementation | Natural example | Experience |
+|----------------|----------------|------------|
+| Value | Causal horizon | "Can't go faster" |
+| Metric | Light cone | "Future vs past" |
+| Energy | Mass-energy | "Matter is frozen light" |
+
+### Crosswalk (bridge)
+
+| Physics term | Natural term | Implementation meaning |
+|-------------|-------------|----------------------|
+| Speed limit | Causality | How fast difference moves |
+| Interval | Time flow | How events connect |
+| Mass-energy | Transformation | How forms change |
 
 ---
 
-## Anchor role
+## Implementation Details
 
-- Sets the maximum signal/causal propagation speed
-- Ties space and time units; anchors electromagnetism and relativity
-- Appears in $E = mc^2$ and wave equations
+### Primary Relations
+
+1. **Metric definition**
+   $$ds^2 = -c^2dt^2 + dx^2 + dy^2 + dz^2$$
+
+2. **Energy relation**
+   $$E = mc^2$$
+   $$E^2 = p^2c^2 + m^2c^4$$
+
+3. **Wave equation**
+   $$\nabla^2\phi = \frac{1}{c^2}\frac{\partial^2\phi}{\partial t^2}$$
+
+### Usage Guidelines
+
+1. **Units**
+   - SI: meters per second
+   - Natural: c = 1
+   - Specify unit system clearly
+
+2. **Precision**
+   - Exact by SI definition
+   - Media have v < c
+   - Check unit consistency
+
+3. **Validation**
+   - Test relativistic formulas
+   - Verify causal ordering
+   - Check wave solutions
 
 ---
 
-## Scope & invariance
+## Scope & Constraints
 
-- Exact by SI; applies to vacuum; media have $v < c$
-- Coordinate choices may set $c=1$ (natural units) for convenience
+- Exact in vacuum
+- Media have v < c
+- Defines causality
+
+---
+
+## Design rationale
+
+This implementation maintains dual-register intelligibility per governance (see [PRINCIPLES.md](../../../../../../PRINCIPLES.md)). Physical precision is balanced with natural understanding.
 
 ---
 
 ## See Also
 
-- [[Physics — Anchors (meta)]]
+- [[c — Difference Propagation Limit (constant)]] (core concept)
 - [[α — Fine-Structure Constant (constant)]]
+- [[10.2.0 - Physics (index)]]
 
+---
+
+## Dual‑register checklist
+
+- [x] Technical mapping provided
+- [x] Humane mapping provided
+- [x] Crosswalk table included

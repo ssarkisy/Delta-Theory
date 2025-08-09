@@ -16,6 +16,8 @@ tags:
 
 The Translation Layer expresses the **ontological core** of Delta Theory using **accessible network metaphors** and **minimal functional interfaces**. It makes primitives usable without committing to any single domain formalism.
 
+> Onboarding: See [PRINCIPLES.md](../../../../PRINCIPLES.md) (dual‑register governance) and [ROADMAP.md](../../../../ROADMAP.md) before authoring.
+
 ---
 
 ## Modules

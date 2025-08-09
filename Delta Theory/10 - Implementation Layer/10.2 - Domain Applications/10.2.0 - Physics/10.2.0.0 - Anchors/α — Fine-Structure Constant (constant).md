@@ -2,53 +2,116 @@
 type: constant
 tags:
   - "#layer/implementation"
-  - "#status/seed"
+  - "#status/stable"
   - "#function/definition"
 aliases:
   - α
   - Alpha
-  - Fine-Structure Constant
+  - Fine Structure Constant
 ---
 
-# α — Fine-Structure Constant (constant)
+# α — Fine Structure Constant (constant)
 
-> Dimensionless electromagnetic coupling strength; anchors interaction magnitude in QED.
+> Physical implementation of electromagnetic coupling.
+> Dimensionless measure of interaction strength.
 
 ---
 
 ## Definition
 
 - Symbol: α
-- Name: Fine-Structure Constant
-- Value: ≈ 7.2973525693×10⁻³ (≈ 1/137.035999...) (dimensionless; CODATA approx)
-- Definition: electromagnetic coupling constant; dimensionless ratio
+- Value: 1/137.035999084... (dimensionless)
+- Primary: Electromagnetic coupling strength
+- Units: None (pure number)
 
 ---
 
-## Formal identity (if applicable)
+## Dual‑register mapping
 
-- In SI: $\alpha = \dfrac{e^2}{4\pi \varepsilon_0 \hbar c}$
-- In Gaussian units: $\alpha = \dfrac{e^2}{\hbar c}$
+Map the implementation into both registers while preserving core meaning.
+
+### Technical (physical)
+
+| Implementation | Physical construct | Code example |
+|----------------|-------------------|--------------|
+| Value | Coupling strength | `e^2/(ħ*c)` |
+| Structure | Energy levels | `E_n ∝ α^2` |
+| Interaction | QED vertex | `√α` per vertex |
+
+### Humane (experiential)
+
+| Implementation | Natural example | Experience |
+|----------------|----------------|------------|
+| Value | Connection strength | "How strongly linked" |
+| Structure | Pattern detail | "Fine features" |
+| Interaction | Influence reach | "Effect strength" |
+
+### Crosswalk (bridge)
+
+| Physics term | Natural term | Implementation meaning |
+|-------------|-------------|----------------------|
+| Coupling | Connection | How things affect each other |
+| Structure | Pattern | How details emerge |
+| Vertex | Meeting | How influences combine |
 
 ---
 
-## Anchor role
+## Implementation Details
 
-- Sets strength of electromagnetic interactions (spectra, cross‑sections)
-- Governs fine structure of atomic levels and scattering amplitudes
-- Bridges constants $e, \hbar, c$ via a unit‑free ratio
+### Primary Relations
+
+1. **Definition**
+   $$\alpha = \frac{e^2}{\hbar c} \approx \frac{1}{137}$$
+
+2. **Energy levels**
+   $$E_n = -mc^2\frac{\alpha^2}{2n^2}$$
+
+3. **QED expansion**
+   $$\text{amplitude} \propto \sum (\sqrt{\alpha})^n$$
+
+### Usage Guidelines
+
+1. **Value**
+   - Use measured value
+   - Note uncertainty
+   - Check unit cancellation
+
+2. **Precision**
+   - Known to ~10⁻¹⁰
+   - May vary with energy
+   - Test convergence
+
+3. **Validation**
+   - Check spectral lines
+   - Verify QED series
+   - Test running coupling
 
 ---
 
-## Scope & invariance
+## Scope & Constraints
 
-- Dimensionless; value independent of units; measured (not defined exactly)
-- Precision and context (vacuum, low‑energy limit) should be specified for calculations
+- Electromagnetic only
+- Energy dependent
+- Perturbative regime
+
+---
+
+## Design rationale
+
+This implementation maintains dual-register intelligibility per governance (see [PRINCIPLES.md](../../../../../../PRINCIPLES.md)). Physical precision is balanced with natural understanding.
 
 ---
 
 ## See Also
 
-- [[Physics — Anchors (meta)]]
 - [[c — Speed of Light in Vacuum (constant)]]
+- [[ħ — Reduced Planck Constant (constant)]]
+- [[10.2.0 - Physics (index)]]
 
+---
+
+## Dual‑register checklist
+
+- [x] Technical mapping provided
+- [x] Humane mapping provided
+- [x] Crosswalk table included

@@ -23,15 +23,80 @@ aliases:
 
 ---
 
-## Instances (domain bindings)
+## Dual‑register mapping (concept)
 
-- Physics: [[c — Speed of Light in Vacuum (constant)|c — Speed of Light in Vacuum]]
+Map the constant into both registers and show the bridge explicitly.
+
+### Technical (network/computational)
+
+| Constant concept | Network construct (Target) | Interface/API example |
+|-----------------|---------------------------|----------------------|
+| Speed limit | Channel capacity | `MaxThroughput` |
+| Update bound | Refresh rate | `MaxUpdateRate` |
+| Latency floor | Minimum delay | `MinLatency` |
+
+### Humane (biological/relational)
+
+| Constant concept | Humane construct (Target) | Example |
+|-----------------|---------------------------|---------|
+| Speed limit | Integration capacity | How fast we can absorb change |
+| Update bound | Processing rhythm | Natural pause between thoughts |
+| Latency floor | Response time | Quickest possible reaction |
+
+### Crosswalk (bridge)
+
+| Technical term | Humane term | Ontological meaning |
+|---------------|-------------|-------------------|
+| Channel limit | Absorption rate | Maximum flow of difference |
+| Update cycle | Process rhythm | Natural pace of change |
+| Min delay | Response gap | Irreducible separation |
 
 ---
 
-## Notes
+## Domain Mapping
 
-- Setting c = 1 (natural units) is a convenience; doesn’t derive the concept.
+Brief examples across domains showing both technical and humane angles:
+
+| Domain | Technical manifestation | Humane manifestation |
+|--------|------------------------|---------------------|
+| Physics | Light speed | Causal horizon |
+| Chemistry | Reaction speed | Process timing |
+| Biology | Signal velocity | Response time |
+| Social | Information flow | Understanding pace |
+| Economy | Transaction speed | Market response |
+| Politics | Change rate | Adaptation pace |
+| Networks | Bandwidth limit | Processing bound |
+| Cognition | Neural delay | Reaction time |
+
+---
+
+## Anchor role
+
+- Sets fundamental limit on difference propagation speed
+- Establishes causality and update order in systems
+- Creates horizons of possible interaction
+
+---
+
+## Scope & invariance
+
+- Universal limit across all domains
+- Manifests as specific speed/rate limits in each context
+- Setting c = 1 (natural units) is a convenience; doesn't derive the concept
+
+---
+
+## Interplay with SVA (if relevant)
+
+- ∇S: limits rate of structural differentiation
+- λV: bounds field propagation speed
+- ψA: constrains phase alignment timing
+
+---
+
+## Instances (domain bindings)
+
+- Physics: [[c — Speed of Light in Vacuum (constant)|c — Speed of Light in Vacuum]]
 
 ---
 
@@ -42,3 +107,10 @@ aliases:
 - [[e — Natural Transformation Rate (constant)]]
 - [[φ — Asymmetric Stabilization Ratio (constant)]]
 
+---
+
+## Dual‑register checklist
+
+- [x] Technical mapping provided
+- [x] Humane mapping provided
+- [x] Crosswalk table included

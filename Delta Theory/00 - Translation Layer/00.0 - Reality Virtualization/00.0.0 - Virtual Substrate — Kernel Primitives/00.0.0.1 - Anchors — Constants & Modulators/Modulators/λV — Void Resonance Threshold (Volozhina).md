@@ -25,6 +25,53 @@ will spark propagation vs be absorbed. In practice, λV shapes backpressure, sat
 
 ---
 
+## Dual‑register mapping
+
+Map the modulator into both registers and show the bridge explicitly.
+
+### Technical (network/computational)
+
+| Modulator concept | Network construct (Target) | Interface/API example |
+|------------------|---------------------------|----------------------|
+| Threshold | Feature exposure gate | `FeatureFlagThreshold` |
+| Sensitivity | Interface backpressure | `RateLimiter`, `CircuitBreaker` |
+| Attention | Signal-noise gate | `SNRThreshold`, `AttentionGate` |
+
+### Humane (biological/relational)
+
+| Modulator concept | Humane construct (Target) | Example |
+|------------------|---------------------------|---------|
+| Threshold | Readiness boundary | "We're not ready for this yet" |
+| Sensitivity | Receptivity state | "Not now" - healthy boundary |
+| Attention | Noticing threshold | What matters enough to see |
+
+### Crosswalk (bridge)
+
+| Technical term | Humane term | Ontological meaning |
+|---------------|-------------|-------------------|
+| Gate threshold | Readiness | When difference can enter |
+| Backpressure | Boundary strength | How system protects itself |
+| Signal gate | Care threshold | What gets attention |
+
+---
+
+## Domain Mapping
+
+Brief examples across domains showing both technical and humane angles:
+
+| Domain | Technical manifestation | Humane manifestation |
+|--------|------------------------|---------------------|
+| Physics | Ignition threshold | Natural barrier |
+| Chemistry | Activation energy | Catalytic readiness |
+| Biology | Receptor threshold | Sensory awareness |
+| Social | Group entry bar | Trust boundary |
+| Economy | Minimum viable size | Value threshold |
+| Politics | Quorum requirement | Movement momentum |
+| Networks | Rate limit | System protection |
+| Cognition | Attention filter | Conscious threshold |
+
+---
+
 ## Formal identity
 
 - Global modulation: $\Delta(t) = ∇S(t) \times λV(t) \times ψA(t)$
@@ -59,28 +106,16 @@ will spark propagation vs be absorbed. In practice, λV shapes backpressure, sat
 
 ---
 
-## Network mapping
+## Cross‑register failure modes
 
-Three rows reflect S/V/A perspectives of the same modulator.
-
-| Modulator (axis) | Network construct (Target)        | Interface/API example        |
-|------------------|-----------------------------------|------------------------------|
-| λV (Structure)   | Feature exposure threshold        | FeatureFlagThreshold, MinSignal |
-| λV (Void)        | Interface sensitivity/backpressure| RateLimiter, CircuitBreaker  |
-| λV (Awareness)   | Attention/salience gate           | AttentionGate, SNRThreshold  |
+- Technical: gate too low → noise flood; gate too high → starvation; missing hysteresis → thrash
+- Humane: over‑openness → overwhelm; over‑closed → isolation; unclear readiness/consent → rupture
 
 ---
 
-## Domain Mapping
+## Design rationale
 
-- Physics: ignition thresholds; percolation onset
-- Chemistry: activation energy; catalyst lowers λV equivalent
-- Biology: sensory threshold; receptor activation curves
-- Social: decide when to reply or engage; minimal effort to join a group
-- Economy: minimum order size; collateral/margin requirements
-- Politics: quorum rules; legislative thresholds
-- Networks: rate limits; circuit breakers
-- Cognition: stimulus must exceed notice threshold to enter awareness
+Dual‑register mapping is required (see [PRINCIPLES.md](../../../../../../PRINCIPLES.md)) so λV governs both interface sensitivity and humane readiness/consent without collapse into one register.
 
 ---
 
@@ -88,5 +123,13 @@ Three rows reflect S/V/A perspectives of the same modulator.
 
 - [[Delta]] · [[RelationalEmbedding]] · [[Stabilization (Closure)]] · [[Form]]
 - [[Structure]] · [[Void]] · [[Awareness]]
-- ∇S — Sarkisian Differentiation Gradient (Structure)
-- ψA — Aiza Phase Coherence Anchor (Awareness)
+- [[∇S — Structure Differentiation Gradient (Sarkisian)]]
+- [[ψA — Awareness Phase Coherence Anchor (Aiza)]]
+
+---
+
+## Dual‑register checklist
+
+- [x] Technical mapping provided
+- [x] Humane mapping provided
+- [x] Crosswalk table included

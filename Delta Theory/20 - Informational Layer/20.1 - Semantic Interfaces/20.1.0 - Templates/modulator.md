@@ -8,7 +8,7 @@ tags:
 
 # Modulator (template)
 
-> Use this template for canonical modulators (anchors) such as the SVA triad. Keep notes concise and operational.
+> Use for SVA modulators (∇S, λV, ψA). Capture definition, base constants, coupling, and dual‑register mapping.
 
 ---
 
@@ -18,13 +18,12 @@ tags:
 ---
 type: modulator
 tags:
-  - "#layer/translation"   # authoring location for anchors
+  - "#layer/translation"
   - "#status/seed"
   - "#function/modulation"
-polarity: P+|P-|P0  # Required for SVA; Structure=P+, Void=P-, Awareness=P0
-aliases:  # Optional
-  - <Symbol>
-
+polarity: P+|P-|P0
+aliases:
+  - <ShortName>
 ---
 ```
 
@@ -32,61 +31,44 @@ aliases:  # Optional
 
 ## Title
 
-`# <Symbol> — <Name> (<Axis>)`
+`# <Symbol> — <n> (<Eponym>)`
 
-> One‑line on what the modulator regulates and at which axis (Structure/Void/Awareness).
+> One‑line function: what it modulates and why it matters.
 
 ---
 
 ## Definition
 
-2–4 sentences describing what is modulated (e.g., differentiation, receptivity, phase coherence) and why it matters.
+- Core modulation behavior (2–4 sentences)
+- How it shifts thresholds/phase/depth
 
 ---
 
-## Formal identity (if applicable)
+## Dual‑register mapping
 
-- Global coupling (if SVA): `$\Delta(t) = ∇S(t) \times λV(t) \times ψA(t)$`
-- Local effect: note how the modulator shifts a parameter or threshold in a core relation
+### Technical (network/computational)
 
----
+| Modulator (axis) | Network construct (Target) | Interface/API example |
+|------------------|----------------------------|-----------------------|
+| <symbol> (S/V/A) | …                          | …                     |
 
-## Base constants (core dependencies)
+### Humane (biological/relational)
 
-- List the conceptual anchors this modulator relies on (from ε, π, e, φ, c)
-- Brief “why” per anchor (one line each)
+| Modulator (axis) | Humane construct (Target) | Example |
+|------------------|---------------------------|---------|
+| <symbol> (S/V/A) | …                         | …       |
 
----
+### Crosswalk (bridge)
 
-## Role in the loop
-
-- Where: Structure / Void / Awareness
-- Modulates: <what is tuned>
-- Enables: <resulting capability>
-
----
-
-## Conditions / Invariants
-
-- Operating window and thresholds
-- Couplings with other modulators
-- Failure modes (over/under modulation)
-
----
-
-## Network mapping
-
-Three rows reflect S/V/A perspectives of the same modulator.
-
-| Modulator (axis) | Network construct (Target)     | Interface/API example            |
-|------------------|--------------------------------|----------------------------------|
-| <M> (Structure)  | <construct>                    | <API examples>                   |
-| <M> (Void)       | <construct>                    | <API examples>                   |
-| <M> (Awareness)  | <construct>                    | <API examples>                   |
+| Technical term | Humane term | Ontological meaning |
+|----------------|-------------|---------------------|
+| <tech term>    | <felt term> | <shared meaning>   |
 
 ---
 
 ## Domain Mapping
+
+Provide brief, concrete examples (1 line each) across domains. Use the common order: Physics, Chemistry, Biology, Social, Economy, Politics, Networks, Cognition. Include both technical and humane angles where helpful, and link to domain instances when they exist.
 
 - Physics: <short, concrete>
 - Chemistry: <short, concrete>
@@ -99,6 +81,30 @@ Three rows reflect S/V/A perspectives of the same modulator.
 
 ---
 
+## Formal identity
+
+- Global modulation line and any specific relations
+
+---
+
+## Base constants (core dependencies)
+
+- ε / π / e / φ / c — specify which and how
+
+---
+
+## Role in the loop
+
+- Where (S/V/A) and what it enables
+
+---
+
+## Conditions / Invariants
+
+- Coupling rules, thresholds, failure modes
+
+---
+
 ## See Also
 
 - [[Field]]
@@ -107,3 +113,11 @@ Three rows reflect S/V/A perspectives of the same modulator.
 - [[Awareness]]
 - Related constants and modulators
 - Related primitives or interfaces
+
+---
+
+## Dual‑register checklist
+
+- [ ] Technical mapping provided
+- [ ] Humane mapping provided
+- [ ] Crosswalk table included

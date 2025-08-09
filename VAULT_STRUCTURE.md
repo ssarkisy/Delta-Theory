@@ -72,7 +72,7 @@ To keep the vault stable and traceable:
 
 4. Use internal links (`[[Like This]]`) to connect notes
 
-5. See [[README.md]]  and [[CONTRIBUTORS.md]] for more
+5. See [[README.md]], [[PRINCIPLES.md]], and [[CONTRIBUTORS.md]] for more
 ## Assets
 
 Attachments follow two placement modes:

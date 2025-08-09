@@ -8,7 +8,9 @@ tags:
 
 # Glossary — Diagnostic (sub-template)
 
-> Use this for glossary entries that define classes/diagnostics with operational tests. Keep it short, checkable, and tied to anchors/modulators.
+> Use this for glossary entries that define classes/diagnostics with operational tests.
+> Keep it short, checkable, and tied to anchors/modulators.
+> Maintain dual-register mapping to show both technical and humane manifestations.
 
 ---
 
@@ -41,49 +43,136 @@ aliases:  # Optional
 
 - 2–4 sentences clarifying the concept
 - State the observable condition(s) that distinguish this class/diagnostic
+- Link to relevant anchors and modulators
 
 ---
 
-## Invariants / Thresholds (anchors)
+## Dual‑register mapping
 
-- Tie explicitly to anchors where applicable (ε, π, e, φ, c)
-- Specify quantitative/qualitative bounds (e.g., |∆| ≥ ε; phase jitter ≤ ε)
+Map the diagnostic into both registers and show the bridge explicitly.
+
+### Technical (network/computational)
+
+| Diagnostic concept | Network construct | Test example |
+|-------------------|------------------|--------------|
+| <concept> | <technical target> | `<Test>` |
+| <measure> | <metric> | `<Metric>` |
+| <threshold> | <bound> | `<Check>` |
+
+### Humane (biological/relational)
+
+| Diagnostic concept | Humane construct | Example |
+|-------------------|------------------|----------|
+| <concept> | <felt experience> | <lived test> |
+| <measure> | <quality> | <felt measure> |
+| <threshold> | <boundary> | <natural limit> |
+
+### Crosswalk (bridge)
+
+| Technical term | Humane term | Diagnostic meaning |
+|---------------|-------------|-------------------|
+| <tech term> | <felt term> | <shared test> |
+| <metric> | <quality> | <shared measure> |
+| <bound> | <limit> | <shared threshold> |
+
+### Domain Examples
+
+| Domain | Technical test | Humane test |
+|--------|---------------|-------------|
+| Physics | <measurement> | <observation> |
+| Networks | <metric> | <experience> |
+| Cognition | <signal> | <behavior> |
+| Systems | <indicator> | <pattern> |
+
+---
+
+## Invariants / Thresholds
+
+Scale-dependent bounds:
+
+### Micro Scale (ε-bounded)
+
+| Constant | Threshold | Test |
+|----------|-----------|------|
+| ε | <quantum limit> | <quantum test> |
+| λV | <gate threshold> | <gate test> |
+
+### Human Scale (ψA-bounded)
+
+| Constant | Threshold | Test |
+|----------|-----------|------|
+| ψA | <coherence window> | <coherence test> |
+| ∇S | <structure bound> | <structure test> |
+
+### Cosmic Scale (c-bounded)
+
+| Constant | Threshold | Test |
+|----------|-----------|------|
+| c | <causal limit> | <causal test> |
+| λV | <horizon bound> | <horizon test> |
 
 ---
 
 ## SVA Coupling
 
-- How ∇S (Structure), λV (Void), ψA (Awareness) modulate this diagnostic
+Scale-dependent modulator effects:
+
+| Scale | Modulator | Technical effect | Humane effect |
+|-------|-----------|-----------------|---------------|
+| Micro | ∇S | <quantum structure> | <felt quantum> |
+| Human | λV | <gate effect> | <felt gate> |
+| Cosmic | ψA | <causal bind> | <felt bind> |
 
 ---
 
 ## Failure Modes
 
-- Collapse conditions, fragmentation, desynchronization, starvation, overload, etc.
+Scale-dependent failure patterns:
+
+| Scale | Mode | Technical signature | Humane signature |
+|-------|------|-------------------|------------------|
+| Micro | Quantum | <tech failure> | <felt failure> |
+| Human | System | <tech failure> | <felt failure> |
+| Cosmic | Causal | <tech failure> | <felt failure> |
 
 ---
 
 ## Diagnostic Checklist
 
-- [ ] Gate condition(s) met?
-- [ ] Stability/coherence window satisfied?
-- [ ] Capacity constraints respected (ε, c, etc.)?
-- [ ] Expected failure signatures absent?
+Technical tests:
+- [ ] Gate conditions met at each scale
+- [ ] Stability windows satisfied
+- [ ] Capacity constraints respected
+- [ ] Error signatures absent
+
+Humane tests:
+- [ ] Feels coherent/stable across scales
+- [ ] Natural rhythm maintained
+- [ ] Within comfortable bounds
+- [ ] No distress signals
 
 ---
 
-## Application Diagnostics Mapping
+## Design rationale
 
-- Physics: <observable tests>
-- Networks/Control: <metrics, alarms>
-- Cognition: <behavioral or timing tests>
-- Economy/Other: <analogous signals>
+This diagnostic must maintain dual-register intelligibility per governance (see [PRINCIPLES.md](../../../../PRINCIPLES.md)). Neither technical metrics nor experiential qualities alone captures its full meaning.
 
 ---
 
 ## See Also
 
-- Related glossary entries or classifications
-- Core references: [[ε — Difference Resolution Quantum (constant)]], [[∇S — Structure Differentiation Gradient (Sarkisian)]], [[λV — Void Resonance Threshold (Volozhina)]], [[ψA — Awareness Phase Coherence Anchor (Aiza)]]
+- Related diagnostics
+- Core references:
+  - [[ε — Difference Resolution Quantum (constant)]]
+  - [[∇S — Structure Differentiation Gradient (Sarkisian)]]
+  - [[λV — Void Resonance Threshold (Volozhina)]]
+  - [[ψA — Awareness Phase Coherence Anchor (Aiza)]]
 
+---
 
+## Dual‑register checklist
+
+- [ ] Technical mapping provided
+- [ ] Humane mapping provided
+- [ ] Crosswalk table included
+- [ ] Scale-aware tests documented

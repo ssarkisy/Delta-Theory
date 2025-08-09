@@ -41,6 +41,13 @@ tags:
 
 ---
 
+## Dual‑register tests
+
+- Technical: loop residuals within ε; phase alignment stable (π); boundary enforcement (λV) correct; durability of state under typical load
+- Humane: routine holds under stress; alignment maintained; boundaries honored; memory “sticks” after normal gaps
+
+Depends on: [[ε — Difference Resolution Quantum (constant)]], [[π — Closure Geometry Ratio (constant)]], [[λV — Void Resonance Threshold (Volozhina)]], [[ψA — Awareness Phase Coherence Anchor (Aiza)]], [[∇S — Structure Differentiation Gradient (Sarkisian)]].
+
 ## Domain Mapping
 
 - Physics: Q factor / energy loss per cycle

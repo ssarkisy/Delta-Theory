@@ -3,8 +3,10 @@ type: glossary
 tags:
   - "#layer/information"
   - "#status/stable"
-  - "#function/observation"
-aliases: []
+  - "#function/definition"
+aliases:
+  - Closure operation
+  - Stabilization
 ---
 
 # Closure
@@ -15,28 +17,124 @@ aliases: []
 
 ## Definition
 
-- Operator: `⊚`
-- Role: lock feedback loops and boundary conditions so embedded difference persists as structure
-- Output: [[Form]]
+In Delta Theory, **Closure** is the operation that locks feedback loops and boundary conditions so that embedded difference persists as structure.
+
+Key aspects:
+- Operator: ⊚
+- Input: Relationally embedded difference
+- Output: Stable Form
+- Role: Evaluates coherence and stabilizes patterns
+
+---
+
+## Dual‑register mapping
+
+### Technical (network/computational)
+
+| Term concept | Network construct | Interface example |
+|-------------|------------------|-------------------|
+| Evaluation | State check | `Validator`, `Test` |
+| Locking | Transaction | `Commit`, `Lock` |
+| Stability | Persistence | `Save`, `Cache` |
+
+### Humane (biological/relational)
+
+| Term concept | Humane construct | Example |
+|-------------|------------------|----------|
+| Evaluation | Recognition | "This fits" |
+| Locking | Agreement | "We're set" |
+| Stability | Habit | "It sticks" |
+
+### Crosswalk (bridge)
+
+| Technical term | Humane term | Ontological meaning |
+|---------------|-------------|-------------------|
+| Validation | Recognition | How patterns match |
+| Transaction | Agreement | How change settles |
+| Persistence | Habit | How forms last |
+
+### Domain Examples
+
+| Domain | Technical manifestation | Humane manifestation |
+|--------|------------------------|---------------------|
+| Physics | Phase transition | Natural binding |
+| Networks | Transaction commit | Stable connection |
+| Cognition | Memory consolidation | Clear pattern |
+| Systems | Protocol lock | Living agreement |
+
+---
+
+## Scale Effects
+
+How Closure manifests differently at various scales:
+
+### Micro Scale (ε-bounded)
+
+| Constant | Effect | Example |
+|----------|--------|---------|
+| ε | Quantum closure | Wave collapse |
+| λV | State discreteness | Energy levels |
+
+### Human Scale (ψA-bounded)
+
+| Constant | Effect | Example |
+|----------|--------|---------|
+| ψA | Pattern stability | Habit formation |
+| ∇S | Boundary lock | Clear separation |
+
+### Universe Scale (c-bounded)
+
+| Constant | Effect | Example |
+|----------|--------|---------|
+| c | Causal closure | Event horizon |
+| λV | Phase boundary | Galaxy formation |
+
+Note: At extreme scales, Closure faces fundamental limits (e.g., quantum uncertainty at ε, causal disconnection at c) that affect how stability can be achieved.
 
 ---
 
 ## Ontological Role
 
-- Transforms relationally embedded difference into stable identity
-- Mediates between Structure (internal loops) and Void (interfaces/perturbations)
-- Requires adequate coherence (phase, alignment, thresholds)
+| Domain | Role |
+|--------|------|
+| Structure | Transforms relations to Form |
+| Void | Mediates interface stability |
+| Awareness | Maintains coherence |
+
+Closure is the **stabilization operation** that enables persistent structure.
 
 ---
 
-## Compare
+## Comparisons
 
-| Term       | Role                                  |
-|------------|---------------------------------------|
-| [[Delta]]  | Primitive act of distinction           |
-| [[RelationalEmbedding]] | Contextualization of difference |
-| [[Closure]] | Evaluation and stabilization into Form |
-| [[Form]]   | Resulting stabilized configuration     |
+Compare with related terms:
+
+| Term | Distinction | Example |
+|------|------------|---------|
+| Closure | Stabilization act | Transaction commit |
+| Form | Stable result | Data structure |
+| Structure | Pattern context | System architecture |
+
+---
+
+## Recursive Function
+
+Closure evaluates embedded difference for stability:
+
+$$
+F = ⊚(R(∆)) \quad ; \quad F_n = ⊚(R^n(∆_0))
+$$
+
+Where:
+- ⊚ = closure operator
+- R(∆) = embedded difference
+- F = resulting Form
+
+---
+
+## Design rationale
+
+This term must maintain dual-register intelligibility per governance (see [PRINCIPLES.md](../../../../PRINCIPLES.md)). Neither technical transactions nor experiential habits alone capture its full meaning.
 
 ---
 
@@ -48,3 +146,11 @@ aliases: []
 - [[Void]]
 - [[Awareness]]
 
+---
+
+## Dual‑register checklist
+
+- [x] Technical mapping provided
+- [x] Humane mapping provided
+- [x] Crosswalk table included
+- [x] Scale effects documented
