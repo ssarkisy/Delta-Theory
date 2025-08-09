@@ -9,6 +9,12 @@ This document acknowledges the **contributors** who have helped shape and refine
     - **Role**: Author, Primary Contributor, Theoretical Development
         
     - **Contributions**: Developed the core framework of **Delta Theory**, including the recursive structure, foundational principles, and mathematical models. Conceptualized the recursive feedback loops and their application to various domains.
+
+2. **J Mark Morris**
+    
+    - **Role**: Prospective Contributor — Physics Layer and Mathematical Extensions
+    
+    - **Contributions**: Planned development of the **physics domain layer** of Delta Theory, including mapping the ontological core to physical models and extending certain mathematical formulations. No contributions to the current release; integration of his work is scheduled for future versions.
         
 
 ## Special Thanks
