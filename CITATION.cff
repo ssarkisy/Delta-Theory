@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: software
+title: "Delta Theory"
+abstract: "A universal framework for understanding how systems evolve through recursive difference propagation. Delta Theory models how differences form, flow, and stabilize across domains from physics to cognition, providing tools for designing adaptive systems and understanding structural emergence."
+authors:
+  - family-names: "Sarkisian"
+    given-names: "Sergei"
+version: "0.0.1"
+date-released: 2025-08-09
+keywords:
+  - systems theory
+  - recursive structures
+  - difference propagation
+  - emergence
+  - stability
+  - cognitive modeling
+  - physics
+  - ontology
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.16423653
+    description: FRONT — Fractal Relational Ontology of Noetic Transcendency (preprint)
+license: CC-BY-SA-4.0
+license-url: https://creativecommons.org/licenses/by-sa/4.0/
+references:
+  - type: generic
+    title: "Fractal Relational Ontology of Noetic Transcendency — Difference as Ontological Ground"
+    authors:
+      - family-names: "Sarkisian"
+        given-names: "Sergei"
+    doi: 10.5281/zenodo.16423653
+    url: https://zenodo.org/records/16423653
+    year: 2025
+preferred-citation:
+  type: software
+  title: "Delta Theory"
+  authors:
+    - family-names: "Sarkisian"
+      given-names: "Sergei"
+  year: 2025
+

@@ -79,5 +79,5 @@ aliases:  # Optional
 
 ## See Also
 
-- [[00.0.0.0 - Core Axioms (meta)]]
+- [[00.0.0.0 - Core Axioms (index)]]
 

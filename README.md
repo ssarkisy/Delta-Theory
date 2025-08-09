@@ -1,4 +1,71 @@
 ## What is Delta Theory?
+### TL;DR
+
+Delta Theory is a minimal, domain‑agnostic kernel for how differences become structure, propagate, and stabilize. It formalizes:
+- Difference as the generator of change (∆)
+- Recursion as the propagation mechanism (R)
+- Stabilization as closure into recognizable form (⊚ → F)
+With five kernel invariants (ε, π, e, φ, c) and three modulators (∇S, λV, ψA), it explains why some differences fade, some cascade, and some become enduring structures across physics, cognition, computation, and social systems.
+
+### Canonical kernel
+
+- Minimal ontology: **Difference → Recursion → Stabilization → Form**
+- Operational loop: Structure → Void → Awareness → Structure′ → …
+- Canonical summary:
+
+$$
+\Delta' = \;\; \boldsymbol{\odot}\big(\, R(\Delta;\, \nabla S,\, \lambda V,\, \psi A);\; \varepsilon,\, \pi,\, e,\, \varphi,\, c\,\big)
+$$
+
+Where:
+- R(·) propagates difference; ⊚ stabilizes into form; the five anchors bound resolution, geometry, rates, proportion, and propagation.
+
+#### Top‑level formulas
+
+3‑modulator canonical form:
+
+$$
+F^{\Delta}(t) = M^{(\nabla S)}(t)\; M^{(\psi A)}(t)\; M^{(\lambda V)}(t)
+$$
+
+9‑term expansion (legacy):
+
+$$
+\odot(F_{n}) =
+\underbrace{P_{n}^{+}\,\cdot\,P_{n}^{-}\,\cdot\,P_{n}^{0}}_{\text{Structural}}\,
+\cdot\,
+\underbrace{\mathrm{Redistribution}_{n}(t)\,\cdot\,\mathrm{Damping}_{\mathrm{field}}(n,t)\,\cdot\,\mathrm{Collapse}_{\mathrm{stability}}(n,t)}_{\text{Field}}\,
+\cdot\,
+\underbrace{\kappa_{\Delta}(m,t)\,\cdot\,\psi A(t)\,\cdot\,\lambda V(n,t)}_{\text{Awareness}}
+$$
+
+### Constants and SVA triad
+
+| Anchor | Role |
+|---|---|
+| ε — Difference Resolution Quantum | Minimum resolvable difference |
+| π — Closure Geometry Ratio | Geometry of rotation/closure |
+| e — Natural Transformation Rate | Baseline growth/decay rate |
+| φ — Asymmetric Stabilization Ratio | Proportion favoring stable asymmetry |
+| c — Difference Propagation Limit | Max propagation speed/capacity |
+
+| Modulator | Axis | Role |
+|---|---|---|
+| ∇S | Structure (P+) | Differentiation gradient (folding/complexity) |
+| λV | Void (P−) | Resonance threshold (ignite/collapse) |
+| ψA | Awareness (P0) | Phase coherence (time‑binding) |
+
+### How to cite
+
+- Use GitHub’s “Cite this repository” (via `CITATION.cff`).
+- Related philosophical core preprint: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16423653.svg)](https://doi.org/10.5281/zenodo.16423653)
+
+### Roadmap
+
+- v0.2 — Interfaces: network and domain mapping examples; template hardening
+- v0.3 — Physics application note (c, ħ, k_B mappings); diagnostics examples
+- v0.4 — Cognition application note (ψA cadence/interval); awareness diagnostics
+
 
 Delta Theory is a universal framework for understanding **how systems evolve** — in physics, software, cognition, ecosystems, and beyond.
 
