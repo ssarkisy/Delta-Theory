@@ -9,6 +9,27 @@ Focus: Complete Execution Environment and Coherence Orchestration modules
 - Coherence Orchestration (00.0.2) with ψA modulation
 - Documentation and integration updates
 
+## [v0.2.3] — Enhanced Documentation & Core Symbolism
+
+### Added
+- New foundational metaphor: "Yin-Yang: Dancing with Chaos"
+  - Three paths to living form (classical, recursive, forming)
+  - Deep connection to biological patterns and growth
+  - Integration with golden ratio (φ)
+  - Visual representations in README
+  - Rich order-chaos relationship framework
+  - Mathematical formalization of stability conditions
+
+### Changed
+- Significantly improved README.md
+  - Added layered introduction for different audiences
+  - Enhanced explanation of core concepts
+  - Added technical/experiential meanings table
+  - Improved overall structure and readability
+  - Better aligned with dual-register principle
+
+Why: Introduce a powerful new symbolic framework while making the project more accessible.
+
 ## [v0.2.2] — Enhanced Project Description
 
 ### Changed
