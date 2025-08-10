@@ -6,7 +6,7 @@ abstract: "A universal framework for understanding how systems evolve through re
 authors:
   - family-names: "Sarkisian"
     given-names: "Sergei"
-version: "0.2.3"
+version: "0.2.4"
 date-released: 2025-08-09
 doi: 10.5281/zenodo.16787603
 keywords:

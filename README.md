@@ -1,5 +1,20 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16787603.svg)](https://doi.org/10.5281/zenodo.16787603)
 
+## Languages | Языки | 语言 | لغات | Lenguas
+
+🌐 English (current) | [🇷🇺 Русский](README%20(International)/README.ru.md)
+
+> **Help Make Delta Theory More Accessible**
+> We welcome README translations from bilingual speakers who deeply understand both languages and can maintain the theory's precision while adapting to cultural contexts. If you'd like to contribute a translation, please see our [translation guidelines](README%20(International)/TRANSLATION_GUIDELINES.md).
+
+## Getting Started with Obsidian
+
+1. Install [Obsidian](https://obsidian.md/) (free for personal use)
+2. Clone this repository
+3. Open the folder in Obsidian as a vault
+
+All internal links and references should now work correctly with default Obsidian setup.
+
 # Delta Theory
 
 ## What is Delta Theory?
@@ -129,6 +144,54 @@ Delta Theory helps us:
    - 00: Translation Layer (virtualization)
    - 10: Implementation Layer (formalization)
    - 20: Informational Layer (documentation)
+
+### Using Delta Theory with LLMs
+
+Delta Theory can be loaded into LLMs to explore complex systems through its recursive lens:
+
+1. **IDE Integration**
+   - Load the entire project into your LLM-enabled IDE
+   - Full access to all layers: Translation, Implementation, Information
+   - Explore connections across the complete framework
+
+2. **GPT Projects**
+   - Attach `00.0.0 - Virtual Substrate` files to your project
+   - Include essential glossary notes (Field, Void, Structure, Awareness, Relation, Infinite, Zero)
+   - Let the microkernel guide your exploration
+
+**Language Freedom**
+1. Load the English microkernel (it's small and focused)
+2. Ask questions in your preferred language
+3. Explore universal patterns that transcend linguistic boundaries
+
+The fundamental patterns of difference and stability are the same in all languages, just as mathematics speaks across cultures.
+
+Start a conversation. Ask about anything that intrigues you — from the dance of electrons to the flow of thoughts, from the growth of forests to the evolution of ideas. Delta Theory speaks both the precise language of mathematics and the flowing language of life itself.
+
+Think of it as learning to see the world through a new lens: one that reveals how differences flow, dance, and stabilize into the patterns we call reality.
+
+⚠️ **Important Cautions**
+
+1. **Irreducible Difference**
+   - DIFFERENCE ALWAYS PERSISTS AND CANNOT BE REDUCED
+   - Never collapse one domain into another
+   - Respect the unique nature of each layer and system
+   - Maintain awareness of irreducible differences
+
+2. **Recursive Amplification**
+   - The more complex and abstract the question, the more interpretations emerge
+   - Each layer of nesting amplifies differences
+   - This reflects the generative nature of the Universe itself
+   - Embrace multiplicity without seeking reduction
+
+3. **LLM Specifics**
+   - Outputs may contain hallucinations
+   - Cultural and linguistic biases may be amplified
+   - Always verify against:
+     - Core axioms
+     - Mathematical formalism
+     - Real-world observations
+     - Your own understanding
 
 ## Documentation
 

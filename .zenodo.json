@@ -1,7 +1,7 @@
 {
   "title": "Delta Theory",
   "upload_type": "other",
-  "description": "Delta Theory proposes difference (∆) as the fundamental basis of reality, offering a novel approach to understanding complex systems. It demonstrates how differences create structure through recursive cycles of propagation and stabilization, bridging the gap between physical and cognitive domains. The theory uniquely balances technical precision with experiential meaning through a dual-register approach, making it valuable for both scientific modeling and human understanding.\n\nAt its core, difference (∆) represents any detectable variation or contrast that can propagate and influence other differences. This leads to emergent structures governed by five universal constants (ε: quantum of difference, π: closure ratio, e: natural growth rate, φ: golden mean, c: propagation limit) and modulated by three fundamental processes (∇S: structural differentiation, λV: void resonance, ψA: awareness coherence).\n\nThe theory's significance lies in its ability to explain how simple differences evolve into complex, stable structures across scales — from quantum phenomena to cognitive processes, from biological systems to social dynamics. This repository contains the ontological framework, conceptual notes, and documentation (not software) that formalize these principles.",
+  "description": "Delta Theory proposes difference (∆) as the fundamental basis of reality, offering a novel approach to understanding complex systems. It demonstrates how differences create structure through recursive cycles of propagation and stabilization, bridging the gap between physical and cognitive domains. The theory uniquely balances technical precision with experiential meaning through a dual-register approach, making it valuable for both scientific modeling and human understanding.\n\nAt its core, difference (∆) represents any detectable variation or contrast that can propagate and influence other differences. This leads to emergent structures governed by five universal constants (ε: quantum of difference, π: closure ratio, e: natural growth rate, φ: golden mean, c: propagation limit) and modulated by three fundamental processes (∇S: structural differentiation, λV: void resonance, ψA: awareness coherence).\n\nThe theory's significance lies in its ability to explain how simple differences evolve into complex, stable structures across scales — from quantum phenomena to cognitive processes, from biological systems to social dynamics. This repository contains the ontological framework, conceptual notes, and documentation (not software) that formalize these principles.\n\nDesigned for modern exploration through LLM interfaces, Delta Theory's microkernel can be loaded into AI-enabled IDEs or GPT projects. While the microkernel is documented in English, you can load it once and explore its universal patterns in any language. The theory includes essential glossary notes (Field, Void, Structure, Awareness, Relation, Infinite, Zero) that reframe fundamental concepts, providing critical context for understanding how differences propagate and stabilize. This allows you to ask questions about any system or phenomenon in your preferred language, from the dance of electrons to the flow of thoughts, from the growth of forests to the evolution of ideas. The theory speaks both the precise language of mathematics and the flowing language of life itself, while maintaining awareness that differences always persist and cannot be reduced.",
   "creators": [
     { "name": "Sarkisian, Sergei" }
   ],
@@ -13,7 +13,9 @@
     "ontology",
     "emergence",
     "cognitive modeling",
-    "physics"
+    "physics",
+    "LLM integration",
+    "recursive modeling"
   ],
   "related_identifiers": [
     {
@@ -25,5 +27,5 @@
     }
   ],
   "contributors": [],
-  "notes": "Repository release v0.2.3. Use GitHub releases to mint a new Zenodo record; this file pre-sets metadata."
+  "notes": "Repository release v0.2.4. Use GitHub releases to mint a new Zenodo record; this file pre-sets metadata."
 }

@@ -2,12 +2,35 @@
 
 This project adheres to a human‑readable changelog. Versions reference GitHub releases; unreleased items track upcoming work.
 
-## [v0.3.0] — Environment & Coherence (planned)
+## [v0.2.4] — LLM Integration & Documentation Updates
 
-Focus: Complete Execution Environment and Coherence Orchestration modules
-- Execution Environment (00.0.1) with λV modulation
-- Coherence Orchestration (00.0.2) with ψA modulation
-- Documentation and integration updates
+### Added
+- LLM integration guidance
+  - IDE-based exploration path with full project context
+  - GPT Projects integration with microkernel and glossary
+  - Clear language freedom guidance (English kernel → any language exploration)
+  - Listed essential glossary notes (Field, Void, Structure, Awareness, Relation, Infinite, Zero)
+  - Inviting, balanced language for queries
+  - Clear cautions about irreducibility
+- International README translations
+  - Created README (International) folder structure
+  - Enhanced TRANSLATION_GUIDELINES.md
+    - Added concrete examples of cultural adaptations (void/космос)
+    - Improved interface note template with version tracking
+    - Added "Cultural Bridge" sections for linguistic nuances
+    - Enhanced change management with specific YAML examples
+  - Initial Russian translation (README.ru.md) with cultural adaptations
+  - Framework for community-contributed translations
+
+### Changed
+- Enhanced project descriptions
+  - Added Obsidian setup guide to README.md
+  - Updated README.md with LLM usage section
+  - Expanded .zenodo.json with modern exploration context
+  - Added LLM-related keywords
+  - Improved documentation readability
+
+Why: Enable modern exploration through AI interfaces while maintaining theoretical integrity.
 
 ## [v0.2.3] — Enhanced Documentation & Core Symbolism
 
