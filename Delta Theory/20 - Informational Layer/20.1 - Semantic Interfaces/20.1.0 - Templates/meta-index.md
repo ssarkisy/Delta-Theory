@@ -56,23 +56,6 @@ Each entry should provide:
 - Purpose/role in module
 - Key files or concepts
 
----
-
-## Core References
-
-Primitives:
-- <relevant primitives>
-
-Anchors:
-- <relevant constants>
-- <relevant modulators>
-
-Related Modules:
-- <neighboring modules>
-- <dependent modules>
-
----
-
 ## Implementation Notes
 
 Brief notes on:

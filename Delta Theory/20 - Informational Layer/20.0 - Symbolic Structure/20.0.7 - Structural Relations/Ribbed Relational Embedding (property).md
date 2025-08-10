@@ -12,30 +12,16 @@ aliases:
 
 # Ribbed Relational Embedding (property)
 
-> A load‑bearing mode of [[RelationalEmbedding]] that stabilizes polarity under tension — the “edge as stabilizer,” not just connector.
+> A load-bearing mode of [[RelationalEmbedding]] that stabilizes polarity under tension — the "edge as stabilizer," not just connector.
 
 ---
 
 ## Definition
 
-Ribbed Relational Embedding is the property of an embedding to carry opposing tensions without collapse or drift, enabling [[Stabilization (Closure)]] to succeed and produce [[Form]].
-
----
-
-## Role
-
-- Converts mere connectivity into structure by distributing force across the relation
-- Raises closure feasibility by increasing effective [[Closure Strength (diagnostic)]]
-- Acts as a stabilizing “edge” when difference must persist under load
-
----
-
-## Conditions / Diagnostics
-
-- Load distribution present (not point‑fragile)
-- Boundary coherence across the relation (no uncontrolled slippage)
-- Sufficient redundancy or shape (ribbing, triangulation, bracing)
-- Related measures: [[Closure Strength (diagnostic)]], [[Phase Margin (diagnostic)]], [[Resolution Margin (diagnostic)]]
+- Load-bearing relation
+- Edge stabilization
+- Tension distribution
+- Support structure
 
 ---
 
@@ -43,24 +29,121 @@ Ribbed Relational Embedding is the property of an embedding to carry opposing te
 
 ### Technical (network/computational)
 
-| Element | Target construct                 | Example                |
-|---------|----------------------------------|------------------------|
-| Edge    | Stiffened/weighted edge          | Reliability‑aware link |
-| Path    | Triangulated/mesh redundancy     | Multi‑path quorum      |
+| Diagnostic concept | Network construct | Test example |
+|-------------------|------------------|--------------|
+| Load bear | Edge hold | `Monitor`, `Load` |
+| Edge brace | Path strong | `Check`, `Brace` |
+| Support role | Frame firm | `Test`, `Support` |
 
 ### Humane (biological/relational)
 
-| Element | Target construct           | Example                      |
-|---------|----------------------------|------------------------------|
-| Bond    | Trustful, resilient tie    | “We can carry tension”       |
-| Rhythm  | Stabilized shared habit    | Meeting cadence holds under stress |
+| Diagnostic concept | Humane construct | Example |
+|-------------------|------------------|----------|
+| Load bear | Takes weight | "Holds strong" |
+| Edge brace | Stays firm | "Won't bend" |
+| Support role | Gives strength | "Holds up" |
 
 ### Crosswalk (bridge)
 
-| Technical term  | Humane term         | Ontological meaning                        |
-|-----------------|---------------------|--------------------------------------------|
-| Stiffened edge  | Rib/protective frame| Relation carries load without deformation  |
-| Triangulation   | Third anchor        | Polarity stabilized by a mediating support |
+| Technical term | Humane term | Ontological meaning |
+|---------------|-------------|-------------------|
+| Edge hold | Takes weight | How load works |
+| Path strong | Stays firm | How brace flows |
+| Frame firm | Gives strength | How support forms |
+
+### Domain Examples
+
+| Domain | Technical test | Humane test |
+|--------|---------------|-------------|
+| Physics | Force hold | Energy brace |
+| Networks | Link strong | Node hold |
+| Cognition | Mind brace | Think hold |
+| Systems | Flow strong | Move brace |
+
+---
+
+## Scale Effects
+
+How Ribbed Embedding manifests differently at various scales:
+
+### Micro Scale (ε-bounded)
+
+| Constant | Effect | Example |
+|----------|--------|---------|
+| ε | Quantum hold | Wave brace |
+| λV | Gate strong | State hold |
+
+### Human Scale (ψA-bounded)
+
+| Constant | Effect | Example |
+|----------|--------|---------|
+| ψA | Phase brace | Pattern hold |
+| ∇S | Structure strong | Clear brace |
+
+### Cosmic Scale (c-bounded)
+
+| Constant | Effect | Example |
+|----------|--------|---------|
+| c | Wave strong | Light hold |
+| λV | Field brace | Space strong |
+
+Note: At extreme scales, ribbing faces fundamental limits (e.g., quantum bracing at ε, causal holding at c).
+
+---
+
+## Invariants / Thresholds
+
+Scale-dependent bounds:
+- ε: hold clarity
+- c: brace speed
+- ψA: phase strong
+- λV: gate hold
+
+---
+
+## SVA Coupling
+
+Scale-dependent modulator effects:
+
+| Scale | Modulator | Technical effect | Humane effect |
+|-------|-----------|-----------------|---------------|
+| Micro | ∇S | Pattern hold | Wave brace |
+| Human | λV | Gate strong | Flow hold |
+| Cosmic | ψA | Phase brace | Field strong |
+
+---
+
+## Failure Modes
+
+Scale-dependent failure patterns:
+
+| Scale | Mode | Technical signature | Humane signature |
+|-------|------|-------------------|------------------|
+| Micro | Hold fail | Pattern bend | Won't support |
+| Human | Brace break | Flow weak | Can't hold |
+| Cosmic | Strong loss | Field bend | No brace |
+
+---
+
+## Diagnostic Checklist
+
+Technical tests:
+- [ ] Load checked
+- [ ] Brace works
+- [ ] Support holds
+- [ ] Frame firm
+
+Humane tests:
+- [ ] Takes weight
+- [ ] Stays strong
+- [ ] Holds up
+- [ ] Won't bend
+
+---
+
+## Design rationale
+
+This diagnostic must maintain dual-register intelligibility per governance (see [PRINCIPLES.md](../../../../PRINCIPLES.md)). Neither technical bracing nor experiential supporting alone captures its full meaning.
 
 ---
 
@@ -68,6 +151,15 @@ Ribbed Relational Embedding is the property of an embedding to carry opposing te
 
 - [[RelationalEmbedding]]
 - [[Stabilization (Closure)]]
-- [[Adjacency : Incidence (relation)]] · [[Bridge : Articulation (relation)]]
-- [[Closure Strength (diagnostic)]] · [[Inertia (diagnostic)]]
+- [[Bridge : Articulation (relation)]]
+- [[Form]]
+- [[Field]]
 
+---
+
+## Dual‑register checklist
+
+- [x] Technical mapping provided
+- [x] Humane mapping provided
+- [x] Crosswalk table included
+- [x] Scale-aware tests documented

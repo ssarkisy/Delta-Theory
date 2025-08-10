@@ -2,7 +2,7 @@
 type: glossary
 tags:
   - "#layer/information"
-  - "#status/seed"
+  - "#status/stable"
   - "#function/observation"
 ---
 
@@ -14,47 +14,148 @@ tags:
 
 ## Definition
 
-- Overlap of propagations leads to amplification or cancellation; outcome depends on relative phase and ε
+- Signal overlap effects
+- Phase-dependent outcomes
+- Resolution-bounded mixing
+- Constructive/destructive patterns
 
 ---
 
-## Invariants / Thresholds (anchors)
+## Dual‑register mapping
 
-- π: phase relation; constructive vs destructive
-- ε: ability to resolve overlapping signals
+### Technical (network/computational)
+
+| Diagnostic concept | Network construct | Test example |
+|-------------------|------------------|--------------|
+| Signal mix | Wave combine | `Monitor`, `Mix` |
+| Phase match | Pattern align | `Check`, `Phase` |
+| Resolution | Signal split | `Test`, `Split` |
+
+### Humane (biological/relational)
+
+| Diagnostic concept | Humane construct | Example |
+|-------------------|------------------|----------|
+| Signal mix | Coming together | "Blends in" |
+| Phase match | Working together | "Fits well" |
+| Resolution | Telling apart | "Sees clearly" |
+
+### Crosswalk (bridge)
+
+| Technical term | Humane term | Ontological meaning |
+|---------------|-------------|-------------------|
+| Wave combine | Coming together | How mixing works |
+| Pattern align | Working together | How fit happens |
+| Signal split | Telling apart | How clarity forms |
+
+### Domain Examples
+
+| Domain | Technical test | Humane test |
+|--------|---------------|-------------|
+| Physics | Wave mix | Energy blend |
+| Networks | Signal cross | Message mix |
+| Cognition | Pattern blend | Thought mix |
+| Systems | State merge | Flow blend |
+
+---
+
+## Scale Effects
+
+How Interference manifests differently at various scales:
+
+### Micro Scale (ε-bounded)
+
+| Constant | Effect | Example |
+|----------|--------|---------|
+| ε | Mix quantum | Wave blend |
+| λV | Gate cross | State mix |
+
+### Human Scale (ψA-bounded)
+
+| Constant | Effect | Example |
+|----------|--------|---------|
+| ψA | Phase mix | Pattern blend |
+| ∇S | Mix clarity | Clear cross |
+
+### Cosmic Scale (c-bounded)
+
+| Constant | Effect | Example |
+|----------|--------|---------|
+| c | Wave mix | Light blend |
+| λV | Field cross | Space mix |
+
+Note: At extreme scales, interference faces fundamental limits (e.g., quantum superposition at ε, causal mixing at c).
+
+---
+
+## Invariants / Thresholds
+
+Scale-dependent bounds:
+- ε: mix resolution met
+- π: phase relation clear
+- ψA: pattern separable
+- λV: gates selective
 
 ---
 
 ## SVA Coupling
 
-- ψA sets tolerance for phase mismatch
-- λV gating can suppress or pass interfering components
-- ∇S partitioning can separate or mix paths
+Scale-dependent modulator effects:
+
+| Scale | Modulator | Technical effect | Humane effect |
+|-------|-----------|-----------------|---------------|
+| Micro | ∇S | Pattern mix | Wave clarity |
+| Human | λV | Gate cross | Flow control |
+| Cosmic | ψA | Phase blend | Field mixing |
 
 ---
 
 ## Failure Modes
 
-- Masking of useful signals; false positives/negatives in diagnostics
+Scale-dependent failure patterns:
+
+| Scale | Mode | Technical signature | Humane signature |
+|-------|------|-------------------|------------------|
+| Micro | Over-mix | Pattern blur | Lost clarity |
+| Human | Bad cross | Wrong blend | Poor fit |
+| Cosmic | Field blur | Structure mix | Lost distinction |
 
 ---
 
 ## Diagnostic Checklist
 
-- [ ] Relative phase measured; predicted outcome matches
-- [ ] Resolution sufficient to separate components
-- [ ] Gate tuning avoids pathological masking
+Technical tests:
+- [ ] Phase relation clear
+- [ ] Resolution sufficient
+- [ ] Mix controlled
+- [ ] Patterns distinct
+
+Humane tests:
+- [ ] Blend natural
+- [ ] Parts clear
+- [ ] Mix balanced
+- [ ] Flow smooth
 
 ---
 
-## Domain Mapping
+## Design rationale
 
-- Physics: wave interference, diffraction
-- Chemistry: reaction pathway competition; inhibitor effects
-- Biology: cross‑talk between signaling pathways
-- Social: overlapping norms/roles causing conflict or synergy
-- Politics: message interference; agenda collision
-- Networks: signal collision, cross‑traffic interference
-- Cognition: competing narratives; attentional masking
+This diagnostic must maintain dual-register intelligibility per governance (see [PRINCIPLES.md](../../../../PRINCIPLES.md)). Neither technical interference nor experiential mixing alone captures its full meaning.
 
+---
 
+## See Also
+
+- [[Resonance (dynamic)]]
+- [[Harmony (dynamic)]]
+- [[Dissonance (dynamic)]]
+- [[Form]]
+- [[Field]]
+
+---
+
+## Dual‑register checklist
+
+- [x] Technical mapping provided
+- [x] Humane mapping provided
+- [x] Crosswalk table included
+- [x] Scale-aware tests documented

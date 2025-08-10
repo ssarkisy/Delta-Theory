@@ -2,7 +2,7 @@
 type: glossary
 tags:
   - "#layer/information"
-  - "#status/seed"
+  - "#status/stable"
   - "#function/observation"
 ---
 
@@ -12,49 +12,150 @@ tags:
 
 ---
 
-## Invariants / Thresholds (anchors)
+## Definition
 
-- ε: narrow tolerance; slow drift pushes beyond residual bounds
-- λV: gates that hold until thresholds cross; hysteresis relevant
-- ψA: coherence holds locally but cannot bridge slow changes
+- Temporary stability state
+- Bounded window hold
+- Transition potential
+- Drift sensitivity
+
+---
+
+## Dual‑register mapping
+
+### Technical (network/computational)
+
+| Diagnostic concept | Network construct | Test example |
+|-------------------|------------------|--------------|
+| Window hold | State trap | `Monitor`, `Hold` |
+| Drift risk | Change build | `Check`, `Drift` |
+| Transition | State flip | `Test`, `Flip` |
+
+### Humane (biological/relational)
+
+| Diagnostic concept | Humane construct | Example |
+|-------------------|------------------|----------|
+| Window hold | Brief balance | "Holds for now" |
+| Drift risk | Slow change | "Building up" |
+| Transition | Sudden shift | "Tips over" |
+
+### Crosswalk (bridge)
+
+| Technical term | Humane term | Ontological meaning |
+|---------------|-------------|-------------------|
+| State trap | Brief balance | How hold works |
+| Change build | Slow change | How drift grows |
+| State flip | Sudden shift | How change tips |
+
+### Domain Examples
+
+| Domain | Technical test | Humane test |
+|--------|---------------|-------------|
+| Physics | Phase trap | Energy hold |
+| Networks | State hold | Link pause |
+| Cognition | Pattern trap | Mind pause |
+| Systems | Flow hold | Balance point |
+
+---
+
+## Scale Effects
+
+How Metastability manifests differently at various scales:
+
+### Micro Scale (ε-bounded)
+
+| Constant | Effect | Example |
+|----------|--------|---------|
+| ε | Quantum trap | Wave hold |
+| λV | Gate pause | State trap |
+
+### Human Scale (ψA-bounded)
+
+| Constant | Effect | Example |
+|----------|--------|---------|
+| ψA | Phase hold | Pattern pause |
+| ∇S | Structure trap | Clear hold |
+
+### Cosmic Scale (c-bounded)
+
+| Constant | Effect | Example |
+|----------|--------|---------|
+| c | Wave trap | Light hold |
+| λV | Field pause | Space trap |
+
+Note: At extreme scales, metastability faces fundamental limits (e.g., quantum tunneling at ε, causal traps at c).
+
+---
+
+## Invariants / Thresholds
+
+Scale-dependent bounds:
+- ε: drift tolerance
+- c: hold capacity
+- ψA: phase window
+- λV: gate threshold
 
 ---
 
 ## SVA Coupling
 
-- ∇S creates local minima (partial stabilization)
-- λV/ψA set the depth and stickiness of the metastable well
+Scale-dependent modulator effects:
+
+| Scale | Modulator | Technical effect | Humane effect |
+|-------|-----------|-----------------|---------------|
+| Micro | ∇S | Pattern trap | Wave hold |
+| Human | λV | Gate pause | Flow trap |
+| Cosmic | ψA | Phase hold | Field pause |
 
 ---
 
 ## Failure Modes
 
-- Sudden transition to alternate Form when boundary crossed
+Scale-dependent failure patterns:
+
+| Scale | Mode | Technical signature | Humane signature |
+|-------|------|-------------------|------------------|
+| Micro | Early flip | Pattern break | Too soon |
+| Human | Late hold | Stuck state | Won't change |
+| Cosmic | Bad trap | Field lock | Wrong pause |
 
 ---
 
 ## Diagnostic Checklist
 
-- [ ] Identify operating window and slow drift direction
-- [ ] Hysteresis present (or absent) and sized appropriately
-- [ ] Transition signatures predictable and safe
+Technical tests:
+- [ ] Window measured
+- [ ] Drift tracked
+- [ ] Flip predicted
+- [ ] Hold timed
+
+Humane tests:
+- [ ] Balance felt
+- [ ] Change sensed
+- [ ] Shift ready
+- [ ] Time known
 
 ---
 
-## Domain Mapping
+## Design rationale
 
-- Physics: supercooled liquids; magnetic domain flips
-- Chemistry: metastable intermediates
-- Biology: transient phenotypes; pre‑commitment states
-- Social/Politics: fragile coalitions; regime poised to shift
-- Economy: temporarily pegged markets; unstable equilibria
-- Networks: temporary routing states; pre‑convergence plateaus
-- Cognition: unstable habits; intentions that flip under stress
+This diagnostic must maintain dual-register intelligibility per governance (see [PRINCIPLES.md](../../../../PRINCIPLES.md)). Neither technical metastability nor experiential pause alone captures its full meaning.
 
 ---
 
 ## See Also
 
-- [[Intermittent Awareness (classification)]]
+- [[Stability Margin (diagnostic)]]
+- [[Resilience (diagnostic)]]
+- [[Hysteresis (diagnostic)]]
+- [[Form]]
+- [[Field]]
 
+---
 
+## Dual‑register checklist
+
+- [x] Technical mapping provided
+- [x] Humane mapping provided
+- [x] Crosswalk table included
+- [x] Scale-aware tests documented

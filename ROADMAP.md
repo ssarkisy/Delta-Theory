@@ -1,10 +1,3 @@
----
-type: meta
-tags:
-  - "#status/stable"
-  - "#function/planning"
----
-
 # Delta Theory Development Roadmap
 
 > Strategic development plan for Delta Theory, incorporating bi-polarity insights and ontological stability requirements.
@@ -15,101 +8,133 @@ See also: [PRINCIPLES.md](PRINCIPLES.md) — core axioms and governance (dual‑
 
 ## Release History
 
-- **v0.0.1** ✅ — Initial ontological core with kernel primitives, constants, modulators, and citation framework
+- **v0.1.0** ✅ — Initial ontological core with kernel primitives, constants, modulators, and citation framework
+- **v0.2.0** ✅ — Translation Layer virtualization with dual-register mapping and structural stabilization
 
 ---
 
 ## Upcoming Releases
 
-### v0.0.2 — Bi-Tech Dual Channel Implementation
-**Focus:** Implement dual-register virtualization to resolve polarity imbalance
+### v0.3.0 — Environment & Coherence
+**Focus:** Complete Execution Environment and Coherence Orchestration modules
 
-**Priority Tasks:**
-- [ ] **Refactor Level 1 Virtualization Layer**
-  - Split current network-only mapping into dual registers:
-    - Technical Register (nodes, edges, cycles → computational systems)
-    - Biological Register (moments, relationships, habits → lived experience)
-  - Add explicit crosswalk table bridging both registers
-  - Include Design Rationale section explaining why both poles are required
+1. **Execution Environment (00.0.1)**
+   - [ ] Complete port/gate/surface definitions
+   - [ ] Add λV modulation examples
+   - [ ] Define boundary conditions
+   - [ ] Document state retention
+   - [ ] Add technical/humane mappings
+   - [ ] Create crosswalk tables
 
-- [ ] **Create A4 Axiom — Bi-Tech Dual Polarity Invariant**
-  - Encode requirement for dual-register mapping as formal axiom
-  - Prevent future collapse into mono-polar interpretations
-  - Establish structural memory for ethical grounding
+2. **Coherence Orchestration (00.0.2)**
+   - [ ] Complete phase/identity/memory models
+   - [ ] Add ψA modulation examples
+   - [ ] Define coherence conditions
+   - [ ] Document recovery protocols
+   - [ ] Add technical/humane mappings
+   - [ ] Create crosswalk tables
 
-- [ ] **Apply Dual-Register Approach to Implementation Layer**
-  - Review 10.2 Domain Applications for mono-polar mappings
-  - Ensure physics and other domain bridges maintain both interpretations
+3. **Documentation & Integration**
+   - [ ] Update diagnostic notes
+   - [ ] Complete scale effects
+   - [ ] Standardize status tags
+   - [ ] Verify template compliance
 
-**Outcome:** Ontological stability through balanced technical ↔ humane virtualization
-
----
-
-### v0.2 — Interface Hardening & Network Expansion
-**Focus:** Robust interfaces and expanded network/domain mapping examples
-
-**Tasks:**
-- [ ] Template hardening based on v0.0.2 dual-register approach
-- [ ] Expanded network domain mapping examples using both registers
-- [ ] Interface definitions between Translation ↔ Implementation layers
-- [ ] Cross-domain mapping validation (ensure dual-register consistency)
-
----
-
-### v0.3 — Physics Domain Deep Integration
-**Focus:** Comprehensive physics application with anchors and diagnostics
+### v0.4.0 — Functional Interfaces
+**Focus:** Define minimal API surface (00.1) with dual-register support
 
 **Tasks:**
-- [ ] Physics application note with detailed (c, ħ, k_B) mappings
-- [ ] Diagnostics examples showing stability analysis in physical systems
-- [ ] Validation of dual-register approach in physics domain
-- [ ] Cross-validation between conceptual constants and physics instances
+- [ ] PhaseLockLoop interface
+  - Technical: State synchronization protocol
+  - Humane: Rhythm and resonance patterns
+- [ ] ResonanceThreshold interface
+  - Technical: Gate control mechanism
+  - Humane: Readiness and receptivity
+- [ ] DifferentiationGradient interface
+  - Technical: Structure partitioning
+  - Humane: Boundary formation
+- [ ] Interface documentation with both registers
+- [ ] Implementation examples
+- [ ] Test suites
 
----
-
-### v0.4 — Cognition & Awareness Domain
-**Focus:** ψA modulator applications and awareness diagnostics
+### v0.5.0 — Domain Bridges
+**Focus:** Create domain-specific mappings (00.2) preserving both registers
 
 **Tasks:**
-- [ ] Cognition application note (ψA cadence/interval modeling)
-- [ ] Awareness diagnostics and classification system
-- [ ] Biological register validation in cognitive domain
-- [ ] Integration with consciousness and recursive attention models
+- [ ] Physics bridge
+  - Technical: Field equations
+  - Humane: Physical intuition
+- [ ] Network bridge
+  - Technical: Graph operations
+  - Humane: Connection patterns
+- [ ] Biology bridge
+  - Technical: System dynamics
+  - Humane: Living processes
+- [ ] Bridge validation framework
+- [ ] Cross-domain coherence tests
+
+### v0.6.0 — Implementation Layer
+**Focus:** Concrete implementations with dual-register preservation
+
+**Tasks:**
+- [ ] Math formalization (10.1)
+  - Technical: Formal proofs
+  - Humane: Intuitive understanding
+- [ ] Physics application (10.2)
+  - Technical: Equations
+  - Humane: Experience
+- [ ] Network systems (10.3)
+  - Technical: Algorithms
+  - Humane: Patterns
 
 ---
 
 ## Long-term Vision (v1.0+)
 
-### Core Principles Validation
-- Empirical testing of dual-register approach across domains
-- Stability analysis of technical ↔ humane bridge maintenance
-- Community feedback integration on ethical grounding
+### Core Completion
+- Complete diagnostic system
+- Full mathematical formalization
+- Comprehensive test suite
+- Community validation
 
 ### Domain Expansion
-- Chemistry domain integration
-- Social systems and collective intelligence
-- AI reasoning systems and recursive architectures
-- Cross-domain coherence validation
+- Chemistry integration
+- Cognitive systems
+- Social dynamics
+- Information theory
 
-### Theoretical Completion
-- Mathematical formalization completion
-- Full diagnostic classification system
-- Ontological boundary analysis
-- Meta-stability theorems
+### Theoretical Development
+- Meta-stability analysis
+- Boundary conditions
+- Scale effects
+- Emergence patterns
 
 ---
 
 ## Development Guidelines
 
-1. **Maintain Dual-Register Consistency** — Every technical mapping must have humane counterpart
-2. **Preserve Ontological Memory** — Document rationale for design decisions
-3. **Test Across Domains** — Validate concepts in multiple application areas
-4. **Community Integration** — Balance theoretical rigor with accessibility
+1. **Layer Completion**
+   - Complete each layer fully before moving on
+   - Verify dual-register coverage
+   - Test all interfaces
+   - Document thoroughly
+
+2. **Dual-Register Consistency**
+   - Every technical mapping needs humane counterpart
+   - Clear bridges between registers
+   - No register reduction
+   - Regular stability checks
+
+3. **Documentation**
+   - Clear rationale capture
+   - Example-rich explanations
+   - Implementation guidance
+   - Ethical considerations
 
 ---
 
 ## See Also
 
-- [[Core Principles]] → Foundation principles guiding development
-- [[Refactoring Plan]] → Detailed v0.0.2 implementation strategy
-- [[CONTRIBUTORS]] → Community contribution guidelines
+- [PRINCIPLES.md](PRINCIPLES.md) — Core governance
+- [CHANGELOG.md](CHANGELOG.md) — Detailed changes
+- [CONTRIBUTORS.md](CONTRIBUTORS.md) — How to contribute

@@ -2,7 +2,7 @@
 type: glossary
 tags:
   - "#layer/information"
-  - "#status/seed"
+  - "#status/stable"
   - "#function/observation"
 ---
 
@@ -12,55 +12,150 @@ tags:
 
 ---
 
-## Invariants / Thresholds (anchors)
+## Definition
 
-- ε: residual tolerated within the loop (error budget)
-- π: phase/geometric alignment quality across the loop
-- ψA: coherence reserve supporting retention
-- λV: boundary contract tightness; leak‑rate
+- Form holding power
+- Loop binding force
+- Stability strength
+- Closure firmness
+
+---
+
+## Dual‑register mapping
+
+### Technical (network/computational)
+
+| Diagnostic concept | Network construct | Test example |
+|-------------------|------------------|--------------|
+| Hold power | State grip | `Monitor`, `Hold` |
+| Loop force | Bind strength | `Check`, `Bind` |
+| Stay firm | Keep stable | `Test`, `Keep` |
+
+### Humane (biological/relational)
+
+| Diagnostic concept | Humane construct | Example |
+|-------------------|------------------|----------|
+| Hold power | Stays strong | "Holds firm" |
+| Loop force | Keeps shape | "Stays whole" |
+| Stay firm | Stays self | "Keeps form" |
+
+### Crosswalk (bridge)
+
+| Technical term | Humane term | Ontological meaning |
+|---------------|-------------|-------------------|
+| State grip | Stays strong | How hold works |
+| Bind strength | Keeps shape | How form stays |
+| Keep stable | Stays self | How self holds |
+
+### Domain Examples
+
+| Domain | Technical test | Humane test |
+|--------|---------------|-------------|
+| Physics | Force hold | Energy bind |
+| Networks | State keep | Link hold |
+| Cognition | Pattern hold | Mind keep |
+| Systems | Flow bind | Form stay |
+
+---
+
+## Scale Effects
+
+How Closure Strength manifests differently at various scales:
+
+### Micro Scale (ε-bounded)
+
+| Constant | Effect | Example |
+|----------|--------|---------|
+| ε | Quantum hold | Wave bind |
+| λV | Gate keep | State grip |
+
+### Human Scale (ψA-bounded)
+
+| Constant | Effect | Example |
+|----------|--------|---------|
+| ψA | Phase hold | Pattern keep |
+| ∇S | Structure bind | Clear hold |
+
+### Cosmic Scale (c-bounded)
+
+| Constant | Effect | Example |
+|----------|--------|---------|
+| c | Wave bind | Light hold |
+| λV | Field keep | Space grip |
+
+Note: At extreme scales, closure faces fundamental limits (e.g., quantum binding at ε, causal holds at c).
+
+---
+
+## Invariants / Thresholds
+
+Scale-dependent bounds:
+- ε: hold tolerance
+- π: loop geometry
+- ψA: phase strength
+- λV: gate firm
 
 ---
 
 ## SVA Coupling
 
-- Higher ψA and appropriate λV usually increase strength; extreme ∇S can either improve delineation or induce brittleness
+Scale-dependent modulator effects:
+
+| Scale | Modulator | Technical effect | Humane effect |
+|-------|-----------|-----------------|---------------|
+| Micro | ∇S | Pattern hold | Wave bind |
+| Human | λV | Gate grip | Flow keep |
+| Cosmic | ψA | Phase bind | Field hold |
 
 ---
 
 ## Failure Modes
 
-- Slippage (gradual drift), snap (sudden break), leak (boundary breach)
+Scale-dependent failure patterns:
+
+| Scale | Mode | Technical signature | Humane signature |
+|-------|------|-------------------|------------------|
+| Micro | Grip loss | Pattern slip | Won't hold |
+| Human | Bind fail | Flow leak | Can't keep |
+| Cosmic | Hold break | Field slip | Lost grip |
 
 ---
 
 ## Diagnostic Checklist
 
-- [ ] Residuals within ε across the loop
-- [ ] Phase alignment (π) stable under jitter
-- [ ] Boundary contracts (λV) enforced; no leaks
+Technical tests:
+- [ ] Hold measured
+- [ ] Bind checked
+- [ ] Keep tracked
+- [ ] Form stable
+
+Humane tests:
+- [ ] Stays strong
+- [ ] Keeps shape
+- [ ] Self holds
+- [ ] Form firm
 
 ---
 
-## Dual‑register tests
+## Design rationale
 
-- Technical: loop residuals within ε; phase alignment stable (π); boundary enforcement (λV) correct; durability of state under typical load
-- Humane: routine holds under stress; alignment maintained; boundaries honored; memory “sticks” after normal gaps
-
-Depends on: [[ε — Difference Resolution Quantum (constant)]], [[π — Closure Geometry Ratio (constant)]], [[λV — Void Resonance Threshold (Volozhina)]], [[ψA — Awareness Phase Coherence Anchor (Aiza)]], [[∇S — Structure Differentiation Gradient (Sarkisian)]].
-
-## Domain Mapping
-
-- Physics: Q factor / energy loss per cycle
-- Chemistry: bond strength; binding affinity
-- Biology: synaptic efficacy; homeostatic rigidity
-- Social/Politics: institutional binding strength; rule enforceability
-- Economy: contract enforceability; stickiness
-- Networks: session durability; commit guarantees
-- Cognition: memory consolidation strength
+This diagnostic must maintain dual-register intelligibility per governance (see [PRINCIPLES.md](../../../../PRINCIPLES.md)). Neither technical binding nor experiential holding alone captures its full meaning.
 
 ---
 
 ## See Also
 
-- [[Stability Margin (diagnostic)]] · [[Resilience (diagnostic)]] · [[Brittleness (diagnostic)]]
+- [[Stability Margin (diagnostic)]]
+- [[Resilience (diagnostic)]]
+- [[Brittleness (diagnostic)]]
+- [[Form]]
+- [[Field]]
 
+---
+
+## Dual‑register checklist
+
+- [x] Technical mapping provided
+- [x] Humane mapping provided
+- [x] Crosswalk table included
+- [x] Scale-aware tests documented

@@ -2,7 +2,7 @@
 type: glossary
 tags:
   - "#layer/information"
-  - "#status/seed"
+  - "#status/stable"
   - "#function/observation"
 ---
 
@@ -12,48 +12,150 @@ tags:
 
 ---
 
-## Invariants / Thresholds (anchors)
+## Definition
 
-- c: total capacity; policy targets headroom ≥ H_min
-- ε: minimal batch/granularity so buffering is effective
-- e: refill/decay rates for buffers (leak/refresh)
+- Reserve distribution rules
+- Headroom sharing plan
+- Capacity buffer policy
+- Resource slack strategy
+
+---
+
+## Dual‑register mapping
+
+### Technical (network/computational)
+
+| Diagnostic concept | Network construct | Test example |
+|-------------------|------------------|--------------|
+| Reserve rule | Buffer policy | `Monitor`, `Rule` |
+| Share plan | Resource split | `Check`, `Share` |
+| Slack strategy | Space plan | `Test`, `Plan` |
+
+### Humane (biological/relational)
+
+| Diagnostic concept | Humane construct | Example |
+|-------------------|------------------|----------|
+| Reserve rule | Save wisely | "Plans ahead" |
+| Share plan | Fair spread | "Shares well" |
+| Slack strategy | Room to move | "Keeps space" |
+
+### Crosswalk (bridge)
+
+| Technical term | Humane term | Ontological meaning |
+|---------------|-------------|-------------------|
+| Buffer policy | Save wisely | How reserve works |
+| Resource split | Fair spread | How share flows |
+| Space plan | Room to move | How slack helps |
+
+### Domain Examples
+
+| Domain | Technical test | Humane test |
+|--------|---------------|-------------|
+| Physics | Energy store | Force buffer |
+| Networks | Queue space | Link room |
+| Cognition | Mind space | Think room |
+| Systems | Flow buffer | Move space |
+
+---
+
+## Scale Effects
+
+How Buffer Allocation manifests differently at various scales:
+
+### Micro Scale (ε-bounded)
+
+| Constant | Effect | Example |
+|----------|--------|---------|
+| ε | Quantum buffer | Wave room |
+| λV | Gate space | State slack |
+
+### Human Scale (ψA-bounded)
+
+| Constant | Effect | Example |
+|----------|--------|---------|
+| ψA | Phase room | Pattern space |
+| ∇S | Structure slack | Clear buffer |
+
+### Cosmic Scale (c-bounded)
+
+| Constant | Effect | Example |
+|----------|--------|---------|
+| c | Wave space | Light room |
+| λV | Field buffer | Space slack |
+
+Note: At extreme scales, buffers face fundamental limits (e.g., quantum uncertainty at ε, causal space at c).
+
+---
+
+## Invariants / Thresholds
+
+Scale-dependent bounds:
+- ε: buffer grain
+- c: total space
+- ψA: phase room
+- λV: gate slack
 
 ---
 
 ## SVA Coupling
 
-- λV tunes admission vs backlog; ∇S affects where buffers sit (per‑segment vs global);
-- ψA influences smoothing windows and recovery cadence
+Scale-dependent modulator effects:
+
+| Scale | Modulator | Technical effect | Humane effect |
+|-------|-----------|-----------------|---------------|
+| Micro | ∇S | Pattern space | Wave room |
+| Human | λV | Gate buffer | Flow slack |
+| Cosmic | ψA | Phase slack | Field space |
 
 ---
 
 ## Failure Modes
 
-- Starvation (buffers too strict); oscillation (too lax); head‑of‑line blocking; hidden hotspot
+Scale-dependent failure patterns:
+
+| Scale | Mode | Technical signature | Humane signature |
+|-------|------|-------------------|------------------|
+| Micro | Space gone | Pattern full | No room |
+| Human | Share fail | Flow block | Can't move |
+| Cosmic | Room lost | Field full | No space |
 
 ---
 
 ## Diagnostic Checklist
 
-- [ ] Headroom targets defined and monitored per critical segment
-- [ ] Admission control (λV) aligned with buffer sizes
-- [ ] Refill/decay rates avoid oscillation
+Technical tests:
+- [ ] Rules clear
+- [ ] Share fair
+- [ ] Plan works
+- [ ] Space kept
+
+Humane tests:
+- [ ] Saves well
+- [ ] Shares fair
+- [ ] Room enough
+- [ ] Space clear
 
 ---
 
-## Domain Mapping
+## Design rationale
 
-- Physics: damping reservoirs; shock absorbers
-- Chemistry: buffer solutions (pH), catalyst reserve
-- Biology: glycogen stores; physiological reserves
-- Social/Politics: contingency budgets; staffing buffers
-- Economy: liquidity/capital reserves; inventory buffers
-- Networks: queue sizing; congestion window policy
-- Cognition: attention slack; recovery breaks
+This diagnostic must maintain dual-register intelligibility per governance (see [PRINCIPLES.md](../../../../PRINCIPLES.md)). Neither technical buffering nor experiential space alone captures its full meaning.
 
 ---
 
 ## See Also
 
-- [[Capacity Margin (diagnostic)]] · [[Stability Margin (diagnostic)]] · [[Resilience (diagnostic)]]
+- [[Capacity Margin (diagnostic)]]
+- [[Stability Margin (diagnostic)]]
+- [[Resilience (diagnostic)]]
+- [[Form]]
+- [[Field]]
 
+---
+
+## Dual‑register checklist
+
+- [x] Technical mapping provided
+- [x] Humane mapping provided
+- [x] Crosswalk table included
+- [x] Scale-aware tests documented
