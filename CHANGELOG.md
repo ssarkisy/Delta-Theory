@@ -9,6 +9,17 @@ Focus: Complete Execution Environment and Coherence Orchestration modules
 - Coherence Orchestration (00.0.2) with ψA modulation
 - Documentation and integration updates
 
+## [v0.2.2] — Enhanced Project Description
+
+### Changed
+- Expanded project description in .zenodo.json
+  - Added clear explanation of what difference means
+  - Clarified theory's significance and applications
+  - Improved explanation of core components
+  - Enhanced readability for newcomers
+
+Why: Make the project more accessible and its significance clearer to newcomers.
+
 ## [v0.2.1] — DOI Update
 
 ### Changed
