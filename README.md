@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16784218.svg)](https://doi.org/10.5281/zenodo.16784218)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16787603.svg)](https://doi.org/10.5281/zenodo.16787603)
 
 ## What is Delta Theory?
 ### TL;DR

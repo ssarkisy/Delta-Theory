@@ -9,6 +9,16 @@ Focus: Complete Execution Environment and Coherence Orchestration modules
 - Coherence Orchestration (00.0.2) with ψA modulation
 - Documentation and integration updates
 
+## [v0.2.1] — DOI Update
+
+### Changed
+- Updated DOI to 10.5281/zenodo.16787603
+  - CITATION.cff
+  - README.md badge
+  - Documentation references
+
+Why: Reflect new Zenodo publication for v0.2.0 release.
+
 ## [v0.2.0] — Translation Layer Virtualization
 
 ### Added

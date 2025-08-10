@@ -1,0 +1,29 @@
+{
+  "title": "Delta Theory",
+  "upload_type": "other",
+  "description": "A minimal, domain-agnostic ontology for how differences become structure, propagate, and stabilize across domains. Uses a dual-register approach balancing technical precision with humane meaning. Includes the five kernel invariants (ε, π, e, φ, c) and the SVA modulators (∇S, λV, ψA). Repository contains conceptual notes, structure, and documentation (not software).",
+  "creators": [
+    { "name": "Sarkisian, Sergei" }
+  ],
+  "license": "cc-by-sa-4.0",
+  "keywords": [
+    "systems theory",
+    "recursive structures",
+    "difference propagation",
+    "ontology",
+    "emergence",
+    "cognitive modeling",
+    "physics"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.16787603",
+      "relation": "isDerivedFrom",
+      "scheme": "doi",
+      "resource_type": "publication-preprint",
+      "title": "Fractal Relational Ontology of Noetic Transcendency — Difference as Ontological Ground"
+    }
+  ],
+  "contributors": [],
+  "notes": "Repository release v0.2.1. Use GitHub releases to mint a new Zenodo record; this file pre-sets metadata."
+}
