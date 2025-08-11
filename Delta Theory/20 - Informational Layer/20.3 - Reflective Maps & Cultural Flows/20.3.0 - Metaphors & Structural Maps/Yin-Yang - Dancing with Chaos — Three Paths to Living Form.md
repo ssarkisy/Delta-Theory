@@ -1,5 +1,5 @@
 ---
-type: meta
+type: ontological_metaphor
 tags:
   - "#status/stable"
   - "#layer/information"
@@ -53,7 +53,7 @@ Without order, chaos would:
 
 ## Three Faces of the Dance
 
-### 1. Classical Yin-Yang — The Dream of Perfect Peace
+### 1. Classical Yin-Yang — The Dream of Perfect Peace (P⁻)
 
 ![[classic_yin_yang.png]]
 
@@ -67,7 +67,9 @@ We dream of this state, but life cannot exist here.
 It's the Buddha-nature beyond all becoming —
 A reference point, not a destination.
 
-### 2. Recursive Yin-Yang — The Vision of Sustainable Harmony
+> Corresponds to the Structural Polarity (P⁻) in [[Universal Polarities — Recursive Stabilization Through Triadic Rotation]] — the foundation that maintains core patterns and provides stable framework for evolution.
+
+### 2. Recursive Yin-Yang — The Vision of Sustainable Harmony (P⁰)
 
 ![[sustainable_growth_yin_yang.png]]
 
@@ -81,7 +83,9 @@ This is our ideal of sustainable systems,
 Achievable in protected spaces and precious moments,
 But always vulnerable to larger cycles of change.
 
-### 3. Forming Yin-Yang — The Reality of Living Systems
+> Corresponds to the Balancing Polarity (P⁰) in [[Universal Polarities — Recursive Stabilization Through Triadic Rotation]] — the mediator that harmonizes opposites and maintains coherence across levels.
+
+### 3. Forming Yin-Yang — The Reality of Living Systems (P⁺)
 
 ![[forming_yin_yang.png]]
 
@@ -101,6 +105,8 @@ This is how reality actually works:
 - Unstable enough to evolve
 - Dancing on the edge of chaos
 - Seeking connection like life itself
+
+> Corresponds to the Active Polarity (P⁺) in [[Universal Polarities — Recursive Stabilization Through Triadic Rotation]] — the creative force that drives evolution through asymmetric exploration and boundary expansion.
 
 ## The Mathematics of Life
 
@@ -153,6 +159,53 @@ When the dance breaks down:
 - **Political:** Governance balancing stability and change
 - **Technological:** Systems evolving through use
 
+## Integration with Polarity Frameworks
+
+### Triadic Architecture
+
+The three Yin-Yang forms manifest through the polarity system described in [[Universal Polarities — Recursive Stabilization Through Triadic Rotation]]:
+
+1. **Classical Form as P⁻**
+   - Perfect symmetry represents structural stability
+   - Core pattern maintenance
+   - Foundation for evolution
+
+2. **Recursive Form as P⁰**
+   - Nested balance enables sustainable growth
+   - Mediates between order and chaos
+   - Harmonizes multiple scales
+
+3. **Forming State as P⁺**
+   - Creative asymmetry drives evolution
+   - Dynamic exploration of possibilities
+   - Living adaptation in action
+
+### Nested Stability Through Opposition
+
+[[Alternating Polarity — Recursive Stabilization Through Phase Opposition]] reveals how this dance maintains stability:
+
+1. **Phase Inversion**
+   - Each nested level inverts its parent's dominant mode
+   - Creates gyroscopic stability through counter-rotation
+   - Prevents destructive resonance
+
+2. **Living Balance**
+   - Opposition generates creative tension
+   - Alternation enables sustainable growth
+   - Inversion maintains coherent structure
+
+3. **Evolution Mechanism**
+   - Phase shifts enable adaptation
+   - Nested opposition creates resilience
+   - Balanced tension drives growth
+
+This three-way integration shows how:
+- Order and chaos dance through polarity
+- Stability emerges from phase opposition
+- Evolution requires nested inversion
+
+---
+
 ## The Art of Sustainable Design
 
 ### Core Principles
@@ -170,6 +223,8 @@ When the dance breaks down:
 - Foster recursive adaptation
 
 ## Core References
+- [[Universal Polarities — Recursive Stabilization Through Triadic Rotation]] — Triadic rotation and nested stability
+- [[Alternating Polarity — Recursive Stabilization Through Phase Opposition]] — Phase inversion and nested stability
 - [[Relational Embedding]] — The binding principle
 - [[Structural Polarity System]] — Formal framework
 - [[Recursive Stabilization Constants]] — Mathematical anchors

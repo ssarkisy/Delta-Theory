@@ -2,6 +2,45 @@
 
 This project adheres to a human‑readable changelog. Versions reference GitHub releases; unreleased items track upcoming work.
 
+## [v0.2.6] — Enhanced Polarity Framework & Cross-References
+
+### Added
+- New metaphorical frameworks:
+  1. "Universal Polarities — Recursive Stabilization Through Triadic Rotation"
+     - Deep integration with Yin-Yang metaphor
+     - Triadic polarity system (P⁺, P⁻, P⁰) with nested rotation dynamics
+     - Gyroscopic stability metaphor for multi-level systems
+     - Charge-polarity relationship across scales
+     - Mathematical formalization of nested rotation
+  2. "Alternating Polarity — Recursive Stabilization Through Phase Opposition"
+     - Detailed analysis of nested polarity inversion
+     - Mathematical formalization of stability conditions
+     - Cross-domain examples and failure modes
+     - Integration with diagnostic framework
+- New glossary entries for polarity types:
+  - Active Polarity (P⁺) — generative and exploratory aspects
+  - Structural Polarity (P⁻) — stabilizing and containing aspects
+  - Balancing Polarity (P⁰) — mediating and harmonizing aspects
+  - Comprehensive dual-register mapping for each type
+  - Scale effects and domain manifestations
+- Enhanced cross-referencing between metaphorical frameworks
+  - Bidirectional deep linking between polarity and Yin-Yang metaphors
+  - Explicit mapping of polarity roles to Yin-Yang forms
+  - Unified perspective on stability and change
+  - Comprehensive diagnostic integration
+
+### Changed
+- Updated metaphor visualization
+  - Added polarity diagrams with role-specific annotations
+  - Enhanced image descriptions for accessibility
+  - Improved visual coherence across metaphorical frameworks
+- Enhanced acknowledgments
+  - Added Alexander Sarkisian to Special Thanks
+  - Recognized contributions to theory stabilization
+  - Acknowledged role in deepening core concepts
+
+Why: Strengthen the theoretical framework by establishing clear connections between different metaphorical perspectives and providing a deeper understanding of polarity dynamics in stable systems.
+
 ## [v0.2.5] — Metaphorical Framework & Documentation Updates
 
 ### Added

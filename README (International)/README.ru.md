@@ -234,4 +234,4 @@ Delta Theory можно загрузить в LLM для исследовани�
 ∆
 
 ---
-*Last synced with English version 0.2.4*
+*Last synced with English version 0.2.6*

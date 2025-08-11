@@ -19,6 +19,25 @@ aliases:
 
 A Form is a stabilized configuration of embedded difference that can persist and interact. It emerges when closure succeeds and maintains coherence under perturbation.
 
+### Special Cases
+
+Forms can manifest in different ways, with [[Polarity]] being a unique special case:
+
+1. **General Forms**
+   - Stabilize difference into persistent patterns
+   - May reduce difference's dynamic nature
+   - Focus on structural stability
+
+2. **Polarity (P±)**
+   - Preserves difference's generative nature
+   - Maintains dynamic opposition
+   - Enables recursive embedding while preserving difference characteristics
+   - Represents the minimal stable configuration that maintains difference's power
+
+This distinction shows how Form can either:
+- Stabilize difference into static patterns (general case)
+- Preserve difference's dynamic nature through structured opposition (polarity case)
+
 ---
 
 ## Dual‑register mapping
@@ -55,24 +74,34 @@ Map the interface into both registers and show the bridge explicitly.
 
 Brief examples across domains showing both technical and humane angles:
 
-| Domain | Technical manifestation | Humane manifestation |
-|--------|------------------------|---------------------|
-| Physics | Bound state | Natural shape |
-| Chemistry | Stable molecule | Distinct substance |
-| Biology | Cell identity | Living form |
-| Social | Partnership record | Lasting bond |
-| Economy | Account position | Owned value |
-| Politics | Institution | Living tradition |
-| Networks | Durable session | Known identity |
-| Cognition | Memory trace | Clear concept |
+| Domain | General Form | Polarity Form | Humane manifestation |
+|--------|--------------|---------------|---------------------|
+| Physics | Bound state | Electron/proton pair | Natural shape/dynamic balance |
+| Chemistry | Stable molecule | Acid/base pair | Distinct substance/reactive pair |
+| Biology | Cell identity | Nucleus/membrane dynamic | Living form/adaptive system |
+| Social | Partnership record | Innovation/tradition cycle | Lasting bond/evolving relationship |
+| Economy | Account position | Market supply/demand | Owned value/dynamic exchange |
+| Politics | Institution | Power/resistance dynamic | Living tradition/adaptive system |
+| Networks | Durable session | Active/passive nodes | Known identity/dynamic role |
+| Cognition | Memory trace | Focus/context relationship | Clear concept/dynamic understanding |
 
 ---
 
 ## Formal identity
 
+### General Form
 $$
 F := ⊚(R(∆)) \quad ; \quad F_n := ⊚(R^n(∆_0))
 $$
+
+### Polarity as Special Case
+$$
+P± := ⊚(R(∆)) \quad \text{where} \quad R(∆) \text{ preserves } \Delta \text{'s dynamic nature}
+$$
+
+The key distinction is in how R(∆) operates:
+- For general forms, R(∆) may stabilize difference into static patterns
+- For polarity, R(∆) must preserve difference's generative and asymmetric nature
 
 ---
 
@@ -100,10 +129,11 @@ Dual‑register mapping is required (see [PRINCIPLES.md](../../../../../PRINCIPL
 
 ## See Also
 
-- [[Delta]]
-- [[RelationalEmbedding]]
-- [[Stabilization (Closure)]]
-- [[Structure]]
+- [[Delta]] — Primitive difference that seeds all forms
+- [[RelationalEmbedding]] — Context binding operation
+- [[Stabilization (Closure)]] — Coherence operation
+- [[Polarity]] — Special case that preserves difference's nature
+- [[Structure]] — Emergent organization
 
 ---
 
