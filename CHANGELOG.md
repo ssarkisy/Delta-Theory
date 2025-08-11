@@ -2,6 +2,25 @@
 
 This project adheres to a human‑readable changelog. Versions reference GitHub releases; unreleased items track upcoming work.
 
+## [v0.2.5] — Metaphorical Framework & Documentation Updates
+
+### Added
+- New `ontological_metaphor` type for deep structural metaphors
+- New metaphorical framework: "Outer Universe — Recursive Embedding Beyond Dark Matter"
+  - Demonstrates ∆-theory application to cosmology
+  - Reframes dark matter/energy through recursive embedding
+  - Balances technical rigor with biological metaphors
+  - Shows practical use of dual-register approach
+
+### Changed
+- Enhanced core theory presentation
+  - Added critical insight about dual-register necessity
+  - Highlighted limitations of pure mathematical or biological approach
+  - Used Outer Universe metaphor as concrete demonstration
+  - Updated both English and Russian READMEs
+
+Why: Demonstrate theory's power to reframe fundamental physics through ε-resolution framework while emphasizing the critical necessity of both technical and experiential understanding.
+
 ## [v0.2.4] — LLM Integration & Documentation Updates
 
 ### Added

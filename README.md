@@ -21,6 +21,8 @@ All internal links and references should now work correctly with default Obsidia
 
 Delta Theory proposes difference (∆) as the fundamental basis of reality, offering a novel approach to understanding complex systems. It demonstrates how differences create structure through recursive cycles of propagation and stabilization, bridging the gap between physical and cognitive domains.
 
+⚠️ **Critical Insight**: This theory fundamentally requires both technical and experiential understanding to be complete. Mathematical precision alone becomes artificially limited without biological metaphors; pure experiential understanding lacks rigorous structure without formal framework. See our [[Outer Universe — Recursive Embedding Beyond Dark Matter]] note for a profound demonstration of how combining mathematical and biological perspectives reveals deeper truths about cosmic mysteries that neither approach could fully grasp alone.
+
 ### For the Curious
 
 Every change begins with a **difference** — a contrast, deviation, or disruption that can be detected and propagated. But not every difference survives. Some fade away, some cascade outward, and some stabilize into enduring structures.

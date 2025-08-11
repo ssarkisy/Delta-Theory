@@ -67,15 +67,15 @@ Additionally, two **Anchor Types** sit outside recursion, forming the ontologica
 
 ### 5. Informational Layer (Awareness)
 
-| Type         | Description |
-|--------------|-------------|
-| `meta`       | System-level observation: structure, architecture, propagation logic |
-| `glossary`   | Canonical concept definition with aliases |
-| `index`      | Structural or conceptual folder map |
-| `log`        | Change trace or history |
-| `styleguide` | Design, naming, and formatting rules |
-| `access`     | Query or link aggregation interface |
-| `semantic`   | Metadata schema, tag definition, ontological markup |
+| Type                 | Description |
+|---------------------|-------------|
+| `meta`              | System-level observation: structure, architecture, propagation logic |
+| `glossary`          | Canonical concept definition with aliases |
+| `index`             | Structural or conceptual folder map |
+| `styleguide`        | Design, naming, and formatting rules |
+| `access`            | Query or link aggregation interface |
+| `semantic`          | Metadata schema, tag definition, ontological markup |
+| `ontological_metaphor` | Deep structural metaphor that reveals recursive patterns across domains |
 
 ---
 
