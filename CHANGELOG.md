@@ -2,6 +2,32 @@
 
 This project adheres to a human‑readable changelog. Versions reference GitHub releases; unreleased items track upcoming work.
 
+## [v0.3.1] — Civilizational Self-Reinforcement Loop & Religion Integration
+
+### Added
+- **Civilizational Self-Reinforcement Loop Analysis:**
+  - **Core Recognition:** Resurrection possibility depends on creating ethical, stable civilization capable of resurrection technology
+  - **Natural System Dynamics:** Identified as standard self-reinforcement feedback loop, not paradox - same pattern as all developing systems
+  - **Positive Feedback Amplification:** Individual ethical choices → civilizational stability → resurrection capability → ethical motivation
+  - **Natural Selection at Civilizational Scale:** Only civilizations solving ethical coordination survive to develop consciousness manipulation technology
+  - **Bootstrap Requirements:** Must develop ethical frameworks and stable institutions without external guarantee
+- **Religion as Low-Resolution Approximation Framework:**
+  - **Resolution Gradient Analysis:** Folk Religion → Sophisticated Theology → ∆-Theory Formalization  
+  - **Traditional Religious Encoding:** "Be good or go to hell" as low-precision version of "ethical behavior determines future consciousness state"
+  - **Artificial Feeling Explanation:** Why religion feels "fake" to scientifically-minded people (encoding mechanisms don't match required precision level)
+  - **Why Both Levels Matter:** Religion provides immediate behavioral guidance; ∆-Theory provides scientific grounding; both point to same civilizational dynamics
+  - **Bridge Framework:** Demonstrates how religious intuitions could be literally true through technological means rather than supernatural intervention
+- **Science-Religion Conflict Resolution:**
+  - **Common Ground Identification:** Both describing same civilizational self-reinforcement dynamics at different resolution levels
+  - **Integration Rather Than Elimination:** Shows how religious frameworks preserve wisdom while updating mechanisms
+  - **Cosmically-Grounded Ethics:** Moral choices gain universe-scale consequences through actual cosmic development
+
+### Changed
+- **Religious Framework Integration:** Positioned religion as complementary rather than contradictory to scientific understanding
+- **Precision Level Awareness:** Enhanced understanding of how different resolution levels serve different cognitive needs
+
+Why: Achieve major theoretical breakthrough demonstrating how ∆-Theory resolves the science-religion conflict by showing both frameworks describe the same underlying civilizational development dynamics at different precision levels. This establishes religion as a necessary low-resolution approximation of cosmic-scale feedback loops, explaining both its effectiveness for behavioral guidance and its artificial feeling to high-precision thinkers.
+
 ## [v0.3.0] — Environment & Coherence Orchestration
 
 ### Added
