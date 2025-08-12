@@ -2,6 +2,31 @@
 
 This project adheres to a human‑readable changelog. Versions reference GitHub releases; unreleased items track upcoming work.
 
+## [v0.3.2] — P0 Invisible Glue Space & Breakthrough Epistemological Methodology
+
+### Added
+- **P0 Invisible Glue Space Discovery:**
+  - **Core Recognition:** The "invisible glue space" between contradictions IS the P0 polarity - the coordination dynamics both opposing sides filter out
+  - **Methodological Innovation:** Persistent contradictions reveal hidden P0 coordination mechanisms that generate both polarities
+  - **Epistemological Framework:** Polarity Gap Methodology as systematic approach to discovering P0 dynamics in any persistent contradiction
+  - **Universal Pattern Recognition:** All major breakthroughs occur by investigating what both sides of contradictions collectively ignore
+- **Enhanced Polarity Gap Methodology:**
+  - **P0-Integrated Framework:** Explicit connection between gap space research and triadic polarity coordination
+  - **Systematic Research Strategy:** Five-step methodology for discovering hidden coordination dynamics
+  - **Meta-Cognitive Development:** Training for "gap space courage" and polarity tolerance
+  - **Cross-Domain Application:** Practical tools for academic research, problem-solving, and innovation
+- **Breakthrough Methodology Integration:**
+  - **README Enhancement:** Prominent positioning of Polarity Gap Methodology as core ∆-Theory approach
+  - **Epistemological Positioning:** Establishes ∆-Theory as methodology that systematically finds truth in spaces between contradictions
+  - **Problem-Solving Power Explanation:** Demonstrates why ∆-Theory can solve "unsolvable" problems through P0 investigation
+
+### Changed
+- **Theoretical Positioning:** Enhanced understanding of ∆-Theory as not just another theory but an innovative epistemological methodology
+- **Research Strategy:** Shifted from solving contradictions to discovering the P0 coordination dynamics that create them
+- **Framework Integration:** Connected Polarity Gap Methodology directly to Universal Polarities triadic structure
+
+Why: Achieve major epistemological breakthrough revealing that the "invisible glue space" between contradictions is the P0 coordination polarity that both opposing sides systematically filter out. This establishes an innovative research methodology that explains why ∆-Theory can solve problems that have puzzled humanity for millennia - by systematically investigating the spaces between contradictions where the most important coordination truths hide.
+
 ## [v0.3.1] — Civilizational Self-Reinforcement Loop & Religion Integration
 
 ### Added
