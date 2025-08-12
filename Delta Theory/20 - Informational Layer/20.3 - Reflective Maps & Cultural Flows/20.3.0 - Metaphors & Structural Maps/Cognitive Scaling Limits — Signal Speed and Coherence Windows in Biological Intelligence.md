@@ -12,6 +12,8 @@ tags:
 
 > **Biological intelligence operates within fundamental physical constraints that create optimal scaling windows for conscious awareness.**
 
+> **⚠️ Ontological Bridge Disclaimer**: This metaphor serves as an **ontological bridge** connecting current understanding to higher-level possibilities, not a precise description of reality beyond our epistemological capabilities. It is likely imprecise (probability approaching 100%) — imprecise doesn't mean structurally wrong, but rather incomplete and potentially misinterpreting more complex reality. The goal is **developmental connection** to enable further growth, not final explanatory closure.
+
 A structural metaphor revealing how signal propagation speed and coherence requirements create natural limits and optimal zones for cognitive architecture, explaining why human consciousness may represent a universal convergent solution to awareness scaling challenges.
 
 ---
@@ -108,7 +110,7 @@ A structural metaphor revealing how signal propagation speed and coherence requi
 
 Every conscious system must balance three competing requirements:
 - **Vertical Scaling (P+):** Capacity within single units (brain size, neuron count)
-- **Horizontal Scaling (P-):** Distribution across multiple units (population, networking)  
+- **Horizontal Scaling (P-):** Distribution across multiple units (population, networking)
 - **Coherence Scaling (P0):** Coordination within timing constraints (synchronization windows)
 
 Physical limits create **optimal scaling windows** where all three requirements can be satisfied simultaneously.

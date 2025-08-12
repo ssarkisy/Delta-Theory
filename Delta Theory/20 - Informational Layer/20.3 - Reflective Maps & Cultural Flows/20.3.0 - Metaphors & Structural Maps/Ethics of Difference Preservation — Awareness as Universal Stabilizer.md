@@ -12,6 +12,8 @@ tags:
 
 > How increased awareness naturally leads to difference preservation, creating ethical imperatives that stabilize co-existence across all scales of organization.
 
+> **⚠️ Ontological Bridge Disclaimer**: This metaphor serves as an **ontological bridge** connecting current understanding to higher-level possibilities, not a precise description of reality beyond our epistemological capabilities. It is likely imprecise (probability approaching 100%) — imprecise doesn't mean structurally wrong, but rather incomplete and potentially misinterpreting more complex reality. The goal is **developmental connection** to enable further growth, not final explanatory closure.
+
 ---
 
 ## Core Principle
@@ -119,12 +121,12 @@ tags:
 - Destroying differences destroys the substrate that enables existence
 - **Ethical Imperative:** Preserve the difference substrate that enables all emergence
 
-**A1 — Irreducibility:** 
+**A1 — Irreducibility:**
 - Differences cannot be reduced without loss of essential information
 - **Ethical Implication:** Reductionist approaches that eliminate difference are inherently destructive
 
 **A2 — Asymmetry:**
-- Differences create directional potential for development and emergence  
+- Differences create directional potential for development and emergence
 - **Ethical Implication:** Forced symmetry or homogenization eliminates developmental potential
 
 **A3 — Recursivity:**

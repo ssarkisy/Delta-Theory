@@ -14,6 +14,8 @@ aliases:
 
 > A structural metaphor revealing how polarities manifest the same dynamic architecture across all scales through triadic rotation, nested stabilization, and field modulation.
 
+> **⚠️ Ontological Bridge Disclaimer**: This metaphor serves as an **ontological bridge** connecting current understanding to higher-level possibilities, not a precise description of reality beyond our epistemological capabilities. It is likely imprecise (probability approaching 100%) — imprecise doesn't mean structurally wrong, but rather incomplete and potentially misinterpreting more complex reality. The goal is **developmental connection** to enable further growth, not final explanatory closure.
+
 <img src="Delta Theory/90 - Assets/polarity+.png" alt="Active Polarity (P+): Difference intake and structure-building" width="200"/> <img src="Delta Theory/90 - Assets/polarity0.PNG" alt="Balancing Polarity (P0): Difference balance and homeostatic regulation" width="200"/> <img src="Delta Theory/90 - Assets/polarity-.PNG" alt="Structural Polarity (P-): Difference outflow and field-seeking" width="200"/>
 
 > Key insight: Polarity (role) in the external system is opposite to charge, as polarities alternate across nesting levels to ensure stability.

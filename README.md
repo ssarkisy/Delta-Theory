@@ -180,19 +180,25 @@ Think of it as learning to see the world through a new lens: one that reveals ho
 
 ⚠️ **Important Cautions**
 
-1. **Irreducible Difference**
+1. **Scientific Framework**
+   - Delta Theory is an **open ontological framework** grounded in established science
+   - All claims are structured for testing and falsification
+   - Theory adapts based on evidence, not belief maintenance
+   - See [[Epistemological Safeguards — Why Delta Theory is Not Conspiracy or Pseudoscience]] for detailed scientific integrity measures
+
+2. **Irreducible Difference**
    - DIFFERENCE ALWAYS PERSISTS AND CANNOT BE REDUCED
    - Never collapse one domain into another
    - Respect the unique nature of each layer and system
    - Maintain awareness of irreducible differences
 
-2. **Recursive Amplification**
+3. **Recursive Amplification**
    - The more complex and abstract the question, the more interpretations emerge
    - Each layer of nesting amplifies differences
    - This reflects the generative nature of the Universe itself
    - Embrace multiplicity without seeking reduction
 
-3. **LLM Specifics**
+4. **LLM Specifics**
    - Outputs may contain hallucinations
    - Cultural and linguistic biases may be amplified
    - Always verify against:

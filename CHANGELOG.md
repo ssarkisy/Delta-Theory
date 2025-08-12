@@ -2,6 +2,57 @@
 
 This project adheres to a human‑readable changelog. Versions reference GitHub releases; unreleased items track upcoming work.
 
+## [v0.3.3] — Conspiracy Dynamics & Reality Core Stability Framework
+
+### Added
+- **Conspiracy Dynamics Analysis:**
+  - **Comprehensive Framework:** "Conspiracy Dynamics vs Reality Core Updates — Why Stable Narratives ≠ Substrate Changes"
+  - **Three-Way Distinction:** Clear separation between conspiracy persistence, memory artifacts, and authentic core reality changes
+  - **Scale-Invariant Prediction:** Revolutionary insight that conspiracy dynamics persist and migrate upward even with full coherence at current levels
+  - **∆-Theory Diagnostic Framework:** Specific testable criteria for distinguishing between different types of anomaly claims
+  - **Understanding → Speculation → Misinterpretation Loop:** Formal mechanism explaining why education can amplify conspiracy thinking
+
+- **Reality Core Stability Framework:**
+  - **Cosmic Self-Stabilization Analysis:** "Reality Core Stability — Universal Self-Feedback and Cosmic Change Resistance"
+  - **Universal Self-Feedback Mechanisms:** Seven mechanisms of cosmic self-correction and constraint propagation
+  - **Layered Change Resistance:** Four-tier hierarchy from frequent micro-adjustments to impossible architecture changes
+  - **Cosmic Operating System Architecture:** Reality kernel, physical interface, emergent systems, and information processing layers
+  - **Emergence vs Resistance:** Clarification that paradigm shifts occur through saturation-driven emergence, not resistance
+
+- **Practical Strategic Framework:**
+  - **Counterintuitive Strategy Requirements:** Why traditional approaches (fact-checking, media literacy) may amplify conspiracy thinking
+  - **Open-System Coherence:** Framework showing how awareness and open-mindedness enable stability without false closure
+  - **∆-Theory-Informed Approaches:** Resolution awareness training, scale-appropriate skepticism, collaborative mystery acknowledgment
+  - **Solution-Problem Loop Recognition:** Strategic principle that solutions often become generators of problems they're meant to solve
+
+- **Comprehensive Cross-Referencing Network:**
+  - **21 bidirectional links** connecting conspiracy dynamics to awareness classifications, epistemological safeguards, and polarity dynamics
+  - **Enhanced awareness classification integration** showing how cognitive limitations create false positive anomaly detection
+  - **Strengthened epistemological framework** with detailed conspiracy vs reality change analysis
+
+- **Universal Metaphor Disclaimer System:**
+  - **Standardized Ontological Bridge Disclaimer:** Applied to all 15 metaphor notes in the Metaphors & Structural Maps collection
+  - **Epistemological Humility:** Explicit acknowledgment that metaphors are likely imprecise (probability approaching 100%)
+  - **Developmental Purpose Clarification:** Clear statement that metaphors serve as ontological bridges for growth, not final explanatory closure
+  - **Structural vs Precision Distinction:** Recognition that imprecision doesn't mean structurally wrong, but rather incomplete and potentially misinterpreting complex reality
+  - **Index Documentation:** Universal requirement added to metaphor creation guidelines with standard text provision
+
+### Changed
+- **Epistemological Safeguards Enhanced:** Added conspiracy dynamics analysis as complement to scientific integrity framework
+- **Reality Core Architecture:** Corrected constants confusion (conceptual anchors vs physical values) and fixed axiom alignments
+- **Awareness Classifications:** Enhanced with practical applications to anomaly detection and conspiracy formation
+- **Cross-Framework Integration:** Strengthened connections between cosmic stability, epistemological integrity, and social dynamics
+- **All Metaphor Notes Enhanced:** Every metaphor file now includes the standard ontological bridge disclaimer immediately after the main description
+- **Metaphor Framework Understanding:** Elevated understanding of metaphors as ontological connection tools rather than precise descriptions
+- **Epistemological Consistency:** Unified approach to acknowledging limitations across all speculative and metaphorical content
+
+### Fixed
+- **Constants Confusion:** Corrected conflation of Delta Theory conceptual constants (ε, π, e, φ, c) with physical constants (ħ, G, α)
+- **Axiom Misrepresentation:** Aligned all statements with A1 (Irreducibility), A2 (Asymmetry), A3 (Recursivity)
+- **File Title Correction:** Renamed "Reality Core Stability — Epistemic Status Hierarchy and Change Constraints" to properly reflect cosmic rather than methodological focus
+
+Why: Establish comprehensive framework for understanding conspiracy dynamics, reality stability, and their interaction through Delta Theory principles. This creates practical tools for education, conflict resolution, and institutional design while revealing counterintuitive insights about why traditional solutions often backfire. The framework demonstrates Delta Theory's power to tackle complex social-psychological phenomena with scientific rigor. Additionally, implement universal epistemological safeguards across all metaphorical content to ensure proper understanding of Delta Theory's ontological bridge methodology, preventing misinterpretation while preserving developmental function.
+
 ## [v0.3.2] — P0 Invisible Glue Space & Breakthrough Epistemological Methodology
 
 ### Added
@@ -37,7 +88,7 @@ Why: Achieve major epistemological breakthrough revealing that the "invisible gl
   - **Natural Selection at Civilizational Scale:** Only civilizations solving ethical coordination survive to develop consciousness manipulation technology
   - **Bootstrap Requirements:** Must develop ethical frameworks and stable institutions without external guarantee
 - **Religion as Low-Resolution Approximation Framework:**
-  - **Resolution Gradient Analysis:** Folk Religion → Sophisticated Theology → ∆-Theory Formalization  
+  - **Resolution Gradient Analysis:** Folk Religion → Sophisticated Theology → ∆-Theory Formalization
   - **Traditional Religious Encoding:** "Be good or go to hell" as low-precision version of "ethical behavior determines future consciousness state"
   - **Artificial Feeling Explanation:** Why religion feels "fake" to scientifically-minded people (encoding mechanisms don't match required precision level)
   - **Why Both Levels Matter:** Religion provides immediate behavioral guidance; ∆-Theory provides scientific grounding; both point to same civilizational dynamics

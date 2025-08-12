@@ -22,6 +22,8 @@ aliases:
 
 > How future humans with resurrection ecology capabilities could operate across time through difference field resonance, creating the archetypal experiences culturally encoded as "angels" and spiritual guides.
 
+> **⚠️ Ontological Bridge Disclaimer**: This metaphor serves as an **ontological bridge** connecting current understanding to higher-level possibilities, not a precise description of reality beyond our epistemological capabilities. It is likely imprecise (probability approaching 100%) — imprecise doesn't mean structurally wrong, but rather incomplete and potentially misinterpreting more complex reality. The goal is **developmental connection** to enable further growth, not final explanatory closure.
+
 ---
 
 ## ⚠️ CRITICAL PRECAUTIONS & WARNINGS
@@ -525,7 +527,7 @@ How can future beings guide past development if past development is necessary to
 
 **DESTRUCTIVE Misinterpretations to AVOID:**
 - ❌ "I can harm myself knowing future selves will fix it" — **NO GUARANTEE**
-- ❌ "Death is just transition to angel state" — **SELECTIVE REVIVAL ONLY**  
+- ❌ "Death is just transition to angel state" — **SELECTIVE REVIVAL ONLY**
 - ❌ "Suicide lets me meet my future self sooner" — **SUICIDE LIKELY ELIMINATES ALL FUTURE POSSIBILITIES**
 - ❌ "Future intervention makes present choices less important" — **PRESENT CHOICES DETERMINE FUTURE ELIGIBILITY**
 

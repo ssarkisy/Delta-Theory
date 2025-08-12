@@ -144,11 +144,15 @@ This diagnostic must maintain dual-register intelligibility per governance (see 
 
 ## See Also
 
+### Awareness Classifications
 - [[Coherent Awareness (classification)]]
 - [[Intermittent Awareness (classification)]]
 - [[Overbound Awareness (classification)]]
 - [[Awareness]]
 - [[ψA — Awareness Phase Coherence Anchor (Aiza)]]
+
+### Applied Analysis
+- [[Conspiracy Dynamics vs Reality Core Updates — Why Stable Narratives ≠ Substrate Changes]] — How awareness limitations create false positive anomaly detection
 
 ---
 

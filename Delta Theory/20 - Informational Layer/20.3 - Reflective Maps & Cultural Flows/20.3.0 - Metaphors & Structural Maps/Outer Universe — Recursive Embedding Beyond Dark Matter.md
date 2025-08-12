@@ -9,6 +9,8 @@ tags:
 
 # Outer Universe — Recursive Embedding Beyond Dark Matter
 
+> **⚠️ Ontological Bridge Disclaimer**: This metaphor serves as an **ontological bridge** connecting current understanding to higher-level possibilities, not a precise description of reality beyond our epistemological capabilities. It is likely imprecise (probability approaching 100%) — imprecise doesn't mean structurally wrong, but rather incomplete and potentially misinterpreting more complex reality. The goal is **developmental connection** to enable further growth, not final explanatory closure.
+
 ## Core Metaphor
 
 The Universe as a recursively embedded structure within an outer maternal field, demonstrating how ∆-theory's principles of closure and propagation can reframe cosmological mysteries.
