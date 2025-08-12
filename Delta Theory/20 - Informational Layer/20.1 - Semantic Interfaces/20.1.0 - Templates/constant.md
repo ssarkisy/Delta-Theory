@@ -47,6 +47,24 @@ aliases:  # Optional
 
 ---
 
+## Derivation from Base Constants (if applicable)
+
+*Include this section for constants that derive from more fundamental constants or emerge from specific primitive operations.*
+
+**From Base Constants:** How this constant relates to fundamental constants
+- Relationship to ε, π, e, φ, c or other base constants
+- Mathematical derivation or operational emergence
+
+**From Primitive Operations:** How this constant emerges from specific operations
+- Connection to ∆ → R(·) → ⊚ → F flow in this domain
+- Operational requirements that generate this constant
+
+**From Domain Requirements:** What domain-specific needs generate this constant
+- Domain constraints that necessitate this anchoring value
+- Stability or coherence requirements that demand this constant
+
+---
+
 ## Dual‑register mapping (concept)
 
 Map the constant into both registers and show the bridge explicitly.

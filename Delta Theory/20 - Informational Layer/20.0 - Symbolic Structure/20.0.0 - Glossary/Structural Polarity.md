@@ -6,22 +6,24 @@ tags:
   - "#function/definition"
 polarity: P-
 aliases:
-  - "P⁻"
+  - "P-"
   - "Structural Pole"
-  - "Absorption Polarity"
+  - "Field-Seeking Polarity"
 ---
 
-# Structural Polarity (P⁻)
+# Structural Polarity (P-)
 
-> The stabilizing pole in a [[Polarity]] system that maintains patterns, provides framework, and enables coherent absorption of difference through structured containment.
+> The field-seeking pole in a [[Polarity]] system that represents difference outflow, connection-making, and external resource acquisition through differential need states.
 
-<img src="../../90 - Assets/polarity-.png" alt="Structural Polarity (P⁻): Framework maintenance and stability" width="300"/>
+<img src="../../90 - Assets/polarity-.png" alt="Structural Polarity (P-): Difference outflow and field-seeking" width="300"/>
 
 ---
 
 ## Definition
 
-Structural Polarity (P⁻) represents the stabilizing, pattern-maintaining aspect of a polarity system that provides framework and coherence. It emerges from [[PrimitiveDifference|∆]] through relational embedding and maintains difference's stability through structured containment. Contains P⁺ₙ₊₁ at its core through nested counter-rotation.
+Structural Polarity (P-) represents the field-seeking, connection-making aspect of a polarity system that operates from differential need to establish pathways and flows. It emerges from [[PrimitiveDifference|∆]] through relational embedding and manifests when systems require external resources, creating channels and frameworks for difference acquisition. Contains P+(n+1) at its core through nested counter-rotation.
+
+**Note on Energy-Difference Relationship:** When seeking external differences, this polarity manifests in domains as various energy flows (electrical currents, metabolic pathways, information streams, etc.). Energy gradients are domain-specific expressions of underlying difference gradients—the tendency for ∆ to propagate and equilibrate across relational structures.
 
 ---
 
@@ -31,33 +33,36 @@ Structural Polarity (P⁻) represents the stabilizing, pattern-maintaining aspec
 
 | Term concept | Network construct | Interface example |
 |-------------|------------------|-------------------|
-| Pattern maintenance | State manager | `PatternStabilizer` |
-| Framework provision | Structure container | `FrameworkProvider` |
+| Field seeking | Connection manager | `FieldConnector` |
+| Pathway creation | Flow channel | `PathwayBuilder` |
 | Nested dynamics | Internal generator | `CoreDynamicsManager` |
 
 ### Humane (biological/relational)
 
 | Term concept | Humane construct | Example |
 |-------------|------------------|----------|
-| Pattern maintenance | Memory holding | "Keeping the form" |
-| Framework provision | Stable ground | "Supporting structure" |
+| Field seeking | Need expression | "Reaching outward" |
+| Pathway creation | Channel building | "Creating connections" |
 | Nested dynamics | Inner potential | "Change within stability" |
 
 ### Crosswalk (bridge)
 
 | Technical term | Humane term | Ontological meaning |
 |---------------|-------------|-------------------|
-| State management | Pattern holding | Form preservation |
-| Structure container | Stable foundation | Framework provision |
+| Connection management | Need fulfillment | Resource acquisition |
+| Flow channeling | Pathway creation | Connection provision |
 | Internal generator | Growth potential | Dynamic stability |
 
 ### Domain Examples
 
 | Domain | Technical manifestation | Humane manifestation |
 |--------|------------------------|---------------------|
-| Physics | Proton stability | Core containment |
-| Networks | Infrastructure node | Stable backbone |
-| Cognition | Memory structure | Pattern recognition |
+| Physics | Proton field anchoring | Stable force foundations |
+| Chemistry | Reaction pathways | Chemical flow channels |
+| Biology | Vascular systems | Life flow networks |
+| Networks | Infrastructure backbone | Stable connection framework |
+| Cognition | Memory pathways | Pattern flow channels |
+| Social | Institutional frameworks | Cultural flow systems |
 | Systems | Framework maintenance | Stable organization |
 
 ---
@@ -83,7 +88,7 @@ Structural Polarity (P⁻) represents the stabilizing, pattern-maintaining aspec
 ## See Also
 
 - [[Polarity]] — Parent structural primitive
-- [[Active Polarity|P⁺]] — Complementary pole
-- [[Balancing Polarity|P⁰]] — Mediating pole
+- [[Active Polarity|P+]] — Complementary pole
+- [[Balancing Polarity|P0]] — Mediating pole
 - [[Universal Polarities — Recursive Stabilization Through Triadic Rotation]] — Metaphorical framework
 - [[Alternating Polarity — Recursive Stabilization Through Phase Opposition]] — Phase dynamics

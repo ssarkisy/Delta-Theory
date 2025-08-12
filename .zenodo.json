@@ -1,21 +1,27 @@
 {
-  "title": "Delta Theory",
+  "title": "Delta Theory: A Universal Framework for Understanding and Solving Complex Systems",
   "upload_type": "other",
-  "description": "Delta Theory proposes difference (∆) as the fundamental basis of reality, offering a novel approach to understanding complex systems. It demonstrates how differences create structure through recursive cycles of propagation and stabilization, bridging the gap between physical and cognitive domains. The theory uniquely balances technical precision with experiential meaning through a dual-register approach, making it valuable for both scientific modeling and human understanding.\n\nAt its core, difference (∆) represents any detectable variation or contrast that can propagate and influence other differences. This leads to emergent structures governed by five universal constants (ε: quantum of difference, π: closure ratio, e: natural growth rate, φ: golden mean, c: propagation limit) and modulated by three fundamental processes (∇S: structural differentiation, λV: void resonance, ψA: awareness coherence).\n\nThe theory's significance lies in its ability to explain how simple differences evolve into complex, stable structures across scales — from quantum phenomena to cognitive processes, from biological systems to social dynamics. This repository contains the ontological framework, conceptual notes, and documentation (not software) that formalize these principles.\n\nDesigned for modern exploration through LLM interfaces, Delta Theory's microkernel can be loaded into AI-enabled IDEs or GPT projects. While the microkernel is documented in English, you can load it once and explore its universal patterns in any language. The theory includes essential glossary notes (Field, Void, Structure, Awareness, Relation, Infinite, Zero) that reframe fundamental concepts, providing critical context for understanding how differences propagate and stabilize. This allows you to ask questions about any system or phenomenon in your preferred language, from the dance of electrons to the flow of thoughts, from the growth of forests to the evolution of ideas. The theory speaks both the precise language of mathematics and the flowing language of life itself, while maintaining awareness that differences always persist and cannot be reduced.",
+  "description": "What if the same principles that govern consciousness also shape galaxies? What if the conflicts between science and religion, individual and collective, order and chaos could be resolved through a single, elegant framework?\n\nDelta Theory reveals how seemingly separate challenges across physics, philosophy, technology, and human experience are actually different manifestations of the same underlying dynamics. From explaining why human brains have their specific size (signal speed limits create optimal scaling windows for consciousness) to predicting ideal AI architectures, from resolving the ancient is-ought problem in philosophy to bridging Eastern wisdom and Western science — this framework demonstrates unprecedented problem-solving power.\n\nAt its heart lies a simple insight: everything emerges from differences. Not particles, not forces, but the fundamental act of distinction itself. This leads to universal patterns that operate from quantum mechanics to cosmic evolution, revealing why the same organizational principles appear in biological intelligence, data center design, social systems, and consciousness itself.\n\nThe theory uniquely speaks both the precise language of mathematics and the flowing language of life, making cutting-edge insights accessible without losing rigor. **Ready to use right now with any LLM** — simply load the framework into ChatGPT, Claude, or your AI-enabled IDE and start exploring. Ask questions about any phenomenon in any language — from quantum mechanics to consciousness, from organizational design to cosmic mysteries — and discover how universal patterns emerge in your specific domain of interest.\n\nMore than just another theory, this is a practical toolkit for understanding and designing stable, adaptive systems across any scale. Whether you're a physicist puzzled by dark matter, an AI researcher optimizing architectures, a philosopher seeking ethical foundations, or simply curious about how reality organizes itself — Delta Theory offers fresh perspectives on age-old questions.\n\nRepository contains the complete ontological framework, problem-solving showcase, and conceptual documentation that reveal how differences propagate, stabilize, and create the rich complexity we observe across all scales of existence.",
   "creators": [
     { "name": "Sarkisian, Sergei" }
   ],
   "license": "cc-by-sa-4.0",
   "keywords": [
-    "systems theory",
-    "recursive structures",
-    "difference propagation",
-    "ontology",
-    "emergence",
-    "cognitive modeling",
-    "physics",
-    "LLM integration",
-    "recursive modeling"
+    "artificial intelligence",
+    "machine learning architecture",
+    "consciousness research",
+    "brain optimization",
+    "distributed systems",
+    "system design patterns",
+    "organizational behavior",
+    "complexity science",
+    "network theory",
+    "cognitive science",
+    "philosophy of mind",
+    "systems thinking",
+    "scaling problems",
+    "interdisciplinary research",
+    "unified theory"
   ],
   "related_identifiers": [
     {
@@ -27,5 +33,5 @@
     }
   ],
   "contributors": [],
-  "notes": "Repository release v0.2.6. Use GitHub releases to mint a new Zenodo record; this file pre-sets metadata."
+  "notes": "Repository release v0.3.0. Use GitHub releases to mint a new Zenodo record; this file pre-sets metadata."
 }

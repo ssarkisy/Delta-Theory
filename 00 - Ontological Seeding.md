@@ -103,5 +103,5 @@ And begins to fold.
 
 This is the beginning of Delta Theory — not in abstraction, but in **binding across registers**. The structure will follow.
 
-See also: [PRINCIPLES.md](PRINCIPLES.md) · [ROADMAP.md](ROADMAP.md) (v0.0.2 dual‑register implementation)
+See also: [PRINCIPLES.md](PRINCIPLES.md) · [ROADMAP.md](ROADMAP.md) (v0.3.0 comprehensive foundation)
 

@@ -38,6 +38,30 @@ aliases:  # Optional
 
 ---
 
+## Primitive Derivation (if derived axiom)
+
+*Include this section only if this axiom derives from structural primitives or higher-level axioms. For foundational axioms (A1-A3), this section is not needed.*
+
+Explain how this axiom emerges from the structural primitive flow (∆ → R(·) → ⊚ → F) when applied to the specific domain:
+
+**From ∆ (Difference):** How difference detection applies in this domain
+- $∆_{domain}$ = specific type of distinction relevant to this axiom
+- What differences seed the axiom's requirements
+
+**From R(·) (Relational Embedding):** How context shapes the axiom
+- $R(∆_{domain})$ embeds differences in domain-specific relational context
+- Context requirements that lead to the axiom
+
+**From ⊚ (Stabilization):** How closure requirements generate the axiom
+- $⊚(R(∆_{domain}))$ = stable pattern that must be maintained
+- Closure conditions that necessitate the axiom
+
+**From F (Form):** How stable forms require this axiom
+- $F_{domain}$ = domain forms that depend on this axiom
+- Form integrity requirements that mandate the axiom
+
+---
+
 ## Statement
 
 - Precise axiom wording (single bullet or short paragraph)

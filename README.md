@@ -23,6 +23,10 @@ Delta Theory proposes difference (∆) as the fundamental basis of reality, offe
 
 ⚠️ **Critical Insight**: This theory fundamentally requires both technical and experiential understanding to be complete. Mathematical precision alone becomes artificially limited without biological metaphors; pure experiential understanding lacks rigorous structure without formal framework. See our [[Outer Universe — Recursive Embedding Beyond Dark Matter]] note for a profound demonstration of how combining mathematical and biological perspectives reveals deeper truths about cosmic mysteries that neither approach could fully grasp alone.
 
+## 🌟 **[See What Problems ∆-Theory Solves →](PROBLEMS_SOLVED.md)**
+
+**Discover how this unified framework addresses fundamental challenges across science, philosophy, culture, and engineering** — from the science-religion conflict to consciousness mysteries, from organizational design to cosmic questions. Each problem reveals how apparently separate challenges share common underlying dynamics.
+
 ### For the Curious
 
 Every change begins with a **difference** — a contrast, deviation, or disruption that can be detected and propagated. But not every difference survives. Some fade away, some cascade outward, and some stabilize into enduring structures.

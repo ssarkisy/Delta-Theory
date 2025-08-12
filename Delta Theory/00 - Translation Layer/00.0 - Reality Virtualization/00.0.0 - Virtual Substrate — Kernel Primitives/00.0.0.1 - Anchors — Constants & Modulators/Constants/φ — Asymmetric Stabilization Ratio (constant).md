@@ -4,6 +4,7 @@ tags:
   - "#layer/translation"
   - "#status/stable"
   - "#function/definition"
+polarity: P-
 aliases:
   - Asymmetric Stabilization Ratio
 ---
@@ -20,6 +21,19 @@ aliases:
 - Conceptual name: Asymmetric Stabilization Ratio
 - Conceptual value: conceptual (math instance carries number)
 - Definition: positive root of $x^2 = x + 1$; limit of consecutive Fibonacci ratios (math instance)
+
+---
+
+## Derivation from Base Constants
+
+φ emerges directly from **A2 — Asymmetry (axiom)**:
+
+**From A2:** Difference has inherent directionality - not all positions are equivalent
+- This asymmetry creates **bias patterns** where one outcome is favored over another
+- φ (golden ratio) represents the optimal asymmetric split: $\frac{1+\sqrt{5}}{2} \approx 1.618$
+- **Mathematical foundation:** $φ^2 = φ + 1$ - the unique ratio that is self-reinforcing
+
+**Axiom Foundation:** A2's directional bias naturally leads to asymmetric stabilization ratios like φ.
 
 ---
 

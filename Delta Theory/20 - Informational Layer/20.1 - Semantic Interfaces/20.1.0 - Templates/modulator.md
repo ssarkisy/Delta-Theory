@@ -44,6 +44,24 @@ aliases:
 
 ---
 
+## Derivation from Core Modulators (if applicable)
+
+*Include this section for modulators that derive from or compose with the core modulators (∇S, λV, ψA).*
+
+**From Core Modulators:** How this modulator relates to ∇S, λV, ψA
+- Composition relationship: whether it works with, specializes, or extends core modulators
+- Mathematical relationship: $modulator_{specific} = f(core_{modulators}, domain_{context})$
+
+**From Domain Specialization:** What domain-specific needs generate this modulator
+- Domain constraints that require specialized modulation
+- Interface requirements that necessitate this specific control
+
+**From Operational Requirements:** How operations generate this modulation need
+- Connection to specific primitive operations (Port, Gate, Surface, Buffer)
+- Control precision needs that demand this specialized modulator
+
+---
+
 ## Dual‑register mapping
 
 ### Technical (network/computational)

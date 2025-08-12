@@ -44,6 +44,24 @@ aliases:  # Optional
 
 ---
 
+## Primitive Derivation (if specialized primitive)
+
+*Include this section for primitives that derive from or specialize the core structural primitives (∆, R(·), ⊚, F).*
+
+**From Core Primitives:** How this primitive relates to ∆, R(·), ⊚, F
+- Specialization relationship: which core primitive(s) this extends or applies
+- Operational context: how the core flow adapts to this domain
+
+**From Domain Application:** How domain requirements shape the primitive
+- Domain-specific constraints that modify core primitive behavior
+- Context requirements that necessitate this specialized primitive
+
+**From Functional Needs:** What operational needs generate this primitive
+- Functional requirements that demand this specific operation
+- Interface or coordination needs that require this primitive specialization
+
+---
+
 ## Dual-register mapping
 
 Map the primitive into both registers and show the bridge explicitly.

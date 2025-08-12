@@ -10,35 +10,11 @@ See also: [PRINCIPLES.md](PRINCIPLES.md) — core axioms and governance (dual‑
 
 - **v0.1.0** ✅ — Initial ontological core with kernel primitives, constants, modulators, and citation framework
 - **v0.2.0** ✅ — Translation Layer virtualization with dual-register mapping and structural stabilization
+- **v0.3.0** ✅ — Environment & Coherence Orchestration with comprehensive problem-solving showcase and theoretical justification framework
 
 ---
 
 ## Upcoming Releases
-
-### v0.3.0 — Environment & Coherence
-**Focus:** Complete Execution Environment and Coherence Orchestration modules
-
-1. **Execution Environment (00.0.1)**
-   - [ ] Complete port/gate/surface definitions
-   - [ ] Add λV modulation examples
-   - [ ] Define boundary conditions
-   - [ ] Document state retention
-   - [ ] Add technical/humane mappings
-   - [ ] Create crosswalk tables
-
-2. **Coherence Orchestration (00.0.2)**
-   - [ ] Complete phase/identity/memory models
-   - [ ] Add ψA modulation examples
-   - [ ] Define coherence conditions
-   - [ ] Document recovery protocols
-   - [ ] Add technical/humane mappings
-   - [ ] Create crosswalk tables
-
-3. **Documentation & Integration**
-   - [ ] Update diagnostic notes
-   - [ ] Complete scale effects
-   - [ ] Standardize status tags
-   - [ ] Verify template compliance
 
 ### v0.4.0 — Functional Interfaces
 **Focus:** Define minimal API surface (00.1) with dual-register support

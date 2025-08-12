@@ -73,7 +73,7 @@ Additionally, two **Anchor Types** sit outside recursion, forming the ontologica
 | `glossary`          | Canonical concept definition with aliases |
 | `index`             | Structural or conceptual folder map |
 | `styleguide`        | Design, naming, and formatting rules |
-| `access`            | Query or link aggregation interface |
+| `speculative_note`  | Theoretical exploration and future scenario analysis grounded in ∆-Theory principles |
 | `semantic`          | Metadata schema, tag definition, ontological markup |
 | `ontological_metaphor` | Deep structural metaphor that reveals recursive patterns across domains |
 

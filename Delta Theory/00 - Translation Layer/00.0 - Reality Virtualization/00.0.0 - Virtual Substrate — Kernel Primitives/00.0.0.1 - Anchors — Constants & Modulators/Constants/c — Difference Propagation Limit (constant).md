@@ -4,6 +4,7 @@ tags:
   - "#layer/translation"
   - "#status/stable"
   - "#function/definition"
+polarity: P-
 aliases:
   - Difference Propagation Limit
 ---
@@ -20,6 +21,19 @@ aliases:
 - Conceptual name: Difference Propagation Limit
 - Conceptual value: conceptual (domain instances carry numbers/units)
 - Definition: the limiting propagation speed for signals/differences across Void
+
+---
+
+## Derivation from Base Constants
+
+c emerges from **A2 — Asymmetry (axiom)** as a propagation constraint:
+
+**From A2:** Difference has inherent directionality creating field gradients
+- Asymmetric propagation requires **finite speed limits** to maintain causal structure
+- c represents the maximum rate at which differences can propagate through the relational field
+- **Physical instantiation:** Speed of light ($c = 299,792,458$ m/s) in physics domains
+
+**Axiom Foundation:** A2's directional field dynamics necessitate propagation limits to prevent causal paradoxes.
 
 ---
 

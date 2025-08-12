@@ -43,5 +43,5 @@ Polarity: P0 (Awareness) — coherence between registers.
 
 ---
 
-See also: `README.md` (Core principles), `ROADMAP.md` (v0.0.2 dual‑register implementation).
+See also: `README.md` (Core principles), `ROADMAP.md` (v0.3.0 comprehensive foundation).
 

@@ -56,18 +56,18 @@ Where:
 
 ### Core Components
 
-1. **Active Polarity (P⁺)**
-   - Propagation of difference
-   - Boundary expansion
-   - Change generation
+1. **Active Polarity (P+)**
+   - Difference intake and structure-building
+   - Self-contained form creation
+   - Autonomous development
 
-2. **Structural Polarity (P⁻)**
-   - Absorption of difference
-   - Pattern maintenance
-   - Framework stability
+2. **Structural Polarity (P-)**
+   - Difference outflow and field-seeking
+   - Connection pathway creation
+   - Resource acquisition flows
 
-3. **Balancing Polarity (P⁰)**
-   - Mediation of flows
+3. **Balancing Polarity (P0)**
+   - Difference balance and regulation
    - Phase coherence
    - Integration function
 

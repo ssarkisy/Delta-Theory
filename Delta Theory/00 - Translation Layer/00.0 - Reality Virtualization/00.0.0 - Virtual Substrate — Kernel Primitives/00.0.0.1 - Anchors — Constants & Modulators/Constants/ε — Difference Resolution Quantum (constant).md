@@ -4,6 +4,7 @@ tags:
   - "#layer/translation"
   - "#status/stable"
   - "#function/definition"
+polarity: P0
 aliases:
   - ε
   - Epsilon
@@ -22,6 +23,19 @@ aliases:
 - Conceptual name: Difference Resolution Quantum
 - Conceptual value: conceptual (domain instances carry numbers/units)
 - Definition: smallest unit of difference that can propagate across an interface without collapsing
+
+---
+
+## Derivation from Base Constants
+
+ε emerges directly from **A1 — Irreducibility (axiom)**:
+
+**From A1:** Primitive difference (∆) cannot be decomposed without loss of distinction
+- This irreducibility requires a **minimal quantum** below which differences cannot be meaningfully distinguished
+- ε represents this fundamental resolution limit for the system
+- **Domain instantiation:** Physics (ħ), Computing (1 bit), Biology (minimal signal threshold)
+
+**Axiom Foundation:** A1 establishes that there must be an irreducible unit of difference - ε quantifies this limit.
 
 ---
 
