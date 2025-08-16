@@ -30,7 +30,8 @@ Additionally, two **Anchor Types** sit outside recursion, forming the ontologica
 
 | Type     | Description |
 |----------|-------------|
-| `axiom`  | Foundational ontological truth (e.g., Difference precedes Form) |
+| `axiom`  | Foundational ontological truth (e.g., A1 — Irreducibility) |
+| `theorem` | Derived truth proven from axioms (e.g., T1 — Asymmetry, T2 — Recursivity) |
 
 ---
 
@@ -38,8 +39,9 @@ Additionally, two **Anchor Types** sit outside recursion, forming the ontologica
 
 | Type        | Description |
 |-------------|-------------|
-| `constant`  | Numeric/ratio invariant (e.g., π, e, φ) — not modulators |
-| `modulator` | Canonical modulation anchors (SVA triad: ∇S, λV, ψA) |
+| `constant`  | Mathematical invariant (e.g., π, e, φ) — derived ratios and relationships |
+| `boundary`  | Operational limits (e.g., ε, c, Cs) — system constraints and thresholds |
+| `modulator` | Control parameters (SVA triad: ∇S, λV, ψA) — tuning anchors |
 
 ---
 
@@ -77,27 +79,43 @@ Additionally, two **Anchor Types** sit outside recursion, forming the ontologica
 | `semantic`          | Metadata schema, tag definition, ontological markup |
 | `ontological_metaphor` | Deep structural metaphor that reveals recursive patterns across domains |
 
----
-
-## Structural Pattern
-
-The type system follows a recursive prime-sequence:
-
-- 1 core axiom type
-- 2 anchor types
-- 3 translation types
-- 5 implementation types
-- 7 informational types
-
-This enables **minimal complexity with maximal propagation coherence** — a principle echoed across Delta Theory.
-
----
 
 ## Usage Guidelines
 
 - Every note **must** include a `type:` field in the YAML frontmatter.
 - The type determines its **linking logic**, **graph visibility**, and **propagation role**.
 - Stability is governed by tags: use `#status/seed`, `#status/unstable`, or `#status/stable` as appropriate.
+
+### Filename Conventions
+- Use **type-based naming** with the type in parentheses at the end of the filename
+- Examples: `Delta (primitive).md`, `A1 — Irreducibility (axiom).md`, `Field (glossary).md`
+
+### Examples by Type
+```markdown
+# Core types
+A1 — Irreducibility (axiom).md                   # type: axiom
+T1 — Asymmetry (theorem).md                      # type: theorem
+
+# Anchor layer types
+π — Closure Geometry Ratio (constant).md         # type: constant
+c — Difference Propagation Limit (boundary).md   # type: boundary
+∇S — Structure Gradient (modulator).md           # type: modulator
+
+# Translation layer types
+Delta (primitive).md                              # type: primitive
+Gate (interface).md                               # type: interface
+Force (bridge).md                                 # type: bridge
+
+# Implementation layer types
+Construct (module).md                             # type: module
+DifferenceStream (stream).md                      # type: stream
+Microkernel (seed).md                             # type: seed
+
+# Informational layer types
+Field (glossary).md                               # type: glossary
+Translation Layer (index).md                     # type: index
+Yin-Yang Metaphor (ontological_metaphor).md      # type: ontological_metaphor
+```
 
 ---
 

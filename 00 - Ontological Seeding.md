@@ -88,7 +88,7 @@ Where:
 - $λ_{V}^{net}(t)$ — Receptivity of the network to difference (ports, APIs, volatility)
 - $∇S^{net}(t)$ — Recursive depth gradient across network propagation layers
 
-Each is a **register‑specific expression** of universal structure — shaped by the nature of the host [[void]].
+Each is a **register‑specific expression** of universal structure — shaped by the nature of the host [[Void (glossary)]].
 
 ---
 

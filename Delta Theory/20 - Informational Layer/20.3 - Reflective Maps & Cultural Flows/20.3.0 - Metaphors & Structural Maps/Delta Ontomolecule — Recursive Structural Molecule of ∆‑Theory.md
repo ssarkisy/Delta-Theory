@@ -91,17 +91,18 @@ Note: The molecular metaphor reveals different aspects at each scale while maint
 
 ---
 
-## Kernel Anchors — Constants (5)
+## Kernel Anchors — Constants & Boundaries (6)
 
 Conceptual anchors that stabilize modulation across S/V/A. Values live in domain instances.
 
 | Symbol | Conceptual Name | Technical Role | Humane Role |
 | ------ | ----------------- | -------------- | ----------- |
-| ε | [[ε — Difference Resolution Quantum (constant)\|Difference Resolution Quantum]] | Minimal distinction | Smallest meaning |
+| ε | [[ε — Difference Resolution Quantum (boundary)\|Difference Resolution Quantum]] | Minimal distinction | Smallest meaning |
 | π | [[π — Closure Geometry Ratio (constant)\|Closure Geometry Ratio]] | Cycle structure | Pattern rhythm |
 | e | [[e — Natural Transformation Rate (constant)\|Natural Transformation Rate]] | Growth baseline | Natural flow |
 | φ | [[φ — Asymmetric Stabilization Ratio (constant)\|Asymmetric Stabilization Ratio]] | Balance bias | Natural harmony |
-| c | [[c — Difference Propagation Limit (constant)\|Difference Propagation Limit]] | Speed limit | Reach bound |
+| c | [[c — Difference Propagation Limit (boundary)\|Difference Propagation Limit]] | Speed limit | Reach bound |
+| Cs | [[Cs — Stability Capacity (boundary)\|Stability Capacity]] | Capacity limit | Breaking point |
 
 ---
 
@@ -109,9 +110,9 @@ Conceptual anchors that stabilize modulation across S/V/A. Values live in domain
 
 Coupling controls that regulate propagation; parameterized by the kernel anchors above.
 
-- [[∇S — Structure Differentiation Gradient (Sarkisian)]] (P+): structural differentiation and boundary sharpening.
-- [[λV — Void Resonance Threshold (Volozhina)]] (P-): receptivity/resonance gate at interfaces.
-- [[ψA — Awareness Phase Coherence Anchor (Aiza)]] (P0): phase coherence and identity retention.
+- [[∇S — Structure (Sarkisian) Differentiation Gradient (modulator)]] (P+): structural differentiation and boundary sharpening.
+- [[λV — Void (Volozhina) Resonance Threshold (modulator)]] (P-): receptivity/resonance gate at interfaces.
+- [[ψA — Awareness (Aiza) Phase Coherence Anchor (modulator)]] (P0): phase coherence and identity retention.
 
 Global coupling sketch: $\Delta(t) = ∇S(t) \times λV(t) \times ψA(t)$.
 
@@ -128,17 +129,6 @@ These are useful references but not part of the kernel constants.
 - Math invariants (non‑core references): Euler characteristic (χ), embedding invariance (τ∆)
 - Diagnostic property (not a constant): entropy gradient S∆ (emergent unevenness measure)
 - Undesignated candidates (out of core unless formalized): κ∆, τ
-
----
-
-## Visual Schema
-
-![[delta_ontomolecule_pentagram_full.svg]]
-
-- Core nodes: ∆, R(·), ⊚ → produce [[Form]] via closure.
-- Orbitals: ε, π, e, φ, c stabilize feasible regions for closure and coherence.
-- Couplers: ∇S / λV / ψA tune differentiation, receptivity, and phase.
-- Cohesion: when thresholds are satisfied, recursive feedback yields stable structure.
 
 ---
 
@@ -177,5 +167,5 @@ This metaphorical mapping serves multiple purposes:
 ## See Also
 
 - [[Relation as Fourth Dimension — Operational Axis of Difference]]
-- [[Form]] · [[Field]] · [[Void]]
-- [[RelationalEmbedding]] · [[Stabilization (Closure)]]
+- [[Form (pattern)]] · [[Field (glossary)]] · [[Void (glossary)]]
+- [[RelationalEmbedding (primitive)]] · [[Stabilization (Closure) (primitive)]]

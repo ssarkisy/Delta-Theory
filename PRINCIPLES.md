@@ -13,11 +13,11 @@ tags:
 
 ## 1) Ontological Core (Kernel)
 
-- A1 — Irreducibility: see `Delta Theory/00 - Translation Layer/00.0 - Reality Virtualization/00.0.0 - Virtual Substrate — Kernel Primitives/00.0.0.0 - Core Axioms/A1 — Irreducibility (axiom).md`
-- A2 — Asymmetry: see `Delta Theory/00 - Translation Layer/00.0 - Reality Virtualization/00.0.0 - Virtual Substrate — Kernel Primitives/00.0.0.0 - Core Axioms/A2 — Asymmetry (axiom).md`
-- A3 — Recursivity: see `Delta Theory/00 - Translation Layer/00.0 - Reality Virtualization/00.0.0 - Virtual Substrate — Kernel Primitives/00.0.0.0 - Core Axioms/A3 — Recursivity (axiom).md`
+- A1 — Irreducibility: see `Delta Theory/00 - Translation Layer/00.0 - Microkernel/00.0.0 - Core Axiom & Theorems/A1 — Irreducibility (axiom).md`
+- T1 — Asymmetry: see `Delta Theory/00 - Translation Layer/00.0 - Microkernel/00.0.0 - Core Axiom & Theorems/T1 — Asymmetry (theorem).md`
+- T2 — Recursivity: see `Delta Theory/00 - Translation Layer/00.0 - Microkernel/00.0.0 - Core Axiom & Theorems/T2 — Recursivity (theorem).md`
 
-These three govern ∆, R(·), ⊚ and the emergence of Form.
+The single axiom A1 and its two derived theorems T1 (Asymmetry), T2 (Recursivity) govern ∆, R(·), ⊚ and the emergence of Form. These map to the SVA triad: A1 → P0 (Awareness), T1 → P- (Void), T2 → P+ (Structure).
 
 ---
 
@@ -43,5 +43,5 @@ Polarity: P0 (Awareness) — coherence between registers.
 
 ---
 
-See also: `README.md` (Core principles), `ROADMAP.md` (v0.3.1 civilizational integration).
+See also: `README.md` (Core principles), `ROADMAP.md` (Development roadmap), `THEORETICAL_PATHWAYS.md` (Framework applications).
 

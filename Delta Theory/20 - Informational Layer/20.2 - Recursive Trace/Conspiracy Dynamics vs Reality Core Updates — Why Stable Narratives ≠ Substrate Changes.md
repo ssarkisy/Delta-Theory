@@ -153,16 +153,13 @@ Reality Grounding: ∆(substrate) → R(evidence) → ⊚(validation) → F(veri
 - **Reality as substrate** must be **highly conserved** to support **emergent complexity**
 - **Cascade protection** requires **massive resistance** to **deep alterations**
 
-### Why Conspiracy Theories Persist
-- **Serve genuine social-psychological functions** independent of factual accuracy
-- **Provide narrative coherence** in complex, uncertain environments
-- **Enable community formation** around shared "special knowledge"
-- **Satisfy deep cognitive needs** for agency, pattern recognition, and meaning
+### Why Conspiracy Dynamics Persist (Functional Analysis)
+**Important:** Understanding function ≠ validating truth claims. These mechanisms explain persistence without legitimizing content.
 
-### Why False Positives are Inevitable
-- **Human cognitive systems** operate at **limited resolution** (ψA constraints)
-- **Memory systems** naturally **drift and reconstruct** rather than **perfectly preserve**
-- **Social suggestion** creates **shared false memories** through **normal psychological processes**
+- **Cognitive functions:** Pattern recognition, agency needs, meaning-making in complex environments
+- **Social functions:** Community formation, identity reinforcement, shared epistemic frameworks
+- **Structural inevitability:** ψA resolution limits create false positive rates in anomaly detection
+- **Memory reconstruction:** Natural drift and social suggestion generate shared false memories through normal psychological processes
 
 ---
 
@@ -227,22 +224,19 @@ Result: P⁺(conspiracy narrative) about Level N+1 "controlling" Level N
 **∆-Theory Insight**:
 Conspiracy dynamics serve a **cognitive function** (pattern-seeking in limited-resolution environments) that **scales recursively** — they're not eliminated by understanding but **transform and migrate** to **higher levels of analysis**.
 
+**Falsifiability Note**: This prediction is testable — if education consistently eliminates conspiracy thinking without scale migration, the hypothesis is falsified. If conspiracy thinking migrates to higher levels as predicted, the hypothesis gains support.
+
 ---
 
 ## Practical Implications: Counterintuitive Strategy Requirements
 
 ### For Education Strategy
 
-**Traditional Approaches May Backfire**:
-- **Fact-checking** and **media literacy** may **amplify rather than reduce** conspiracy thinking
-- Teaching **critical thinking** can lead to **more sophisticated conspiracy theories**
-- **Debunking specific claims** addresses **content** but strengthens **underlying pattern-seeking mechanism**
-
-**∆-Theory-Informed Approaches**:
-- **Resolution awareness training** — help people understand **natural limits** of pattern recognition across scales
-- **Scale-appropriate skepticism** — teach when pattern-seeking **overshoots** vs when it's **legitimate**
-- **Cognitive function acknowledgment** — recognize **valid needs** that conspiracy thinking serves
-- **Meta-level transparency** — openly discuss **why higher-level dynamics** appear mysterious
+**Enhanced Educational Approaches** (addressing traditional limitations):
+- **Traditional fact-checking** → **Resolution awareness training:** Help people understand natural limits of pattern recognition across scales
+- **Generic critical thinking** → **Scale-appropriate skepticism:** Teach when pattern-seeking overshoots vs when it's legitimate
+- **Content debunking** → **Function-first approach:** Address underlying cognitive needs while maintaining empirical standards
+- **Information provision** → **Meta-level transparency:** Openly discuss why higher-level dynamics appear mysterious while preserving scientific rigor
 
 **Example Framework**: Instead of saying "this conspiracy theory is false," teach "here's why pattern recognition naturally creates false positives when looking across scale boundaries."
 
@@ -301,12 +295,12 @@ Conspiracy dynamics serve a **cognitive function** (pattern-seeking in limited-r
 
 ### Open-System Coherence: Stability Through Mystery Acknowledgment
 
-**Key Insight**: **Awareness and open-mindedness** enable **system coherence** even when **higher levels remain open and unestimated**. This provides an alternative to the **false closure** that generates conspiracy thinking.
+**Key Insight**: **Empirically-grounded awareness** enables **system coherence** even when **higher levels remain open and unestimated**. This provides an alternative to the **false closure** that generates conspiracy thinking while maintaining scientific standards.
 
-**Mechanism: Coherence Without Closure**:
+**Mechanism: Empirical Coherence Without Premature Closure**:
 
-1. **Traditional Approach**: Seeks **complete explanation** → encounters **resolution limits** → generates **conspiracy theories** to "close" the system
-2. **Open-System Approach**: Acknowledges **inherent mysteries** → maintains **coherent operation** within **known boundaries** → preserves **stability without false closure**
+1. **False Closure Approach**: Seeks **complete explanation** → encounters **resolution limits** → generates **unfalsifiable theories** to "close" the system
+2. **Open-System Approach**: Acknowledges **inherent mysteries** → maintains **coherent operation** within **empirically validated boundaries** → preserves **stability through testable hypotheses** rather than false closure
 
 **∆-Theory Analysis**:
 ```
@@ -371,19 +365,19 @@ This analysis **applies** ψA (Awareness Phase Coherence) concepts to explain wh
 - [[Epistemological Safeguards — Why Delta Theory is Not Conspiracy or Pseudoscience]] — Scientific integrity framework
 
 ### Awareness & Cognitive Dynamics
-- [[ψA — Awareness Phase Coherence Anchor (Aiza)]] — Individual awareness resolution limits
-- [[Awareness]] — Core definition of phase-keeping and identity retention
-- [[Coherent Awareness (classification)]] — Stable phase lock and identity persistence
-- [[Desynchronized Awareness (classification)]] — Phase drift and identity breakdown
-- [[Intermittent Awareness (classification)]] — Flapping coherence under load
-- [[Overbound Awareness (classification)]] — Over-rigid identity binding
+- [[ψA — Awareness (Aiza) Phase Coherence Anchor (modulator)]] — Individual awareness resolution limits
+- [[Awareness (glossary)]] — Core definition of phase-keeping and identity retention
+- [[Coherent Awareness (glossary)]] — Stable phase lock and identity persistence
+- [[Desynchronized Awareness (glossary)]] — Phase drift and identity breakdown
+- [[Intermittent Awareness (glossary)]] — Flapping coherence under load
+- [[Overbound Awareness (glossary)]] — Over-rigid identity binding
 
 ### Information & Pattern Dynamics
 - [[Saturated Field (classification)]] — Information overload and signal blur
 - [[Pseudo Form (classification)]] — False patterns that mimic stable structures
-- [[Dissonance (dynamic)]] — Destructive interference patterns
+- [[Dissonance (glossary)]] — Destructive interference patterns
 
 ### Polarity & Social Dynamics
-- [[Active Polarity]] — P⁺ narrative propagation and group formation
-- [[Structural Polarity]] — P⁻ substrate grounding and stability maintenance
-- [[Balancing Polarity]] — P⁰ mediation between narrative and reality
+- [[Active Polarity (glossary)]] — P⁺ narrative propagation and group formation
+- [[Structural Polarity (glossary)]] — P⁻ substrate grounding and stability maintenance
+- [[Balancing Polarity (glossary)]] — P⁰ mediation between narrative and reality

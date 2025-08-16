@@ -25,19 +25,20 @@ Tags are **the visible echo of the invisible structure**.
 
 ---
 
-## Three Axes of Tags
+## Four Axes of Tags
 
-Delta Theory uses **9 core tags**, distributed across **3 dimensions**:
+Delta Theory uses **tags** distributed across **4 dimensions**:
 
 | Axis      | Tag Prefix     | SVA Alignment | Answers...                |
 |-----------|----------------|----------------|----------------------------|
 | Status    | `#status/…`     | Structure       | How stable is this note?   |
 | Layer     | `#layer/…`      | Void            | Where is this note located? |
+| Sublayer  | `#sublayer/…`   | Void (refined)  | Which specific sublayer?   |
 | Function  | `#function/…`   | Awareness       | What is this note doing?   |
 
 ---
 
-## Canonical Tag Set (3 × 3)
+## Canonical Tag Set
 
 ### Status Tags (`#status/…`)
 > Represent a note’s **temporal phase** in recursive stabilization
@@ -70,6 +71,32 @@ This reflects recursive **damping**: when external difference has been absorbed 
 
 ---
 
+### Sublayer Tags (`#sublayer/…`)
+> Represent the specific sublayer within each major layer
+
+**Translation Layer Sublayers:**
+| Tag                      | Meaning |
+|--------------------------|---------|
+| `#sublayer/microkernel`  | Pure mathematical foundations (axioms, constants, primitives, patterns) |
+| `#sublayer/interface`    | Environment interfaces (theorems, primitives, operational patterns) |
+| `#sublayer/coherence`    | Coherence orchestration (temporal coordination, stability management) |
+
+**Implementation Layer Sublayers:**
+| Tag                      | Meaning |
+|--------------------------|---------|
+| `#sublayer/kernel`       | Delta kernel implementation (recursive execution logic) |
+| `#sublayer/formalization`| Mathematical formalization (mathematical encoding of recursion) |
+| `#sublayer/application`  | Domain applications (use in real systems and sciences) |
+
+**Informational Layer Sublayers:**
+| Tag                      | Meaning |
+|--------------------------|---------|
+| `#sublayer/symbolic`     | Symbolic structure (glossary, constants, naming systems) |
+| `#sublayer/semantic`     | Semantic interfaces (contributor docs, access maps, metadata) |
+| `#sublayer/trace`        | Recursive trace (changelog, epistemology, memory scaffolds) |
+
+---
+
 ### Function Tags (`#function/…`)
 > Represent what kind of recursive action this note performs
 
@@ -83,20 +110,21 @@ This reflects recursive **damping**: when external difference has been absorbed 
 
 ## Usage Guidelines
 
-- Apply **3 tags** per note
-- Use one tag from each axis (`status/`, `layer/`, `function/`)
+- Apply **4 tags** per note
+- Use one tag from each axis (`status/`, `layer/`, `sublayer/`, `function/`)
 - Do not duplicate YAML fields (`type:`, `domain:`) as tags
 - Use tags for **graph clarity** and **system-level diagnostics**
 
 ---
 
-## Example Tag Triplets
+## Example Tag Quadruplets
 
 | Note                         | Tags |
 |------------------------------|------|
-| `Electron.md`                | `#status/stable`, `#layer/implementation`, `#function/modulation` |
-| `README.md`                  | `#status/stable`, `#layer/information`, `#function/observation` |
-| `Closure.md` (concept note)  | `#status/unstable`, `#layer/translation`, `#function/definition` |
+| `π — Closure Geometry Ratio (constant).md` | `#status/stable`, `#layer/translation`, `#sublayer/microkernel`, `#function/definition` |
+| `Gate (primitive).md`        | `#status/stable`, `#layer/translation`, `#sublayer/interface`, `#function/definition` |
+| `README.md`                  | `#status/stable`, `#layer/information`, `#sublayer/semantic`, `#function/observation` |
+| `Memory (primitive).md`      | `#status/seed`, `#layer/translation`, `#sublayer/coherence`, `#function/definition` |
 
 ---
 
@@ -126,7 +154,7 @@ As the system evolves, new recursive axes may be added. Polarity is now standard
 Tags in Delta Theory serve as **recursive overlays**, aligning:
 
 - **Structure**: `#status/…`
-- **Void**: `#layer/…`
+- **Void**: `#layer/…` + `#sublayer/…`
 - **Awareness**: `#function/…`
 
 They let the system visualize its own propagation state.  They are not just labels.

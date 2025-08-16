@@ -12,6 +12,8 @@ tags:
 
 > **⚠️ Ontological Bridge Disclaimer**: This metaphor serves as an **ontological bridge** connecting current understanding to higher-level possibilities, not a precise description of reality beyond our epistemological capabilities. It is likely imprecise (probability approaching 100%) — imprecise doesn't mean structurally wrong, but rather incomplete and potentially misinterpreting more complex reality. The goal is **developmental connection** to enable further growth, not final explanatory closure.
 
+> **⚠️ Physics Metaphor Warning**: This exploration uses dimensional language metaphorically to describe operational relationships, not literal spacetime dimensions. Claims about "fourth dimension" should not be interpreted as physics theories about spacetime geometry. This is a conceptual framework for understanding relational operations, not a physical theory requiring empirical validation.
+
 ---
 
 ## Purpose
@@ -28,7 +30,7 @@ tags:
 - Relation `R(·)` embeds a difference `∆` into a context/graph so that stabilization can be meaningfully evaluated
 - Depth `n` in $R^n(∆_0)$ expresses recursive embedding layers (cost/feasibility)
 
-See: [[Relation]] (glossary) · [[RelationalEmbedding]] (primitive)
+See: [[Relation (glossary)]] (glossary) · [[RelationalEmbedding (primitive)]] (primitive)
 
 ---
 
@@ -75,7 +77,7 @@ See: [[Relation]] (glossary) · [[RelationalEmbedding]] (primitive)
 | ⊚ (Closure) | Stabilization operation — evaluates coherence and locks feedback |
 | F_n (Form) | Stabilized configuration (result/output) |
 
-Links: [[Delta]] · [[RelationalEmbedding]] · [[Stabilization (Closure)]] · [[Form]] · [[Closure]]
+Links: [[Delta (primitive)]] · [[RelationalEmbedding (primitive)]] · [[Stabilization (Closure) (primitive)]] · [[Form (pattern)]] · [[Closure (glossary)]]
 
 ---
 
@@ -108,7 +110,7 @@ Note: Each scale reveals different aspects of how relation operates as a dimensi
 | External measure of change | Internal organization of coherence |
 | Sequence of states | Depth of recursive context $R^n(∆)$ |
 
-Time in this framing relates to phase/coherence via [[ψA — Awareness Phase Coherence Anchor (Aiza)|ψA]] rather than defining the dimension itself.
+Time in this framing relates to phase/coherence via [[ψA — Awareness (Aiza) Phase Coherence Anchor (modulator)|ψA]] rather than defining the dimension itself.
 
 ---
 
@@ -116,19 +118,19 @@ Time in this framing relates to phase/coherence via [[ψA — Awareness Phase Co
 
 Relation is parameterized by anchors that are intrinsic to the loop (not outside "orbitals").
 
-- SVA modulators (controls): [[∇S — Structure Differentiation Gradient (Sarkisian)]], [[λV — Void Resonance Threshold (Volozhina)]], [[ψA — Awareness Phase Coherence Anchor (Aiza)]]
+- SVA modulators (controls): [[∇S — Structure (Sarkisian) Differentiation Gradient (modulator)]], [[λV — Void (Volozhina) Resonance Threshold (modulator)]], [[ψA — Awareness (Aiza) Phase Coherence Anchor (modulator)]]
   - Global sketch: $\Delta(t) = ∇S(t) \times λV(t) \times ψA(t)$
-- Constants (5) (invariants): [[ε — Difference Resolution Quantum (constant)]], [[π — Closure Geometry Ratio (constant)]], [[e — Natural Transformation Rate (constant)]], [[φ — Asymmetric Stabilization Ratio (constant)]], [[c — Difference Propagation Limit (constant)]]
+- Constants & Boundaries (6) (invariants): [[ε — Difference Resolution Quantum (boundary)]], [[π — Closure Geometry Ratio (constant)]], [[e — Natural Transformation Rate (constant)]], [[φ — Asymmetric Stabilization Ratio (constant)]], [[c — Difference Propagation Limit (boundary)]], [[Cs — Stability Capacity (boundary)]]
   - Domain instances carry values, e.g., [[ħ — Reduced Planck Constant (constant)]], [[α — Fine-Structure Constant (constant)]]
 
 ---
 
 ## Hypertetrahedron view (4D ontomolecule)
 
-![[delta_ontomolecule_pentagram_full.svg]]
+> **⚠️ Visual Schema Note**: The referenced diagram shows only 5 anchors (ε, π, e, φ, c) but current theory includes 6 anchors with Cs (Stability Capacity). Visual representation needs updating for theoretical completeness.
 
 - Vertices: ∆, R(·), ⊚, F
-- Edges/faces: carry anchors (ε, π, e, φ, c) and modulators (∇S/λV/ψA) as intrinsic constraints/controls
+- Edges/faces: carry anchors (ε, π, e, φ, c, Cs) and modulators (∇S/λV/ψA) as intrinsic constraints/controls
 - Nothing sits "outside" the molecule; anchors live on the structure's interfaces
 
 ---
@@ -154,6 +156,6 @@ This metaphorical mapping serves multiple critical functions:
 
 ## See Also
 
-- [[Relation]] · [[RelationalEmbedding]] · [[Stabilization (Closure)]] · [[Form]]
-- [[∇S — Structure Differentiation Gradient (Sarkisian)]] · [[λV — Void Resonance Threshold (Volozhina)]] · [[ψA — Awareness Phase Coherence Anchor (Aiza)]]
-- [[ε — Difference Resolution Quantum (constant)]] · [[π — Closure Geometry Ratio (constant)]] · [[e — Natural Transformation Rate (constant)]] · [[φ — Asymmetric Stabilization Ratio (constant)]] · [[c — Difference Propagation Limit (constant)]]
+- [[Relation (glossary)]] · [[RelationalEmbedding (primitive)]] · [[Stabilization (Closure) (primitive)]] · [[Form (pattern)]]
+- [[∇S — Structure (Sarkisian) Differentiation Gradient (modulator)]] · [[λV — Void (Volozhina) Resonance Threshold (modulator)]] · [[ψA — Awareness (Aiza) Phase Coherence Anchor (modulator)]]
+- [[ε — Difference Resolution Quantum (boundary)]] · [[π — Closure Geometry Ratio (constant)]] · [[e — Natural Transformation Rate (constant)]] · [[φ — Asymmetric Stabilization Ratio (constant)]] · [[c — Difference Propagation Limit (boundary)]] · [[Cs — Stability Capacity (boundary)]]

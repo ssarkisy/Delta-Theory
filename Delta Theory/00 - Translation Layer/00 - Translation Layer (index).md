@@ -29,12 +29,11 @@ This layer is critical for ensuring the theory remains both implementable and et
 
 | Category | Description | Key Elements |
 |----------|-------------|--------------|
-| Reality Virtualization | Core primitives and metaphors | [[00.0 - Reality Virtualization (index)]], [[Field]], [[Void]], [[Structure]], [[Awareness]] |
-| Virtual Substrate | Kernel primitives | [[00.0.0 - Virtual Substrate — Kernel Primitives (index)]], ∆, R(·), ⊚, Form |
-| Execution Environment | Interface control | [[00.0.1 - Execution Environment — Ports & Boundaries (index)]], Ports, Gates |
-| Coherence Orchestration | Phase management | [[00.0.2 - Coherence Orchestration — Identity & Memory (index)]], Memory, Phase |
-| Functional Interfaces | API definitions | [[00.1 - Functional Interfaces (index)]], PhaseLockLoop, ResonanceThreshold |
-| Domain Bridges | Implementation mappings | [[00.2 - Domain Bridges to API (index)]], Physics, Networks, Biology |
+| Microkernel | Core primitives and foundations | [[00.0 - Microkernel (index)]], ∆, R(·), ⊚, A1, T1, T2 |
+| Environment Interfaces | Interface layer extensions | [[00.1 - Environment Interfaces (index)]], T3, T4, T5, Port, Gate, Surface |
+| Coherence Orchestration | Identity and memory systems | [[00.2 - Coherence Orchestration (index)]], T6, T7, T8, Memory, Phase, Recovery |
+| Functional Interfaces | API definitions | [[01.0 - Functional Interfaces]] (planned), PhaseLockLoop, ResonanceThreshold |
+| Domain Bridges | Implementation mappings | [[02.0 - Domain Bridges to API]] (planned), Physics, Networks, Biology |
 
 Each module provides:
 - Technical and humane mappings
@@ -44,29 +43,28 @@ Each module provides:
 
 ---
 
-## Implementation Notes
+## Core References
 
-### Layer Architecture
+**Translation Layer Modules:**
+- [[00.0 - Microkernel (index)]] - Foundational axioms, theorems, and primitives
+- [[00.1 - Environment Interfaces (index)]] - Interface layer for environmental coordination
+- [[00.2 - Coherence Orchestration (index)]] - Identity and memory maintenance systems
+- [[01.0 - Functional Interfaces]] - API definitions (planned)
+- [[02.0 - Domain Bridges to API]] - Implementation mappings (planned)
 
-1. **Reality Virtualization (00.0)**
-   - Core primitives and metaphors
-   - Dual-register mappings
-   - Basic operational semantics
-   - Stability conditions
+**Core Patterns:**
+- [[Field (pattern)]] - Foundational coherence pattern
+- [[Structure (glossary)]] - Boundary-forming pattern
+- [[Void (glossary)]] - Opaque relational space
+- [[Awareness (glossary)]] - Recursive coherence
 
-2. **Functional Interfaces (00.1)**
-   - Minimal API surface
-   - Clear contracts
-   - Error handling
-   - State management
+**Related Modules:**
+- [[10 - Implementation Layer (index)]] - Concrete implementations
+- [[20 - Informational Layer (index)]] - Documentation and templates
 
-3. **Domain Bridges (00.2)**
-   - Implementation mappings
-   - Domain-specific examples
-   - Bridge validation
-   - Stability markers
+---
 
-### Core Principles
+## Key Principles
 
 1. **Kernel-First Development**
    - Stabilize ∆, R(·), ⊚ as minimal [ABI](https://en.wikipedia.org/wiki/Application_binary_interface)
@@ -93,4 +91,4 @@ Each module provides:
 - [[VAULT_STRUCTURE]]
 - [[types]]
 - [[tags]]
-- [[Field]] · [[Void]] · [[Structure]] · [[Awareness]]
+- [[Field (pattern)]] · [[Void (glossary)]] · [[Structure (glossary)]] · [[Awareness (glossary)]]

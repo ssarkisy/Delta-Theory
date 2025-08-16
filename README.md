@@ -23,11 +23,11 @@ Delta Theory proposes difference (∆) as the fundamental basis of reality, offe
 
 ⚠️ **Critical Insight**: This theory fundamentally requires both technical and experiential understanding to be complete. Mathematical precision alone becomes artificially limited without biological metaphors; pure experiential understanding lacks rigorous structure without formal framework. See our [[Outer Universe — Recursive Embedding Beyond Dark Matter]] note for a profound demonstration of how combining mathematical and biological perspectives reveals deeper truths about cosmic mysteries that neither approach could fully grasp alone.
 
-🔬 **Breakthrough Methodology**: ∆-Theory employs an innovative epistemological approach called **Polarity Gap Methodology** — when facing persistent contradictions, the most promising research lies in the **invisible P0 space** between polarities. Rather than choosing sides, this approach discovers the coordination dynamics that actually generate both perspectives. This explains why ∆-Theory can solve problems that have puzzled humanity for millennia: it systematically investigates the spaces between contradictions where the most important connecting truths typically hide. See our [[Polarity Gap Methodology — Finding Truth in the Space Between Contradictions]] note for the complete framework.
+🔬 **Breakthrough Methodology**: ∆-Theory employs an innovative epistemological approach called **Polarity Gap Methodology** — when facing persistent contradictions, the most promising research lies in the **invisible P0 space** between polarities. Rather than choosing sides, this approach discovers the coordination dynamics that actually generate both perspectives. This explains why ∆-Theory can open new investigative pathways for problems that have puzzled humanity for millennia: it systematically investigates the spaces between contradictions where the most important connecting truths typically hide. See our [[Polarity Gap Methodology — Finding Truth in the Space Between Contradictions]] note for the complete framework.
 
-## 🌟 **[See What Problems ∆-Theory Solves →](PROBLEMS_SOLVED.md)**
+## 🌟 **[Explore Theoretical Pathways →](THEORETICAL_PATHWAYS.md)**
 
-**Discover how this unified framework addresses fundamental challenges across science, philosophy, culture, and engineering** — from the science-religion conflict to consciousness mysteries, from organizational design to cosmic questions. Each problem reveals how apparently separate challenges share common underlying dynamics.
+**Discover how this unified framework opens new investigative pathways for fundamental challenges across science, philosophy, culture, and engineering** — from the science-religion conflict to consciousness mysteries, from organizational design to cosmic questions. Each pathway reveals how apparently separate challenges may share common underlying dynamics.
 
 ### For the Curious
 
@@ -137,19 +137,19 @@ See [[Yin-Yang - Dancing with Chaos — Three Paths to Living Form]] for this pr
 
 ## Applications
 
-Delta Theory helps us:
-- Design more stable and adaptive systems
-- Understand how structures emerge in nature
-- Model cognition and consciousness
-- Analyze why systems thrive or collapse
-- Bridge technical and experiential understanding
+Delta Theory provides investigative pathways for:
+- Exploring more stable and adaptive systems
+- Understanding how structures emerge in nature
+- Investigating cognition and consciousness
+- Analyzing why systems thrive or collapse
+- Bridging technical and experiential understanding
 
 ## Getting Started
 
 1. Read [PRINCIPLES.md](PRINCIPLES.md) for core governance and axioms
 2. Follow [ROADMAP.md](ROADMAP.md) for development status
 3. Explore the dot-decimal structure:
-   - 00: Translation Layer (virtualization)
+   - 00: Translation Layer (microkernel, interfaces, coherence orchestration)
    - 10: Implementation Layer (formalization)
    - 20: Informational Layer (documentation)
 
@@ -163,7 +163,7 @@ Delta Theory can be loaded into LLMs to explore complex systems through its recu
    - Explore connections across the complete framework
 
 2. **GPT Projects**
-   - Attach `00.0.0 - Virtual Substrate` files to your project
+   - Attach `00.0 - Microkernel` files to your project
    - Include essential glossary notes (Field, Void, Structure, Awareness, Relation, Infinite, Zero)
    - Let the microkernel guide your exploration
 

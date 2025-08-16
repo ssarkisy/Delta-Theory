@@ -13,7 +13,7 @@ aliases:
 # c — Speed of Light in Vacuum (constant)
 
 > Physical implementation of difference propagation limit.
-> See [[c — Difference Propagation Limit (constant)]] for core conceptual meaning.
+> See [[c — Difference Propagation Limit (boundary)]] for core conceptual meaning.
 
 ---
 
@@ -105,7 +105,7 @@ This implementation maintains dual-register intelligibility per governance (see 
 
 ## See Also
 
-- [[c — Difference Propagation Limit (constant)]] (core concept)
+- [[c — Difference Propagation Limit (boundary)]] (core concept)
 - [[α — Fine-Structure Constant (constant)]]
 - [[10.2.0 - Physics (index)]]
 
