@@ -37,7 +37,7 @@ aliases:
 3. **Constant Emergence:** δ_recovery emerges as the fundamental threshold governing discrimination sensitivity
 4. **Invariant Nature:** Represents the minimal sensitivity required for coherent recovery decision-making
 
-**Traceback:** `A0 → T2+A0 → T4 → T8 → δ_recovery` — derivation chain from foundational axiom
+**Traceback:** `A0 → T2+A0 → T5 → T8 → δ_recovery` — derivation chain from foundational axiom
 
 **Flow:** T8 requires stability discrimination → perturbations must be distinguished from stability → δ_recovery provides the sensitivity threshold for coherent discrimination → enables effective recovery coordination
 

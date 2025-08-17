@@ -36,7 +36,7 @@ aliases:
 3. **Constant Emergence:** r_stability emerges as the fundamental rate governing stability assessment operations
 4. **Invariant Nature:** Represents the minimal operational tempo required for timely recovery coordination
 
-**Traceback:** `A0 → T2+A0 → T4 → T8 → r_stability` — derivation chain from foundational axiom
+**Traceback:** `A0 → T2+A0 → T5 → T8 → r_stability` — derivation chain from foundational axiom
 
 **Flow:** T8 requires stability discrimination → discrimination requires ongoing assessment → r_stability provides the base rate for assessment operations → enables timely recovery coordination
 
