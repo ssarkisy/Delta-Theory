@@ -85,7 +85,7 @@ Absolutely, Mark. Here's a reformulation of your conceptual framework using prec
 
 We seek to model nature through a minimal set of fundamental entities and their interactions, expressed geometrically within a continuous manifold. The foundational structure is defined as:
 
-### 🧱 Spacetime Manifold
+### 🧱 Timespace Manifold
 
 Let the ambient manifold be defined as:
 
@@ -93,7 +93,7 @@ $$
 \mathcal{M} = \mathbb{R}^4 = \mathbb{R}_t \times \mathbb{R}^3_x
 $$
 
-where each point in spacetime is represented as:
+where each point in timespace is represented as:
 
 $$
 \mathbf{p} = (t, x, y, z) \quad \text{with } t, x, y, z \in \mathbb{R}
