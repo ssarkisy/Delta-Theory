@@ -73,11 +73,7 @@ Assembly theory and recursion
 We can define in terms of deltas and change...
 
 
----
 
-LLM first try:
-
-Absolutely, Mark. Here's a reformulation of your conceptual framework using precise academic language grounded in dynamical geometry and expressed in LaTeX. I've preserved your structure while refining the terminology for clarity, rigor, and mathematical elegance.
 
 ---
 
