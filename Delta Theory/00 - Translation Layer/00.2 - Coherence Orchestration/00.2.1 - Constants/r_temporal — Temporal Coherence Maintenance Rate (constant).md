@@ -6,7 +6,7 @@ tags:
   - "#status/stable"
   - "#function/definition"
 polarity: P+
-derivation: T6
+derivation: T7
 aliases:
   - r_temporal
 ---
@@ -28,17 +28,17 @@ aliases:
 
 ## Primitive Derivation
 
-**Theorem Source:** T6 (Temporal Continuity) — "Systems must maintain identity continuity across time intervals"
+**Theorem Source:** T7 (Temporal Continuity) — "Systems must maintain identity continuity across time intervals"
 
 **Derivation Logic:**
-1. **T6 Requirement:** Systems must preserve temporal identity despite continuous change and time passage
+1. **T7 Requirement:** Systems must preserve temporal identity despite continuous change and time passage
 2. **Mathematical Implication:** Identity preservation requires active maintenance → requires periodic renewal operations
 3. **Constant Emergence:** r_temporal emerges as the fundamental rate governing temporal identity maintenance operations
 4. **Invariant Nature:** Represents the minimal operational tempo required for sustainable temporal coherence
 
-**Traceback:** `A1 → T2+A1 → T4 → T6 → r_temporal` — derivation chain from foundational axiom
+**Traceback:** `A0 → T3+A0 → T6 → T7 → r_temporal` — derivation chain from foundational axiom
 
-**Flow:** T6 requires continuous temporal identity → identity must be actively maintained → r_temporal provides the base rate for maintenance operations → enables sustainable temporal coherence
+**Flow:** T7 requires continuous temporal identity → identity must be actively maintained → r_temporal provides the base rate for maintenance operations → enables sustainable temporal coherence
 
 ---
 
@@ -104,7 +104,7 @@ where $\tau_{coherence}$ is the characteristic time scale for temporal identity 
 ## Scope & invariance
 
 - **Domain:** All temporal coherence operations requiring active maintenance
-- **Invariance:** Holds across domains implementing T6 (Temporal Continuity)
+- **Invariance:** Holds across domains implementing T7 (Temporal Continuity)
 - **Precision:** Domain instances determine specific frequencies and timing units
 - **Scaling:** Rate may scale with system complexity and coherence requirements
 
@@ -194,12 +194,12 @@ r_temporal > 0 (positive definite)
 ## Relationship to Other Principles
 
 ### Foundation Theorems
-- **T6 (Temporal Continuity):** Direct source - provides mathematical expression of temporal identity maintenance requirement
-- **T4 (Interface Identity):** Provides foundation for identity preservation necessity across boundaries
-- **A1 (Irreducibility):** Ensures temporal maintenance cannot be eliminated
+- **T7 (Temporal Continuity):** Direct source - provides mathematical expression of temporal identity maintenance requirement
+- **T6 (Interface Identity):** Provides foundation for identity preservation necessity across boundaries
+- **A0 (Existential Difference):** Ensures temporal maintenance cannot be eliminated
 
 ### Supporting Principles
-- **T7 (Memory Coherence):** Temporal identity provides foundation for memory preservation operations
+- **T9 (Memory Coherence):** Temporal identity provides foundation for memory preservation operations
 - **T8 (Recovery Stability):** Temporal identity provides stable foundation for recovery coordination
 
 ### Higher-Level Extensions
@@ -210,7 +210,7 @@ r_temporal > 0 (positive definite)
 
 ## See Also
 
-- [[T6 — Temporal Continuity (theorem)]] - Source theorem
+- [[T7 — Temporal Continuity (theorem)]] - Source theorem
 - [[γ_retention — Memory Retention Factor (constant)]] - Related memory constant
 - [[r_memory — Memory Coherence Maintenance Rate (constant)]] · [[r_stability — Stability Assessment Rate (constant)]] - Related coherence rates
 - [[00.2.1 - Constants (index)]] - Parent module

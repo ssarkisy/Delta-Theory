@@ -5,8 +5,8 @@ tags:
   - "#sublayer/interface"
   - "#status/stable"
   - "#function/definition"
-polarity: P+
-derivation: T3
+polarity: P-
+derivation: T5
 aliases:
   - Port
   - Flow Control Interface
@@ -144,9 +144,9 @@ Port Interface:
 
 **Theorem Foundation:** Port emerges from Interface Theorems as operational implementation
 
-**From T3 (Interface Discrimination):** Ports implement selective permeability through flow control
+**From T5 (Interface Discrimination):** Ports implement selective permeability through flow control
 - Discrimination requires flow evaluation → selective admission control
-- T3 demands selective permeability → Port provides flow discrimination
+- T5 demands selective permeability → Port provides flow discrimination
 - Mathematical basis: κ_discrimination constant governs flow decision timing
 
 **Structural Foundation:** Built upon microkernel primitives ∆, R(·), ⊚ with interface-specific application:
@@ -154,7 +154,7 @@ Port Interface:
 - **R(·) (Relational Embedding):** context determines appropriate flows
 - **⊚ (Stabilization):** ensures consistent flow policies
 
-**Interface Layer Extension:** T3 specifies **what** ports must do; structural primitives provide **how** ports operate.
+**Interface Layer Extension:** T5 specifies **what** ports must do; structural primitives provide **how** ports operate.
 
 ---
 
@@ -182,8 +182,8 @@ Port follows dual-register governance so flow control remains intelligible both 
 - [[ι_identity — Interface Identity Rate (constant)]] · [[σ_conservation — Interface Conservation Rate (constant)]]
 
 ### Theoretical Foundation
-- [[T3 — Interface Discrimination (theorem)]] (primary derivation source)
-- [[T4 — Interface Identity (theorem)]] · [[T5 — Interface Conservation (theorem)]] (coordination with other primitives)
+- [[T5 — Interface Discrimination (theorem)]] (primary derivation source)
+- [[T6 — Interface Identity (theorem)]] · [[T4 — Interface Conservation (theorem)]] (coordination with other primitives)
 
 ### Microkernel Modulators
 - [[λV — Void (Volozhina) Resonance Threshold (modulator)]] (flow control)

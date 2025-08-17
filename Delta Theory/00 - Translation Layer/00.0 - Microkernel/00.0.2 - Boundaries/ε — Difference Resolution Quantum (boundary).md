@@ -31,7 +31,7 @@ aliases:
 **Traceback:** `∆ → R(·) → ⊚ → F` — why primitive operations require this boundary
 
 **Flow:** ∆ cannot be subdivided below operational threshold → R(·) needs finite granularity → ⊚ requires minimal quantum for stable distinction → ε emerges
-**Foundation:** From A1 (Irreducibility) irreducible difference units
+**Foundation:** From A0+T1 (Existential Difference + Irreducibility) — existence requires distinguishability at minimum quantum levels
 **Role:** Enforces minimal distinguishable difference quantum limits
 
 ---

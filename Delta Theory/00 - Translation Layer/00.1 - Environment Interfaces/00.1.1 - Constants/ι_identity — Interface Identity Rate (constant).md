@@ -5,8 +5,8 @@ tags:
   - "#sublayer/interface"
   - "#status/stable"
   - "#function/definition"
-polarity: P-
-derivation: T4
+polarity: P0
+derivation: T6
 aliases:
   - ι_identity
   - Interface Identity Rate
@@ -30,17 +30,17 @@ aliases:
 
 ## Primitive Derivation
 
-**Theorem Source:** T4 (Interface Identity) — "Interface boundaries must maintain coherent identity"
+**Theorem Source:** T6 (Interface Identity) — "Interface boundaries must maintain coherent identity"
 
 **Derivation Logic:**
-1. **T4 Requirement:** Identity must persist as recognizable entity through all interactions
+1. **T6 Requirement:** Identity must persist as recognizable entity through all interactions
 2. **Temporal Implication:** Persistent identity requires regular reinforcement operations
 3. **Mathematical Necessity:** ι_identity emerges as minimal stable reinforcement interval
 4. **Invariant Nature:** Represents fundamental timing constraint for identity coherence
 
-**Traceback:** `A1 → T2 → T4 → ι_identity` — why identity maintenance requires this rate invariant
+**Traceback:** `A0 → T1 → T6 → ι_identity` — why identity maintenance requires this rate invariant
 
-**Flow:** T4 demands persistent boundary identity → requires stable identity reinforcement timing → ι_identity emerges as timing invariant for identity coherence
+**Flow:** T6 demands persistent boundary identity → requires stable identity reinforcement timing → ι_identity emerges as timing invariant for identity coherence
 
 ---
 
@@ -155,13 +155,13 @@ where $δt_{min}$ ensures boundary recognizability persistence
 ## Relationship to Other Principles
 
 ### Foundation Theorems
-- **T4 (Identity):** Direct source - provides mathematical expression of identity requirement
-- **T2 (Recursivity):** Provides foundation for persistent identity necessity
-- **A1 (Irreducibility):** Ensures identity maintenance cannot be eliminated
+- **T6 (Identity):** Direct source - provides mathematical expression of identity requirement
+- **T1 (Irreducibility):** Provides foundation for persistent identity necessity
+- **A0 (Existential Difference):** Ensures identity maintenance cannot be eliminated
 
 ### Supporting Principles
-- **T3 (Discrimination):** Identity affects discrimination capability
-- **T5 (Conservation):** Identity maintenance must preserve boundary conservation
+- **T5 (Discrimination):** Identity affects discrimination capability
+- **T4 (Conservation):** Identity maintenance must preserve boundary conservation
 
 ### Higher-Level Extensions
 - **T6 (Temporal Continuity):** Extends identity into temporal coherence persistence
@@ -214,7 +214,7 @@ where $δt_{min}$ ensures boundary recognizability persistence
 
 ## See Also
 
-- [[T4 — Interface Identity (theorem)]] (source theorem)
+- [[T6 — Interface Identity (theorem)]] (source theorem)
 - [[κ_discrimination — Interface Discrimination Rate (constant)]] (complementary interface constant)
 - [[σ_conservation — Interface Conservation Rate (constant)]] (complementary interface constant)
 - [[00.1.2 - Interface Primitives (index)]] (implementation consumers)

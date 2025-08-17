@@ -6,7 +6,7 @@ tags:
   - "#status/stable"
   - "#function/definition"
 polarity: P+
-derivation: T2
+derivation: A0+T3
 aliases:
   - Closure Geometry Ratio
 ---
@@ -28,17 +28,18 @@ aliases:
 
 ## Primitive Derivation
 
-**Theorem Source:** T2 (Recursivity) — "Forms arise via recursive embedding and closure of differences"
+**Theorem Source:** A0 (Existential Difference) + T3 (Recursivity) — "Existence requires distinguishability" + "Forms arise via recursive embedding and closure of differences"
 
 **Derivation Logic:**
-1. **T2 Requirement:** Stable forms emerge through recursive closure R^n(∆) = ∆
-2. **Geometric Implication:** Closure cycles manifest as rotational invariance in spatial contexts
-3. **Constant Emergence:** π emerges as the universal ratio governing circular closure geometry
-4. **Invariant Nature:** Represents fundamental geometric constraint for rotational closure
+1. **A0 Requirement:** For recursive forms to exist, they must remain distinguishable through closure cycles
+2. **T3 Requirement:** Stable forms emerge through recursive closure R^n(∆) = ∆
+3. **Geometric Implication:** Closure cycles manifest as rotational invariance in spatial contexts while maintaining distinguishability
+4. **Constant Emergence:** π emerges as the universal ratio governing circular closure geometry that preserves existence
+5. **Invariant Nature:** Represents fundamental geometric constraint for distinguishable rotational closure
 
-**Traceback:** `A1 → T2 → circular closure → π` — derivation chain from foundational axiom
+**Traceback:** `A0 + T3 → existential circular closure → π` — derivation chain from foundational axiom and theorem
 
-**Flow:** T2 demands recursive closure → closure cycles preserve distinction → spatial embedding creates rotational invariance → π emerges as C/d ratio
+**Flow:** A0 demands distinguishable existence → T3 demands recursive closure → closure cycles must preserve both existence and distinction → spatial embedding creates rotational invariance → π emerges as C/d ratio
 
 ---
 
@@ -121,19 +122,19 @@ Brief examples across domains showing both technical and humane angles:
 
 ## Detailed Mathematical Derivation
 
-### From Irreducibility to the Role of π
+### From Existential Difference to the Role of π
 
-We can trace how **π** becomes necessary starting from **Axiom 1 (irreducibility of difference)** through recursive closure requirements.
+We can trace how **π** becomes necessary starting from **A0 (Existential Difference)** through recursive closure requirements.
 
-**1. Start with Axiom 1:**
+**1. Start with A0:**
 
-$$\Delta \neq f(\Delta_i)$$
+$$\text{Existence}_\varepsilon \equiv \text{Distinguishability}_\varepsilon$$
 
-Primitive difference (∆) cannot be decomposed without loss of distinction. At our operational resolution (ε), any attempt to express ∆ as composition of sub-ε differences eliminates the very distinction it asserts.
+Existence at resolution ε is equivalent to distinguishability at resolution ε. For any form to exist, it must be distinguishable from its context at the operational resolution.
 
-**2. Persistence requirement (T2):**
+**2. Persistence requirement (T3):**
 
-From T2 (Recursivity): stable forms emerge only through recursive closure. For ∆ to persist as a distinguishable difference, it must undergo recursive embedding operations that eventually close: $R^n(∆) = ∆$.
+From T3 (Recursivity): stable forms emerge only through recursive closure. For ∆ to persist as a distinguishable difference, it must undergo recursive embedding operations that eventually close: $R^n(∆) = ∆$.
 
 **3. Closure constraint:**
 
@@ -149,16 +150,16 @@ In any spatial embedding where rotation represents closure, the ratio of **path 
 
 $$\frac{\text{circumference}}{\text{diameter}} = \pi$$
 
-**6. Why π from A1 + T2:**
+**6. Why π from A0 + T3:**
 
-- **A1** ensures distinctions cannot be decomposed without loss
-- **T2** requires recursive closure for stable persistence
+- **A0** ensures existence requires distinguishability at resolution ε
+- **T3** requires recursive closure for stable persistence
 - **Closure cycles** preserve distinction through return to origin
 - **Spatial embedding** expresses cycles as rotational invariance
 - **π emerges** as the universal ratio governing rotational closure geometry
 
 **Connection to primitive flow:**
-- **∆**: Must maintain irreducible distinction
+- **∆**: Must maintain distinguishable existence at resolution ε
 - **R(·)**: Creates recursive embedding cycles $R^n(∆) = ∆$
 - **⊚**: Stabilizes closure through rotational invariance
 - **F**: Rotational forms inherit π as their fundamental geometric ratio

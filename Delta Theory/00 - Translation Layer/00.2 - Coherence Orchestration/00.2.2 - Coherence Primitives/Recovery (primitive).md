@@ -5,7 +5,7 @@ tags:
   - "#sublayer/coherence"
   - "#status/stable"
   - "#function/definition"
-polarity: P+
+polarity: P-
 derivation: T8
 aliases:
   - Recovery
@@ -101,7 +101,7 @@ where stability restoration follows δ_recovery discrimination sensitivity and r
 ## Dependencies
 
 **Derivation:** T8 (Recovery Stability) - Systems must discriminate between perturbations and stability
-**Role:** Operates in Structure aspect of SVA triad (P+ polarity, structure-building for stability restoration)
+**Role:** Operates in Void aspect of SVA triad (P- polarity, field-seeking for stability discrimination)
 
 ---
 
@@ -159,7 +159,7 @@ Recovery Interface:
 
 ## Related Primitives
 
-- **Sequence:** [[Memory (primitive)]] → [[Phase (primitive)]] → Recovery
+- **Sequence:** [[Memory (primitive)]] → Recovery → [[Phase (primitive)]]
 - **Controls:** Recovery responses complete the coherence orchestration cycle
 - **Dependencies:** Requires temporal coordination from Phase and preserved information from Memory
 - **Feedback:** Recovery operations inform Memory about what information to preserve for future recovery
@@ -216,7 +216,7 @@ Recovery follows dual-register governance so stability restoration remains intel
 
 ### Theoretical Foundation
 - [[T8 — Recovery Stability (theorem)]] (primary derivation source)
-- [[T6 — Temporal Continuity (theorem)]] · [[T7 — Memory Coherence (theorem)]] (coordination with other primitives)
+- [[T7 — Temporal Continuity (theorem)]] · [[T9 — Memory Coherence (theorem)]] (coordination with other primitives)
 
 ### Microkernel Modulators
 - [[λV — Void (Volozhina) Resonance Threshold (modulator)]] (perturbation sensitivity)

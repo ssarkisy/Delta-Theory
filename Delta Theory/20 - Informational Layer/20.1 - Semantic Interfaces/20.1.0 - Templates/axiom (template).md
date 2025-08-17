@@ -20,7 +20,7 @@ tags:
 - Replace ALL `<placeholder>` text with actual content
 - Remove unused sections completely rather than leaving empty
 - Keep axiom statements minimal and foundational
-- Only A1 is foundational; derived axioms include "Primitive Derivation" section
+- Only A0 is foundational; derived axioms include "Primitive Derivation" section
 - Maintain dual-register mapping for accessibility
 
 ### Section Requirements:
@@ -28,7 +28,7 @@ tags:
 **For Derived Axioms Only:** Add Primitive Derivation section after Statement
 
 ### Current Delta Theory Axioms:
-- **A1 — Irreducibility:** Foundational axiom (no primitive derivation)
+- **A0 — Existential Difference:** Foundational axiom (no primitive derivation)
 - **Future derived axioms:** Would include primitive derivation section
 
 ---
@@ -62,7 +62,7 @@ aliases:  # Optional
 
 ## Primitive Derivation (if derived axiom)
 
-*For derived axioms only. A1 omits this section.*
+*For derived axioms only. A0 omits this section.*
 
 **Traceback:** `∆ → R(·) → ⊚ → F` — primitive requirements for this axiom
 

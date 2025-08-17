@@ -167,7 +167,7 @@ Persistence extends basic Memory primitive operations with advanced information 
 
 ### Theoretical Foundation
 - [[∇S — Structure (Sarkisian) Differentiation Gradient (modulator)]] - Primary modulator source
-- [[T7 — Memory Coherence (theorem)]] - Theoretical foundation through Memory primitive
+- [[T9 — Memory Coherence (theorem)]] - Theoretical foundation through Memory primitive
 
 ### Pattern Integration
 - [[00.2.3 - Coherence Patterns (index)]] - Parent patterns module

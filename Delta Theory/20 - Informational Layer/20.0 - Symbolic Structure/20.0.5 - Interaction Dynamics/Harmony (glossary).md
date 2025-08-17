@@ -151,7 +151,7 @@ Diagnostic for adaptive coherence dynamics where component interactions create f
 ## See Also
 
 - [[ψA — Awareness (Aiza) Phase Coherence Anchor (modulator)]] - Phase coherence modulator enabling flexible alignment
-- [[T6 — Temporal Continuity (theorem)]] - Theoretical foundation for adaptive temporal coherence
-- [[T7 — Memory Coherence (theorem)]] - Theoretical foundation for flexible identity maintenance
+- [[T7 — Temporal Continuity (theorem)]] - Theoretical foundation for adaptive temporal coherence
+- [[T9 — Memory Coherence (theorem)]] - Theoretical foundation for flexible identity maintenance
 - [[Resonance (glossary)]] · [[Interference (glossary)]] · [[Dissonance (glossary)]]
 - [[20.0.5 - Interaction Dynamics (index)]] - Parent module for navigation

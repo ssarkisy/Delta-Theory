@@ -5,7 +5,7 @@ tags:
   - "#sublayer/coherence"
   - "#status/stable"
   - "#function/definition"
-polarity: P0
+polarity: P-
 derivation: T8
 aliases:
   - r_stability
@@ -36,7 +36,7 @@ aliases:
 3. **Constant Emergence:** r_stability emerges as the fundamental rate governing stability assessment operations
 4. **Invariant Nature:** Represents the minimal operational tempo required for timely recovery coordination
 
-**Traceback:** `A1 → T1+A1 → T3 → T8 → r_stability` — derivation chain from foundational axiom
+**Traceback:** `A0 → T2+A0 → T4 → T8 → r_stability` — derivation chain from foundational axiom
 
 **Flow:** T8 requires stability discrimination → discrimination requires ongoing assessment → r_stability provides the base rate for assessment operations → enables timely recovery coordination
 
@@ -195,12 +195,12 @@ r_stability > 0 (positive definite)
 
 ### Foundation Theorems
 - **T8 (Recovery Stability):** Direct source - provides mathematical expression of stability discrimination requirement
-- **T3 (Interface Discrimination):** Provides foundation for discrimination necessity across boundaries
-- **A1 (Irreducibility):** Ensures stability assessment cannot be eliminated
+- **T5 (Interface Discrimination):** Provides foundation for discrimination necessity across boundaries
+- **A0 (Existential Difference):** Ensures stability assessment cannot be eliminated
 
 ### Supporting Principles
-- **T6 (Temporal Continuity):** Stability assessment enables temporal identity persistence through perturbation cycles
-- **T7 (Memory Coherence):** Stability assessment provides stable contexts for memory preservation operations
+- **T7 (Temporal Continuity):** Stability assessment enables temporal identity persistence through perturbation cycles
+- **T9 (Memory Coherence):** Stability assessment provides stable contexts for memory preservation operations
 
 ### Higher-Level Extensions
 - **Coherence Modulators:** r_stability provides timing foundation for coherence modulation operations

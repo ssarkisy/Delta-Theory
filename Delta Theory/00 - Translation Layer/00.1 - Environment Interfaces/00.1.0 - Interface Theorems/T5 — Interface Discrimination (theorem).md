@@ -5,17 +5,17 @@ tags:
   - "#sublayer/interface"
   - "#status/stable"
   - "#function/definition"
-polarity: P+
-derivation: A1+T1
+polarity: P-
+derivation: A0+T2
 aliases:
-  - T3
+  - T5
   - Interface Discrimination
   - Selective Permeability
 ---
 
-# T3 — Interface Discrimination (theorem)
+# T5 — Interface Discrimination (theorem)
 
-> **Interfaces must discriminate between flows** — not all differences can cross every boundary. This theorem derives necessarily from T1 (Asymmetry) and A1 (Irreducibility).
+> **Interfaces must discriminate between flows** — not all differences can cross every boundary. This theorem derives necessarily from T2 (Asymmetry) and A0 (Existential Difference).
 
 ---
 
@@ -35,7 +35,7 @@ aliases:
 
 **Traceback:** `∆ → R(·) → ⊚ → Interface Forms` — why primitive operations require discrimination
 
-**Foundation:** From A1+T1 → discrimination necessity for interface stability
+**Foundation:** From A0+T2 → discrimination necessity for interface stability and existence
 **Flow:** ∆ detects inside/outside differences → R(·) embeds discrimination rules → ⊚ stabilizes selective permeability
 **Result:** Theorem emerges to preserve interface coherence and boundary integrity
 
@@ -43,18 +43,18 @@ aliases:
 
 ## Proof
 
-**Given:** A1 (Irreducibility) and T1 (Asymmetry)
+**Given:** A0 (Existential Difference) and T2 (Asymmetry)
 
 **To Prove:** Interfaces must discriminate between flows
 
 **Proof:**
-1. **From T1:** Directional distinction creates ∆(A→B) ≠ ∆(B→A), establishing "inside" vs "outside" asymmetry
-2. **Applied to interfaces:** Creates "crossing in" ≠ "crossing out" directional asymmetry
-3. **From A1:** Meaningful differences cannot be reduced without loss
-4. **Interface requirement:** Must preserve irreducible differences during crossing
-5. **If interface allows all flows equally:** Violates T1 (eliminates directional distinction)
-6. **If interface eliminates meaningful differences:** Violates A1 (reduction without preservation)
-7. **Therefore:** Interface must discriminate between flows to satisfy both T1 and A1 □
+1. **From A0:** For interfaces to exist, they must be distinguishable from their environment at resolution ε
+2. **Interface distinguishability:** Requires different behavior for different flows (discriminating function)
+3. **From T2:** Directional distinction creates ∆(A→B) ≠ ∆(B→A), establishing "inside" vs "outside" asymmetry
+4. **Applied to interfaces:** Creates "crossing in" ≠ "crossing out" directional asymmetry
+5. **If interface allows all flows equally:** Eliminates directional distinction, violating T2
+6. **If interface shows no flow discrimination:** Becomes indistinguishable from non-interface, violating A0
+7. **Therefore:** Interface must discriminate between flows to satisfy both A0 and T2 □
 
 **Corollaries:**
 - Selective permeability is logically necessary for stable interfaces
@@ -106,7 +106,7 @@ aliases:
 
 ## Interface Primitive Mapping
 
-| Primitive | T3 Application | Control Mechanism |
+| Primitive | T5 Application | Control Mechanism |
 |-----------|----------------|-------------------|
 | Port | Flow discrimination | τ_port selectivity |
 | Gate | Threshold discrimination | τ_gate sensitivity |
@@ -132,7 +132,7 @@ aliases:
 
 ## Dependencies & scope
 
-- **Derived from:** A1 (Irreducibility) and T1 (Asymmetry) - derives from their combination
+- **Derived from:** A0 (Existential Difference) and T2 (Asymmetry) - derives from their combination
 - **Requires:** Interface existence and flow dynamics
 - **Applies to:** All interface primitives (Port, Gate, Surface, Buffer) requiring controlled exchange
 - **Exceptions:** Theoretical interfaces with infinite capacity (boundary case)
@@ -142,12 +142,13 @@ aliases:
 ## Relationship to Other Principles
 
 ### Foundation Theorems
-- **A1 (Irreducibility):** Preserves irreducible differences across interface crossings
-- **T1 (Asymmetry):** Leverages asymmetric distinction for directional discrimination
+- **A0 (Existential Difference):** Interfaces must exist through distinguishable discrimination behavior
+- **T2 (Asymmetry):** Leverages asymmetric distinction for directional discrimination
 
 ### Supporting Principles
-- **T4 (Interface Identity):** Interface identity preserved through discrimination consistency
-- **T2 (Recursivity):** Enables stable discrimination patterns through closure
+- **T1 (Irreducibility):** Preserves irreducible differences across interface crossings
+- **T3 (Recursivity):** Enables stable discrimination patterns through closure
+- **T6 (Interface Identity):** Interface identity preserved through discrimination consistency
 
 ---
 
@@ -161,11 +162,13 @@ aliases:
 
 ## See Also
 
-- [[T4 — Interface Identity (theorem)]]
-- [[T5 — Interface Conservation (theorem)]]
+- [[A0 — Existential Difference (axiom)]] - Source axiom
+- [[T2 — Asymmetry (theorem)]] - Co-derivation source
+- [[T4 — Interface Conservation (theorem)]]
+- [[T6 — Interface Identity (theorem)]]
 - [[00.1.0 - Interface Theorems (index)]]
-- [[A1 — Irreducibility (axiom)]]
-- [[T1 — Asymmetry (theorem)]]
+- [[T1 — Irreducibility (theorem)]]
+- [[T3 — Recursivity (theorem)]]
 - [[λV — Void (Volozhina) Resonance Threshold (modulator)]]
 
 ---

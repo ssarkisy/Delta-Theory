@@ -151,7 +151,7 @@ Diagnostic for optimal awareness operation where ψA modulation maintains stable
 
 - [[Awareness (glossary)]] - Foundational awareness concept from microkernel
 - [[ψA — Awareness (Aiza) Phase Coherence Anchor (modulator)]] - Phase coherence modulator
-- [[T6 — Temporal Continuity (theorem)]] - Theoretical foundation for temporal binding
-- [[T7 — Memory Coherence (theorem)]] - Theoretical foundation for identity persistence
+- [[T7 — Temporal Continuity (theorem)]] - Theoretical foundation for temporal binding
+- [[T9 — Memory Coherence (theorem)]] - Theoretical foundation for identity persistence
 - [[Desynchronized Awareness (glossary)]] · [[Intermittent Awareness (glossary)]] · [[Overbound Awareness (glossary)]]
 - [[20.0.3 - Awareness Classifications (index)]] - Parent module for navigation

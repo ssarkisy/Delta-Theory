@@ -5,8 +5,8 @@ tags:
   - "#sublayer/interface"
   - "#status/stable"
   - "#function/definition"
-polarity: P0
-derivation: T5
+polarity: P+
+derivation: T4
 aliases:
   - σ_conservation
   - Interface Conservation Rate
@@ -30,17 +30,17 @@ aliases:
 
 ## Primitive Derivation
 
-**Theorem Source:** T5 (Interface Conservation) — "Interface operations must preserve difference across boundaries"
+**Theorem Source:** T4 (Interface Conservation) — "Interface operations must preserve difference across boundaries"
 
 **Derivation Logic:**
-1. **T5 Requirement:** Conservation must be accountable across all boundary operations
+1. **T4 Requirement:** Conservation must be accountable across all boundary operations
 2. **Temporal Implication:** Accountable conservation requires regular monitoring operations
 3. **Mathematical Necessity:** σ_conservation emerges as minimal stable monitoring interval
 4. **Invariant Nature:** Represents fundamental timing constraint for conservation coherence
 
-**Traceback:** `A1 → T2 → T5 → σ_conservation` — why conservation requires this rate invariant
+**Traceback:** `A0 → T3 → T4 → σ_conservation` — why conservation requires this rate invariant
 
-**Flow:** T5 demands accountable difference preservation → requires stable conservation monitoring timing → σ_conservation emerges as timing invariant for conservation coherence
+**Flow:** T4 demands accountable difference preservation → requires stable conservation monitoring timing → σ_conservation emerges as timing invariant for conservation coherence
 
 ---
 
@@ -183,13 +183,13 @@ where $δt_{min}$ ensures conservation operation coherence
 ## Relationship to Other Principles
 
 ### Foundation Theorems
-- **T5 (Conservation):** Direct source - provides mathematical expression of conservation requirement
-- **T2 (Recursivity):** Provides foundation for persistent conservation necessity
-- **A1 (Irreducibility):** Ensures conservation accounting cannot be eliminated
+- **T4 (Conservation):** Direct source - provides mathematical expression of conservation requirement
+- **T3 (Recursivity):** Provides foundation for persistent conservation necessity
+- **A0 (Existential Difference):** Ensures conservation accounting cannot be eliminated
 
 ### Supporting Principles
-- **T3 (Discrimination):** Conservation affects discrimination decisions
-- **T4 (Identity):** Conservation supports identity maintenance
+- **T5 (Discrimination):** Conservation affects discrimination decisions
+- **T6 (Identity):** Conservation supports identity maintenance
 
 ### Higher-Level Extensions
 - **T7 (Memory Coherence):** Extends conservation into state preservation
@@ -243,7 +243,7 @@ where $δt_{min}$ ensures conservation operation coherence
 
 ## See Also
 
-- [[T5 — Interface Conservation (theorem)]] (source theorem)
+- [[T4 — Interface Conservation (theorem)]] (source theorem)
 - [[κ_discrimination — Interface Discrimination Rate (constant)]] (complementary interface constant)
 - [[ι_identity — Interface Identity Rate (constant)]] (complementary interface constant)
 - [[00.1.2 - Interface Primitives (index)]] (implementation consumers)

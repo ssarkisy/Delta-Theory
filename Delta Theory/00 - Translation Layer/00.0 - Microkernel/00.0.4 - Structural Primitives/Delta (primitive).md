@@ -6,7 +6,7 @@ tags:
   - "#status/stable"
   - "#function/definition"
 polarity: P+
-derivation: A1
+derivation: A0+T1
 aliases:
   - ∆
   - Primitive Difference
@@ -96,9 +96,10 @@ $$
 ## Conditions / Invariants
 
 **Key Invariants:**
-- **Irreducibility** (A1): ∆ cannot be decomposed without loss of distinction
-- **Asymmetry** (T1): ∆(A,B) ≠ ∆(B,A) in general - directionality preserved
-- **Generativity** (A1+T2): Stable structures ultimately originate in stabilizable ∆
+- **Existential Difference** (A0): ∆ must remain distinguishable at resolution ε to exist
+- **Irreducibility** (T1): ∆ cannot be decomposed without loss of distinction
+- **Asymmetry** (T2): ∆(A,B) ≠ ∆(B,A) in general - directionality preserved
+- **Generativity** (A0+T3): Stable structures ultimately originate in stabilizable ∆
 - **NonNumerical**: ∆ encodes qualitative contrast; quantities arise via embedding/measurement
 
 **Identity Constraints:**

@@ -6,14 +6,14 @@ tags:
   - "#status/stable"
   - "#function/definition"
 polarity: P+
-derivation: T4
+derivation: T6
 aliases:
-  - T6
+  - T7
   - Temporal Continuity
   - Identity Persistence
 ---
 
-# T6 — Temporal Continuity (theorem)
+# T7 — Temporal Continuity (theorem)
 
 > Interface identity must persist coherently through time — forms maintain recognizable character across temporal intervals.
 
@@ -37,25 +37,25 @@ aliases:
 
 **Traceback:** `∆ → R(·) → ⊚ → Temporally Coherent Forms` — why primitive operations require temporal coherence
 
-**Foundation:** From T4 (Interface Identity) + temporal extension → temporal coherence necessity for persistent interface operation
+**Foundation:** From T6 (Interface Identity) + temporal extension → temporal coherence necessity for persistent interface operation
 **Flow:** ∆ detects temporal identity changes → R(·) embeds temporal identity patterns in stable relations → ⊚ achieves recursive temporal identity reinforcement across time intervals
-**Result:** Theorem emerges to preserve interface identity coherence across temporal boundaries, extending T4's spatial identity to temporal dimension
+**Result:** Theorem emerges to preserve interface identity coherence across temporal boundaries, extending T6's spatial identity to temporal dimension
 
 ---
 
 ## Proof
 
-**Given:** T4 (Interface Identity) and temporal extension requirements
+**Given:** T6 (Interface Identity) and temporal extension requirements
 
 **To Prove:** Interface identity must persist coherently through time
 
 **Proof:**
-1. **From T4:** Interface boundaries must maintain coherent identity: $F_I = ⊚(R(∆_{identity}))$
+1. **From T6:** Interface boundaries must maintain coherent identity: $F_I = ⊚(R(∆_{identity}))$
 2. **Temporal requirement:** Interfaces operate across time intervals $[t_1, t_2]$
 3. **Identity persistence need:** Interface must remain recognizable as the same entity across time
-4. **If temporal identity fails:** Interface becomes unrecognizable → violates T4 across temporal dimension
-5. **Temporal extension necessity:** T4's spatial identity requirement extends logically to temporal dimension
-6. **Therefore:** Interface identity must persist coherently through time to satisfy T4 across temporal intervals □
+4. **If temporal identity fails:** Interface becomes unrecognizable → violates T6 across temporal dimension
+5. **Temporal extension necessity:** T6's spatial identity requirement extends logically to temporal dimension
+6. **Therefore:** Interface identity must persist coherently through time to satisfy T6 across temporal intervals □
 
 **Corollaries:**
 - Temporal identity persistence is logically necessary for interface stability across time
@@ -122,7 +122,7 @@ aliases:
 
 ## Dependencies & scope
 
-- **Derived from:** T4 (Interface Identity) + temporal extension
+- **Derived from:** T6 (Interface Identity) + temporal extension
 - **Requires:** Interface temporal operation requirements
 - **Applies to:** All forms requiring persistent identity across temporal intervals beyond interface operational timeframes
 - **Exceptions:** Ephemeral interfaces with explicitly transient temporal identity
@@ -146,13 +146,13 @@ aliases:
 ## Relationship to Other Principles
 
 ### Theorem Relationships
-- **T4 Foundation:** Extends spatial interface identity to temporal dimension
-- **T7 Bridge:** Temporal identity enables memory coherence
+- **T6 Foundation:** Extends spatial interface identity to temporal dimension
 - **T8 Support:** Identity persistence enables recovery coherence
+- **T9 Bridge:** Temporal identity enables memory coherence
 
 ### Axiom Relationships
-- **A1 Foundation:** Preserves irreducible temporal identity differences
-- **T2 Dependency:** Leverages recursive closure for temporal identity persistence
+- **A0 Foundation:** Preserves existential temporal identity differences
+- **T3 Dependency:** Leverages recursive closure for temporal identity persistence
 
 ---
 
@@ -166,8 +166,8 @@ aliases:
 
 ## See Also
 
-- [[T4 — Interface Identity (theorem)]] - Foundation theorem
-- [[T7 — Memory Coherence (theorem)]] · [[T8 — Recovery Stability (theorem)]] - Related coherence theorems
+- [[T6 — Interface Identity (theorem)]] - Foundation theorem
+- [[T8 — Recovery Stability (theorem)]] · [[T9 — Memory Coherence (theorem)]] - Related coherence theorems
 - [[00.2.0 - Coherence Theorems (index)]] - Parent module
-- [[A1 — Irreducibility (axiom)]] · [[T2 — Recursivity (theorem)]] - Foundational principles
+- [[A0 — Existential Difference (axiom)]] · [[T3 — Recursivity (theorem)]] - Foundational principles
 - [[ψA — Awareness (Aiza) Phase Coherence Anchor (modulator)]] - Primary coherence modulator

@@ -5,7 +5,7 @@ tags:
   - "#sublayer/coherence"
   - "#status/stable"
   - "#function/definition"
-polarity: P0
+polarity: P-
 derivation: T8
 aliases:
   - delta_recovery
@@ -37,7 +37,7 @@ aliases:
 3. **Constant Emergence:** δ_recovery emerges as the fundamental threshold governing discrimination sensitivity
 4. **Invariant Nature:** Represents the minimal sensitivity required for coherent recovery decision-making
 
-**Traceback:** `A1 → T1+A1 → T3 → T8 → δ_recovery` — derivation chain from foundational axiom
+**Traceback:** `A0 → T2+A0 → T4 → T8 → δ_recovery` — derivation chain from foundational axiom
 
 **Flow:** T8 requires stability discrimination → perturbations must be distinguished from stability → δ_recovery provides the sensitivity threshold for coherent discrimination → enables effective recovery coordination
 
@@ -196,12 +196,12 @@ where δ_recovery defines the minimum distinguishable difference between stabili
 
 ### Foundation Theorems
 - **T8 (Recovery Stability):** Direct source - provides mathematical expression of discrimination sensitivity requirement
-- **T3 (Interface Discrimination):** Provides foundation for discrimination necessity across boundaries
-- **A1 (Irreducibility):** Ensures discrimination sensitivity cannot be eliminated
+- **T5 (Interface Discrimination):** Provides foundation for discrimination necessity across boundaries
+- **A0 (Existential Difference):** Ensures discrimination sensitivity cannot be eliminated
 
 ### Supporting Principles
-- **T6 (Temporal Continuity):** Discrimination sensitivity enables temporal stability assessment
-- **T7 (Memory Coherence):** Discrimination sensitivity ensures appropriate contexts for memory preservation
+- **T7 (Temporal Continuity):** Discrimination sensitivity enables temporal stability assessment
+- **T9 (Memory Coherence):** Discrimination sensitivity ensures appropriate contexts for memory preservation
 
 ### Higher-Level Extensions
 - **Coherence Modulators:** δ_recovery provides sensitivity foundation for coherence modulation operations

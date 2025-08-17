@@ -5,8 +5,8 @@ tags:
   - "#sublayer/coherence"
   - "#status/stable"
   - "#function/definition"
-polarity: P-
-derivation: T7
+polarity: P0
+derivation: T9
 aliases:
   - gamma_retention
   - γ_retention
@@ -29,17 +29,17 @@ aliases:
 
 ## Primitive Derivation
 
-**Theorem Source:** T7 (Memory Coherence) — "Systems must preserve information across state transitions"
+**Theorem Source:** T9 (Memory Coherence) — "Systems must preserve information across state transitions"
 
 **Derivation Logic:**
-1. **T7 Requirement:** Systems must maintain information coherence despite state changes and transitions
+1. **T9 Requirement:** Systems must maintain information coherence despite state changes and transitions
 2. **Mathematical Implication:** Information preservation requires quantifiable retention → requires proportional factor
 3. **Constant Emergence:** γ_retention emerges as the fundamental factor governing information preservation efficiency
 4. **Invariant Nature:** Represents the mathematical relationship determining how much information survives state transitions
 
-**Traceback:** `A1 → T2+A1 → T5 → T7 → γ_retention` — derivation chain from foundational axiom
+**Traceback:** `A0 → T3+A0 → T4 → T9 → γ_retention` — derivation chain from foundational axiom
 
-**Flow:** T7 requires information preservation across states → state transitions threaten information coherence → γ_retention provides the mathematical factor determining preservation efficiency → enables stable memory coherence
+**Flow:** T9 requires information preservation across states → state transitions threaten information coherence → γ_retention provides the mathematical factor determining preservation efficiency → enables stable memory coherence
 
 ---
 
@@ -105,7 +105,7 @@ where information preservation across state transitions maintains this proportio
 ## Scope & invariance
 
 - **Domain:** All memory coherence operations involving state transitions
-- **Invariance:** Holds across domains implementing T7 (Memory Coherence)
+- **Invariance:** Holds across domains implementing T9 (Memory Coherence)
 - **Precision:** Domain instances determine specific retention ratios and efficiencies
 - **Context dependency:** May vary with information type and transition complexity
 
@@ -195,12 +195,12 @@ where information preservation across state transitions maintains this proportio
 ## Relationship to Other Principles
 
 ### Foundation Theorems
-- **T7 (Memory Coherence):** Direct source - provides mathematical expression of information preservation requirement
-- **T5 (Interface Conservation):** Provides foundation for conservation necessity across boundaries
-- **A1 (Irreducibility):** Ensures information preservation cannot be eliminated
+- **T9 (Memory Coherence):** Direct source - provides mathematical expression of information preservation requirement
+- **T4 (Interface Conservation):** Provides foundation for conservation necessity across boundaries
+- **A0 (Existential Difference):** Ensures information preservation cannot be eliminated
 
 ### Supporting Principles
-- **T6 (Temporal Continuity):** Memory retention provides foundation for temporal identity persistence
+- **T7 (Temporal Continuity):** Memory retention provides foundation for temporal identity persistence
 - **T8 (Recovery Stability):** Memory retention ensures recovery operations have preserved information
 
 ### Higher-Level Extensions
@@ -211,7 +211,7 @@ where information preservation across state transitions maintains this proportio
 
 ## See Also
 
-- [[T7 — Memory Coherence (theorem)]] - Source theorem
+- [[T9 — Memory Coherence (theorem)]] - Source theorem
 - [[r_memory — Memory Coherence Maintenance Rate (constant)]] - Related memory constant
 - [[r_temporal — Temporal Continuity Maintenance Rate (constant)]] · [[r_stability — Stability Assessment Rate (constant)]] - Related coherence rates
 - [[00.2.1 - Constants (index)]] - Parent module

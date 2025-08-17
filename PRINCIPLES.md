@@ -13,11 +13,12 @@ tags:
 
 ## 1) Ontological Core (Kernel)
 
-- A1 — Irreducibility: see `Delta Theory/00 - Translation Layer/00.0 - Microkernel/00.0.0 - Core Axiom & Theorems/A1 — Irreducibility (axiom).md`
-- T1 — Asymmetry: see `Delta Theory/00 - Translation Layer/00.0 - Microkernel/00.0.0 - Core Axiom & Theorems/T1 — Asymmetry (theorem).md`
-- T2 — Recursivity: see `Delta Theory/00 - Translation Layer/00.0 - Microkernel/00.0.0 - Core Axiom & Theorems/T2 — Recursivity (theorem).md`
+- A0 — Existential Difference: see `Delta Theory/00 - Translation Layer/00.0 - Microkernel/00.0.0 - Core Axiom & Theorems/A0 — Existential Difference (axiom).md`
+- T1 — Irreducibility: see `Delta Theory/00 - Translation Layer/00.0 - Microkernel/00.0.0 - Core Axiom & Theorems/T1 — Irreducibility (theorem).md`
+- T2 — Asymmetry: see `Delta Theory/00 - Translation Layer/00.0 - Microkernel/00.0.0 - Core Axiom & Theorems/T2 — Asymmetry (theorem).md`
+- T3 — Recursivity: see `Delta Theory/00 - Translation Layer/00.0 - Microkernel/00.0.0 - Core Axiom & Theorems/T3 — Recursivity (theorem).md`
 
-The single axiom A1 and its two derived theorems T1 (Asymmetry), T2 (Recursivity) govern ∆, R(·), ⊚ and the emergence of Form. These map to the SVA triad: A1 → P0 (Awareness), T1 → P- (Void), T2 → P+ (Structure).
+The single axiom A0 and its three derived theorems T1 (Irreducibility), T2 (Asymmetry), T3 (Recursivity) govern ∆, R(·), ⊚ and the emergence of Form. These map to the SVA triad: A0 → P+/P-/P0 (All), T1 → P+ (Structure), T2 → P- (Void), T3 → P0 (Awareness).
 
 ---
 

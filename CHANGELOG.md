@@ -2,6 +2,50 @@
 
 This project adheres to a human‑readable changelog. Versions reference GitHub releases; unreleased items track upcoming work.
 
+## [v0.4.1] — Foundational Axiom Architecture and Theorem Refactoring
+
+**Why:** Achieve theoretical unification by establishing A0 (Existential Difference) as the single foundational axiom from which all theorems derive, eliminating the confusion of multiple foundational axioms while creating a unified logical progression. This refactoring establishes canonical SVA ordering (P+ → P- → P0) across all theorem sets, achieving perfect theoretical consistency and enabling clear derivation chains from A0 through T1-T9. The result is a coherent, unified theoretical architecture that maintains epistemological rigor while providing a single, elegant foundation for all Delta Theory principles.
+
+### Added
+- **A0 — Existential Difference (axiom):** New foundational axiom establishing "Existence at resolution ε is equivalent to distinguishability at resolution ε" as the single ontological foundation
+- **Complete A0-Based Derivation System:** All theorems now derive from A0, creating unified theoretical foundation with clear logical progression
+
+### Changed
+- **Core Theorem Architecture Refactoring:**
+  - **A1 — Irreducibility:** Converted from axiom to **T1 — Irreducibility (theorem)** derived from A0, polarity corrected to P+ (Structure)
+  - **T1 — Asymmetry:** Renumbered to **T2 — Asymmetry (theorem)** with derivation from A0, maintains P- (Void) polarity
+  - **T2 — Recursivity:** Renumbered to **T3 — Recursivity (theorem)** with derivation from A0, polarity corrected to P0 (Awareness)
+
+- **Interface Theorem Renumbering and Canonical SVA Ordering:**
+  - **T4 — Interface Conservation (theorem):** Renamed from T5, polarity P+ (Structure), derives from A0+T3
+  - **T5 — Interface Discrimination (theorem):** Renamed from T4, polarity P- (Void), derives from A0+T2
+  - **T6 — Interface Identity (theorem):** Maintains numbering, polarity corrected to P0 (Awareness), derives from A0+T1
+
+- **Coherence Theorem Renumbering and Polarity Corrections:**
+  - **T7 — Temporal Continuity (theorem):** Renamed from T9, polarity P+ (Structure), derives from T6
+  - **T8 — Recovery Stability (theorem):** Maintains numbering, polarity corrected to P- (Void), derives from T5
+  - **T9 — Memory Coherence (theorem):** Renamed from T7, polarity corrected to P0 (Awareness), derives from T4
+
+- **Complete Constant and Primitive Realignment:**
+  - **Interface Constants:** Updated derivations and canonical SVA ordering (σ_conservation/P+, κ_discrimination/P-, ι_identity/P0)
+  - **Interface Primitives:** Updated derivations and canonical SVA ordering (Gate/P+, Port/P-, Surface/P0)
+  - **Coherence Constants:** Updated derivations with corrected polarity balance (r_temporal/P+, r_stability & δ_recovery/P-, r_memory & γ_retention/P0)
+  - **Coherence Primitives:** Updated derivations and canonical SVA ordering (Memory/P+, Recovery/P-, Phase/P0)
+
+- **Comprehensive Documentation Updates (25+ files):**
+  - **Core Documentation:** PRINCIPLES.md, THEORETICAL_PATHWAYS.md, VAULT_STRUCTURE.md updated to A0-based architecture
+  - **Mathematical Foundations:** π and φ constant derivations, Delta primitive, formalization files updated to A0 foundation
+  - **Form Classifications:** All 4 form classification files updated with A0-based traceback chains
+  - **Complete Template System:** All 7 template files updated with A0-based examples and derivation guidance
+  - **Meta-System Documentation:** types.md, Reality Core Stability, Metaphors index updated to A0 architecture
+  - **Ontological Metaphors:** Alternating Polarity, Ethics of Difference Preservation, Resurrection Ecology updated with A0 grounding
+
+### Fixed
+- **Theoretical Consistency:** Eliminated A1/A2/A3 multi-axiom confusion, establishing single A0 foundational axiom with clear derivation chains
+- **Polarity Balance:** Achieved canonical SVA progression (P+ → P- → P0) across all theorem sets and derived components
+- **Cross-Reference Network:** Updated 200+ internal links to reflect new theorem numbering and A0-based architecture
+- **Template Compliance:** All components now follow A0-based derivation patterns and canonical SVA ordering principles
+
 ## [v0.4.0] — Complete Translation Layer Architecture Stabilization
 
 ### Added

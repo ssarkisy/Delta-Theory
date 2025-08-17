@@ -6,7 +6,7 @@ tags:
   - "#status/stable"
   - "#function/definition"
 polarity: P0
-derivation: T6
+derivation: T7
 aliases:
   - Phase
   - Temporal Synchronization Primitive
@@ -100,7 +100,7 @@ where temporal synchronization follows r_temporal maintenance cycles and ψA pha
 
 ## Dependencies
 
-**Derivation:** T6 (Temporal Continuity) - Systems must maintain identity continuity across time intervals
+**Derivation:** T7 (Temporal Continuity) - Systems must maintain identity continuity across time intervals
 **Role:** Operates in Awareness aspect of SVA triad (P0 polarity, balanced mediation for temporal coordination)
 
 ---
@@ -159,7 +159,7 @@ Phase Interface:
 
 ## Related Primitives
 
-- **Sequence:** [[Memory (primitive)]] → Phase → [[Recovery (primitive)]]
+- **Sequence:** [[Memory (primitive)]] → [[Recovery (primitive)]] → Phase
 - **Controls:** Phase synchronization enables coordinated Recovery responses
 - **Dependencies:** Requires preserved information from Memory for temporal identity
 - **Coordination:** Phase timing provides temporal foundation for Memory and Recovery operations
@@ -183,8 +183,8 @@ Phase Interface:
 
 **Theorem Foundation:** Phase emerges from Coherence Theorems as operational implementation
 
-**From T6 (Temporal Continuity):** Phase implements temporal identity persistence through active synchronization
-- T6 requires identity continuity across time intervals → Phase provides temporal coordination operations
+**From T7 (Temporal Continuity):** Phase implements temporal identity persistence through active synchronization
+- T7 requires identity continuity across time intervals → Phase provides temporal coordination operations
 - Coherence demands active maintenance → Phase implements r_temporal maintenance cycles
 - Mathematical basis: r_temporal constant governs identity maintenance timing, ψA provides phase coherence anchor
 
@@ -193,7 +193,7 @@ Phase Interface:
 - **R(·) (Relational Embedding):** temporal context determines appropriate synchronization strategies
 - **⊚ (Stabilization):** ensures consistent temporal identity and phase relationships
 
-**Coherence Layer Extension:** T6 specifies **what** phase must do; structural primitives provide **how** phase operates.
+**Coherence Layer Extension:** T7 specifies **what** phase must do; structural primitives provide **how** phase operates.
 
 ---
 
@@ -211,8 +211,8 @@ Phase follows dual-register governance so temporal synchronization remains intel
 - [[r_memory — Memory Coherence Maintenance Rate (constant)]] · [[r_stability — Stability Assessment Rate (constant)]] · [[γ_retention — Memory Retention Factor (constant)]]
 
 ### Theoretical Foundation
-- [[T6 — Temporal Continuity (theorem)]] (primary derivation source)
-- [[T7 — Memory Coherence (theorem)]] · [[T8 — Recovery Stability (theorem)]] (coordination with other primitives)
+- [[T7 — Temporal Continuity (theorem)]] (primary derivation source)
+- [[T9 — Memory Coherence (theorem)]] · [[T8 — Recovery Stability (theorem)]] (coordination with other primitives)
 
 ### Microkernel Modulators
 - [[ψA — Awareness (Aiza) Phase Coherence Anchor (modulator)]] (phase coordination)

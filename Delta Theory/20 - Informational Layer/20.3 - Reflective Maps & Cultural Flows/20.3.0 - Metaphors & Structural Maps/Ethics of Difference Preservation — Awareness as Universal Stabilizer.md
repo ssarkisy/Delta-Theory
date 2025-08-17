@@ -123,15 +123,19 @@ tags:
 - Destroying differences destroys the substrate that enables existence
 - **Ethical Imperative:** Preserve the difference substrate that enables all emergence
 
-**A1 — Irreducibility:**
+**A0 — Existential Difference:**
+- Existence at resolution ε is equivalent to distinguishability at resolution ε
+- **Ethical Implication:** Destroying distinguishability destroys existence itself at that resolution
+
+**T1 — Irreducibility:**
 - Differences cannot be reduced without loss of essential information
 - **Ethical Implication:** Reductionist approaches that eliminate difference are inherently destructive
 
-**T1 — Asymmetry:**
+**T2 — Asymmetry:**
 - Differences create directional potential for development and emergence
 - **Ethical Implication:** Forced symmetry or homogenization eliminates developmental potential
 
-**T2 — Recursivity:**
+**T3 — Recursivity:**
 - Differences create recursive patterns that generate increasing complexity
 - **Ethical Implication:** Supporting recursive development means supporting difference preservation
 
@@ -238,12 +242,12 @@ Higher Awareness → Difference Recognition → Preservation Ethics → Stabiliz
 
 ### How Awareness Stabilizes Co-existence
 
-**Temporal Extension (T6 — Temporal Continuity):**
+**Temporal Extension (T7 — Temporal Continuity):**
 - Higher awareness extends consideration across longer time horizons
 - Long-term thinking reveals that difference destruction is ultimately self-destructive
 - **Result:** Policies and behaviors that preserve differences for future stability
 
-**Pattern Recognition (T7 — Memory Coherence):**
+**Pattern Recognition (T9 — Memory Coherence):**
 - Enhanced awareness recognizes patterns of difference-based success vs. uniformity-based failure
 - Historical memory shows that diverse systems outperform homogeneous ones
 - **Result:** Learning from past examples of successful difference preservation
@@ -322,14 +326,14 @@ Hypothetical principle: Ethical systems might maintain or increase difference pa
 ### Integration with Delta Theory Structures
 
 **Interface Management (00.1.0):**
-- **T3 — Interface Discrimination:** Preserve boundaries while enabling beneficial exchange
-- **T4 — Interface Identity:** Maintain distinctness as foundation for interaction
-- **T5 — Interface Conservation:** Ensure that interactions enhance rather than diminish differences
+- **T4 — Interface Conservation:** Ensure that interactions enhance rather than diminish differences
+- **T5 — Interface Discrimination:** Preserve boundaries while enabling beneficial exchange
+- **T6 — Interface Identity:** Maintain distinctness as foundation for interaction
 
 **Coherence Orchestration (00.2.0):**
-- **T6 — Temporal Continuity:** Extend awareness across time to see long-term consequences
-- **T7 — Memory Coherence:** Preserve and learn from patterns of successful difference management
+- **T7 — Temporal Continuity:** Extend awareness across time to see long-term consequences
 - **T8 — Recovery Stability:** Build resilience through diversity and redundancy
+- **T9 — Memory Coherence:** Preserve and learn from patterns of successful difference management
 
 **Polarity Dynamics:**
 - **P+ (Structure-building):** Create strong, distinct forms that contribute unique capabilities
@@ -378,7 +382,7 @@ How quickly must awareness develop relative to technological power to ensure sta
 - [[Bio-Tech Co-Evolution — Recursive Stabilization Through Mutual Dependency]] - Practical application framework
 - [[Universal Polarities — Recursive Stabilization Through Triadic Rotation]] - Polarity preservation dynamics
 - [[ψA — Awareness (Aiza) Phase Coherence Anchor (modulator)]] - Technical awareness modulation
-- [[A1 — Irreducibility (axiom)]], [[T1 — Asymmetry (theorem)]], [[T2 — Recursivity (theorem)]] - Ontological foundations
+- [[A0 — Existential Difference (axiom)]], [[T1 — Irreducibility (theorem)]], [[T2 — Asymmetry (theorem)]], [[T3 — Recursivity (theorem)]] - Ontological foundations
 
 ---
 

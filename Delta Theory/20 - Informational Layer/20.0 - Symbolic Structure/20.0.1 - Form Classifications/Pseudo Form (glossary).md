@@ -24,7 +24,7 @@ aliases:
 
 ## Primitive Foundation
 
-**Traceback:** A1 (Irreducibility) → T2 (Recursivity) → ⊚ (Stabilization) → Form → Pseudo Form (performative closure without genuine stabilization)
+**Traceback:** A0 (Existential Difference) → T3 (Recursivity) → ⊚ (Stabilization) → Form → Pseudo Form (performative closure without genuine stabilization)
 
 **Flow:** ∆ generates difference → R(·) creates apparent embeddings → ⊚ is bypassed or simulated → external scaffolding maintains appearance without genuine closure
 
@@ -140,7 +140,7 @@ Diagnostic for scaffolded appearance where external support creates form illusio
 ## See Also
 
 - [[Form (pattern)]] - Foundational form pattern from microkernel
-- [[T2 — Recursivity (theorem)]] - Theoretical foundation for recursive closure
+- [[T3 — Recursivity (theorem)]] - Theoretical foundation for recursive closure
 - [[Stabilization (Closure) (primitive)]] - Primitive operation that is bypassed or simulated
 - [[Stable Form (glossary)|StableForms]] · [[Apparent Form (glossary)|ApparentForms]] · [[Collapsed Form (glossary)|CollapsedForms]]
 - [[00.0.5 - Core Patterns (index)]] - Foundational patterns including Form

@@ -60,7 +60,7 @@ tags:
   - "#status/seed"
   - "#function/definition"
 polarity: P+|P-|P0  # Required for interface/coherence primitives; optional for microkernel primitives
-derivation: A1|T1|T2|T3|T4|T5|T6|T7|T8  # Source axiom or theorem
+derivation: A0+T1|A0+T2|A0+T3|T4|T5|T6|T7|T8|T9  # Source axiom or theorem
 aliases:  # Optional
   - <ShortName>
 
@@ -88,7 +88,7 @@ aliases:  # Optional
 ### For Microkernel Primitives (#sublayer/microkernel)
 - **Nature:** Foundational mathematical operations
 - **Examples:** ∆ (Difference), R(·) (Relational Embedding), ⊚ (Stabilization)
-- **Derivation:** Direct from axioms and theorems (A1, T1, T2)
+- **Derivation:** Direct from axiom and theorems (A0, T1, T2, T3)
 - **Location:** Microkernel level (00.0.4)
 - **No operational context:** Pure mathematical relationships
 
@@ -286,7 +286,7 @@ Provide brief, concrete examples (1 line each) across domains. Use the common or
 *INTERFACE AND COHERENCE PRIMITIVES ONLY - Remove this instruction in final files*
 
 ### For Interface Primitives:
-- **Primary constant:** <κ_discrimination/ι_identity/σ_conservation> - <timing constraint description>
+- **Primary constant:** <σ_conservation/κ_discrimination/ι_identity> - <timing constraint description>
 - **Supporting constants:** <Other interface constants> - <coordination description>
 - **Implementation requirement:** <Timing bounds and operational constraints>
 

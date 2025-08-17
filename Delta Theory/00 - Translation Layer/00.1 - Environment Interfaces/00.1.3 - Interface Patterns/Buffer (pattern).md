@@ -194,4 +194,4 @@ Buffer arises from ψA's temporal coordination capabilities, providing the "memo
 - [[Router (pattern)]] · [[Filter (pattern)]] - Complementary interface patterns
 - [[Port (primitive)]] · [[Gate (primitive)]] · [[Surface (primitive)]] - Supported primitives
 - [[ψA — Awareness (Aiza) Phase Coherence Anchor (modulator)]] - Source modulator
-- [[T5 — Interface Conservation (theorem)]] - Theoretical foundation for state conservation
+- [[T4 — Interface Conservation (theorem)]] - Theoretical foundation for state conservation

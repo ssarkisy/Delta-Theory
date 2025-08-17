@@ -2,7 +2,7 @@
 
 > **Developmental pathways for investigating fundamental challenges through Delta Theory's unified difference-based framework**
 
-> **⚠️ Developmental Framework Disclaimer**: This document explores potential applications of ∆-Theory to longstanding problems across multiple domains. These applications represent **developmental investigations** rather than definitive solutions. While the core theoretical framework (A1, T1, T2 and derived primitives) maintains rigorous grounding, cross-domain applications involve **ontological bridge metaphors** that are likely imprecise (probability approaching 100%). The goal is **developmental connection** to enable further investigation, not final explanatory closure.
+> **⚠️ Developmental Framework Disclaimer**: This document explores potential applications of ∆-Theory to longstanding problems across multiple domains. These applications represent **developmental investigations** rather than definitive solutions. While the core theoretical framework (A0 foundational axiom, T1-T9 derived theorems, and structural primitives) maintains rigorous grounding, cross-domain applications involve **ontological bridge metaphors** that are likely imprecise (probability approaching 100%). The goal is **developmental connection** to enable further investigation, not final explanatory closure.
 
 ∆-Theory provides conceptual pathways for investigating fundamental challenges by suggesting how apparently unrelated problems may share common underlying dynamics. Rather than claiming to solve these problems definitively, the framework offers new investigative approaches based on recursive difference patterns that potentially operate across scales and domains. These pathways open new directions for research and understanding rather than providing final answers.
 
@@ -263,7 +263,7 @@
 
 ### Core Technical Framework
 - [Microkernel — Foundational Axioms & Primitives](Delta%20Theory/00%20-%20Translation%20Layer/00.0%20-%20Microkernel/00.0%20-%20Microkernel%20(index).md)
-- [Core Axiom & Theorems — A1, T1, T2](Delta%20Theory/00%20-%20Translation%20Layer/00.0%20-%20Microkernel/00.0.0%20-%20Core%20Axiom%20&%20Theorems/00.0.0.0%20-%20Core%20Axiom%20&%20Theorems%20(index).md)
+- [Core Axiom & Theorems — A0, T1, T2, T3](Delta%20Theory/00%20-%20Translation%20Layer/00.0%20-%20Microkernel/00.0.0%20-%20Core%20Axiom%20&%20Theorems/00.0.0.0%20-%20Core%20Axiom%20&%20Theorems%20(index).md)
 - [Coherence Orchestration — Identity & Memory](Delta%20Theory/00%20-%20Translation%20Layer/00.2%20-%20Coherence%20Orchestration/00.2%20-%20Coherence%20Orchestration%20(index).md)
 
 ### Foundational Metaphors

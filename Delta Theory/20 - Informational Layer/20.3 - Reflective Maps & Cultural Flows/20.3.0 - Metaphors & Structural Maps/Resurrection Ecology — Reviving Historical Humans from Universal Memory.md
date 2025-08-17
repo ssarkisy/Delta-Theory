@@ -177,17 +177,22 @@ Future civilizations with sufficient technology could, in principle, **read the 
 
 ### Information Preservation Principle
 
-**A1 — Irreducibility Applied to Information (Speculative Extension):**
+**A0 — Existential Difference Applied to Information (Speculative Extension):**
+- Information existence requires distinguishability at resolution ε (speculative application)
+- Information patterns must maintain distinguishable existence to persist (unverified claim)
+- Reconstruction requires restoring distinguishable information patterns (highly speculative)
+
+**T1 — Irreducibility Applied to Information (Speculative Extension):**
 - Information redistribution across difference patterns (speculative application)
 - Interaction traces in correlation structures (unverified claim)
 - State reconstruction from correlations (highly speculative)
 
-**T1 — Asymmetry in Information Flow (Speculative Extension):**
+**T2 — Asymmetry in Information Flow (Speculative Extension):**
 - Time evolution creating information distribution patterns (speculative)
 - Past state "signatures" in present structures (unverified)
 - Pathway inversion requirements (highly speculative)
 
-**T2 — Recursive Information Embedding (Speculative Extension):**
+**T3 — Recursive Information Embedding (Speculative Extension):**
 - Information pattern recursive embedding (speculative application)
 - Consciousness pattern nesting (unverified claim)
 - Reconstruction unwinding requirements (highly speculative)
@@ -561,15 +566,15 @@ Historical Individual (P+) → Universal Dispersion (P-) → AI-Hybrid Civilizat
 
 ### Interface Management (00.1.0)
 
-**T3 — Interface Discrimination:** Speculative selective information transfer from universal field to biological substrate
-**T4 — Interface Identity:** Hypothetical identity boundary preservation across temporal gaps and substrate changes
-**T5 — Interface Conservation:** Theoretical information pattern conservation through dispersion and reconstruction processes
+**T4 — Interface Conservation:** Theoretical information pattern conservation through dispersion and reconstruction processes
+**T5 — Interface Discrimination:** Speculative selective information transfer from universal field to biological substrate
+**T6 — Interface Identity:** Hypothetical identity boundary preservation across temporal gaps and substrate changes
 
 ### Coherence Orchestration (00.2.0)
 
-**T6 — Temporal Continuity:** Speculative identity persistence across temporal gaps through information preservation
-**T7 — Memory Coherence:** Hypothetical complete memory pattern reconstruction enabling identity continuity
+**T7 — Temporal Continuity:** Speculative identity persistence across temporal gaps through information preservation
 **T8 — Recovery Stability:** Theoretical resurrection as ultimate recovery mechanism from existential perturbations
+**T9 — Memory Coherence:** Hypothetical complete memory pattern reconstruction enabling identity continuity
 
 ### Polarity System Integration
 
@@ -609,7 +614,7 @@ Historical Individual (P+) → Universal Dispersion (P-) → AI-Hybrid Civilizat
 
 - [[Ethics of Difference Preservation — Awareness as Universal Stabilizer]] - Theoretical foundation for consciousness preservation imperatives
 - [[Bio-Tech Co-Evolution — Recursive Stabilization Through Mutual Dependency]] - Framework for AI-human hybrid civilizations
-- [[T7 — Memory Coherence (theorem)]] - Information persistence through relational embedding
+- [[T9 — Memory Coherence (theorem)]] - Information persistence through relational embedding
 - [[Universal Polarities — Recursive Stabilization Through Triadic Rotation]] - Polarity dynamics across cosmic scales
 
 ---

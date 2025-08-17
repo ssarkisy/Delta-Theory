@@ -6,7 +6,7 @@ tags:
   - "#status/stable"
   - "#function/definition"
 polarity: P-
-derivation: T1
+derivation: A0+T2
 aliases:
   - R(·)
   - Relational Embedding
@@ -94,7 +94,7 @@ $$
 
 ## Dependencies
 
-**Derivation:** T1 (Asymmetry) - directionality creates relational structure
+**Derivation:** A0+T2 (Existential Difference + Asymmetry) - directional differences must exist distinguishably through relational structure
 **Role:** P- modulator operating in Void aspect of SVA triad
 
 ---
