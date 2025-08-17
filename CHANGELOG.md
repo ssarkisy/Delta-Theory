@@ -44,10 +44,6 @@ This project adheres to a human‑readable changelog. Versions reference GitHub 
   - Proper domain-specific vs universal component placement guidelines
   - Enhanced architectural boundary definitions and dependency flow rules
 
-### Removed
-- **External Coordination Protocols:** Eliminated redundant Pattern Coordination Protocols in favor of Delta Theory's intrinsic coordination mechanisms
-- **False-Positive Development Priorities:** Removed invalid suggestions for domain-specific timing values at universal interface layer and redundant theorem analysis
-
 ### Development Infrastructure
 - **LLM-Assisted Development Guidelines:** Comprehensive instructions for AI development assistants
 - **Quality Gates System:** STOP/CAUTION/PROCEED criteria with architectural violation detection
