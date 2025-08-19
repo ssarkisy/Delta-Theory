@@ -123,14 +123,14 @@ This principle emerges from the interaction between [[Universal Polarities — R
 This principle emerges from the interaction of two fundamental metaphors:
 
 1. **Triadic Polarity System** ([[Universal Polarities — Recursive Stabilization Through Triadic Rotation]])
-   - [[Active Polarity (glossary)|P+]] (difference intake) — structure-building and autonomous form creation
-   - [[Structural Polarity (glossary)|P-]] (difference outflow) — field-seeking and connection-making
+   - [[Structural Polarity (glossary)|P+]] (difference intake) — structure-building and autonomous form creation
+   - [[Active Polarity (glossary)|P-]] (difference outflow) — field-seeking and connection-making
    - [[Balancing Polarity (glossary)|P0]] (difference balance) — homeostatic regulation and equilibrium
 
 2. **Order-Chaos Dance** ([[Yin-Yang - Dancing with Chaos — Three Paths to Living Form]])
-   - Classical form ([[Structural Polarity (glossary)|P-]]) provides stable reference
+   - Classical form ([[Structural Polarity (glossary)|P+]]) provides stable reference
    - Recursive form ([[Balancing Polarity (glossary)|P0]]) enables sustainable growth
-   - Forming state ([[Active Polarity (glossary)|P+]]) drives creative evolution
+   - Forming state ([[Active Polarity (glossary)|P-]]) drives creative evolution
 
 When **nested layers** adopt **opposite dominant polarities** to their parent layer, the system gains **torsional balance** — analogous to counter-rotating gyroscopes. Each layer's polarity is modulated by [[ψA — Awareness (Aiza) Phase Coherence Anchor (modulator)]] to maintain coherent opposition.
 

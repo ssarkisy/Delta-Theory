@@ -2,6 +2,29 @@
 
 This project adheres to a human‑readable changelog. Versions reference GitHub releases; unreleased items track upcoming work.
 
+## [v0.4.3] — Polarity Correction and Definitional Alignment
+
+**Why:** Correct critical misalignment in polarity definitions where Active Polarity and Structural Polarity had reversed characteristics. This release ensures proper ontological consistency by aligning Active Polarity (P-) with field-seeking, contact-making behavior and Structural Polarity (P+) with structure-building, self-contained behavior, maintaining theoretical integrity across the framework.
+
+### Fixed
+- **Critical Polarity Definition Corrections:**
+  - **Active Polarity (P-):** Corrected from structure-building to field-seeking, connection-making behavior
+    - Updated all technical and humane mappings to reflect outward-seeking, pathway-creating characteristics
+    - Changed image reference from `polarity+.png` to `polarity-.png`
+    - Updated domain examples to show field-anchoring and connection-building manifestations
+  - **Structural Polarity (P+):** Corrected from field-seeking to structure-building, self-contained behavior
+    - Updated all technical and humane mappings to reflect inward-building, form-generating characteristics
+    - Added proper `polarity+.png` image reference with appropriate alt text
+    - Updated domain examples to show structure-creation and autonomous building manifestations
+    - Restored complete scale coverage including cosmic scale section
+    - Added comprehensive ontological role and comparison sections
+
+### Enhanced
+- **Glossary Consistency:** Both polarity files now maintain consistent structure with complete dual-register mappings, scale effects (micro, human, cosmic), ontological roles, and cross-references
+- **Visual Documentation:** Proper image integration for both polarities with correct asset references
+
+---
+
 ## [v0.4.2] — Translation Layer Planning, LLM QA Protocol, and Architectural Cleanup
 
 **Why:** Establish comprehensive development planning for Translation Layer completion (01.0 Functional Interfaces, 02.0 Domain Bridges), create robust LLM-assisted quality assurance protocols to prevent architectural errors, and resolve critical inconsistencies in foundational layers (00.0-00.2). This release focuses on development infrastructure and architectural integrity, ensuring systematic completion of the Translation Layer while maintaining theoretical consistency and preventing false-positive development priorities through enhanced validation protocols.

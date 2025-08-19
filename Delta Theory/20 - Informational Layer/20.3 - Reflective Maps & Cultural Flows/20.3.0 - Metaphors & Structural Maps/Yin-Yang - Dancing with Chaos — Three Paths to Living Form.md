@@ -178,7 +178,7 @@ This represents an idealized state that appears static.
 It potentially corresponds to foundational reference patterns —
 A theoretical baseline, not a practical destination.
 
-> Corresponds to the Structural Polarity (P-) in [[Universal Polarities — Recursive Stabilization Through Triadic Rotation]] — the foundation that maintains core patterns and provides stable framework for evolution.
+> Corresponds to the Structural Polarity (P+) in [[Universal Polarities — Recursive Stabilization Through Triadic Rotation]] — the foundation that maintains core patterns and provides stable framework for evolution.
 
 ### 2. Recursive Yin-Yang — The Vision of Sustainable Harmony (P0)
 
@@ -217,7 +217,7 @@ This potentially represents how dynamic systems operate:
 - Operating at stability-change boundaries
 - Exhibiting connection-seeking patterns
 
-> Corresponds to the Active Polarity (P+) in [[Universal Polarities — Recursive Stabilization Through Triadic Rotation]] — the creative force that drives evolution through asymmetric exploration and boundary expansion.
+> Corresponds to the Active Polarity (P-) in [[Universal Polarities — Recursive Stabilization Through Triadic Rotation]] — the creative force that drives evolution through asymmetric exploration and boundary expansion.
 
 ## The Mathematics of Life
 

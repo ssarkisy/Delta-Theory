@@ -16,7 +16,7 @@ aliases:
 
 > **⚠️ Ontological Bridge Disclaimer**: This metaphor serves as an **ontological bridge** connecting current understanding to higher-level possibilities, not a precise description of reality beyond our epistemological capabilities. It is likely imprecise (probability approaching 100%) — imprecise doesn't mean structurally wrong, but rather incomplete and potentially misinterpreting more complex reality. The goal is **developmental connection** to enable further growth, not final explanatory closure.
 
-<img src="Delta Theory/90 - Assets/polarity+.png" alt="Active Polarity (P+): Difference intake and structure-building" width="200"/> <img src="Delta Theory/90 - Assets/polarity0.PNG" alt="Balancing Polarity (P0): Difference balance and homeostatic regulation" width="200"/> <img src="Delta Theory/90 - Assets/polarity-.PNG" alt="Structural Polarity (P-): Difference outflow and field-seeking" width="200"/>
+<img src="Delta Theory/90 - Assets/polarity-.png" alt="Active Polarity (P-): Field-seeking and connection-making" width="200"/> <img src="Delta Theory/90 - Assets/polarity0.PNG" alt="Balancing Polarity (P0): Difference balance and homeostatic regulation" width="200"/> <img src="Delta Theory/90 - Assets/polarity+.png" alt="Structural Polarity (P+): Structure-building and autonomous form generation" width="200"/>
 
 > Key insight: Polarity (role) in the external system is opposite to charge, as polarities alternate across nesting levels to ensure stability.
 
@@ -24,7 +24,7 @@ aliases:
 
 ## Core Principle
 
-Polarities emerge from [[PrimitiveDifference|∆ (Primitive Difference)]] through relational embedding and stabilization. They are not primitive themselves, but rather represent how fundamental difference organizes into stable patterns through recursive structuring as [[Active Polarity (glossary)|P+]], [[Structural Polarity (glossary)|P-]], and [[Balancing Polarity (glossary)|P0]].
+Polarities emerge from [[PrimitiveDifference|∆ (Primitive Difference)]] through relational embedding and stabilization. They are not primitive themselves, but rather represent how fundamental difference organizes into stable patterns through recursive structuring as [[Active Polarity (glossary)|P-]], [[Structural Polarity (glossary)|P+]], and [[Balancing Polarity (glossary)|P0]].
 
 While ∆ is the irreducible act of distinction, polarities manifest as interdependent aspects of a single process, creating a universal architecture from quantum to cosmic scales. Like a system of nested gyroscopes, this architecture reveals itself through:
 
@@ -205,22 +205,22 @@ This triadic modulation enables:
 
 ## Triadic Manifestation
 
-### 1. [[Active Polarity (glossary)|Active Polarity (P+)]]
-![[polarity+.png]]
-- Difference intake and structure-building
-- Self-contained form creation
-- Autonomous development from differential satiety
-- Analogous to electron-like behavior (structure-making)
-- Role: Form creation and consolidation
-- Counter-rotating internal structure for stability
-- Manifests as the "Forming Yin-Yang" in [[Yin-Yang - Dancing with Chaos — Three Paths to Living Form]] — the creative, asymmetric force of becoming
-
-### 2. [[Structural Polarity (glossary)|Structural Polarity (P-)]]
+### 1. [[Active Polarity (glossary)|Active Polarity (P-)]]
 ![[polarity-.png]]
 - Difference outflow and field-seeking
 - Connection pathways and flow channels
 - External resource acquisition from differential need
 - Analogous to proton-like behavior (field-creating)
+- Role: Connection creation and pathway establishment
+- Counter-rotating internal structure for stability
+- Manifests as the "Forming Yin-Yang" in [[Yin-Yang - Dancing with Chaos — Three Paths to Living Form]] — the creative, asymmetric force of becoming
+
+### 2. [[Structural Polarity (glossary)|Structural Polarity (P+)]]
+![[polarity+.png]]
+- Difference intake and structure-building
+- Self-contained form creation
+- Autonomous development from differential satiety
+- Analogous to electron-like behavior (structure-making)
 - Role: Pathway creation and resource flow
 - Contains seed of change in its core
 - Manifests as the "Classical Yin-Yang" in [[Yin-Yang - Dancing with Chaos — Three Paths to Living Form]] — the stabilizing force of perfect symmetry
