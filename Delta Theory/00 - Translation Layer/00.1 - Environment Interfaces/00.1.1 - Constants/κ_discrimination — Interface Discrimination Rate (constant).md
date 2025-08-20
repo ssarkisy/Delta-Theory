@@ -5,8 +5,8 @@ tags:
   - "#sublayer/interface"
   - "#status/stable"
   - "#function/definition"
-polarity: P+
-derivation: T3
+polarity: P-
+derivation: T5
 aliases:
   - κ_discrimination
   - Interface Discrimination Rate
@@ -30,17 +30,17 @@ aliases:
 
 ## Primitive Derivation
 
-**Theorem Source:** T3 (Interface Discrimination) — "Interfaces must discriminate between flows"
+**Theorem Source:** T5 (Interface Discrimination) — "Interfaces must discriminate between flows"
 
 **Derivation Logic:**
-1. **T3 Requirement:** Discrimination must be consistent across similar contexts
+1. **T5 Requirement:** Discrimination must be consistent across similar contexts
 2. **Temporal Implication:** Consistent discrimination requires minimum decision interval
 3. **Mathematical Necessity:** κ_discrimination emerges as this minimal stable interval
 4. **Invariant Nature:** Represents fundamental timing constraint for discrimination coherence
 
-**Traceback:** `A1 → T1 → T3 → κ_discrimination` — why discrimination requires this rate invariant
+**Traceback:** `A0 → T2 → T5 → κ_discrimination` — why discrimination requires this rate invariant
 
-**Flow:** T3 demands consistent selective permeability → requires stable discrimination timing → κ_discrimination emerges as timing invariant for discrimination coherence
+**Flow:** T5 demands consistent selective permeability → requires stable discrimination timing → κ_discrimination emerges as timing invariant for discrimination coherence
 
 ---
 
@@ -155,13 +155,13 @@ where $δt_{min}$ ensures discrimination decision coherence
 ## Relationship to Other Principles
 
 ### Foundation Theorems
-- **T3 (Discrimination):** Direct source - provides mathematical expression of discrimination requirement
-- **T1 (Asymmetry):** Provides foundation for discrimination necessity
-- **A1 (Irreducibility):** Ensures discrimination cannot be eliminated
+- **T5 (Discrimination):** Direct source - provides mathematical expression of discrimination requirement
+- **T2 (Asymmetry):** Provides foundation for discrimination necessity
+- **A0 (Existential Difference):** Ensures discrimination cannot be eliminated
 
 ### Supporting Principles
-- **T4 (Identity):** Discrimination timing affects identity maintenance
-- **T5 (Conservation):** Discrimination decisions must preserve flow conservation
+- **T6 (Identity):** Discrimination timing affects identity maintenance
+- **T4 (Conservation):** Discrimination decisions must preserve flow conservation
 
 ### Higher-Level Extensions
 - **T6 (Temporal Continuity):** Extends discrimination into temporal coherence
@@ -214,7 +214,7 @@ where $δt_{min}$ ensures discrimination decision coherence
 
 ## See Also
 
-- [[T3 — Interface Discrimination (theorem)]] (source theorem)
+- [[T5 — Interface Discrimination (theorem)]] (source theorem)
 - [[ι_identity — Interface Identity Rate (constant)]] (complementary interface constant)
 - [[σ_conservation — Interface Conservation Rate (constant)]] (complementary interface constant)
 - [[00.1.2 - Interface Primitives (index)]] (implementation consumers)

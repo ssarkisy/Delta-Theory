@@ -2,6 +2,7 @@
 
 This project adheres to a human‑readable changelog. Versions reference GitHub releases; unreleased items track upcoming work.
 
+
 ## [v0.4.4] — Geometrical Model of Nature Integration Framework
 
 ### Added
@@ -32,6 +33,124 @@ This project adheres to a human‑readable changelog. Versions reference GitHub 
 - **Theory Status:** Non-integrated (maintaining theoretical independence)
 - **Integration Approach:** Future collaborative research to explore theoretical bridges while preserving framework integrity
 - **Shared Interests:** Both theories explore recursive structures, emergent phenomena, and fundamental reality modeling through distinct approaches
+
+## [v0.4.3] — Polarity Correction and Definitional Alignment
+
+**Why:** Correct critical misalignment in polarity definitions where Active Polarity and Structural Polarity had reversed characteristics. This release ensures proper ontological consistency by aligning Active Polarity (P-) with field-seeking, contact-making behavior and Structural Polarity (P+) with structure-building, self-contained behavior, maintaining theoretical integrity across the framework.
+
+### Fixed
+- **Critical Polarity Definition Corrections:**
+  - **Active Polarity (P-):** Corrected from structure-building to field-seeking, connection-making behavior
+    - Updated all technical and humane mappings to reflect outward-seeking, pathway-creating characteristics
+    - Changed image reference from `polarity+.png` to `polarity-.png`
+    - Updated domain examples to show field-anchoring and connection-building manifestations
+  - **Structural Polarity (P+):** Corrected from field-seeking to structure-building, self-contained behavior
+    - Updated all technical and humane mappings to reflect inward-building, form-generating characteristics
+    - Added proper `polarity+.png` image reference with appropriate alt text
+    - Updated domain examples to show structure-creation and autonomous building manifestations
+    - Restored complete scale coverage including cosmic scale section
+    - Added comprehensive ontological role and comparison sections
+
+### Enhanced
+- **Glossary Consistency:** Both polarity files now maintain consistent structure with complete dual-register mappings, scale effects (micro, human, cosmic), ontological roles, and cross-references
+- **Visual Documentation:** Proper image integration for both polarities with correct asset references
+
+---
+
+## [v0.4.2] — Translation Layer Planning, LLM QA Protocol, and Architectural Cleanup
+
+**Why:** Establish comprehensive development planning for Translation Layer completion (01.0 Functional Interfaces, 02.0 Domain Bridges), create robust LLM-assisted quality assurance protocols to prevent architectural errors, and resolve critical inconsistencies in foundational layers (00.0-00.2). This release focuses on development infrastructure and architectural integrity, ensuring systematic completion of the Translation Layer while maintaining theoretical consistency and preventing false-positive development priorities through enhanced validation protocols.
+
+### Added
+- **01.0 - Functional Interfaces Development Roadmap:** Complete strategic development plan for universal operational APIs layer
+  - Modular API architecture (PhaseLockLoop, ResonanceThreshold, DifferentiationGradient)
+  - Three-tier structure: Core Interface APIs (01.1), Composite Interface APIs (01.2), Interface Protocols (01.3)
+  - Domain bridge connection analysis and dependency flow planning
+- **02.0 - Domain Bridges Development Roadmap:** Strategic plan for domain-specific extensions layer
+  - Physics Bridge (02.0.0), Networks Bridge (02.0.1), Biology Bridge (02.0.2) architecture
+  - Conceptual Mappings framework (02.0.X.0) for ontological-to-domain concept translation
+  - Domain-specific parameter specialization and implementation optimization strategies
+- **Module Architecture Validation Protocol:** Comprehensive LLM-assisted quality assurance framework
+  - Three-tier validation system (Pre-Development, Development-Time, Post-Development)
+  - Four-dimensional analysis (Architectural, Theoretical, Functional, Implementation)
+  - Cross-layer existence checking to prevent redundant work suggestions
+  - Delta Theory-specific architectural awareness and false-positive prevention
+  - Problem classification system with standardized resolution procedures
+
+### Changed
+- **00.1 - Environment Interfaces Layer Enhancements:**
+  - **Pattern Integration Completed:** Enhanced Router, Filter, Buffer patterns with theorem + modulator derivations
+    - Router: T4 (Conservation) + ∇S (Structure) → Enhanced Conservation Pattern
+    - Filter: T5 (Discrimination) + λV (Void) → Enhanced Discrimination Pattern
+    - Buffer: T6 (Identity) + ψA (Awareness) → Enhanced Identity Pattern
+  - **Emergent Coordination Documentation:** Replaced external coordination protocols with intrinsic coordination through Field pattern, modulator synchronization, and SVA progression
+  - **Pattern Derivation Diagram:** Visual representation of theorem + modulator → enhanced pattern derivation logic
+
+### Fixed
+- **00.2 - Coherence Orchestration Critical Architectural Issues:**
+  - **Theorem Numbering Violations:** Corrected T6/T7/T8 references to proper T7/T8/T9 coherence theorems
+  - **Derivation Chain Inconsistencies:** Fixed T4→T8 to T5→T8 derivation chains in stability constants
+  - **Layer Boundary Clarification:** Proper 00.1→00.2 dependency flow and interface separation
+  - **SVA Progression Documentation:** Enhanced Memory (P+), Recovery (P-), Phase (P0) primitive progression
+  - **Interface Integration Protocols:** Clarified coherence-interface coordination through existing documentation
+- **00.0 - Microkernel Validation:** Confirmed exceptional architectural quality (9.2/10) with minor documentation improvements
+- **Translation Layer Architecture Corrections:**
+  - Corrected layer scope definitions: Translation Layer includes 00.X, 01.X, and 02.X (not just 00.X)
+  - Proper domain-specific vs universal component placement guidelines
+  - Enhanced architectural boundary definitions and dependency flow rules
+
+### Development Infrastructure
+- **LLM-Assisted Development Guidelines:** Comprehensive instructions for AI development assistants
+- **Quality Gates System:** STOP/CAUTION/PROCEED criteria with architectural violation detection
+- **Cross-Layer Validation:** Systematic checking to prevent architectural misplacements and redundant work
+- **False-Positive Prevention:** Explicit guidelines and examples to prevent common architectural errors
+
+**Status:** Translation Layer foundation complete (00.0-00.2), planning infrastructure established for 01.0-02.0 development, quality assurance protocols operational.
+
+## [v0.4.1] — Foundational Axiom Architecture and Theorem Refactoring
+
+**Why:** Achieve theoretical unification by establishing A0 (Existential Difference) as the single foundational axiom from which all theorems derive, eliminating the confusion of multiple foundational axioms while creating a unified logical progression. This refactoring establishes canonical SVA ordering (P+ → P- → P0) across all theorem sets, achieving perfect theoretical consistency and enabling clear derivation chains from A0 through T1-T9. The result is a coherent, unified theoretical architecture that maintains epistemological rigor while providing a single, elegant foundation for all Delta Theory principles.
+
+### Added
+- **A0 — Existential Difference (axiom):** New foundational axiom establishing "Existence at resolution ε is equivalent to distinguishability at resolution ε" as the single ontological foundation
+- **Complete A0-Based Derivation System:** All theorems now derive from A0, creating unified theoretical foundation with clear logical progression
+
+### Changed
+- **Core Theorem Architecture Refactoring:**
+  - **A1 — Irreducibility:** Converted from axiom to **T1 — Irreducibility (theorem)** derived from A0, polarity corrected to P+ (Structure)
+  - **T1 — Asymmetry:** Renumbered to **T2 — Asymmetry (theorem)** with derivation from A0, maintains P- (Void) polarity
+  - **T2 — Recursivity:** Renumbered to **T3 — Recursivity (theorem)** with derivation from A0, polarity corrected to P0 (Awareness)
+
+- **Interface Theorem Renumbering and Canonical SVA Ordering:**
+  - **T4 — Interface Conservation (theorem):** Renamed from T5, polarity P+ (Structure), derives from A0+T3
+  - **T5 — Interface Discrimination (theorem):** Renamed from T4, polarity P- (Void), derives from A0+T2
+  - **T6 — Interface Identity (theorem):** Maintains numbering, polarity corrected to P0 (Awareness), derives from A0+T1
+
+- **Coherence Theorem Renumbering and Polarity Corrections:**
+  - **T7 — Temporal Continuity (theorem):** Renamed from T9, polarity P+ (Structure), derives from T6
+  - **T8 — Recovery Stability (theorem):** Maintains numbering, polarity corrected to P- (Void), derives from T5
+  - **T9 — Memory Coherence (theorem):** Renamed from T7, polarity corrected to P0 (Awareness), derives from T4
+
+- **Complete Constant and Primitive Realignment:**
+  - **Interface Constants:** Updated derivations and canonical SVA ordering (σ_conservation/P+, κ_discrimination/P-, ι_identity/P0)
+  - **Interface Primitives:** Updated derivations and canonical SVA ordering (Gate/P+, Port/P-, Surface/P0)
+  - **Coherence Constants:** Updated derivations with corrected polarity balance (r_temporal/P+, r_stability & δ_recovery/P-, r_memory & γ_retention/P0)
+  - **Coherence Primitives:** Updated derivations and canonical SVA ordering (Memory/P+, Recovery/P-, Phase/P0)
+
+- **Comprehensive Documentation Updates (25+ files):**
+  - **Core Documentation:** PRINCIPLES.md, THEORETICAL_PATHWAYS.md, VAULT_STRUCTURE.md updated to A0-based architecture
+  - **Mathematical Foundations:** π and φ constant derivations, Delta primitive, formalization files updated to A0 foundation
+  - **Form Classifications:** All 4 form classification files updated with A0-based traceback chains
+  - **Complete Template System:** All 7 template files updated with A0-based examples and derivation guidance
+  - **Meta-System Documentation:** types.md, Reality Core Stability, Metaphors index updated to A0 architecture
+  - **Ontological Metaphors:** Alternating Polarity, Ethics of Difference Preservation, Resurrection Ecology updated with A0 grounding
+
+### Fixed
+- **Theoretical Consistency:** Eliminated A1/A2/A3 multi-axiom confusion, establishing single A0 foundational axiom with clear derivation chains
+- **Polarity Balance:** Achieved canonical SVA progression (P+ → P- → P0) across all theorem sets and derived components
+- **Cross-Reference Network:** Updated 200+ internal links to reflect new theorem numbering and A0-based architecture
+- **Template Compliance:** All components now follow A0-based derivation patterns and canonical SVA ordering principles
+
 
 ## [v0.4.0] — Complete Translation Layer Architecture Stabilization
 

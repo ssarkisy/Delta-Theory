@@ -29,9 +29,9 @@ This layer is critical for ensuring the theory remains both implementable and et
 
 | Category | Description | Key Elements |
 |----------|-------------|--------------|
-| Microkernel | Core primitives and foundations | [[00.0 - Microkernel (index)]], ∆, R(·), ⊚, A1, T1, T2 |
-| Environment Interfaces | Interface layer extensions | [[00.1 - Environment Interfaces (index)]], T3, T4, T5, Port, Gate, Surface |
-| Coherence Orchestration | Identity and memory systems | [[00.2 - Coherence Orchestration (index)]], T6, T7, T8, Memory, Phase, Recovery |
+| Microkernel | Core primitives and foundations | [[00.0 - Microkernel (index)]], ∆, R(·), ⊚, A0, T1, T2, T3 |
+| Environment Interfaces | Interface layer extensions | [[00.1 - Environment Interfaces (index)]], T4, T5, T6, Gate, Port, Surface |
+| Coherence Orchestration | Identity and memory systems | [[00.2 - Coherence Orchestration (index)]], T7, T8, T9, Memory, Recovery, Phase |
 | Functional Interfaces | API definitions | [[01.0 - Functional Interfaces]] (planned), PhaseLockLoop, ResonanceThreshold |
 | Domain Bridges | Implementation mappings | [[02.0 - Domain Bridges to API]] (planned), Physics, Networks, Biology |
 

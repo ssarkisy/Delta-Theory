@@ -31,11 +31,14 @@ Router arises from ∇S's structural differentiation capabilities, providing the
 
 ## Emergence Derivation
 
-**Traceback:** `∇S → Router (structural organization pattern)` — Router emerges from structure modulator effects
+**Traceback:** `T4 + ∇S → Router (structural organization pattern)` — Router emerges from interface conservation theorem enhanced by structure modulator effects
 
-**Source:** ∇S (Structure Differentiation Gradient) applied to interface flow requirements
+**Theoretical Foundation:** T4 (Interface Conservation) provides the flow conservation requirement
+**Modulator Enhancement:** ∇S (Structure Differentiation Gradient) provides structural analysis and path optimization capabilities
 **Prerequisites:** Active interface primitives requiring intelligent flow routing, structural discrimination needs, path optimization requirements
-**Formation:** ∇S modulator effects create structural coordination patterns that stabilize into sophisticated routing capabilities
+**Formation:** T4 conservation principles enhanced by ∇S modulator effects create sophisticated structural coordination patterns that stabilize into intelligent routing capabilities
+
+**Derivation Chain:** A0+T3 → T4 (Interface Conservation) + ∇S (Structure Differentiation) → Router (Enhanced Conservation Pattern)
 
 ---
 

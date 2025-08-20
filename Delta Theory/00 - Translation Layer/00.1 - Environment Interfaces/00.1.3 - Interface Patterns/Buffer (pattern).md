@@ -31,11 +31,14 @@ Buffer arises from ψA's temporal coordination capabilities, providing the "memo
 
 ## Emergence Derivation
 
-**Traceback:** `ψA → Buffer (temporal coherence pattern)` — Buffer emerges from awareness modulator effects
+**Traceback:** `T6 + ψA → Buffer (temporal coherence pattern)` — Buffer emerges from interface identity theorem enhanced by awareness modulator effects
 
-**Source:** ψA (Awareness Phase Coherence Anchor) applied to interface temporal requirements
+**Theoretical Foundation:** T6 (Interface Identity) provides the identity persistence requirement
+**Modulator Enhancement:** ψA (Awareness Phase Coherence Anchor) provides temporal coordination and phase coherence capabilities
 **Prerequisites:** Active interface primitives requiring state continuity, temporal coordination needs, memory retention requirements
-**Formation:** ψA modulator effects create temporal coherence patterns that stabilize into active state management capabilities
+**Formation:** T6 identity principles enhanced by ψA modulator effects create sophisticated temporal coherence patterns that stabilize into active state management and continuity capabilities
+
+**Derivation Chain:** A0+T3 → T6 (Interface Identity) + ψA (Awareness Phase Coherence) → Buffer (Enhanced Identity Pattern)
 
 ---
 
@@ -194,4 +197,4 @@ Buffer arises from ψA's temporal coordination capabilities, providing the "memo
 - [[Router (pattern)]] · [[Filter (pattern)]] - Complementary interface patterns
 - [[Port (primitive)]] · [[Gate (primitive)]] · [[Surface (primitive)]] - Supported primitives
 - [[ψA — Awareness (Aiza) Phase Coherence Anchor (modulator)]] - Source modulator
-- [[T5 — Interface Conservation (theorem)]] - Theoretical foundation for state conservation
+- [[T4 — Interface Conservation (theorem)]] - Theoretical foundation for state conservation

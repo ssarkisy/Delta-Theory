@@ -151,7 +151,7 @@ Diagnostic for awareness pattern failure where ψA modulation cannot maintain th
 
 - [[Awareness (glossary)]] - Foundational awareness concept from microkernel
 - [[ψA — Awareness (Aiza) Phase Coherence Anchor (modulator)]] - Phase coherence modulator that fails
-- [[T6 — Temporal Continuity (theorem)]] - Theoretical foundation that gets violated
-- [[T7 — Memory Coherence (theorem)]] - Theoretical foundation for identity persistence that breaks
+- [[T7 — Temporal Continuity (theorem)]] - Theoretical foundation that gets violated
+- [[T9 — Memory Coherence (theorem)]] - Theoretical foundation for identity persistence that breaks
 - [[Coherent Awareness (glossary)]] · [[Intermittent Awareness (glossary)]] · [[Overbound Awareness (glossary)]]
 - [[20.0.3 - Awareness Classifications (index)]] - Parent module for navigation

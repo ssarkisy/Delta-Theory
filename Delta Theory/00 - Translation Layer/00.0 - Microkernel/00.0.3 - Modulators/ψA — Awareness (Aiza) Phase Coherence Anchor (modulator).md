@@ -6,7 +6,7 @@ tags:
   - "#status/stable"
   - "#function/modulation"
 polarity: P0
-derivation: A1+T1+T2
+derivation: A0+T1+T2+T3
 aliases:
   - ψA
   - Aiza Phase Coherence Anchor

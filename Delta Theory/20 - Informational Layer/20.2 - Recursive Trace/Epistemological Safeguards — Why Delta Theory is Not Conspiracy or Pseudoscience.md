@@ -96,7 +96,7 @@ Theoretical claims must maintain alignment across:
 - Collaboration focuses on knowledge building and theoretical refinement
 
 ### Irreducibility as Ethical Core
-The [[A1 — Irreducibility (axiom)]] creates internal guards against manipulation:
+The [[T1 — Irreducibility (theorem)]] creates internal guards against manipulation:
 - The framework itself must **preserve difference**, including disagreement
 - Cannot collapse opposing viewpoints into single narratives
 - Maintains respect for irreducible perspectives and methodological pluralism
@@ -148,7 +148,7 @@ The [[A1 — Irreducibility (axiom)]] creates internal guards against manipulati
 ## See Also
 
 ### Core Framework
-- [[A1 — Irreducibility (axiom)]] — Foundational safeguard against reductionism
+- [[T1 — Irreducibility (theorem)]] — Foundational safeguard against reductionism
 - [[PRINCIPLES.md]] — Dual-register governance preventing oversimplification
 - [[Structure (glossary)]] · [[Void (glossary)]] · [[Awareness (glossary)]] — Core concepts maintaining scientific grounding
 

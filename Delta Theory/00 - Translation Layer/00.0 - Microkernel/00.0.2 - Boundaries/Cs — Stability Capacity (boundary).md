@@ -31,8 +31,8 @@ aliases:
 
 **Traceback:** `∆ → R(·) → ⊚ → F` — why primitive operations require this boundary
 
-**Flow:** ∆ accumulates in structures → R(·) has finite nested capacity → ⊚ requires bounded loads for coherent closure → beyond Cs, closure fails
-**Foundation:** From T2 (Recursivity) recursive closure requiring operational capacity limits
+**Flow:** ∆ must exist distinguishably (A0) → accumulates in recursive structures (T3) → R(·) has finite nested capacity → ⊚ requires bounded loads for coherent closure while maintaining existence → beyond Cs, closure fails and existence is lost
+**Foundation:** From A0+T3 (Existential Difference + Recursivity) → recursive closure requiring operational capacity limits to maintain distinguishable existence
 **Role:** Enforces maximum difference accumulation before structural collapse
 
 ---
@@ -182,7 +182,7 @@ Brief examples across domains showing both technical and humane angles:
 
 ## See Also
 
-- [[T2 — Recursivity (theorem)]]
+- [[T3 — Recursivity (theorem)]]
 - [[ε — Difference Resolution Quantum (boundary)]]
 - [[c — Difference Propagation Limit (boundary)]]
 - [[∇S — Structure (Sarkisian) Differentiation Gradient (modulator)]]

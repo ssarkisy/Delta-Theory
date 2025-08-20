@@ -31,8 +31,8 @@ tags:
 
 ### Current Delta Theory Constants:
 **Microkernel:** π (Closure Geometry), e (Natural Transformation), φ (Asymmetric Stabilization)
-**Interface:** κ_discrimination (T3), ι_identity (T4), σ_conservation (T5)
-**Coherence:** r_temporal (T6), r_memory (T7), r_stability (T8), γ_retention (T7), δ_recovery (T8)
+**Interface:** σ_conservation (T4), κ_discrimination (T5), ι_identity (T6)
+**Coherence:** r_temporal (T7), r_memory (T9), r_stability (T8), γ_retention (T9), δ_recovery (T8)
 
 ---
 
@@ -47,7 +47,7 @@ tags:
   - "#status/stable"
   - "#function/definition"
 polarity: P+|P-|P0  # Optional; most constants are P0 (neutral)
-derivation: <source_theorem>  # Specific source: A1, T1, T2, T3, T4, T5, T6, T7, or T8
+derivation: <source_theorem>  # Specific source: A0+T1, A0+T2, A0+T3, T4, T5, T6, T7, T8, or T9
 aliases:  # Optional
   - <Symbol>
 ---
@@ -82,7 +82,7 @@ aliases:  # Optional
 3. **Constant Emergence:** How the constant emerges as necessity
 4. **Invariant Nature:** Why it represents a fundamental constraint
 
-**Traceback:** `A1 → ... → <Theorem> → <constant>` — derivation chain from foundational axiom
+**Traceback:** `A0 → ... → <Theorem> → <constant>` — derivation chain from foundational axiom
 
 **Flow:** How the theorem requirement leads to this constant as mathematical necessity
 

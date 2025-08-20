@@ -5,8 +5,8 @@ tags:
   - "#sublayer/interface"
   - "#status/stable"
   - "#function/definition"
-polarity: P-
-derivation: T4
+polarity: P0
+derivation: T6
 aliases:
   - Surface
   - Boundary Control Interface
@@ -148,9 +148,9 @@ Surface Interface:
 
 **Theorem Foundation:** Surface emerges from Interface Theorems as operational implementation
 
-**From T4 (Interface Identity):** Surfaces implement boundary coherence through identity maintenance
+**From T6 (Interface Identity):** Surfaces implement boundary coherence through identity maintenance
 - Identity requires boundary persistence → coherent boundary management
-- T4 demands recognizable boundaries → Surface provides boundary identity control
+- T6 demands recognizable boundaries → Surface provides boundary identity control
 - Mathematical basis: ι_identity constant governs boundary refresh timing
 
 **Structural Foundation:** Built upon microkernel primitives ∆, R(·), ⊚ with interface-specific application:
@@ -158,7 +158,7 @@ Surface Interface:
 - **R(·) (Relational Embedding):** context determines appropriate boundary exposure
 - **⊚ (Stabilization):** ensures consistent boundary policies
 
-**Interface Layer Extension:** T4 specifies **what** surfaces must do; structural primitives provide **how** surfaces operate.
+**Interface Layer Extension:** T6 specifies **what** surfaces must do; structural primitives provide **how** surfaces operate.
 
 ---
 
@@ -186,8 +186,8 @@ Surface follows dual-register governance so boundary control remains intelligibl
 - [[κ_discrimination — Interface Discrimination Rate (constant)]] · [[σ_conservation — Interface Conservation Rate (constant)]]
 
 ### Theoretical Foundation
-- [[T4 — Interface Identity (theorem)]] (primary derivation source)
-- [[T3 — Interface Discrimination (theorem)]] · [[T5 — Interface Conservation (theorem)]] (coordination with other primitives)
+- [[T6 — Interface Identity (theorem)]] (primary derivation source)
+- [[T5 — Interface Discrimination (theorem)]] · [[T4 — Interface Conservation (theorem)]] (coordination with other primitives)
 
 ### Microkernel Modulators
 - [[∇S — Structure (Sarkisian) Differentiation Gradient (modulator)]] (boundary clarity)

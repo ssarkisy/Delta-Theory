@@ -5,13 +5,15 @@ tags:
   - "#sublayer/microkernel"
   - "#status/stable"
   - "#function/definition"
-polarity: P+  # Structure-oriented; deals with form-making
+polarity: P0  # Awareness-oriented; deals with form recognition and pattern emergence
+derivation: A0
 aliases:
+  - T3
   - Recursivity
   - Recursivity Theorem
 ---
 
-# T2 — Recursivity (theorem)
+# T3 — Recursivity (theorem)
 
 > Forms arise via recursive embedding and closure of differences.
 
@@ -27,27 +29,27 @@ aliases:
 
 **Traceback:** `∆ → R(·) → ⊚ → F` — why primitive operations require this theorem
 
-**Foundation:** From A1 → irreducible differences must persist, requiring self-reference through recursion
-**Flow:** ∆ seeks persistence → R(·) creates recursive contexts R(R(∆)) → ⊚ provides closure Rⁿ(∆) = ∆ → F emerge from successful recursive closure
-**Result:** Recursivity theorem emerges to preserve primitive operation coherence
+**Foundation:** From A0 (Existential Difference) → for forms to exist and be recognizable, they must achieve stable patterns through recursive closure
+**Flow:** ∆ exists through distinguishability → R(·) creates recursive contexts that maintain distinguishability → ⊚ provides closure that preserves existence → F emerge as recognizable stable patterns
+**Result:** Recursivity theorem emerges to enable form recognition and pattern awareness
 
 ---
 
 ## Proof
 
-**Given:** A1 (Irreducibility) — Primitive difference (∆) cannot be decomposed without loss of distinction
+**Given:** A0 — Existential Difference: ∀x, ∀ε: Exists_ε(x) ↔ ∃Δ: Distinguishable_ε(x, Δ)
 
 **To Prove:** Stable forms emerge only through recursive closure: F = ⊚(Rⁿ(∆)) where Rⁿ(∆) = ∆
 
 **Proof:**
-1. **Persistence requirement:** For ∆ to remain irreducible, it must persist over time (else it vanishes, violating A1)
-2. **Ontological constraint:** In a difference-only ontology, persistence requires embedding ∆ in relations to other differences
-3. **Self-reference necessity:** Since only differences exist, ∆ can only be embedded in relations to itself: R(∆, ∆)
-4. **Recursive structure:** This generates nested embedding: R(R(∆, ∆), R(∆, ∆)) = R²(∆)
-5. **Closure requirement:** Infinite recursion is unstable; stability requires closure: Rⁿ(∆) = ∆ for some n
-6. **Form emergence:** Successful closure ⊚(Rⁿ(∆)) produces stable forms F
-7. **Capacity bound:** Process must remain within stability capacity Cs to avoid collapse
-8. **Therefore:** Stable forms emerge only through recursive closure within operational capacity □
+1. **Form existence requirement:** For a form F to exist at resolution ε, it must be distinguishable from background (by A0)
+2. **Pattern distinguishability:** Forms are distinguishable through stable, recognizable patterns that persist over time
+3. **Recursive necessity:** In a difference-based ontology, stable patterns require self-referential structure: R(∆, ∆)
+4. **Nested embedding:** This generates recursive depth: R(R(∆, ∆), R(∆, ∆)) = R²(∆), extending to Rⁿ(∆)
+5. **Closure for stability:** Infinite recursion cannot maintain distinguishability; closure Rⁿ(∆) = ∆ creates stable patterns
+6. **Form emergence:** Successful closure ⊚(Rⁿ(∆)) produces forms F that satisfy A0's existence condition
+7. **Capacity constraint:** Process must remain within stability capacity Cs to maintain distinguishability
+8. **Therefore:** Stable forms emerge only through recursive closure that preserves distinguishability □
 
 **Corollaries:**
 - Natural transformation rate (e) emerges from recursive growth patterns
@@ -64,9 +66,9 @@ aliases:
 - Capacity constraint: process bounded by stability capacity Cs
 
 ### Logical Structure
-- **Necessity**: Irreducibility (A1) → Recursivity (T2)
-- **Conditional**: If forms are stable, then they arise through recursive closure
-- **Scope**: Applies within operational capacity Cs
+- **Necessity**: Existential Difference (A0) → Recursivity (T3)
+- **Conditional**: If forms exist and are recognizable, then they arise through recursive closure
+- **Scope**: Applies within operational capacity Cs at resolution ε
 
 ---
 
@@ -139,8 +141,10 @@ Brief consequences across domains, showing both technical and humane angles:
 
 ## Dependencies & scope
 
-- Derived from: A1 (Irreducibility) — recursion and closure are necessary for difference persistence
-- Applies to: all form-making processes and closure operations within stability capacity
+- **Derived from:** A0 — Existential Difference
+- **Requires:** Resolution threshold ε, distinguishability condition, and stability capacity Cs
+- **Applies to:** All form recognition processes and pattern emergence within operational capacity
+- **Exceptions:** Does not preclude non-recursive patterns at higher resolution levels
 
 ---
 
@@ -178,12 +182,12 @@ Brief consequences across domains, showing both technical and humane angles:
 ## Relationship to Other Principles
 
 ### Axiom Relationships
-- **A1 (Irreducibility)**: T2 emerges necessarily from A1's requirement for difference persistence
-- Recursive closure provides the mechanism by which irreducible differences achieve stability
+- **A0 (Existential Difference)**: T3 emerges necessarily from A0's requirement for recognizable form existence
+- Recursive closure provides the mechanism by which distinguishable patterns achieve stable recognition
 
 ### Theorem Interactions
-- **T1 (Asymmetry)**: Directional bias guides recursive embedding patterns toward specific forms
-- Asymmetric recursion enables the emergence of complex, non-symmetric stable structures
+- **T1 (Irreducibility)**: Recursive patterns must remain irreducible to preserve form integrity
+- **T2 (Asymmetry)**: Directional bias guides recursive embedding patterns toward specific recognizable forms
 
 ---
 
@@ -198,6 +202,7 @@ Brief consequences across domains, showing both technical and humane angles:
 
 ## See Also
 
+- [[A0 — Existential Difference (axiom)]] - Source axiom
 - [[00.0.0.0 - Core Axiom & Theorems (index)]]
-- [[A1 — Irreducibility (axiom)]]
-- [[T1 — Asymmetry (theorem)]]
+- [[T1 — Irreducibility (theorem)]]
+- [[T2 — Asymmetry (theorem)]]

@@ -5,8 +5,8 @@ tags:
   - "#sublayer/coherence"
   - "#status/stable"
   - "#function/definition"
-polarity: P-
-derivation: T7
+polarity: P+
+derivation: T9
 aliases:
   - r_memory
 ---
@@ -28,17 +28,17 @@ aliases:
 
 ## Primitive Derivation
 
-**Theorem Source:** T7 (Memory Coherence) — "Information must be preserved across state transitions"
+**Theorem Source:** T9 (Memory Coherence) — "Information must be preserved across state transitions"
 
 **Derivation Logic:**
-1. **T7 Requirement:** Information patterns must maintain coherent accessibility through system state changes
+1. **T9 Requirement:** Information patterns must maintain coherent accessibility through system state changes
 2. **Mathematical Implication:** Information coherence degrades without active maintenance → requires periodic reinforcement
 3. **Constant Emergence:** r_memory emerges as the fundamental rate governing memory maintenance operations
 4. **Invariant Nature:** Represents the minimal operational tempo required for sustainable memory coherence
 
-**Traceback:** `A1 → T2+A1 → T5 → T7 → r_memory` — derivation chain from foundational axiom
+**Traceback:** `A0 → T3+A0 → T4 → T9 → r_memory` — derivation chain from foundational axiom
 
-**Flow:** T7 requires information preservation across states → information coherence degrades without maintenance → r_memory provides the base rate for reinforcement operations → enables sustainable memory coherence
+**Flow:** T9 requires information preservation across states → information coherence degrades without maintenance → r_memory provides the base rate for reinforcement operations → enables sustainable memory coherence
 
 ---
 
@@ -104,7 +104,7 @@ where $\tau_{memory}$ is the characteristic time scale for memory coherence main
 ## Scope & invariance
 
 - **Domain:** All memory coherence operations requiring active maintenance
-- **Invariance:** Holds across domains implementing T7 (Memory Coherence)
+- **Invariance:** Holds across domains implementing T9 (Memory Coherence)
 - **Precision:** Domain instances determine specific frequencies and maintenance intervals
 - **Scaling:** Rate may scale with information complexity and coherence requirements
 
@@ -182,12 +182,12 @@ r_memory > 0 (positive definite)
 ## Relationship to Other Principles
 
 ### Foundation Theorems
-- **T7 (Memory Coherence):** Direct source - provides mathematical expression of memory preservation requirement
-- **T5 (Interface Conservation):** Provides foundation for information conservation necessity across boundaries
-- **A1 (Irreducibility):** Ensures memory maintenance cannot be eliminated
+- **T9 (Memory Coherence):** Direct source - provides mathematical expression of memory preservation requirement
+- **T4 (Interface Conservation):** Provides foundation for information conservation necessity across boundaries
+- **A0 (Existential Difference):** Ensures memory maintenance cannot be eliminated
 
 ### Supporting Principles
-- **T6 (Temporal Continuity):** Memory coherence enables temporal identity persistence
+- **T7 (Temporal Continuity):** Memory coherence enables temporal identity persistence
 - **T8 (Recovery Stability):** Memory coherence provides information foundation for recovery discrimination
 
 ### Higher-Level Extensions
@@ -198,7 +198,7 @@ r_memory > 0 (positive definite)
 
 ## See Also
 
-- [[T7 — Memory Coherence (theorem)]] - Source theorem
+- [[T9 — Memory Coherence (theorem)]] - Source theorem
 - [[γ_retention — Memory Retention Factor (constant)]] - Related memory constant
 - [[r_temporal — Temporal Continuity Maintenance Rate (constant)]] · [[r_stability — Stability Assessment Rate (constant)]] - Related coherence rates
 - [[00.2.1 - Constants (index)]] - Parent module

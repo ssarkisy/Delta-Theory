@@ -6,7 +6,7 @@ tags:
   - "#status/stable"
   - "#function/definition"
 polarity: P-
-derivation: T1
+derivation: A0+T2
 aliases:
   - Asymmetric Stabilization Ratio
 ---
@@ -28,17 +28,18 @@ aliases:
 
 ## Primitive Derivation
 
-**Theorem Source:** T1 (Asymmetry) — "Order matters: ∆(A,B) ≠ ∆(B,A) in any meaningful embedding"
+**Theorem Source:** A0 (Existential Difference) + T2 (Asymmetry) — "Existence requires distinguishability" + "Order matters: ∆(A,B) ≠ ∆(B,A) in any meaningful embedding"
 
 **Derivation Logic:**
-1. **T1 Requirement:** Differences are inherently directional with asymmetric relationships
-2. **Partitioning Implication:** Asymmetric partitions must preserve directional bias under recursion
-3. **Constant Emergence:** φ emerges as the unique ratio enabling stable asymmetric self-similarity
-4. **Invariant Nature:** Represents fundamental constraint for scale-invariant asymmetric ratios
+1. **A0 Requirement:** For asymmetric structures to exist, they must remain distinguishable at resolution ε
+2. **T2 Requirement:** Differences are inherently directional with asymmetric relationships
+3. **Partitioning Implication:** Asymmetric partitions must preserve both distinguishability and directional bias under recursion
+4. **Constant Emergence:** φ emerges as the unique ratio enabling stable asymmetric self-similarity while maintaining existence
+5. **Invariant Nature:** Represents fundamental constraint for distinguishable, scale-invariant asymmetric ratios
 
-**Traceback:** `A1 → T1 → asymmetric partitioning → φ` — derivation chain from foundational axiom
+**Traceback:** `A0 + T2 → existential asymmetric partitioning → φ` — derivation chain from foundational axiom and theorem
 
-**Flow:** T1 demands directional bias → asymmetric partitions require scale invariance → φ emerges as self-reinforcing ratio
+**Flow:** A0 demands distinguishable existence → T2 demands directional bias → asymmetric partitions require both distinguishability and scale invariance → φ emerges as self-reinforcing ratio
 
 ---
 
@@ -121,29 +122,29 @@ Brief examples across domains showing both technical and humane angles:
 
 ## Detailed Mathematical Derivation
 
-### From Irreducibility and Asymmetry to φ
+### From Existential Difference and Asymmetry to φ
 
-We can derive **φ** rigorously from **A1 (Irreducibility)** and **T1 (Asymmetry)** through optimal asymmetric partitioning requirements.
+We can derive **φ** rigorously from **A0 (Existential Difference)** and **T2 (Asymmetry)** through optimal asymmetric partitioning requirements.
 
-**1. Start with A1 + T1:**
+**1. Start with A0 + T2:**
 
-**A1:** $\Delta \neq f(\Delta_i)$ — Primitive difference cannot be decomposed without loss of distinction
+**A0:** $\text{Existence}_\varepsilon \equiv \text{Distinguishability}_\varepsilon$ — Existence at resolution ε is equivalent to distinguishability at resolution ε
 
-**T1:** $\Delta(A \rightarrow B) \neq \Delta(B \rightarrow A)$ — Differences are inherently directional
+**T2:** $\Delta(A \rightarrow B) \neq \Delta(B \rightarrow A)$ — Differences are inherently directional
 
 **2. Asymmetric partitioning requirement:**
 
-From T1: Since differences are directional, any partitioning of a difference must preserve asymmetric relationships. Consider a difference $\Delta$ partitioned into two components $(a, b)$ where $a \neq b$ (asymmetric partition).
+From T2: Since differences are directional, any partitioning of a difference must preserve asymmetric relationships. Consider a difference $\Delta$ partitioned into two components $(a, b)$ where $a \neq b$ (asymmetric partition).
 
 **3. Recursive embedding constraint:**
 
-From A1 + T2: For stable persistence, the partitioned difference must be recursively embeddable without loss of distinction. This requires:
+From A0 + T2: For stable persistence, the partitioned difference must be recursively embeddable without loss of existence or directional distinction. This requires:
 - The partition ratio must be preserved under recursive embedding
 - Smaller parts must relate to larger parts as larger parts relate to the whole
 
 **4. Self-similarity requirement:**
 
-For recursive embedding to preserve distinction (A1), the asymmetric ratio must be **scale-invariant**. If we have a segment of length $(a + b)$ with asymmetric partition $(a, b)$ where $a > b$, then:
+For recursive embedding to preserve distinguishable existence (A0), the asymmetric ratio must be **scale-invariant**. If we have a segment of length $(a + b)$ with asymmetric partition $(a, b)$ where $a > b$, then:
 
 **Scale-invariance condition:** The ratio of whole to larger part must equal the ratio of larger part to smaller part:
 
@@ -165,10 +166,10 @@ $$r^2 - r - 1 = 0$$
 
 **Positive solution:** $r = \frac{1 + \sqrt{5}}{2} = \phi$
 
-**6. Why φ is necessary from A1 + T1:**
+**6. Why φ is necessary from A0 + T2:**
 
-- **A1** requires that partitions preserve distinction without decomposition
-- **T1** requires that partitions maintain asymmetric directional relationships
+- **A0** requires that partitions preserve distinguishable existence at resolution ε
+- **T2** requires that partitions maintain asymmetric directional relationships
 - **Recursive embedding** demands scale-invariant ratios for stable persistence
 - **φ is the unique positive solution** to the scale-invariance constraint for asymmetric partitions
 
@@ -179,9 +180,9 @@ The quadratic $r^2 - r - 1 = 0$ has exactly two solutions: $\phi = \frac{1 + \sq
 Since we require $r > 0$ for meaningful asymmetric ratios, **φ is the unique solution**.
 
 **Connection to primitive flow:**
-- **∆**: Must maintain irreducible distinction in partitions
+- **∆**: Must maintain distinguishable existence in partitions at resolution ε
 - **R(·)**: Creates recursive embeddings requiring scale-invariant ratios
 - **⊚**: Stabilizes through optimal asymmetric balance φ
 - **F**: Asymmetric forms naturally express φ proportions
 
-φ represents the **unique asymmetric ratio** that preserves irreducible distinction across recursive embeddings while maintaining directional bias.
+φ represents the **unique asymmetric ratio** that preserves distinguishable existence across recursive embeddings while maintaining directional bias.

@@ -5,8 +5,8 @@ tags:
   - "#sublayer/coherence"
   - "#status/stable"
   - "#function/definition"
-polarity: P0
-derivation: T3
+polarity: P-
+derivation: T5
 aliases:
   - T8
   - Recovery Stability
@@ -37,25 +37,25 @@ aliases:
 
 **Traceback:** `∆ → R(·) → ⊚ → Recovery-Coherent Forms` — why primitive operations require recovery coherence
 
-**Foundation:** From T3 (Interface Discrimination) + stability extension → recovery coherence necessity for stability-persistent system operation
+**Foundation:** From T5 (Interface Discrimination) + stability extension → recovery coherence necessity for stability-persistent system operation
 **Flow:** ∆ detects stability vs destabilizing influences → R(·) embeds discrimination patterns in recovery-enabling relations → ⊚ achieves recursive stability discrimination across perturbation cycles
-**Result:** Theorem emerges to preserve system coherence across stability boundaries, extending T3's flow discrimination to stability dimension
+**Result:** Theorem emerges to preserve system coherence across stability boundaries, extending T5's flow discrimination to stability dimension
 
 ---
 
 ## Proof
 
-**Given:** T3 (Interface Discrimination) and stability recovery requirements
+**Given:** T5 (Interface Discrimination) and stability recovery requirements
 
 **To Prove:** Systems must discriminate between perturbations and stability
 
 **Proof:**
-1. **From T3:** Interfaces must discriminate between flows: "not all differences can cross every boundary"
+1. **From T5:** Interfaces must discriminate between flows: "not all differences can cross every boundary"
 2. **Stability requirement:** Systems experience mixed influences (some destabilizing, some stabilizing)
 3. **Recovery necessity:** System must distinguish beneficial from harmful influences for coherent response
-4. **Stability as flow validity:** Stability discrimination extends T3's flow discrimination to stability dimension
-5. **If stability discrimination fails:** System responds inappropriately → violates T3 across stability dimension
-6. **Therefore:** Systems must discriminate between perturbations and stability to satisfy T3 across stability boundaries □
+4. **Stability as flow validity:** Stability discrimination extends T5's flow discrimination to stability dimension
+5. **If stability discrimination fails:** System responds inappropriately → violates T5 across stability dimension
+6. **Therefore:** Systems must discriminate between perturbations and stability to satisfy T5 across stability boundaries □
 
 **Corollaries:**
 - Stability discrimination is logically necessary for coherent system recovery
@@ -122,7 +122,7 @@ aliases:
 
 ## Dependencies & scope
 
-- **Derived from:** T3 (Interface Discrimination) + stability extension
+- **Derived from:** T5 (Interface Discrimination) + stability extension
 - **Requires:** System stability operation requirements
 - **Applies to:** All systems requiring recovery coordination beyond interface discriminative capacity
 - **Exceptions:** Systems with explicitly transient stability requirements
@@ -146,13 +146,13 @@ aliases:
 ## Relationship to Other Principles
 
 ### Theorem Relationships
-- **T3 Foundation:** Extends flow discrimination to stability dimension
-- **T6 Bridge:** Recovery enables temporal identity coherence
-- **T7 Support:** Recovery preservation enables memory coherence
+- **T5 Foundation:** Extends flow discrimination to stability dimension
+- **T7 Bridge:** Recovery enables temporal identity coherence
+- **T9 Support:** Recovery preservation enables memory coherence
 
 ### Axiom Relationships
-- **A1 Foundation:** Preserves irreducible stability vs perturbation differences
-- **T2 Dependency:** Leverages recursive closure for stability discrimination persistence
+- **A0 Foundation:** Preserves existential stability vs perturbation differences
+- **T3 Dependency:** Leverages recursive closure for stability discrimination persistence
 
 ---
 
@@ -166,8 +166,8 @@ aliases:
 
 ## See Also
 
-- [[T3 — Interface Discrimination (theorem)]] - Foundation theorem
-- [[T6 — Temporal Continuity (theorem)]] · [[T7 — Memory Coherence (theorem)]] - Related coherence theorems
+- [[T5 — Interface Discrimination (theorem)]] - Foundation theorem
+- [[T7 — Temporal Continuity (theorem)]] · [[T9 — Memory Coherence (theorem)]] - Related coherence theorems
 - [[00.2.0 - Coherence Theorems (index)]] - Parent module
-- [[A1 — Irreducibility (axiom)]] · [[T2 — Recursivity (theorem)]] - Foundational principles
+- [[A0 — Existential Difference (axiom)]] · [[T3 — Recursivity (theorem)]] - Foundational principles
 - [[ψA — Awareness (Aiza) Phase Coherence Anchor (modulator)]] - Primary coherence modulator

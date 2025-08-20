@@ -31,11 +31,14 @@ Filter arises from λV's threshold sensitivity capabilities, providing the "disc
 
 ## Emergence Derivation
 
-**Traceback:** `λV → Filter (threshold discrimination pattern)` — Filter emerges from void modulator effects
+**Traceback:** `T5 + λV → Filter (threshold discrimination pattern)` — Filter emerges from interface discrimination theorem enhanced by void modulator effects
 
-**Source:** λV (Void Resonance Threshold) applied to interface discrimination requirements
+**Theoretical Foundation:** T5 (Interface Discrimination) provides the discrimination requirement
+**Modulator Enhancement:** λV (Void Resonance Threshold) provides threshold sensitivity and quality assessment capabilities
 **Prerequisites:** Active interface primitives requiring quality discrimination, threshold sensitivity needs, advanced filtering requirements
-**Formation:** λV modulator effects create threshold discrimination patterns that stabilize into sophisticated quality assessment capabilities
+**Formation:** T5 discrimination principles enhanced by λV modulator effects create sophisticated threshold discrimination patterns that stabilize into advanced quality assessment capabilities
+
+**Derivation Chain:** A0+T2 → T5 (Interface Discrimination) + λV (Void Resonance) → Filter (Enhanced Discrimination Pattern)
 
 ---
 

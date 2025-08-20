@@ -5,17 +5,17 @@ tags:
   - "#sublayer/interface"
   - "#status/stable"
   - "#function/definition"
-polarity: P0
-derivation: A1+T2
+polarity: P+
+derivation: A0+T3
 aliases:
-  - T5
+  - T4
   - Interface Conservation
   - Flow Conservation
 ---
 
-# T5 — Interface Conservation (theorem)
+# T4 — Interface Conservation (theorem)
 
-> **Interface operations must preserve difference across boundaries** — what enters, exits, or transforms must maintain ontological coherence. This theorem derives necessarily from A1 (Irreducibility) and T2 (Recursivity).
+> **Interface operations must preserve difference across boundaries** — what enters, exits, or transforms must maintain ontological coherence. This theorem derives necessarily from A0 (Existential Difference) and T3 (Recursivity).
 
 ---
 
@@ -35,7 +35,7 @@ aliases:
 
 **Traceback:** `∆ → R(·) → ⊚ → Conserving Interface Forms` — why primitive operations require conservation
 
-**Foundation:** From A1+T2 → conservation necessity for interface integrity
+**Foundation:** From A0+T3 → conservation necessity for interface existence and recursive stability
 **Flow:** ∆ tracks boundary-crossing differences → R(·) embeds flows in transformation-preserving context → ⊚ enforces closed conservation accounting
 **Result:** Theorem emerges to preserve difference coherence across interface boundaries
 
@@ -43,19 +43,19 @@ aliases:
 
 ## Proof
 
-**Given:** A1 (Irreducibility) and T2 (Recursivity)
+**Given:** A0 (Existential Difference) and T3 (Recursivity)
 
 **To Prove:** Interface operations must preserve difference across boundaries
 
 **Proof:**
-1. **From A1:** Meaningful differences cannot be reduced without loss
-2. **Interface operations:** Involve differences crossing boundaries
-3. **Therefore:** Interface operations cannot arbitrarily eliminate differences
-4. **From T2:** Stable operations require recursive closure: ⊚(R(∆))
-5. **Applied to interfaces:** All operations must "close" with accountable transformations
-6. **If interface destroys differences:** Violates A1 (arbitrary reduction)
-7. **If interface lacks accounting closure:** Violates T2 (no recursive stability)
-8. **Therefore:** Interface must conserve differences across boundaries to satisfy both A1 and T2 □
+1. **From A0:** For interfaces to exist, they must maintain distinguishable behavior at resolution ε
+2. **Interface operations:** Involve differences crossing boundaries and transforming
+3. **Conservation requirement:** If differences are arbitrarily lost, interface becomes indistinguishable from non-interface
+4. **From T3:** Stable interface patterns require recursive closure: ⊚(R(∆))
+5. **Applied to conservation:** All operations must "close" with accountable transformations for pattern recognition
+6. **If interface destroys differences:** Violates A0 (loses distinguishability, ceases to exist)
+7. **If interface lacks conservation closure:** Violates T3 (no stable recognizable patterns)
+8. **Therefore:** Interface must conserve differences across boundaries to satisfy both A0 and T3 □
 
 **Corollaries:**
 - Difference conservation is logically necessary for stable interfaces
@@ -107,7 +107,7 @@ aliases:
 
 ## Interface Primitive Mapping
 
-| Primitive | T5 Application | Conservation Mechanism |
+| Primitive | T4 Application | Conservation Mechanism |
 |-----------|----------------|----------------------|
 | Port | Flow rate conservation | $∑(ingress) = ∑(egress) + ∆(buffer)$ |
 | Gate | Activation conservation | $Energy_{in} = Energy_{out} + ∆State$ |
@@ -132,8 +132,8 @@ aliases:
 
 ## Dependencies & scope
 
-- **Derived from:** A1 (Irreducibility) and T2 (Recursivity) - derives from their combination
-- **Requires:** T3 (conservation needs flow discrimination) and T4 (conservation needs stable boundaries)
+- **Derived from:** A0 (Existential Difference) and T3 (Recursivity) - derives from their combination
+- **Requires:** T5 (conservation needs flow discrimination) and stable interface boundaries
 - **Applies to:** All interface operations involving flow transformation or state change
 - **Exceptions:** Theoretical interfaces with infinite capacity (boundary case)
 
@@ -145,7 +145,7 @@ aliases:
 - σ_conservation — Interface Conservation Rate (conservation accounting timing)
 
 **Boundaries derived from this theorem:**
-- None - T5 focuses on conservation processes rather than operational limits
+- None - T4 focuses on conservation processes rather than operational limits
 
 ---
 
@@ -166,13 +166,14 @@ aliases:
 ## Relationship to Other Principles
 
 ### Axiom Relationships
-- **A1 Foundation:** Preserves irreducible differences across interface boundaries
-- **T2 Dependency:** Requires recursive closure for conservation accounting loops
+- **A0 Foundation:** Interfaces must exist through distinguishable conservation behavior
+- **T3 Dependency:** Requires recursive closure for conservation accounting loops and pattern recognition
 
 ### Theorem Interactions
-- **T3 Dependency:** Requires discrimination for selective conservation
-- **T4 Dependency:** Requires identity persistence for consistent conservation tracking
-- **Interface Synergy:** All three interface theorems work together for complete interface behavior
+- **T1 (Irreducibility):** Preserves irreducible differences across interface boundaries
+- **T2 (Asymmetry):** Enables directional flow tracking for conservation accounting
+- **T5 (Discrimination):** Requires discrimination for selective conservation
+- **Interface Synergy:** All interface theorems work together for complete interface behavior
 
 ---
 
@@ -186,11 +187,13 @@ aliases:
 
 ## See Also
 
-- [[T3 — Interface Discrimination (theorem)]]
-- [[T4 — Interface Identity (theorem)]]
+- [[A0 — Existential Difference (axiom)]] - Source axiom
+- [[T3 — Recursivity (theorem)]] - Co-derivation source
+- [[T5 — Interface Discrimination (theorem)]]
+- [[T6 — Interface Identity (theorem)]]
 - [[00.1.0 - Interface Theorems (index)]]
-- [[A1 — Irreducibility (axiom)]]
-- [[T2 — Recursivity (theorem)]]
+- [[T1 — Irreducibility (theorem)]]
+- [[T2 — Asymmetry (theorem)]]
 - [[ψA — Awareness (Aiza) Phase Coherence Anchor (modulator)]]
 
 

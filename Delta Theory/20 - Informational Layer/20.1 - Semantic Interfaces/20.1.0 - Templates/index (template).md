@@ -66,7 +66,7 @@ tags:
 
 > One-line description of module purpose and scope.
 
-**Derivation Trace:** (if applicable) `∆ → A1 → T1/T2 → <module contents>`
+**Derivation Trace:** (if applicable) `∆ → A0 → T1/T2/T3 → <module contents>`
 
 ---
 

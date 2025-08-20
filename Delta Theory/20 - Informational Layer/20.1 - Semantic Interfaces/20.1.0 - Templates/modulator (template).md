@@ -55,7 +55,7 @@ tags:
   - "#status/seed"
   - "#function/modulation"
 polarity: P+|P-|P0  # P+ for ∇S, P- for λV, P0 for ψA
-derivation: A1+T1+T2  # All modulators derive from foundational axioms and theorems
+derivation: A0+T1+T2+T3  # All modulators derive from foundational axiom and theorems
 aliases:
   - <ShortName>
 ---
@@ -83,7 +83,7 @@ aliases:
 ### Microkernel Modulators (#sublayer/microkernel)
 - **Nature:** Fundamental SVA control parameters
 - **Examples:** ∇S (Structure Differentiation), λV (Void Resonance), ψA (Awareness Phase Coherence)
-- **Derivation:** Direct from axioms and theorems (A1, T1, T2)
+- **Derivation:** Direct from axiom and theorems (A0, T1, T2, T3)
 - **Location:** Microkernel level (00.0.3)
 - **Context:** Universal control parameters for all recursive operations
 - **Complete set:** Only three modulators exist - the SVA triad

@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this work, please cite it as below."
 type: generic
 title: "Delta Theory: Ontological Core and Recursive Stabilization Framework"
-abstract: "A universal framework for investigating how systems evolve through recursive difference propagation. Delta Theory explores how differences form, flow, and stabilize across domains from physics to cognition, providing investigative pathways for approaching adaptive systems and understanding structural emergence."
+abstract: "A universal framework for investigating how systems evolve through recursive difference propagation. Delta Theory explores how differences form, flow, and stabilize across domains from physics to cognition, providing investigative pathways for approaching adaptive systems and understanding structural emergence. Version 0.4.2 establishes comprehensive Translation Layer planning infrastructure with strategic roadmaps for Functional Interfaces (01.0) and Domain Bridges (02.0), implements robust LLM-assisted quality assurance protocols, and completes architectural cleanup of foundational layers (00.0-00.2)."
 authors:
   - family-names: "Sarkisian"
     given-names: "Sergei"
@@ -19,6 +19,15 @@ keywords:
   - cognitive modeling
   - physics
   - ontology
+  - unified theory
+  - mathematics
+  - philosophy
+  - technology
+  - human experience
+  - quantum mechanics
+  - consciousness
+  - organizational design
+  - complexity science
 license: CC-BY-SA-4.0
 license-url: https://creativecommons.org/licenses/by-sa/4.0/
 references:

@@ -77,7 +77,7 @@ aliases:  # Optional
 **Traceback:** `∆ → R(·) → ⊚ → F` — why primitive operations require this boundary
 
 **Flow:** How ∆ → R(·) → ⊚ operations generate this constraint
-**Foundation:** From A1/T1/T2 logical necessity
+**Foundation:** From A0/T1/T2/T3 logical necessity
 **Role:** What operational limits this boundary enforces
 
 ---

@@ -123,14 +123,14 @@ This principle emerges from the interaction between [[Universal Polarities — R
 This principle emerges from the interaction of two fundamental metaphors:
 
 1. **Triadic Polarity System** ([[Universal Polarities — Recursive Stabilization Through Triadic Rotation]])
-   - [[Active Polarity (glossary)|P+]] (difference intake) — structure-building and autonomous form creation
-   - [[Structural Polarity (glossary)|P-]] (difference outflow) — field-seeking and connection-making
+   - [[Structural Polarity (glossary)|P+]] (difference intake) — structure-building and autonomous form creation
+   - [[Active Polarity (glossary)|P-]] (difference outflow) — field-seeking and connection-making
    - [[Balancing Polarity (glossary)|P0]] (difference balance) — homeostatic regulation and equilibrium
 
 2. **Order-Chaos Dance** ([[Yin-Yang - Dancing with Chaos — Three Paths to Living Form]])
-   - Classical form ([[Structural Polarity (glossary)|P-]]) provides stable reference
+   - Classical form ([[Structural Polarity (glossary)|P+]]) provides stable reference
    - Recursive form ([[Balancing Polarity (glossary)|P0]]) enables sustainable growth
-   - Forming state ([[Active Polarity (glossary)|P+]]) drives creative evolution
+   - Forming state ([[Active Polarity (glossary)|P-]]) drives creative evolution
 
 When **nested layers** adopt **opposite dominant polarities** to their parent layer, the system gains **torsional balance** — analogous to counter-rotating gyroscopes. Each layer's polarity is modulated by [[ψA — Awareness (Aiza) Phase Coherence Anchor (modulator)]] to maintain coherent opposition.
 
@@ -210,11 +210,12 @@ Heuristic with triadic encoding: using $val(P+)=+1$, $val(P-)=−1$, $val(P0)=0$
 
 ---
 
-## Theoretical Grounding (A1, T1, T2)
+## Theoretical Grounding (A0, T1, T2, T3)
 
-- **A1 — Irreducibility (P0):** Preserves distinct layer identities so alternation has meaningful contrast and does not collapse.
-- **T1 — Asymmetry (P-):** Introduces directional bias and field gradients, enabling phase opposition between adjacent layers.
-- **T2 — Recursivity (P+):** Generates nested layering; alternation emerges as the stabilization strategy that prevents resonance runaway and sustains coherent form across depths.
+- **A0 — Existential Difference:** Establishes that distinguishable existence requires resolution-dependent contrast, providing the foundation for meaningful layer alternation.
+- **T1 — Irreducibility (P+):** Preserves distinct layer identities so alternation has meaningful contrast and does not collapse.
+- **T2 — Asymmetry (P-):** Introduces directional bias and field gradients, enabling phase opposition between adjacent layers.
+- **T3 — Recursivity (P0):** Generates nested layering; alternation emerges as the stabilization strategy that prevents resonance runaway and sustains coherent form across depths.
 
 ---
 

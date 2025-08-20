@@ -5,8 +5,8 @@ tags:
   - "#sublayer/coherence"
   - "#status/stable"
   - "#function/definition"
-polarity: P-
-derivation: T7
+polarity: P+
+derivation: T9
 aliases:
   - Memory
   - Information Preservation Primitive
@@ -100,8 +100,8 @@ where information preservation follows γ_retention efficiency across state tran
 
 ## Dependencies
 
-**Derivation:** T7 (Memory Coherence) - Information must be preserved across state transitions
-**Role:** Operates in Void aspect of SVA triad (P- polarity, field-seeking for information embedding)
+**Derivation:** T9 (Memory Coherence) - Information must be preserved across state transitions
+**Role:** Operates in Structure aspect of SVA triad (P+ polarity, structure-building for information preservation)
 
 ---
 
@@ -158,7 +158,7 @@ Memory Interface:
 
 ## Related Primitives
 
-- **Sequence:** Memory → [[Phase (primitive)]] → [[Recovery (primitive)]]
+- **Sequence:** Memory → [[Recovery (primitive)]] → [[Phase (primitive)]]
 - **Controls:** Memory preservation enables Phase synchronization across time
 - **Dependencies:** Memory operates independently, providing foundation for Phase operations
 - **Coordination:** Memory operations inform Recovery about what information to preserve
@@ -182,8 +182,8 @@ Memory Interface:
 
 **Theorem Foundation:** Memory emerges from Coherence Theorems as operational implementation
 
-**From T7 (Memory Coherence):** Memory implements information preservation through selective retention
-- T7 requires information preservation across state transitions → Memory provides preservation operations
+**From T9 (Memory Coherence):** Memory implements information preservation through selective retention
+- T9 requires information preservation across state transitions → Memory provides preservation operations
 - Coherence demands quantifiable retention → Memory implements γ_retention efficiency factor
 - Mathematical basis: r_memory constant governs preservation operation timing
 
@@ -192,7 +192,7 @@ Memory Interface:
 - **R(·) (Relational Embedding):** context determines appropriate preservation strategies
 - **⊚ (Stabilization):** ensures consistent information preservation policies
 
-**Coherence Layer Extension:** T7 specifies **what** memory must do; structural primitives provide **how** memory operates.
+**Coherence Layer Extension:** T9 specifies **what** memory must do; structural primitives provide **how** memory operates.
 
 ---
 
@@ -210,8 +210,8 @@ Memory follows dual-register governance so information preservation remains inte
 - [[r_memory — Memory Coherence Maintenance Rate (constant)]] · [[r_temporal — Temporal Continuity Maintenance Rate (constant)]] · [[r_stability — Stability Assessment Rate (constant)]]
 
 ### Theoretical Foundation
-- [[T7 — Memory Coherence (theorem)]] (primary derivation source)
-- [[T6 — Temporal Continuity (theorem)]] · [[T8 — Recovery Stability (theorem)]] (coordination with other primitives)
+- [[T9 — Memory Coherence (theorem)]] (primary derivation source)
+- [[T7 — Temporal Continuity (theorem)]] · [[T8 — Recovery Stability (theorem)]] (coordination with other primitives)
 
 ### Microkernel Modulators
 - [[γ_retention — Memory Retention Factor (constant)]] (preservation efficiency)

@@ -151,7 +151,7 @@ Diagnostic for awareness pattern rigidity where ψA modulation is sustained beyo
 
 - [[Awareness (glossary)]] - Foundational awareness concept from microkernel
 - [[ψA — Awareness (Aiza) Phase Coherence Anchor (modulator)]] - Phase coherence modulator that becomes excessive
-- [[T6 — Temporal Continuity (theorem)]] - Theoretical foundation that gets over-applied
-- [[T7 — Memory Coherence (theorem)]] - Theoretical foundation for identity persistence that becomes rigid
+- [[T7 — Temporal Continuity (theorem)]] - Theoretical foundation that gets over-applied
+- [[T9 — Memory Coherence (theorem)]] - Theoretical foundation for identity persistence that becomes rigid
 - [[Coherent Awareness (glossary)]] · [[Desynchronized Awareness (glossary)]] · [[Intermittent Awareness (glossary)]]
 - [[20.0.3 - Awareness Classifications (index)]] - Parent module for navigation

@@ -6,12 +6,14 @@ tags:
   - "#status/stable"
   - "#function/definition"
 polarity: P-  # Void-oriented; deals with field directionality
+derivation: A0
 aliases:
+  - T2
   - Asymmetry
   - Asymmetry Theorem
 ---
 
-# T1 — Asymmetry (theorem)
+# T2 — Asymmetry (theorem)
 
 > Order matters: ∆(A,B) ≠ ∆(B,A) in any meaningful embedding.
 
@@ -20,6 +22,37 @@ aliases:
 ## Statement
 
 - Difference is inherently directional at resolution ε: ∆(A→B) ≠ ∆(B→A) in any meaningful embedding. The relationship between A and B depends on which is considered the reference point, creating asymmetric propagation patterns within the system's operational boundaries.
+
+---
+
+## Primitive Derivation
+
+**Traceback:** `∆ → R(·) → ⊚ → F` — why primitive operations require this theorem
+
+**Foundation:** From A0 (Existential Difference) → if existence requires distinguishability, then directional context must be preserved to maintain distinguishability
+**Flow:** ∆ must remain distinguishable → directional information (A→B vs B→A) provides distinguishability → loss of direction violates A0 → asymmetry preserves existence
+**Result:** Asymmetry theorem emerges to preserve directional distinguishability required for existence
+
+---
+
+## Proof
+
+**Given:** A0 — Existential Difference: ∀x, ∀ε: Exists_ε(x) ↔ ∃Δ: Distinguishable_ε(x, Δ)
+
+**To Prove:** ∆(A→B) ≠ ∆(B→A) in any meaningful embedding at resolution ε
+
+**Proof:**
+1. **Assume for contradiction:** ∆(A→B) = ∆(B→A) for some meaningful embedding at resolution ε
+2. **Directional collapse:** If ∆(A→B) = ∆(B→A), then the directional information is lost
+3. **Distinguishability failure:** Without directional context, ∆(A→B) and ∆(B→A) become indistinguishable at resolution ε
+4. **Existence violation:** By A0, if differences are indistinguishable at resolution ε, they cannot exist at that level
+5. **Operational contradiction:** But we assumed these differences exist in a meaningful embedding
+6. **Therefore:** ∆(A→B) ≠ ∆(B→A) must hold to preserve existence through distinguishability □
+
+**Corollaries:**
+- Directional operators ∆(·→·) preserve existence-critical orientation information
+- Asymmetric propagation patterns emerge naturally to maintain distinguishability
+- Field gradients become possible through directional bias that preserves existence
 
 ---
 
@@ -70,50 +103,12 @@ Brief consequences across domains, showing both technical and humane angles:
 
 ---
 
-## Rationale (context)
-
-- Establishes directionality in difference propagation within operational resolution (ε)
-- Enables meaningful distinction between source and target at current system level
-- Creates basis for field gradients and propagation limits (c) without making absolute claims
-- Maintains operational precision while acknowledging potential deeper symmetries at sub-ε levels
-
----
-
-## Primitive Derivation
-
-**Traceback:** `∆ → R(·) → ⊚ → F` — why primitive operations require this theorem
-
-**Foundation:** From A1 → if ∆(A→B) = ∆(B→A), differences become indistinguishable, violating irreducibility
-**Flow:** ∆ has inherent orientation → R(·) preserves directional context → ⊚ maintains directional bias → F exhibits asymmetric patterns
-**Result:** Asymmetry theorem emerges to preserve primitive operation coherence
-
----
-
-## Proof
-
-**Given:** A1 (Irreducibility) — Primitive difference (∆) cannot be decomposed without loss of distinction
-
-**To Prove:** ∆(A→B) ≠ ∆(B→A) in any meaningful embedding at resolution ε
-
-**Proof:**
-1. **Assume for contradiction:** ∆(A→B) = ∆(B→A) for some meaningful embedding
-2. **By definition of equality:** If ∆(A→B) = ∆(B→A), then these two differences are indistinguishable
-3. **Loss of operational distinction:** The directional information (A→B vs B→A) is lost
-4. **Contradiction with A1:** This constitutes a decomposition that loses distinction, violating A1
-5. **Resolution constraint:** Since we operate at resolution ε, this distinction must be preserved at our operational level
-6. **Therefore:** ∆(A→B) ≠ ∆(B→A) must hold to preserve irreducibility □
-
-**Corollaries:**
-- Directional operators ∆(·→·) preserve orientation information
-- Asymmetric propagation patterns emerge naturally from primitive operations
-- Field gradients become possible through directional bias
-
----
-
 ## Dependencies & scope
 
-- Derived from: A1 (Irreducibility) — asymmetry is necessary to preserve irreducible distinction
-- Applies to: all difference embeddings and propagation paths within operational boundaries
+- **Derived from:** A0 — Existential Difference
+- **Requires:** Resolution threshold ε and distinguishability condition
+- **Applies to:** All directional differences and propagation paths at resolution ε
+- **Exceptions:** Does not preclude symmetries at higher resolution levels
 
 ---
 
@@ -125,8 +120,8 @@ Brief consequences across domains, showing both technical and humane angles:
 - Asymmetric propagation: enables field gradients ∇
 
 ### Logical Structure
-- **Necessity**: Irreducibility (A1) → Asymmetry (T1)
-- **Conditional**: If differences are distinguishable, then order matters
+- **Necessity**: Existential Difference (A0) → Asymmetry (T2)
+- **Conditional**: If differences exist at resolution ε, then directional context must be preserved
 - **Scope**: Applies within operational boundaries at resolution ε
 
 ---
@@ -176,12 +171,12 @@ Brief consequences across domains, showing both technical and humane angles:
 ## Relationship to Other Principles
 
 ### Axiom Relationships
-- **A1 (Irreducibility)**: T1 emerges necessarily from A1 to preserve directional distinction
-- Asymmetry prevents decomposition that would violate irreducibility requirements
+- **A0 (Existential Difference)**: T2 emerges necessarily from A0 to preserve directional distinguishability
+- Asymmetry maintains the distinguishability condition required for existence at resolution ε
 
 ### Theorem Interactions
-- **T2 (Recursivity)**: Asymmetric patterns stabilize through recursive embedding
-- Directional bias enables the closure operations required for stable form generation
+- **T1 (Irreducibility)**: Directional differences must remain irreducible to preserve asymmetric patterns
+- **T3 (Recursivity)**: Asymmetric patterns enable recursive embedding through directional bias
 
 ---
 
@@ -196,6 +191,7 @@ Brief consequences across domains, showing both technical and humane angles:
 
 ## See Also
 
+- [[A0 — Existential Difference (axiom)]] - Source axiom
 - [[00.0.0.0 - Core Axiom & Theorems (index)]]
-- [[A1 — Irreducibility (axiom)]]
-- [[T2 — Recursivity (theorem)]]
+- [[T1 — Irreducibility (theorem)]]
+- [[T3 — Recursivity (theorem)]]

@@ -5,15 +5,15 @@ tags:
   - "#sublayer/coherence"
   - "#status/stable"
   - "#function/definition"
-polarity: P-
-derivation: T5
+polarity: P0
+derivation: T4
 aliases:
-  - T7
+  - T9
   - Memory Coherence
   - State Conservation
 ---
 
-# T7 — Memory Coherence (theorem)
+# T9 — Memory Coherence (theorem)
 
 > Information must be preserved across state transitions — patterns maintain coherent accessibility through system state changes.
 
@@ -37,25 +37,25 @@ aliases:
 
 **Traceback:** `∆ → R(·) → ⊚ → State-Coherent Forms` — why primitive operations require memory coherence
 
-**Foundation:** From T5 (Interface Conservation) + state extension → memory coherence necessity for state-persistent information preservation
+**Foundation:** From T4 (Interface Conservation) + state extension → memory coherence necessity for state-persistent information preservation
 **Flow:** ∆ detects state information changes → R(·) embeds information patterns in state-independent relations → ⊚ achieves recursive information conservation across state transitions
-**Result:** Theorem emerges to preserve information coherence across state boundaries, extending T5's boundary conservation to state dimension
+**Result:** Theorem emerges to preserve information coherence across state boundaries, extending T4's boundary conservation to state dimension
 
 ---
 
 ## Proof
 
-**Given:** T5 (Interface Conservation) and state transition requirements
+**Given:** T4 (Interface Conservation) and state transition requirements
 
 **To Prove:** Information must be preserved across state transitions
 
 **Proof:**
-1. **From T5:** Interface operations must preserve difference across boundaries: $C(F_{in}) = C(F_{out}) + C(∆State) + C(Transform)$
+1. **From T4:** Interface operations must preserve difference across boundaries: $C(F_{in}) = C(F_{out}) + C(∆State) + C(Transform)$
 2. **State transition requirement:** Systems operate through state sequences $S_1 \rightarrow S_2 \rightarrow ... \rightarrow S_n$
 3. **Information persistence need:** Information must remain accessible across state transitions
 4. **State as boundary crossing:** Each state transition represents information crossing temporal-state boundary
-5. **If state information fails:** Information becomes inaccessible → violates T5 across state dimension
-6. **Therefore:** Information must be preserved across state transitions to satisfy T5 across state boundaries □
+5. **If state information fails:** Information becomes inaccessible → violates T4 across state dimension
+6. **Therefore:** Information must be preserved across state transitions to satisfy T4 across state boundaries □
 
 **Corollaries:**
 - State information persistence is logically necessary for system coherence across state changes
@@ -122,7 +122,7 @@ aliases:
 
 ## Dependencies & scope
 
-- **Derived from:** T5 (Interface Conservation) + state extension
+- **Derived from:** T4 (Interface Conservation) + state extension
 - **Requires:** System state transition operation requirements
 - **Applies to:** All information patterns requiring persistence across system state transitions beyond interface operational boundaries
 - **Exceptions:** Ephemeral information with explicitly transient state lifecycle
@@ -146,13 +146,13 @@ aliases:
 ## Relationship to Other Principles
 
 ### Theorem Relationships
-- **T5 Foundation:** Extends boundary conservation to state dimension
-- **T6 Bridge:** Memory enables temporal identity coherence
+- **T4 Foundation:** Extends boundary conservation to state dimension
+- **T7 Bridge:** Memory enables temporal identity coherence
 - **T8 Support:** Information persistence enables recovery coherence
 
 ### Axiom Relationships
-- **A1 Foundation:** Preserves irreducible information differences across states
-- **T2 Dependency:** Leverages recursive closure for state information persistence
+- **A0 Foundation:** Preserves existential information differences across states
+- **T3 Dependency:** Leverages recursive closure for state information persistence
 
 ---
 
@@ -166,7 +166,7 @@ aliases:
 
 ## See Also
 
-- [[T5 — Interface Conservation (theorem)]] - Foundation theorem
-- [[T6 — Temporal Continuity (theorem)]] · [[T8 — Recovery Stability (theorem)]] - Related coherence theorems
+- [[T4 — Interface Conservation (theorem)]] - Foundation theorem
+- [[T7 — Temporal Continuity (theorem)]] · [[T8 — Recovery Stability (theorem)]] - Related coherence theorems
 - [[00.2.0 - Coherence Theorems (index)]] - Parent module
-- [[A1 — Irreducibility (axiom)]] · [[T2 — Recursivity (theorem)]] - Foundational principles
+- [[A0 — Existential Difference (axiom)]] · [[T3 — Recursivity (theorem)]] - Foundational principles

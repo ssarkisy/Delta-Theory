@@ -24,7 +24,7 @@ aliases:
 
 ## Primitive Foundation
 
-**Traceback:** A1 (Irreducibility) → T2 (Recursivity) → ⊚ (Stabilization) → Form → Collapsed Form (complete closure failure)
+**Traceback:** A0 (Existential Difference) → T3 (Recursivity) → ⊚ (Stabilization) → Form → Collapsed Form (complete closure failure)
 
 **Flow:** ∆ generates difference → R(·) attempts recursive embeddings → ⊚ fails to achieve closure → differences dissipate without forming stable structure
 
@@ -140,7 +140,7 @@ Diagnostic for complete SVA triad failure where no aspect can achieve or maintai
 ## See Also
 
 - [[Form (pattern)]] - Foundational form pattern from microkernel
-- [[T2 — Recursivity (theorem)]] - Theoretical foundation for recursive closure
+- [[T3 — Recursivity (theorem)]] - Theoretical foundation for recursive closure
 - [[Stabilization (Closure) (primitive)]] - Primitive operation that fails completely
 - [[Stable Form (glossary)|StableForms]] · [[Apparent Form (glossary)|ApparentForms]] · [[Pseudo Form (glossary)|PseudoForms]]
 - [[00.0.5 - Core Patterns (index)]] - Foundational patterns including Form

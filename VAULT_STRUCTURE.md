@@ -26,22 +26,22 @@ Each of these layers is **self-similar** — recursively subdivided into 3 modul
 Delta Theory/
 ├── 00 - Translation Layer/
 │   ├── 00.0 - Microkernel/                   # Pure mathematical emergence (axioms → primitives → foundational patterns)
-│   │   ├── 00.0.0 - Core Axiom & Theorems/  # A1, T1, T2 foundational triad
+│   │   ├── 00.0.0 - Core Axiom & Theorems/  # A0, T1, T2, T3 foundational triad
 │   │   ├── 00.0.1 - Constants/              # π, e, φ universal mathematical invariants
 │   │   ├── 00.0.2 - Boundaries/             # ε, c, Cs operational limits
 │   │   ├── 00.0.3 - Modulators/             # ∇S, λV, ψA SVA control parameters
 │   │   ├── 00.0.4 - Structural Primitives/  # ∆, R(·), ⊚ core operations
 │   │   └── 00.0.5 - Core Patterns (Foundational)/ # Form, Flow, Field emergent mathematical results
 │   ├── 00.1 - Environment Interfaces/       # Interface theorems, constants, primitives, and patterns
-│   │   ├── 00.1.0 - Interface Theorems/     # T3, T4, T5 interface operational requirements
-│   │   ├── 00.1.1 - Constants/              # κ, ι, σ theorem-derived interface invariants
-│   │   ├── 00.1.2 - Interface Primitives/   # Port, Gate, Surface interface boundary operations
-│   │   └── 00.1.3 - Interface Patterns/     # Buffer, Filter, Router operational enhancement tools
+│   │   ├── 00.1.0 - Interface Theorems/     # T4, T5, T6 interface operational requirements
+│   │   ├── 00.1.1 - Constants/              # σ, κ, ι theorem-derived interface invariants
+│   │   ├── 00.1.2 - Interface Primitives/   # Gate, Port, Surface interface boundary operations
+│   │   └── 00.1.3 - Interface Patterns/     # Router, Filter, Buffer operational enhancement tools
 │   ├── 00.2 - Coherence Orchestration/      # Temporal identity, memory preservation, recovery coordination
-│   │   ├── 00.2.0 - Coherence Theorems/     # T6, T7, T8 coherence mathematical foundations
+│   │   ├── 00.2.0 - Coherence Theorems/     # T7, T8, T9 coherence mathematical foundations
 │   │   ├── 00.2.1 - Constants/              # r_temporal, r_memory, r_stability, γ_retention, δ_recovery
-│   │   ├── 00.2.2 - Coherence Primitives/   # Memory, Phase, Recovery core coherence operations
-│   │   └── 00.2.3 - Coherence Patterns/     # Synchronization, Persistence, Resilience enhanced functionality
+│   │   ├── 00.2.2 - Coherence Primitives/   # Memory, Recovery, Phase core coherence operations
+│   │   └── 00.2.3 - Coherence Patterns/     # Persistence, Resilience, Synchronization enhanced functionality
 │   ├── 01.0 - Functional Interfaces/        # Minimal API surface definitions with dual-register support
 │   └── 02.0 - Domain Bridges to API/        # Domain-specific mappings and implementation bridges
 
@@ -109,7 +109,7 @@ File counts in the vault follow **triadic architectural necessity** based on the
 
 ### **Microkernel (00.0) - Pure SVA Triad**
 All categories contain **3 files** reflecting the fundamental triadic structure:
-- **Axioms/Theorems:** A1, T1, T2 (foundational triad)
+- **Axioms/Theorems:** A0, T1, T2, T3 (foundational axiom + derived triad)
 - **Constants:** π, e, φ (mathematical invariants derived from axioms)
 - **Boundaries:** ε, c, Cs (operational limits)
 - **Modulators:** ∇S, λV, ψA (SVA control parameters)
@@ -118,17 +118,17 @@ All categories contain **3 files** reflecting the fundamental triadic structure:
 
 ### **Interface (00.1) - Theorem-Driven Extension**
 Interface categories maintain **3 files** based on theorem-derived structural necessities:
-- **Theorems:** T3, T4, T5 (interface operational requirements)
-- **Constants:** κ, ι, σ (derived from theorems T3, T4, T5 respectively)
-- **Primitives:** Port, Gate, Surface (interface boundary operations)
-- **Patterns:** Buffer, Filter, Router (primitive enhancement capabilities)
+- **Theorems:** T4, T5, T6 (interface operational requirements)
+- **Constants:** σ, κ, ι (derived from theorems T4, T5, T6 respectively)
+- **Primitives:** Gate, Port, Surface (interface boundary operations)
+- **Patterns:** Router, Filter, Buffer (primitive enhancement capabilities)
 
 ### **Coherence Orchestration (00.2) - Coherence-Specific Extension**
 Coherence categories follow **coherence-driven structural necessities**:
-- **Theorems:** T6, T7, T8 (coherence mathematical foundations)
+- **Theorems:** T7, T8, T9 (coherence mathematical foundations)
 - **Constants:** 5 constants (r_temporal, r_memory, r_stability, γ_retention, δ_recovery) derived from coherence theorems
-- **Primitives:** Memory, Phase, Recovery (core coherence operations)
-- **Patterns:** Synchronization, Persistence, Resilience (modulator-driven primitive enhancement)
+- **Primitives:** Memory, Recovery, Phase (core coherence operations)
+- **Patterns:** Persistence, Resilience, Synchronization (modulator-driven primitive enhancement)
 
 **Architectural Principle:** File counts reflect **structural necessity**, not arbitrary mathematical formulas. The consistent triadic pattern emerges from the **fundamental triadic nature of difference-based recursive systems**.
 
@@ -147,15 +147,15 @@ The vault architecture distinguishes between two fundamentally different types o
 
 ### **Operational Patterns (Interface 00.1.3)**
 **Nature:** Applied functional tools that enhance interface primitive capabilities
-- **Router, Filter, Buffer** = Enhancement patterns extending Port, Gate, Surface operations
-- **Timing constraints:** Operate within κ_discrimination, ι_identity, σ_conservation bounds
+- **Router, Filter, Buffer** = Enhancement patterns extending Gate, Port, Surface operations
+- **Timing constraints:** Operate within σ_conservation, κ_discrimination, ι_identity bounds
 - **Function:** Provide specialized capabilities while respecting interface constant timing requirements
 - **No dedicated rates:** Use interface constants for timing, not separate operational rates
 
 ### **Enhanced Patterns (Coherence 00.2.3)**
 **Nature:** Advanced functionality patterns that enhance coherence primitive capabilities through modulator effects
-- **Synchronization, Persistence, Resilience** = Modulator-driven enhancement patterns extending Memory, Phase, Recovery operations
-- **Modulator derivation:** ψA → Synchronization, ∇S → Persistence, λV → Resilience
+- **Persistence, Resilience, Synchronization** = Modulator-driven enhancement patterns extending Memory, Recovery, Phase operations
+- **Modulator derivation:** ∇S → Persistence, λV → Resilience, ψA → Synchronization
 - **Function:** Provide sophisticated coherence orchestration capabilities through universal modulator effects
 - **Timing integration:** Use coherence constants (r_temporal, r_memory, r_stability, γ_retention, δ_recovery) for operational parameters
 
@@ -243,8 +243,8 @@ Conventions:
 | **modulator** | `symbol — Name (modulator).md` | `∇S — Structure Gradient (modulator).md` |
 | **pattern** | `Name (pattern).md` | `Form (pattern).md` |
 | **boundary** | `symbol — Name (boundary).md` | `ε — Resolution Quantum (boundary).md` |
-| **axiom** | `symbol — Name (axiom).md` | `A1 — Irreducibility (axiom).md` |
-| **theorem** | `symbol — Name (theorem).md` | `T1 — Asymmetry (theorem).md` |
+| **axiom** | `symbol — Name (axiom).md` | `A0 — Existential Difference (axiom).md` |
+| **theorem** | `symbol — Name (theorem).md` | `T1 — Irreducibility (theorem).md` |
 
 **Governance Principle:** All files use **type-only naming** with the type indicated in parentheses. Functional distinctions are handled through YAML frontmatter and folder structure rather than filename classes.
 

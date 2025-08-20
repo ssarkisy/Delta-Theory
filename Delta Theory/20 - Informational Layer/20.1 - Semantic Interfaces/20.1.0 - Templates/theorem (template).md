@@ -28,8 +28,8 @@ tags:
 **Optional Extensions:** Formal Properties, Implementation Notes, Relationship to Other Principles, Examples (concept)
 
 ### Important Notes:
-- **Microkernel theorems (T1, T2)** work within existing microkernel constants/boundaries and do NOT derive new ones
-- **Interface theorems (T3, T4, T5)** DO derive interface-specific constants (κ_discrimination, ι_identity, σ_conservation) as mathematical expressions of their requirements
+- **Microkernel theorems (T1, T2, T3)** work within existing microkernel constants/boundaries and do NOT derive new ones
+- **Interface theorems (T4, T5, T6)** DO derive interface-specific constants (σ_conservation, κ_discrimination, ι_identity) as mathematical expressions of their requirements
 - **Only include "Emergent Constants/Boundaries" sections** if the theorem actually derives documented constants/boundaries in the architecture
 - **Verify derivation claims** - constants must exist in the actual architecture before claiming derivation
 
@@ -62,7 +62,7 @@ tags:
   - "#status/stable"
   - "#function/definition"
 polarity: P+|P-|P0  # Required; theorems align with specific polarities
-derivation: A1+T1|T2+A1|A1+T1+T2  # Required; source axioms/theorems
+derivation: A0|A0+T1|A0+T2|A0+T3|T4|T5|T6|T7|T8|T9  # Required; source axiom/theorems
 aliases:  # Optional
   - <Theorem Name>
 
@@ -93,7 +93,7 @@ aliases:  # Optional
 
 **Traceback:** `∆ → R(·) → ⊚ → F` — why primitive operations require this theorem
 
-**Foundation:** From A1 → this necessity
+**Foundation:** From A0 → this necessity
 **Flow:** How ∆ → R(·) → ⊚ → F generates the requirement
 **Result:** Theorem emerges to preserve primitive operation coherence
 
@@ -210,7 +210,7 @@ How this theorem manifests across different domains:
 ## Relationship to Other Principles
 
 ### Axiom Relationships
-- How this theorem relates back to A1
+- How this theorem relates back to A0
 - Dependencies on other foundational principles
 
 ### Theorem Interactions
@@ -227,7 +227,7 @@ How this theorem manifests across different domains:
 
 ## See Also
 
-- [[A1 — Irreducibility (axiom)]]
+- [[A0 — Existential Difference (axiom)]]
 - Related theorems
 - Constants and boundaries derived from this theorem
 - [[∇S — Structure (Sarkisian) Differentiation Gradient (modulator)]]

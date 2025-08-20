@@ -5,8 +5,8 @@ tags:
   - "#sublayer/interface"
   - "#status/stable"
   - "#function/definition"
-polarity: P0
-derivation: T5
+polarity: P+
+derivation: T4
 aliases:
   - Gate
   - Threshold Control Interface
@@ -153,9 +153,9 @@ Gate Interface:
 
 **Theorem Foundation:** Gate emerges from Interface Theorems as operational implementation
 
-**From T5 (Interface Conservation):** Gates implement conservation monitoring through threshold control
+**From T4 (Interface Conservation):** Gates implement conservation monitoring through threshold control
 - Conservation requires flow accounting → threshold monitoring for flow balance
-- T5 demands accountable difference preservation → Gate provides conservation evaluation
+- T4 demands accountable difference preservation → Gate provides conservation evaluation
 - Mathematical basis: σ_conservation constant governs conservation accounting timing
 
 **Structural Foundation:** Built upon microkernel primitives ∆, R(·), ⊚ with interface-specific application:
@@ -163,7 +163,7 @@ Gate Interface:
 - **R(·) (Relational Embedding):** context determines appropriate thresholds
 - **⊚ (Stabilization):** ensures consistent activation policies
 
-**Interface Layer Extension:** Theorems T3, T4 specify **what** gates must do; structural primitives provide **how** gates operate.
+**Interface Layer Extension:** Theorems T5, T6 specify **what** gates must do; structural primitives provide **how** gates operate.
 
 ---
 
@@ -192,8 +192,8 @@ Gate follows dual-register governance so threshold control remains intelligible 
 - [[σ_conservation — Interface Conservation Rate (constant)]]
 
 ### Theoretical Foundation
-- [[T5 — Interface Conservation (theorem)]] (primary derivation source)
-- [[T3 — Interface Discrimination (theorem)]] · [[T4 — Interface Identity (theorem)]] (coordination with other primitives)
+- [[T4 — Interface Conservation (theorem)]] (primary derivation source)
+- [[T5 — Interface Discrimination (theorem)]] · [[T6 — Interface Identity (theorem)]] (coordination with other primitives)
 
 ### Microkernel Modulators
 - [[λV — Void (Volozhina) Resonance Threshold (modulator)]] (threshold control)

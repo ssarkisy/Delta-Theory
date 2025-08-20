@@ -167,7 +167,7 @@ Synchronization extends basic Phase primitive operations with advanced temporal 
 
 ### Theoretical Foundation
 - [[ψA — Awareness (Aiza) Phase Coherence Anchor (modulator)]] - Primary modulator source
-- [[T6 — Temporal Continuity (theorem)]] - Theoretical foundation through Phase primitive
+- [[T7 — Temporal Continuity (theorem)]] - Theoretical foundation through Phase primitive
 
 ### Pattern Integration
 - [[00.2.3 - Coherence Patterns (index)]] - Parent patterns module

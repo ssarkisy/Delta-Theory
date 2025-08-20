@@ -5,17 +5,17 @@ tags:
   - "#sublayer/interface"
   - "#status/stable"
   - "#function/definition"
-polarity: P-
-derivation: T2+A1
+polarity: P0
+derivation: A0+T1
 aliases:
-  - T4
+  - T6
   - Interface Identity
   - Boundary Integrity
 ---
 
-# T4 — Interface Identity (theorem)
+# T6 — Interface Identity (theorem)
 
-> **Interface boundaries must maintain coherent identity** — the interface itself must persist as a recognizable entity through all interactions. This theorem derives necessarily from T2 (Recursivity) and A1 (Irreducibility).
+> **Interface boundaries must maintain coherent identity** — the interface itself must persist as a recognizable entity through all interactions. This theorem derives necessarily from A0 (Existential Difference) and T1 (Irreducibility).
 
 ---
 
@@ -35,7 +35,7 @@ aliases:
 
 **Traceback:** `∆ → R(·) → ⊚ → Persistent Interface Forms` — why primitive operations require identity maintenance
 
-**Foundation:** From T2+A1 → identity coherence necessity for interface stability
+**Foundation:** From A0+T1 → identity coherence necessity for interface existence and stability
 **Flow:** ∆ detects identity-defining differences → R(·) embeds identity features in stable relations → ⊚ achieves recursive identity reinforcement
 **Result:** Theorem emerges to preserve interface coherence and recognizable boundary integrity over time
 
@@ -43,18 +43,18 @@ aliases:
 
 ## Proof
 
-**Given:** T2 (Recursivity) and A1 (Irreducibility)
+**Given:** A0 (Existential Difference) and T1 (Irreducibility)
 
 **To Prove:** Interface boundaries must maintain coherent identity
 
 **Proof:**
-1. **From T2:** Stable forms require recursive closure: ⊚(R(∆))
-2. **Applied to interfaces:** Boundary must achieve recursive closure to maintain existence
-3. **From A1:** Meaningful differences cannot be reduced without loss
-4. **Interface identity requirement:** Interface-environment distinction is a meaningful difference
-5. **If interface lacks recursive identity:** Fails T2 (no stable closure)
-6. **If interface identity is reducible:** Violates A1 (distinction lost without preservation)
-7. **Therefore:** Interface must maintain coherent recursive identity to satisfy both T2 and A1 □
+1. **From A0:** For interfaces to exist, they must be distinguishable from their environment at resolution ε
+2. **Interface distinguishability:** Requires persistent identity features that remain recognizable over time
+3. **From T1:** Identity-defining differences must be irreducible to preserve interface existence
+4. **Identity requirement:** Interface-environment distinction must be maintained without decomposition
+5. **If interface lacks persistent identity:** Becomes indistinguishable from environment, violating A0
+6. **If interface identity decomposes:** Violates T1 (loses irreducible distinction)
+7. **Therefore:** Interface must maintain coherent identity to satisfy both A0 and T1 □
 
 **Corollaries:**
 - Identity persistence is logically necessary for stable interfaces
@@ -106,7 +106,7 @@ aliases:
 
 ## Interface Primitive Mapping
 
-| Primitive | T4 Application | Control Mechanism |
+| Primitive | T6 Application | Control Mechanism |
 |-----------|----------------|-------------------|
 | Port | Flow identity preservation | Maintains port character through traffic |
 | Gate | Threshold identity stability | Gate remains recognizable across activations |
@@ -132,7 +132,7 @@ aliases:
 
 ## Dependencies & scope
 
-- **Derived from:** T2 (Recursivity) and A1 (Irreducibility) - derives from their combination
+- **Derived from:** A0 (Existential Difference) and T1 (Irreducibility) - derives from their combination
 - **Requires:** Interface existence and temporal persistence requirements
 - **Applies to:** All interface primitives requiring persistent identity across time
 - **Exceptions:** Temporary interfaces with explicitly transient identity (boundary case)
@@ -142,12 +142,12 @@ aliases:
 ## Relationship to Other Principles
 
 ### Foundation Theorems
-- **T2 (Recursivity):** Leverages recursive closure for identity persistence
-- **A1 (Irreducibility):** Preserves irreducible interface-environment distinction
+- **A0 (Existential Difference):** Interfaces must exist through distinguishable identity features
+- **T1 (Irreducibility):** Preserves irreducible interface-environment distinction
 
 ### Supporting Principles
-- **T3 (Interface Discrimination):** Identity enables consistent discrimination patterns
-- **T5 (Interface Conservation):** Identity conservation enables resource preservation
+- **T4 (Interface Conservation):** Identity conservation enables resource preservation
+- **T5 (Interface Discrimination):** Identity enables consistent discrimination patterns
 
 ---
 
@@ -161,11 +161,13 @@ aliases:
 
 ## See Also
 
-- [[T3 — Interface Discrimination (theorem)]]
-- [[T5 — Interface Conservation (theorem)]]
+- [[A0 — Existential Difference (axiom)]] - Source axiom
+- [[T1 — Irreducibility (theorem)]] - Co-derivation source
+- [[T4 — Interface Conservation (theorem)]]
+- [[T5 — Interface Discrimination (theorem)]]
 - [[00.1.0 - Interface Theorems (index)]]
-- [[A1 — Irreducibility (axiom)]]
-- [[T2 — Recursivity (theorem)]]
+- [[T2 — Asymmetry (theorem)]]
+- [[T3 — Recursivity (theorem)]]
 - [[∇S — Structure (Sarkisian) Differentiation Gradient (modulator)]]
 
 ---

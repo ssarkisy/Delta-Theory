@@ -158,7 +158,7 @@ Evidence that would challenge this framework:
 - **Conceptual anchors**: ε, π, e, φ, c — the fundamental roles that define what's possible
 - **Basic relationships**: Difference propagation, recursive embedding, closure dynamics — the irreducible operations
 - **Logical structure**: ∆ → R(∆) → ⊚(R(∆)) → F — the primitive sequence that generates all forms
-- **Ontological consistency**: A1 (Irreducibility), A2 (Asymmetry), A3 (Recursivity) — the axioms that prevent contradiction
+- **Ontological consistency**: A0 (Existential Difference) — the foundational axiom that prevents contradiction
 - **Change tolerance**: Zero — altering these would mean becoming a different ontological system entirely
 
 ### Physical Interface Layer (Highly Protected)
@@ -224,7 +224,7 @@ Evidence that would challenge this framework:
 ## See Also
 
 ### Core Framework
-- [[A1 — Irreducibility (axiom)]] · [[T1 — Asymmetry (theorem)]] · [[T2 — Recursivity (theorem)]] — Core reality anchors
+- [[A0 — Existential Difference (axiom)]] · [[T1 — Irreducibility (theorem)]] · [[T2 — Asymmetry (theorem)]] · [[T3 — Recursivity (theorem)]] — Core reality anchors
 - [[Delta (primitive)]] · [[Form (pattern)]] · [[Polarity (glossary)]] — Reality kernel primitives
 - [[Universal Polarities — Recursive Stabilization Through Triadic Rotation]] — Cosmic stability mechanisms
 

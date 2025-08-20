@@ -151,7 +151,7 @@ Diagnostic for persistent phase conflict dynamics where misaligned phase relatio
 ## See Also
 
 - [[ψA — Awareness (Aiza) Phase Coherence Anchor (modulator)]] - Phase coherence modulator that creates conflicts
-- [[T6 — Temporal Continuity (theorem)]] - Theoretical foundation for phase relationships
-- [[T7 — Memory Coherence (theorem)]] - Theoretical foundation for coherence that gets disrupted
+- [[T7 — Temporal Continuity (theorem)]] - Theoretical foundation for phase relationships
+- [[T9 — Memory Coherence (theorem)]] - Theoretical foundation for coherence that gets disrupted
 - [[Resonance (glossary)]] · [[Interference (glossary)]] · [[Harmony (glossary)]]
 - [[20.0.5 - Interaction Dynamics (index)]] - Parent module for navigation

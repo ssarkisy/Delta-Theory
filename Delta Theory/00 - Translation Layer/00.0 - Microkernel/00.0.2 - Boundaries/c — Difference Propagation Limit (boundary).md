@@ -28,8 +28,8 @@ aliases:
 
 **Traceback:** `∆ → R(·) → ⊚ → F` — why primitive operations require this boundary
 
-**Flow:** ∆ has directional asymmetry (T1) → meaningful ∆(A→B) ≠ ∆(B→A) requires causal ordering → causality demands finite propagation speed → c emerges as maximum speed preserving asymmetric causality
-**Foundation:** From T1 (Asymmetry) → directional differences require causal constraint → finite speed limit necessary
+**Flow:** ∆ must exist distinguishably (A0) → directional asymmetry (T2) → meaningful ∆(A→B) ≠ ∆(B→A) requires causal ordering → causality demands finite propagation speed → c emerges as maximum speed preserving both existence and asymmetric causality
+**Foundation:** From A0+T2 (Existential Difference + Asymmetry) → directional differences must exist distinguishably while preserving causal constraint → finite speed limit necessary
 **Role:** Enforces maximum difference propagation speed to preserve causal asymmetry and directional coherence
 
 ---

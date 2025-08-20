@@ -30,8 +30,8 @@ Additionally, two **Anchor Types** sit outside recursion, forming the ontologica
 
 | Type     | Description |
 |----------|-------------|
-| `axiom`  | Foundational ontological truth (e.g., A1 — Irreducibility) |
-| `theorem` | Derived truth proven from axioms (e.g., T1 — Asymmetry, T2 — Recursivity) |
+| `axiom`  | Foundational ontological truth (e.g., A0 — Existential Difference) |
+| `theorem` | Derived truth proven from axioms (e.g., T1 — Irreducibility, T2 — Asymmetry, T3 — Recursivity) |
 
 ---
 
@@ -88,13 +88,13 @@ Additionally, two **Anchor Types** sit outside recursion, forming the ontologica
 
 ### Filename Conventions
 - Use **type-based naming** with the type in parentheses at the end of the filename
-- Examples: `Delta (primitive).md`, `A1 — Irreducibility (axiom).md`, `Field (glossary).md`
+- Examples: `Delta (primitive).md`, `A0 — Existential Difference (axiom).md`, `Field (glossary).md`
 
 ### Examples by Type
 ```markdown
 # Core types
-A1 — Irreducibility (axiom).md                   # type: axiom
-T1 — Asymmetry (theorem).md                      # type: theorem
+A0 — Existential Difference (axiom).md           # type: axiom
+T1 — Irreducibility (theorem).md                 # type: theorem
 
 # Anchor layer types
 π — Closure Geometry Ratio (constant).md         # type: constant

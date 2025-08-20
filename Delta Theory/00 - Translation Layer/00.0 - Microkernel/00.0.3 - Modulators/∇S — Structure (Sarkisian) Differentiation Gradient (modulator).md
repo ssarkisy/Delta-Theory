@@ -6,7 +6,7 @@ tags:
   - "#status/stable"
   - "#function/modulation"
 polarity: P+
-derivation: A1+T1+T2
+derivation: A0+T1+T2+T3
 aliases:
   - ∇S
   - Sarkisian Differentiation Gradient
