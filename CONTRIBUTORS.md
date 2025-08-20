@@ -12,9 +12,13 @@ This document acknowledges the **contributors** who have helped shape and refine
 
 2. **J Mark Morris**
 
-    - **Role**: Prospective Contributor — Physics Layer and Mathematical Extensions
+    - **Role**: Author of **Geometrical Model of Nature** — Independent Theoretical Framework
 
-    - **Contributions**: Planned development of the **physics domain layer** of Delta Theory, including mapping the ontological core to physical models and extending certain mathematical formulations. No contributions to the current release; integration of his work is scheduled for future versions.
+    - **Contributions**:
+      - **Primary Author** of the **Geometrical Model of Nature**, an original theoretical framework for understanding fundamental reality through geometric principles and point object dynamics
+      - Developed independent approach to modeling natural phenomena using three fundamental entities: 3D Euclidean space, linear time, and point objects
+      - Created comprehensive mathematical formalization including timespace manifold theory, emission dynamics, and assembly recursion
+      - **Future Integration**: Planned collaborative development to explore theoretical bridges between Geometrical Model of Nature and Delta Theory while maintaining the integrity of both frameworks
 
 
 ## Special Thanks

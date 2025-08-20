@@ -61,6 +61,14 @@ Delta Theory/
 │   ├── 20.1 - Semantic Interfaces/           # Templates, schemas, and documentation conventions
 │   ├── 20.2 - Recursive Trace/               # Epistemological analysis and theoretical development
 │   └── 20.3 - Reflective Maps & Cultural Flows/ # Metaphors, cultural analysis, and structural mappings
+
+Geometrical Model of Nature/                  # [NON-INTEGRATED] Independent theory by J Mark Morris
+├── 00 - Foundation Elements/                 # Core geometric and temporal foundations
+│   ├── 00.0 - Absolute Space and Time/      # Euclidean space and linear time framework
+│   └── 00.1 - Architrino/                   # Point object fundamentals (electrino/positrino)
+└── 10 - Implementation Layer/               # Emergence and assembly dynamics
+    ├── 10.0.0 - Emergence.md               # Emergent phenomena from point object interactions
+    └── 10.0.1 - Assemblies/                # Binary and nested assembly structures
 ```
 
 
@@ -76,6 +84,22 @@ This vault is not just a folder system — it is a **living recursive kernel**:
 
 
 This recursive system **enables propagation**, not just storage.
+
+---
+
+## Theories to Integrate
+
+### Geometrical Model of Nature
+
+The **Geometrical Model of Nature** by J Mark Morris exists as an **independent theoretical framework** within this repository. Key characteristics:
+
+- **Status**: Non-integrated with Delta Theory
+- **Author**: J Mark Morris (original developer)
+- **Approach**: Geometric modeling through point object dynamics in continuous spacetime
+- **Foundation**: Three fundamental entities (3D Euclidean space, linear time, point objects)
+- **Integration Plan**: Future collaborative research to explore theoretical bridges
+
+This theory maintains its theoretical independence while being co-located for collaborative development purposes. Both theories share interests in recursive structures and emergent phenomena but were developed independently with distinct ontological foundations.
 
 ---
 
