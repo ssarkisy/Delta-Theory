@@ -2,6 +2,38 @@
 
 This project adheres to a human‑readable changelog. Versions reference GitHub releases; unreleased items track upcoming work.
 
+
+## [v0.4.4] — Geometrical Model of Nature Integration Framework
+
+### Added
+- **Geometrical Model of Nature Theory:**
+  - **Complete Independent Theory:** Added J Mark Morris's original "Geometrical Model of Nature" as a standalone theoretical framework
+  - **Theory Index (00 - Geometrical Model of Nature (index).md):** Comprehensive overview explaining the theory's independent development and core principles
+  - **Foundation Elements (00 - Foundation Elements/):** Absolute Space and Time framework with Euclidean geometry and linear temporal progression
+  - **Architrino Framework (00.1 - Architrino/):** Point object fundamentals including electrino/positrino binary polarity system
+  - **Implementation Layer (10 - Implementation Layer/):** Emergence dynamics and assembly theory with binary and nested structures
+  - **Mathematical Formalization:** Complete timespace manifold theory ($\mathcal{M} = \mathbb{R}^4$), emission dynamics, and recursive assembly structures
+
+- **Integration Framework Documentation:**
+  - **VAULT_STRUCTURE Integration:** Added GMN as "Theory to Integrate" with detailed structural overview and non-integrated status explanation
+  - **Theoretical Independence Preservation:** Clear documentation maintaining GMN's distinct ontological foundations while enabling future collaboration
+  - **Integration Roadmap:** Framework for future theoretical bridge development between GMN and Delta Theory
+
+### Changed
+- **Contributors Enhancement:**
+  - **J Mark Morris Role Update:** Enhanced from "Prospective Contributor" to "Author of Geometrical Model of Nature — Independent Theoretical Framework"
+  - **Comprehensive Contribution Documentation:** Detailed description of GMN authorship, mathematical formalization, and future integration plans
+  - **Theoretical Attribution:** Clear recognition of GMN as original independent work with planned collaborative development
+
+- **Repository Structure:**
+  - **Dual-Theory Architecture:** Repository now houses both Delta Theory and Geometrical Model of Nature as distinct but co-located frameworks
+  - **Collaborative Framework:** Established structure for independent theory development with future integration pathways
+
+### Technical Details
+- **Theory Status:** Non-integrated (maintaining theoretical independence)
+- **Integration Approach:** Future collaborative research to explore theoretical bridges while preserving framework integrity
+- **Shared Interests:** Both theories explore recursive structures, emergent phenomena, and fundamental reality modeling through distinct approaches
+
 ## [v0.4.3] — Polarity Correction and Definitional Alignment
 
 **Why:** Correct critical misalignment in polarity definitions where Active Polarity and Structural Polarity had reversed characteristics. This release ensures proper ontological consistency by aligning Active Polarity (P-) with field-seeking, contact-making behavior and Structural Polarity (P+) with structure-building, self-contained behavior, maintaining theoretical integrity across the framework.
@@ -118,6 +150,7 @@ This project adheres to a human‑readable changelog. Versions reference GitHub 
 - **Polarity Balance:** Achieved canonical SVA progression (P+ → P- → P0) across all theorem sets and derived components
 - **Cross-Reference Network:** Updated 200+ internal links to reflect new theorem numbering and A0-based architecture
 - **Template Compliance:** All components now follow A0-based derivation patterns and canonical SVA ordering principles
+
 
 ## [v0.4.0] — Complete Translation Layer Architecture Stabilization
 
