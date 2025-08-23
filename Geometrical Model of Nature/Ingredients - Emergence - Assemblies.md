@@ -1,20 +1,14 @@
 How are we to understand nature? What are the fundamental entities and their properties? What are the relationships between fundamental entities?
 
-Nature is modeled with three types of entities. We can express them geometrically.
 
-- A three dimensional Euclidean space
-- A single dimension of time that advances linearly
-- A population of point objects.
 
 1D time and 3D space have the following properties
 
-- A vessel through which point objects and potential emissions travel
 - No known bounds in space nor time. 
 - No known creation nor destruction model.
 - Is continuous, not quantum.
 - Defines no coordinate system, distance measure, or point of origin.
-- Are absolute nevertheless.
-- We can represent our 4 dimensions as a real tuple in ${R}^4$ and represent a point in time and space as $(t, x, y, z) \quad \text{where each } t, x, y, z \in {R}$.
+
 
 A point object has the following properties
 
