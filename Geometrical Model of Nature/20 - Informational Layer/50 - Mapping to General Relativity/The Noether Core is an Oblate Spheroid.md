@@ -40,9 +40,9 @@ To apply these equations to an oblate spheroid, one must:
 
 #### Oblate Spheroidal Coordinates
 
-Oblate spheroidal coordinates \((\xi, \eta, \phi)\) are adapted to surfaces of constant flattening:
+Oblate spheroidal coordinates $(\xi, \eta, \phi)$ are adapted to surfaces of constant flattening:
 
-- Surfaces of constant \(\xi\) are oblate spheroids
+- Surfaces of constant $\xi$ are oblate spheroids
 - The coordinate transformation embeds the geometry naturally into the metric
 
 A typical line element might look like:
@@ -51,7 +51,7 @@ $$
 ds^2 = -f(\xi, \eta) dt^2 + g_1(\xi, \eta) d\xi^2 + g_2(\xi, \eta) d\eta^2 + g_3(\xi, \eta) d\phi^2
 $$
 
-where \(f, g_1, g_2, g_3\) encode the curvature and deformation.
+where $f, g_1, g_2, g_3$ encode the curvature and deformation.
 
 ---
 
@@ -76,7 +76,7 @@ These models allow predictions of:
 To model **scalable** and **deformable** spheroids:
 
 - The metric components must be functions of time or internal stress
-- The stress-energy tensor \(T_{\mu\nu}\) must reflect elastic or fluid deformation
+- The stress-energy tensor $T_{\mu\nu}$ must reflect elastic or fluid deformation
 - Perturbative methods (e.g., post-Newtonian expansions) can capture small deviations from spherical symmetry
 
 This is especially useful in modeling:
