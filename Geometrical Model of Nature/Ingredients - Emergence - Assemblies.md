@@ -1,24 +1,7 @@
 
-A point object has the following properties
 
-- it is a constant rate emitter of potential that expands spherically at field speed.
-- carries kinetic energy and potential energy
-- follows an action formula is expressed mathematically
-- is either positive polarity (positrino) or negative polarity (electrino)
-- traverses a continuous path through ${R}^4$
-- has no known natural speed limit. 
-- Velocity can be less than, equal to, or greater than field speed.
-- Velocity equal to the field speed is a symmetry breaking point.
-- May experience it's own potential emission if it has traveled greater than field speed.
-- Has provenance. (it is unique, it can not be destroyed, it is not interchangeable)
 
-Emission
 
-- Each point object is a constant rate emitter of potential.
-- Potential emerges at the current location (radius = 0) at time t=now as a Dirac delta.
-- Potential expands spherically from the point of emission, i.e. the origin of the sphere stream.
-- The magnitude of the potential at the sphere surface decreases as a function of $1/r^2$.
-- A potential sphere expands at field speed.
 
 Action
 
