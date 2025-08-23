@@ -1,14 +1,3 @@
-How are we to understand nature? What are the fundamental entities and their properties? What are the relationships between fundamental entities?
-
-
-
-1D time and 3D space have the following properties
-
-- No known bounds in space nor time. 
-- No known creation nor destruction model.
-- Is continuous, not quantum.
-- Defines no coordinate system, distance measure, or point of origin.
-
 
 A point object has the following properties
 
