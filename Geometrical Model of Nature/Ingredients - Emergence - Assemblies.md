@@ -1,11 +1,6 @@
 
 
-Each point object traverses a continuous path through ${R}^4$. 
 
-- Paths have no known beginning in ${R}^4$. 
-- The path history includes the vector velocity of the point object along the path.
-- Each path has a moving end point defined by 't = now'.
-- Path history represents the continuous emission points of expanding spherical potential.
 
 Measurement
 
