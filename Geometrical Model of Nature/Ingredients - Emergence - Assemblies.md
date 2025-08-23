@@ -2,12 +2,6 @@
 
 
 
-Measurement
-
-- there are no fundamental measures of distance and time
-- emergent structure defines the fundamental units of time and distance.
-- The binary orbit has a maximum curvature and maximum frequency. (a potential well)
-- with emergent units of time and distance we can establish a relative coordinate system.
 
 Assembly theory and recursion
 
@@ -19,9 +13,6 @@ Assembly theory and recursion
 
 
 
----
-
-We can define in terms of deltas and change...
 
 
 
