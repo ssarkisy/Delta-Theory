@@ -1,0 +1,173 @@
+{
+  "D": {
+    "width": 1024,
+    "background": {
+      "shape": "circle",
+      "radius": 304
+    },
+    "components": [
+      {
+        "type": "concentric_circles",
+        "radii": [
+          64,
+          128,
+          256
+        ]
+      },
+      {
+        "type": "hexagon_circles",
+        "fill_pattern": "100111"
+      }
+    ]
+  },
+  "d": {
+    "width": 1024,
+    "background": null,
+    "components": [
+      {
+        "type": "concentric_circles",
+        "radii": [
+          64,
+          128,
+          256
+        ]
+      },
+      {
+        "type": "hexagon_circles",
+        "fill_pattern": "011000"
+      }
+    ]
+  },
+  "E": {
+    "width": 1024,
+    "background": {
+      "shape": "circle",
+      "radius": 304
+    },
+    "components": [
+      {
+        "type": "concentric_circles",
+        "radii": [
+          64,
+          128,
+          256
+        ]
+      },
+      {
+        "type": "hexagon_circles",
+        "fill_pattern": "111111"
+      }
+    ]
+  },
+  "e": {
+    "width": 1024,
+    "background": null,
+    "components": [
+      {
+        "type": "concentric_circles",
+        "radii": [
+          64,
+          128,
+          256
+        ]
+      },
+      {
+        "type": "hexagon_circles",
+        "fill_pattern": "000000"
+      }
+    ]
+  },
+  "H": {
+    "width": 640,
+    "background": {
+      "shape": "circle",
+      "radius": 304
+    },
+    "components": [
+      {
+        "type": "concentric_circles",
+        "radii": [
+          64,
+          128,
+          256
+        ]
+      }
+    ]
+  },
+  "h": {
+    "width": 640,
+    "background": null,
+    "components": [
+      {
+        "type": "concentric_circles",
+        "radii": [
+          64,
+          128,
+          256
+        ]
+      }
+    ]
+  },
+  "p": {
+    "width": 1024,
+    "background": null,
+    "components": [
+      {
+        "type": "hexagon_circles",
+        "fill_pattern": "101111",
+        "rotation": 30
+      }
+    ]
+  },
+  "P": {
+    "width": 1024,
+    "background": null,
+    "components": [
+      {
+        "type": "hexagon_circles",
+        "fill_pattern": "011000"
+      }
+    ]
+  },
+  "u": {
+    "width": 1024,
+    "background": null,
+    "components": [
+      {
+        "type": "concentric_circles",
+        "radii": [
+          64,
+          128,
+          256
+        ]
+      },
+      {
+        "type": "hexagon_circles",
+        "fill_pattern": "101111",
+        "rotation": 30
+      }
+    ]
+  },
+  "U": {
+    "width": 1024,
+    "background": {
+      "shape": "circle",
+      "radius": 304
+    },
+    "components": [
+      {
+        "type": "concentric_circles",
+        "radii": [
+          64,
+          128,
+          256
+        ]
+      },
+      {
+        "type": "hexagon_circles",
+        "fill_pattern": "010000",
+        "rotation": 30
+      }
+    ]
+  }
+}
