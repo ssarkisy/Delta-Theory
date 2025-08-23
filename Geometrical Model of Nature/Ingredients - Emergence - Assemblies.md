@@ -1,15 +1,5 @@
 
 
-
-
-
-Action
-
-- occurs when a point object intersects a potential sphere.
-- follows the laws of superposition
-- is dependent on the velocity of the receiving point object
-- causes a force along the line from the point object to the emission point in path history. 
-
 Each point object traverses a continuous path through ${R}^4$. 
 
 - Paths have no known beginning in ${R}^4$. 
