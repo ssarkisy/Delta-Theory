@@ -1,24 +1,5 @@
 
 
-
-
-
-Assembly theory and recursion
-
-- we could think of the universe as an unbounded collection of interacting point objects.
-- to understand nature we model the emergent behavior of interacting point objects
-- the binary of an electrino and a positrino defines the most basic assembly
-- binary assemblies can 'nest' like a Russian doll.
-- all assemblies can be defined in terms of subassemblies. (~recursion)
-
-
-
-
-
-
-
----
-
 ## 🧭 Ontological Framework of Dynamical Geometry
 
 We seek to model nature through a minimal set of fundamental entities and their interactions, expressed geometrically within a continuous manifold. The foundational structure is defined as:
