@@ -55,8 +55,8 @@ Plain language: A push now only happens if a past sphere has had exactly enough 
   - ρ(t, s) = (q/(4π r²)) δ(r − v τ) H(τ), r = ||s − s₀||, τ = t − t₀.
   - Equivalently with surface delta δ_S: ρ = (q/(4π r²)) δ_S_{vτ}(s − s₀) H(τ).
 - Regularization:
-  - δ(r − τ) → δ_ε(r − τ) = (1/(√(2π) ε)) exp(−(r − τ)²/(2 ε²)).
-  - Use ε > 0 when differentiability is required; take ε → 0 limits in the weak/integrated sense.
+  - δ(r − v τ) → δ_η(r − v τ) = (1/(√(2π) η)) exp(−(r − v τ)²/(2 η²)).
+  - Use η > 0 when differentiability is required; take η → 0 limits in the weak/integrated sense.
 
 Plain language: Each emission is a razor-thin spherical shell; when needed, we thicken it slightly so calculus works smoothly.
 
@@ -86,9 +86,9 @@ Plain language: For each past emission that can reach you now, push along the li
 ## 6) Energetics
 
 - Potential (mollified):
-  - Φ_ε is defined using δ_ε shells; U = q′ Φ_ε at a point.
+  - Φ_η is defined using δ_η shells; U = q′ Φ_η at a point.
 - Force relation:
-  - F = −∇U holds pointwise for Φ_ε; as ε → 0, interpret in the weak sense over resolved intervals.
+  - F = −∇U holds pointwise for Φ_η; as η → 0, interpret in the weak sense over resolved intervals.
 - Work–energy:
   - ΔE_k = ∫ F · ds = −ΔU.
 
@@ -101,6 +101,7 @@ Plain language: With slightly thick shells, the usual “force is minus gradient
 - v = 1 by default (dimensionless speed unit).
 - ε = |e|/6 is the unit charge magnitude; Electrino q = −ε, Positrino q = +ε.
 - κ > 0 universal coupling.
+- η > 0 mollifier width (regularization parameter).
 - q_eff(t₀) = q/(1 + |v_source(t₀)|) (per-wavefront amplitude); receiver modulation 1/(1 + |v_receiver(t)|).
 - r, r̂ as above; H is the Heaviside step function with H(0) = 0.
 
