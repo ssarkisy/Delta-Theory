@@ -84,3 +84,7 @@ This is especially useful in modeling:
 - Planetary oblateness and its effect on satellite orbits
 - Stellar rotation and frame dragging
 - Gravitational wave emission from deformed bodies
+
+### 5. Synthesis with General Relativity
+
+The emergent, deformable oblate spheroidal geometry of the Noether Core provides a physical structure that is a natural fit for the mathematical techniques developed to model gravitating bodies in General Relativity. The mathematical framework of GR, particularly its use of oblate spheroidal coordinates and dynamic stress-energy tensors, can thus be re-contextualized as an effective theory describing the behavior of these fundamental assemblies. The Noether core is therefore a geometrical fit with the mathematical techniques used in general relativity in an abstract model, providing a potential physical basis for the abstract geometric concepts of GR.
