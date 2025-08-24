@@ -2,6 +2,34 @@
 
 This project adheres to a human‑readable changelog. Versions reference GitHub releases; unreleased items track upcoming work.
 
+## [v0.4.5] — Geometrical Model of Nature Integration Framework
+
+### Added
+- **Geometrical Model of Nature Theory:**
+  - **Action:** Formalizes action as the conserved linkage between configuration and dynamics, grounding mechanical evolution in the GMN framework.
+  - **Kinetic and Potential Energy:** Describes energy partitioning within GMN assemblies and how transformations mediate stability and motion.
+  - **Nested Binaries and the Noether Core:** Outlines hierarchical binary structures whose conserved symmetries organize interaction rules around a Noether-like core.
+
+  - **Assemblies:**
+    - **Orbiting Binary:** Demonstrates stable two-body dynamics as a foundational assembly pattern for structure and interaction.
+    - **Measurement of Time:** Defines time measurement via periodic processes emerging from constrained binary motion and symmetry.
+    - **Personality Architecture:** Maps stable behavioral configurations to structural parameters of nested assemblies.
+    - **Photons and Neutrinos:** Frames lightlike and near-lightlike carriers as minimal excitations propagating information and interaction.
+    - **Gluons:** Describes binding intermediaries that mediate structural cohesion within composite assemblies.
+    - **W and Z Bosons:** Details short-range interaction carriers shaping transformation pathways between assembly states.
+    - **Higgs Boson:** Explains mass acquisition as an emergent property of coupling to a background structural field.
+
+  - **Informational Layer:**
+    - **Mathematical Style Guide** 
+
+  - **Mapping to General Relativity:**
+    - **The Noether Core:** Connects conservation symmetries to GR-aligned invariants, establishing a bridge from model assemblies to curvature-based dynamics.
+
+  - **Assets:**
+    - **Neoclassical Font:** Custom glyph set, generator, preview, and TTF for consistent typographic representation of model symbols.
+
+### Changed
+- **Reorganization of geometric model content.**
 
 ## [v0.4.4] — Geometrical Model of Nature Integration Framework
 
