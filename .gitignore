@@ -14,3 +14,9 @@ cache.db*
 
 # Obsidian
 .obsidian
+
+# Helper md
+aider.md
+README-ask.md
+README-git.md
+README-prompts.md
