@@ -2,6 +2,13 @@
 
 This project adheres to a human‑readable changelog. Versions reference GitHub releases; unreleased items track upcoming work.
 
+## [v0.4.6] — Geometrical Model of Nature - Action
+
+### Added/Changed
+
+- Extensive expansion of Action specification, including detailed walkthroughs. 
+- Included multiple mathematical approaches and compared their pros and cons.
+
 ## [v0.4.5] — Geometrical Model of Nature Integration Framework
 
 ### Added

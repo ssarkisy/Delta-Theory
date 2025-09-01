@@ -16,9 +16,9 @@ The theory is built upon three fundamental types of entities expressed geometric
 ## Theoretical Foundation
 
 ### Timespace Manifold
-- Defined as $\mathcal{M} = \mathbb{R}^4 = \mathbb{R}_t \times \mathbb{R}^3_x$
+- Defined as $\mathcal{M} = \mathbb{R}_t \times \mathbb{R}^3_x$
 - Continuous, differentiable, and unbounded manifold
-- No intrinsic metric, origin, or coordinate system
+- No non-degenerate 4D metric; background is absolute time × Euclidean 3-space; no privileged origin or coordinate system
 - All structures are emergent
 
 ### Point Objects
@@ -29,7 +29,7 @@ The theory is built upon three fundamental types of entities expressed geometric
 - Have unique provenance (non-interchangeable, non-destructible)
 
 ### Emission Dynamics
-- Spherical potential field expansion at field speed $c_f$
+- Spherical potential field expansion at field speed $v$
 - Potential magnitude follows $|\phi(r)| \propto \frac{1}{r^2}$
 - Action occurs through field intersection and superposition
 

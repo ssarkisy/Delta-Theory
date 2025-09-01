@@ -19,10 +19,10 @@ electron and anti-electron (positron) = <span style="font-family: 'neoclassical'
 
 deuterium = <span style="font-family: 'neoclassical'; font-size: 24pt;">(dud)e(udu)</span>
 
-spacetime = <span style="font-family: 'neoclassical'; font-size: 24pt;">&lt;hH|hH&gt;</span>
+timespace = <span style="font-family: 'neoclassical'; font-size: 24pt;">&lt;hH|hH&gt;</span>
 
 
-hydrogen in spacetime<br>
+hydrogen in timespace<br>
 <span style="font-family: 'neoclassical'; font-size: 16pt;">hHhHhHhHhHhHhHhHhHhHhHhH</span><br>
 <span style="font-family: 'neoclassical'; font-size: 16pt;">hHhHhHhHhHhHhHhHhHhHhHhH</span><br>
 <span style="font-family: 'neoclassical'; font-size: 16pt;">hHhHhHhHhHhHhHhHhHhHhHhH</span><br>
