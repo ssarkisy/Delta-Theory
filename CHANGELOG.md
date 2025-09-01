@@ -11,9 +11,9 @@ This project adheres to a human‑readable changelog. Versions reference GitHub 
 
 ## [v0.4.5] — Geometrical Model of Nature Integration Framework
 
-### Added 
-
-- Formalizes action as the conserved linkage between configuration and dynamics, grounding mechanical evolution in the GMN framework.
+### Added
+- **Geometrical Model of Nature Theory:**
+  - **Action:** Formalizes action as the conserved linkage between configuration and dynamics, grounding mechanical evolution in the GMN framework.
   - **Kinetic and Potential Energy:** Describes energy partitioning within GMN assemblies and how transformations mediate stability and motion.
   - **Nested Binaries and the Noether Core:** Outlines hierarchical binary structures whose conserved symmetries organize interaction rules around a Noether-like core.
 
