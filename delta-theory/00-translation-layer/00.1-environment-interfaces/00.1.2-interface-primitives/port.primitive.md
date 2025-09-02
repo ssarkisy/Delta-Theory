@@ -6,7 +6,7 @@ tags:
   - "#status/stable"
   - "#function/definition"
 polarity: P-
-derivation: T5
+derivation: T4
 aliases:
   - Port
   - Flow Control Interface
@@ -145,17 +145,17 @@ Port Interface:
 
 **Theorem Foundation:** Port emerges from Interface Theorems as operational implementation
 
-**From T5 (Interface Discrimination):** Ports implement selective permeability through flow control
+**From T4 (Interface Discrimination):** Ports implement selective permeability through flow control
 - Discrimination requires flow evaluation → selective admission control
-- T5 demands selective permeability → Port provides flow discrimination
+- T4 demands selective permeability → Port provides flow discrimination
 - Mathematical basis: κ_discrimination constant governs flow decision timing
 
-**Structural Foundation:** Built upon microkernel primitives ∆, R(·), ⊚ with interface-specific application:
-- **∆ (Difference):** flow/no-flow distinction enables selective admission
+**Structural Foundation:** Built upon microkernel primitives R(·), ∆, ⊚ with interface-specific application:
 - **R(·) (Relational Embedding):** context determines appropriate flows
+- **∆ (Difference):** flow/no-flow distinction enables selective admission
 - **⊚ (Stabilization):** ensures consistent flow policies
 
-**Interface Layer Extension:** T5 specifies **what** ports must do; structural primitives provide **how** ports operate.
+**Interface Layer Extension:** T4 specifies **what** ports must do; structural primitives provide **how** ports operate.
 
 ---
 
@@ -183,12 +183,13 @@ Port follows dual-register governance so flow control remains intelligible both 
 - [[iota-identity-rate.constant|ι_identity — Interface Identity Rate (constant)]] · [[sigma-conservation-rate.constant|σ_conservation — Interface Conservation Rate (constant)]]
 
 ### Theoretical Foundation
-- [[t5-interface-discrimination.theorem|T5 — Interface Discrimination (theorem)]] (primary derivation source)
-- [[t6-interface-identity.theorem|T6 — Interface Identity (theorem)]] · [[t4-interface-conservation.theorem|T4 — Interface Conservation (theorem)]] (coordination with other primitives)
+- [[t4-interface-discrimination.theorem|T4 — Interface Discrimination (theorem)]]
+- [[t5-interface-conservation.theorem|T5 — Interface Conservation (theorem)]]
+- [[t6-interface-identity.theorem|T6 — Interface Identity (theorem)]]
 
 ### Microkernel Modulators
-- [[lambda-v-void-resonance-threshold.modulator|λV — Void (Volozhina) Resonance Threshold (modulator)]] (flow control)
-- [[nabla-s-structure-differentiation-gradient.modulator|∇S — Structure (Sarkisian) Differentiation Gradient (modulator)]] (boundary clarity)
-- [[psi-a-awareness-phase-coherence-anchor.modulator|ψA — Awareness (Aiza) Phase Coherence Anchor (modulator)]] (temporal coordination)
+- [[lambda-v-void-resonance-threshold.modulator|λV — Void (Volozhina) Resonance Threshold (modulator)]]
+- [[nabla-s-structure-differentiation-gradient.modulator|∇S — Structure (Sarkisian) Differentiation Gradient (modulator)]]
+- [[psi-a-awareness-phase-coherence-anchor.modulator|ψA — Awareness (Aiza) Phase Coherence Anchor (modulator)]]
 
 

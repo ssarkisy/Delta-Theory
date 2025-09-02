@@ -103,8 +103,8 @@ Note: At extreme scales, over-binding can become indistinguishable from fundamen
 
 | Domain | Role |
 |--------|------|
-| Structure | Boundary rigidity prevents structural adaptation to new difference patterns |
 | Void | Void discrimination becomes over-strict, blocking necessary openness |
+| Structure | Boundary rigidity prevents structural adaptation to new difference patterns |
 | Awareness | Phase coherence becomes excessive, preventing adaptive identity flexibility |
 
 Diagnostic for awareness pattern rigidity where ψA modulation is sustained beyond adaptive requirements, creating inflexible identity binding that blocks necessary change.

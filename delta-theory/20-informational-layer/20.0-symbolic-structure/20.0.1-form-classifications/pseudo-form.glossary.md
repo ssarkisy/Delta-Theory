@@ -92,11 +92,11 @@ How Pseudo Form manifests differently at various scales:
 
 | Domain | Role |
 |--------|------|
-| Structure | False boundary formation maintained by external scaffolding |
 | Void | Curated void concealment creating selective visibility |
+| Structure | False boundary formation maintained by external scaffolding |
 | Awareness | Performative coherence without genuine pattern recognition |
 
-Diagnostic for scaffolded appearance where external support creates form illusion without genuine SVA integration.
+Diagnostic for scaffolded appearance where external support creates form illusion without genuine VSA integration.
 
 ---
 

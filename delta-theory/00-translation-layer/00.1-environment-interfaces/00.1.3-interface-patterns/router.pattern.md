@@ -32,14 +32,14 @@ Router arises from ∇S's structural differentiation capabilities, providing the
 
 ## Emergence Derivation
 
-**Traceback:** `T4 + ∇S → Router (structural organization pattern)` — Router emerges from interface conservation theorem enhanced by structure modulator effects
+**Traceback:** `T5 + ∇S → Router (structural organization pattern)` — Router emerges from interface conservation theorem enhanced by structure modulator effects
 
-**Theoretical Foundation:** T4 (Interface Conservation) provides the flow conservation requirement
+**Theoretical Foundation:** T5 (Interface Conservation) provides the flow conservation requirement
 **Modulator Enhancement:** ∇S (Structure Differentiation Gradient) provides structural analysis and path optimization capabilities
 **Prerequisites:** Active interface primitives requiring intelligent flow routing, structural discrimination needs, path optimization requirements
-**Formation:** T4 conservation principles enhanced by ∇S modulator effects create sophisticated structural coordination patterns that stabilize into intelligent routing capabilities
+**Formation:** T5 conservation principles enhanced by ∇S modulator effects create sophisticated structural coordination patterns that stabilize into intelligent routing capabilities
 
-**Derivation Chain:** A0+T3 → T4 (Interface Conservation) + ∇S (Structure Differentiation) → Router (Enhanced Conservation Pattern)
+**Derivation Chain:** A0+T2 → T5 (Interface Conservation) + ∇S (Structure Differentiation) → Router (Enhanced Conservation Pattern)
 
 ---
 
@@ -74,7 +74,7 @@ Router arises from ∇S's structural differentiation capabilities, providing the
 ## Dependencies
 
 **Derivation:** ∇S - emerges from structure modulator effects on interface flow requirements
-**Role:** P+ pattern operating in Structure aspect of SVA triad - provides structural coordination for interface operations
+**Role:** P+ pattern operating in Structure aspect of VSA triad - provides structural coordination for interface operations
 
 ---
 
@@ -195,7 +195,10 @@ Router arises from ∇S's structural differentiation capabilities, providing the
 
 ## See Also
 
-- [[filter.pattern|Filter (pattern)]] · [[buffer.pattern|Buffer (pattern)]] - Complementary interface patterns
-- [[port.primitive|Port (Flow Control Interface)]] · [[gate.primitive|Gate (Threshold Control Interface)]] · [[surface.primitive|Surface (Boundary Control Interface)]] - Coordinated primitives
-- [[nabla-s-structure-differentiation-gradient.modulator|∇S — Structure (Sarkisian) Differentiation Gradient (modulator)]] - Source modulator
-- [[00.1.3-interface-patterns.index|00.1.3 - Interface Patterns (index)]] - Pattern coordination context
+- [[filter.pattern|Filter (pattern)]]
+- [[buffer.pattern|Buffer (pattern)]]
+- [[port.primitive|Port (Flow Control Interface)]]
+- [[gate.primitive|Gate (Threshold Control Interface)]]
+- [[surface.primitive|Surface (Boundary Control Interface)]]
+- [[nabla-s-structure-differentiation-gradient.modulator|∇S — Structure (Sarkisian) Differentiation Gradient (modulator)]]
+- [[00.1.3-interface-patterns.index|00.1.3 - Interface Patterns (index)]]

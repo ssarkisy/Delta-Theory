@@ -6,17 +6,17 @@ tags:
   - "#status/stable"
   - "#function/definition"
 polarity: P-
-derivation: A0+T2
+derivation: A0+T1
 aliases:
-  - T5
+  - T4
   - Interface Discrimination
   - Selective Permeability
-  - T5 — Interface Discrimination (theorem)
+  - T4 — Interface Discrimination (theorem)
 ---
 
-# T5 — Interface Discrimination (theorem)
+# T4 — Interface Discrimination (theorem)
 
-> **Interfaces must discriminate between flows** — not all differences can cross every boundary. This theorem derives necessarily from T2 (Asymmetry) and A0 (Existential Difference).
+> **Interfaces must discriminate between flows** — not all differences can cross every boundary. This theorem derives necessarily from T1 (Asymmetry) and A0 (Existential Difference).
 
 ---
 
@@ -44,18 +44,18 @@ aliases:
 
 ## Proof
 
-**Given:** A0 (Existential Difference) and T2 (Asymmetry)
+**Given:** A0 (Existential Difference) and T1 (Asymmetry)
 
 **To Prove:** Interfaces must discriminate between flows
 
 **Proof:**
 1. **From A0:** For interfaces to exist, they must be distinguishable from their environment at resolution ε
 2. **Interface distinguishability:** Requires different behavior for different flows (discriminating function)
-3. **From T2:** Directional distinction creates ∆(A→B) ≠ ∆(B→A), establishing "inside" vs "outside" asymmetry
+3. **From T1:** Directional distinction creates ∆(A→B) ≠ ∆(B→A), establishing "inside" vs "outside" asymmetry
 4. **Applied to interfaces:** Creates "crossing in" ≠ "crossing out" directional asymmetry
-5. **If interface allows all flows equally:** Eliminates directional distinction, violating T2
+5. **If interface allows all flows equally:** Eliminates directional distinction, violating T1
 6. **If interface shows no flow discrimination:** Becomes indistinguishable from non-interface, violating A0
-7. **Therefore:** Interface must discriminate between flows to satisfy both A0 and T2 □
+7. **Therefore:** Interface must discriminate between flows to satisfy both A0 and T1 □
 
 **Corollaries:**
 - Selective permeability is logically necessary for stable interfaces
@@ -133,7 +133,7 @@ aliases:
 
 ## Dependencies & scope
 
-- **Derived from:** A0 (Existential Difference) and T2 (Asymmetry) - derives from their combination
+- **Derived from:** A0 (Existential Difference) and T1 (Asymmetry) - derives from their combination
 - **Requires:** Interface existence and flow dynamics
 - **Applies to:** All interface primitives (Port, Gate, Surface, Buffer) requiring controlled exchange
 - **Exceptions:** Theoretical interfaces with infinite capacity (boundary case)
@@ -144,10 +144,10 @@ aliases:
 
 ### Foundation Theorems
 - **A0 (Existential Difference):** Interfaces must exist through distinguishable discrimination behavior
-- **T2 (Asymmetry):** Leverages asymmetric distinction for directional discrimination
+- **T1 (Asymmetry):** Leverages asymmetric distinction for directional discrimination
 
 ### Supporting Principles
-- **T1 (Irreducibility):** Preserves irreducible differences across interface crossings
+- **T2 (Irreducibility):** Preserves irreducible differences across interface crossings
 - **T3 (Recursivity):** Enables stable discrimination patterns through closure
 - **T6 (Interface Identity):** Interface identity preserved through discrimination consistency
 
@@ -163,13 +163,13 @@ aliases:
 
 ## See Also
 
-- [[A0-existential-difference.axiom]] - Source axiom
-- [[T2-asymmetry.theorem]] - Co-derivation source
-- [[t4-interface-conservation.theorem|T4 — Interface Conservation (theorem)]]
+- [[a0-existential-difference.axiom|A0 — Existential Difference (axiom)]]
+- [[t1-asymmetry.theorem|T1 — Asymmetry Theorem (theorem)]]
+- [[t2-irreducibility.theorem|T2 — Irreducibility (theorem)]]
+- [[t3-recursivity.theorem|T3 — Recursivity Theorem (theorem)]]
+- [[t5-interface-conservation.theorem|T5 — Interface Conservation (theorem)]]
 - [[t6-interface-identity.theorem|T6 — Interface Identity (theorem)]]
 - [[00.1.0-interface-theorems.index|00.1.0 - Interface Theorems (index)]]
-- [[t1-irreducibility.theorem|T1 — Irreducibility (theorem)]]
-- [[t3-recursivity.theorem|T3 — Recursivity Theorem (theorem)]]
 - [[lambda-v-void-resonance-threshold.modulator|λV — Void (Volozhina) Resonance Threshold (modulator)]]
 
 ---

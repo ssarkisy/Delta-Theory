@@ -32,7 +32,7 @@ It biases how quickly a raw difference (∆) is **embedded** and **stratified** 
 **Traceback:** `∆ → R(·) → ⊚ → F` — why primitive operations require this modulation
 
 **Flow:** ∆ needs variable amplification → R(·) requires embedding depth control → ⊚ needs tunable boundary sharpness → ∇S emerges to modulate structural complexity
-**Core:** From φ (asymmetric bias), ε (resolution threshold) - structural bias toward differentiation
+**Core:** From e (transformation rate), ε (resolution threshold) - structural bias toward differentiation
 **Control:** Manages boundary formation, hierarchical depth, and structural partitioning
 
 ---
@@ -86,17 +86,17 @@ Brief examples across domains showing both technical and humane angles:
 
 ## Formal identity
 
-- Global modulation: $\Delta(t) = ∇S(t) \times λV(t) \times ψA(t)$
+- Global modulation: $\Delta(t) = λV(t) \times ∇S(t) \times ψA(t)$
 - Embedding bias: higher effective $∇S$ increases feasible depth $n$ in $F_n = ⊚(R^n(∆_0))$ under fixed $λV, ψA$ constraints
 - Boundary sharpness: $sharpness \propto ∇S$ for interface definition clarity
-- Structural capacity: $max\_depth = f(∇S, λV, ψA)$ where $∇S$ primarily drives hierarchical depth
+- Structural capacity: $max\_depth = f(λV, ∇S, ψA)$ where $∇S$ primarily drives hierarchical depth
 
 ---
 
 ## Dependencies
 
-**Constants:** ε (resolution threshold), π (closure geometry), e (scaling rate), φ (asymmetric bias)
-**Role:** P+ modulator controlling structural depth and boundary clarity in SVA triad
+**Constants:** e (transformation rate), ε (resolution threshold)
+**Role:** P+ modulator controlling structural depth and boundary clarity in VSA triad
 
 ---
 

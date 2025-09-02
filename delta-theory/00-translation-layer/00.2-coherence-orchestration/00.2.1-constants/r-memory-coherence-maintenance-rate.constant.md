@@ -5,7 +5,7 @@ tags:
   - "#sublayer/coherence"
   - "#status/stable"
   - "#function/definition"
-polarity: P+
+polarity: P0
 derivation: T9
 aliases:
   - r_memory
@@ -37,7 +37,7 @@ aliases:
 3. **Constant Emergence:** r_memory emerges as the fundamental rate governing memory maintenance operations
 4. **Invariant Nature:** Represents the minimal operational tempo required for sustainable memory coherence
 
-**Traceback:** `A0 → T3+A0 → T4 → T9 → r_memory` — derivation chain from foundational axiom
+**Traceback:** `A0 → T3+A0 → T6 → T9 → r_memory` — derivation chain from foundational axiom
 
 **Flow:** T9 requires information preservation across states → information coherence degrades without maintenance → r_memory provides the base rate for reinforcement operations → enables sustainable memory coherence
 
@@ -183,13 +183,13 @@ r_memory > 0 (positive definite)
 ## Relationship to Other Principles
 
 ### Foundation Theorems
-- **T9 (Memory Coherence):** Direct source - provides mathematical expression of memory preservation requirement
-- **T4 (Interface Conservation):** Provides foundation for information conservation necessity across boundaries
 - **A0 (Existential Difference):** Ensures memory maintenance cannot be eliminated
+- **T6 (Interface Identity):** Provides foundation for identity preservation necessity across boundaries
+- **T9 (Memory Coherence):** Direct source - provides mathematical expression of memory preservation requirement
 
 ### Supporting Principles
-- **T7 (Temporal Continuity):** Memory coherence enables temporal identity persistence
-- **T8 (Recovery Stability):** Memory coherence provides information foundation for recovery discrimination
+- **T7 (Recovery Stability):** Memory coherence provides information foundation for recovery discrimination
+- **T8 (Temporal Continuity):** Memory coherence enables temporal identity persistence
 
 ### Higher-Level Extensions
 - **Coherence Modulators:** r_memory provides timing foundation for coherence modulation operations
@@ -199,7 +199,8 @@ r_memory > 0 (positive definite)
 
 ## See Also
 
-- [[t9-memory-coherence.theorem\|T9 — Memory Coherence (theorem)]] - Source theorem
-- [[gamma-retention-factor.constant\|γ_retention — Memory Retention Factor (constant)]] - Related memory constant
-- [[r-temporal-coherence-maintenance-rate.constant\|r_temporal — Temporal Coherence Maintenance Rate (constant)]] · [[r-stability-assessment-rate.constant\|r_stability — Stability Assessment Rate (constant)]] - Related coherence rates
-- [[00.2.1-constants.index\|00.2.1 - Constants (index)]] - Parent module
+- [[t9-memory-coherence.theorem\|T9 — Memory Coherence (theorem)]]
+- [[gamma-retention-factor.constant\|γ_retention — Memory Retention Factor (constant)]]
+- [[r-temporal-coherence-maintenance-rate.constant\|r_temporal — Temporal Coherence Maintenance Rate (constant)]]
+- [[r-stability-assessment-rate.constant\|r_stability — Stability Assessment Rate (constant)]]
+- [[00.2.1-constants.index\|00.2.1 - Constants (index)]]

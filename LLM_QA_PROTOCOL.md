@@ -196,7 +196,7 @@ This protocol ensures that every module, interface, and component developed in D
 **Before suggesting any development priorities**:
 - ✓ **Theorem Existence**: T1-T3 (microkernel), T4-T6 (interfaces), T7-T9 (coherence) - check if already exists
 - ✓ **Layer Scope**: Universal (00.X), Universal APIs (01.X), Domain Bridges (02.X), Domain Applications (10.X) - verify correct placement
-- ✓ **Intrinsic Capabilities**: Field coordination, modulator synchronization, SVA progression - check if external protocols needed
+- ✓ **Intrinsic Capabilities**: Field coordination, modulator synchronization, VSA progression - check if external protocols needed
 - ✓ **Architectural Boundaries**: Translation (00.X, 01.X, 02.X) vs Implementation (10.X) vs Informational (20.X) - confirm appropriate layer
 
 **Response Format**: `Assessment → Problems → Solutions → Guidance → Integration → Next Steps`

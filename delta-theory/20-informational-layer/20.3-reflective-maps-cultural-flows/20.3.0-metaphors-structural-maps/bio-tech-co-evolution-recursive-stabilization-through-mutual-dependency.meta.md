@@ -90,11 +90,11 @@ Human Form (P+) ←→ Technology Form (P+)
 
 **Bio-Tech interfaces might operate through patterns similar to:**
 
-**T4 — Interface Conservation (analogous):**
+**T4 — Interface Discrimination (analogous):**
 - Resource flows (energy, materials, information) could be conserved across bio-tech boundaries
 - Evolutionary pressures might flow bidirectionally, shaping both biological and technological development
 
-**T5 — Interface Discrimination (analogous):**
+**T5 — Interface Conservation (analogous):**
 - Humans potentially adopt technologies that enhance capabilities without overwhelming biological systems
 - Technologies could integrate human inputs that improve functionality without creating dependencies
 
@@ -108,11 +108,11 @@ Human Form (P+) ←→ Technology Form (P+)
 
 **Bio-Tech co-evolution might exhibit patterns similar to:**
 
-**T7 — Temporal Continuity (analogous):**
+**T7 — Recovery Stability (analogous):**
 - Both biological and technological evolution could maintain identity through co-evolutionary changes
 - Generational continuity might require stable transmission of both genetic and technological information
 
-**T8 — Recovery Stability (analogous):**
+**T8 — Temporal Continuity (analogous):**
 - Co-evolutionary systems might recover from perturbations (technological failures, biological crises)
 - Resilience could emerge from redundancy across both biological and technological systems
 

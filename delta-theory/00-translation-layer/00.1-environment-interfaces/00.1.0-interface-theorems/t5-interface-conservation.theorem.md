@@ -6,17 +6,17 @@ tags:
   - "#status/stable"
   - "#function/definition"
 polarity: P+
-derivation: A0+T3
+derivation: A0+T2
 aliases:
-  - T4
+  - T5
   - Interface Conservation
   - Flow Conservation
-  - T4 — Interface Conservation (theorem)
+  - T5 — Interface Conservation (theorem)
 ---
 
-# T4 — Interface Conservation (theorem)
+# T5 — Interface Conservation (theorem)
 
-> **Interface operations must preserve difference across boundaries** — what enters, exits, or transforms must maintain ontological coherence. This theorem derives necessarily from A0 (Existential Difference) and T3 (Recursivity).
+> **Interface operations must preserve difference across boundaries** — what enters, exits, or transforms must maintain ontological coherence. This theorem derives necessarily from A0 (Existential Difference) and T2 (Irreducibility).
 
 ---
 
@@ -44,7 +44,7 @@ aliases:
 
 ## Proof
 
-**Given:** A0 (Existential Difference) and T3 (Recursivity)
+**Given:** A0 (Existential Difference) and T2 (Irreducibility)
 
 **To Prove:** Interface operations must preserve difference across boundaries
 
@@ -52,11 +52,11 @@ aliases:
 1. **From A0:** For interfaces to exist, they must maintain distinguishable behavior at resolution ε
 2. **Interface operations:** Involve differences crossing boundaries and transforming
 3. **Conservation requirement:** If differences are arbitrarily lost, interface becomes indistinguishable from non-interface
-4. **From T3:** Stable interface patterns require recursive closure: ⊚(R(∆))
+4. **From T2:** Stable interface patterns require irreducible preservation: ∆ cannot decompose
 5. **Applied to conservation:** All operations must "close" with accountable transformations for pattern recognition
 6. **If interface destroys differences:** Violates A0 (loses distinguishability, ceases to exist)
-7. **If interface lacks conservation closure:** Violates T3 (no stable recognizable patterns)
-8. **Therefore:** Interface must conserve differences across boundaries to satisfy both A0 and T3 □
+7. **If interface lacks conservation closure:** Violates T2 (no irreducible preservation)
+8. **Therefore:** Interface must conserve differences across boundaries to satisfy both A0 and T2 □
 
 **Corollaries:**
 - Difference conservation is logically necessary for stable interfaces
@@ -133,8 +133,8 @@ aliases:
 
 ## Dependencies & scope
 
-- **Derived from:** A0 (Existential Difference) and T3 (Recursivity) - derives from their combination
-- **Requires:** T5 (conservation needs flow discrimination) and stable interface boundaries
+- **Derived from:** A0 (Existential Difference) and T2 (Irreducibility) - derives from their combination
+- **Requires:** T4 (conservation needs flow discrimination) and stable interface boundaries
 - **Applies to:** All interface operations involving flow transformation or state change
 - **Exceptions:** Theoretical interfaces with infinite capacity (boundary case)
 
@@ -171,9 +171,9 @@ aliases:
 - **T3 Dependency:** Requires recursive closure for conservation accounting loops and pattern recognition
 
 ### Theorem Interactions
-- **T1 (Irreducibility):** Preserves irreducible differences across interface boundaries
-- **T2 (Asymmetry):** Enables directional flow tracking for conservation accounting
-- **T5 (Discrimination):** Requires discrimination for selective conservation
+- **T1 (Asymmetry):** Enables directional flow tracking for conservation accounting
+- **T2 (Irreducibility):** Preserves irreducible differences across interface boundaries
+- **T4 (Discrimination):** Requires discrimination for selective conservation
 - **Interface Synergy:** All interface theorems work together for complete interface behavior
 
 ---
@@ -188,13 +188,13 @@ aliases:
 
 ## See Also
 
-- [[A0-existential-difference.axiom]] - Source axiom
-- [[T3-recursivity.theorem]] - Co-derivation source
-- [[t5-interface-discrimination.theorem|T5 — Interface Discrimination (theorem)]]
+- [[a0-existential-difference.axiom|A0 — Existential Difference (axiom)]]
+- [[t1-asymmetry.theorem|T1 — Asymmetry Theorem (theorem)]]
+- [[t2-irreducibility.theorem|T2 — Irreducibility (theorem)]]
+- [[t3-recursivity.theorem|T3 — Recursivity Theorem (theorem)]]
+- [[t4-interface-discrimination.theorem|T4 — Interface Discrimination (theorem)]]
 - [[t6-interface-identity.theorem|T6 — Interface Identity (theorem)]]
 - [[00.1.0-interface-theorems.index|00.1.0 - Interface Theorems (index)]]
-- [[t1-irreducibility.theorem|T1 — Irreducibility (theorem)]]
-- [[t2-asymmetry.theorem|T2 — Asymmetry Theorem (theorem)]]
 - [[psi-a-awareness-phase-coherence-anchor.modulator|ψA — Awareness (Aiza) Phase Coherence Anchor (modulator)]]
 
 

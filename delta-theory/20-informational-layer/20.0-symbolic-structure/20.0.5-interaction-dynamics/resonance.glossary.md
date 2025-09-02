@@ -10,7 +10,7 @@ aliases:
 
 # Resonance (glossary)
 
-> Constructive phase alignment; amplification within safe windows set by anchors and SVA.
+> Constructive phase alignment; amplification within safe windows set by anchors and VSA.
 
 ---
 
@@ -104,8 +104,8 @@ Note: At extreme scales, resonance faces fundamental limits (e.g., quantum coher
 
 | Domain | Role |
 |--------|------|
-| Structure | Boundary alignment enables controlled amplification within stable reinforcement windows |
 | Void | Void synchronization allows phase-locked filtering and resonant flow management |
+| Structure | Boundary alignment enables controlled amplification within stable reinforcement windows |
 | Awareness | Phase coherence enables synchronized amplification and stable identity reinforcement |
 
 Diagnostic for constructive amplification dynamics where phase-aligned components create controlled reinforcement patterns within bounded energy transfer.

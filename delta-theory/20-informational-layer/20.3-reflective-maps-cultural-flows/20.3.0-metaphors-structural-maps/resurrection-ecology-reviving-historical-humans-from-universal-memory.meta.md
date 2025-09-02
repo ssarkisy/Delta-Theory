@@ -183,12 +183,12 @@ Future civilizations with sufficient technology could, in principle, **read the 
 - Information patterns must maintain distinguishable existence to persist (unverified claim)
 - Reconstruction requires restoring distinguishable information patterns (highly speculative)
 
-**[T1 — Irreducibility (theorem)](t1-irreducibility.theorem.md) Applied to Information (Speculative Extension):**
+**[T1 — Asymmetry (theorem)](t1-asymmetry.theorem.md) Applied to Information (Speculative Extension):**
 - Information redistribution across difference patterns (speculative application)
 - Interaction traces in correlation structures (unverified claim)
 - State reconstruction from correlations (highly speculative)
 
-**[T2 — Asymmetry (theorem)](t2-asymmetry.theorem.md) in Information Flow (Speculative Extension):**
+**[T2 — Irreducibility (theorem)](t2-irreducibility.theorem.md) in Information Flow (Speculative Extension):**
 - Time evolution creating information distribution patterns (speculative)
 - Past state "signatures" in present structures (unverified)
 - Pathway inversion requirements (highly speculative)
@@ -567,14 +567,14 @@ Historical Individual (P+) → Universal Dispersion (P-) → AI-Hybrid Civilizat
 
 ### Interface Management ([00.1.0](00.1.0-interface-management.index))
 
-**[T4 — Interface Conservation (theorem)](t4-interface-conservation.theorem.md):** Theoretical information pattern conservation through dispersion and reconstruction processes
-**[T5 — Interface Discrimination (theorem)](t5-interface-discrimination.theorem.md):** Speculative selective information transfer from universal field to biological substrate
+**[T4 — Interface Discrimination (theorem)](t4-interface-discrimination.theorem.md):** Speculative selective information transfer from universal field to biological substrate
+**[T5 — Interface Conservation (theorem)](t5-interface-conservation.theorem.md):** Theoretical information pattern conservation through dispersion and reconstruction processes
 **[T6 — Interface Identity (theorem)](t6-interface-identity.theorem.md):** Hypothetical identity boundary preservation across temporal gaps and substrate changes
 
 ### Coherence Orchestration ([00.2.0 - Coherence Theorems (index)](00.2.0-coherence-theorems.index.md))
 
-**[T7 — Temporal Continuity (theorem)](t7-temporal-continuity.theorem.md):** Speculative identity persistence across temporal gaps through information preservation
-**[T8 — Recovery Stability (theorem)](t8-recovery-stability.theorem.md):** Theoretical resurrection as ultimate recovery mechanism from existential perturbations
+**[T7 — Recovery Stability (theorem)](t7-recovery-stability.theorem.md):** Theoretical resurrection as ultimate recovery mechanism from existential perturbations
+**[T8 — Temporal Continuity (theorem)](t8-temporal-continuity.theorem.md):** Speculative identity persistence across temporal gaps through information preservation
 **[T9 — Memory Coherence (theorem)](t9-memory-coherence.theorem.md):** Hypothetical complete memory pattern reconstruction enabling identity continuity
 
 ### Polarity System Integration

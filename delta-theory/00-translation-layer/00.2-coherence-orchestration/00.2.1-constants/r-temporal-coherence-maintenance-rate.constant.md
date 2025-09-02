@@ -6,7 +6,7 @@ tags:
   - "#status/stable"
   - "#function/definition"
 polarity: P+
-derivation: T7
+derivation: T8
 aliases:
   - r_temporal
   - r_temporal — Temporal Continuity Maintenance Rate (constant)
@@ -30,17 +30,17 @@ aliases:
 
 ## Primitive Derivation
 
-**Theorem Source:** T7 (Temporal Continuity) — "Systems must maintain identity continuity across time intervals"
+**Theorem Source:** T8 (Temporal Continuity) — "Interface identity must persist coherently through time"
 
 **Derivation Logic:**
-1. **T7 Requirement:** Systems must preserve temporal identity despite continuous change and time passage
+1. **T8 Requirement:** Systems must preserve temporal identity despite continuous change and time passage
 2. **Mathematical Implication:** Identity preservation requires active maintenance → requires periodic renewal operations
 3. **Constant Emergence:** r_temporal emerges as the fundamental rate governing temporal identity maintenance operations
 4. **Invariant Nature:** Represents the minimal operational tempo required for sustainable temporal coherence
 
-**Traceback:** `A0 → T3+A0 → T6 → T7 → r_temporal` — derivation chain from foundational axiom
+**Traceback:** `A0 → T2+A0 → T5 → T8 → r_temporal` — derivation chain from foundational axiom
 
-**Flow:** T7 requires continuous temporal identity → identity must be actively maintained → r_temporal provides the base rate for maintenance operations → enables sustainable temporal coherence
+**Flow:** T8 requires continuous temporal identity → identity must be actively maintained → r_temporal provides the base rate for maintenance operations → enables sustainable temporal coherence
 
 ---
 
@@ -106,7 +106,7 @@ where $\tau_{coherence}$ is the characteristic time scale for temporal identity 
 ## Scope & invariance
 
 - **Domain:** All temporal coherence operations requiring active maintenance
-- **Invariance:** Holds across domains implementing T7 (Temporal Continuity)
+- **Invariance:** Holds across domains implementing T8 (Temporal Continuity)
 - **Precision:** Domain instances determine specific frequencies and timing units
 - **Scaling:** Rate may scale with system complexity and coherence requirements
 
@@ -196,13 +196,13 @@ r_temporal > 0 (positive definite)
 ## Relationship to Other Principles
 
 ### Foundation Theorems
-- **[[t7-temporal-continuity.theorem|T7 — Temporal Continuity (theorem)]]:** Direct source - provides mathematical expression of temporal identity maintenance requirement
-- **[[t6-interface-identity.theorem|T6 — Interface Identity (theorem)]]:** Provides foundation for identity preservation necessity across boundaries
 - **[[a0-existential-difference.axiom|A0 — Existential Difference (axiom)]]:** Ensures temporal maintenance cannot be eliminated
+- **[[t6-interface-identity.theorem|T6 — Interface Identity (theorem)]]:** Provides foundation for identity preservation necessity across boundaries
+- **[[t8-temporal-continuity.theorem|T8 — Temporal Continuity (theorem)]]:** Direct source - provides mathematical expression of temporal identity maintenance requirement
 
 ### Supporting Principles
+- **[[t7-recovery-stability.theorem|T7 — Recovery Stability (theorem)]]:** Temporal identity provides stable foundation for recovery coordination
 - **[[t9-memory-coherence.theorem|T9 — Memory Coherence (theorem)]]:** Temporal identity provides foundation for memory preservation operations
-- **[[t8-recovery-stability.theorem|T8 — Recovery Stability (theorem)]]:** Temporal identity provides stable foundation for recovery coordination
 
 ### Higher-Level Extensions
 - **Coherence Modulators:** r_temporal provides timing foundation for coherence modulation operations
@@ -212,7 +212,8 @@ r_temporal > 0 (positive definite)
 
 ## See Also
 
-- [[t7-temporal-continuity.theorem\|T7 — Temporal Continuity (theorem)]] - Source theorem
-- [[gamma-retention-factor.constant\|γ_retention — Memory Retention Factor (constant)]] - Related memory constant
-- [[r-memory-coherence-maintenance-rate.constant\|r_memory — Memory Coherence Maintenance Rate (constant)]] · [[r-stability-assessment-rate.constant\|r_stability — Stability Assessment Rate (constant)]] - Related coherence rates
-- [[00.2.1-constants.index\|00.2.1 - Constants (index)]] - Parent module
+- [[t8-temporal-continuity.theorem\|T8 — Temporal Continuity (theorem)]]
+- [[gamma-retention-factor.constant\|γ_retention — Memory Retention Factor (constant)]]
+- [[r-memory-coherence-maintenance-rate.constant\|r_memory — Memory Coherence Maintenance Rate (constant)]]
+- [[r-stability-assessment-rate.constant\|r_stability — Stability Assessment Rate (constant)]]
+- [[00.2.1-constants.index\|00.2.1 - Constants (index)]]

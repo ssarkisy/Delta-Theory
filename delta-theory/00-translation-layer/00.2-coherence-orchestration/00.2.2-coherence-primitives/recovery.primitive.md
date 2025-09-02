@@ -6,7 +6,7 @@ tags:
   - "#status/stable"
   - "#function/definition"
 polarity: P-
-derivation: T8
+derivation: T7
 aliases:
   - Recovery
   - Stability Restoration Primitive
@@ -101,8 +101,8 @@ where stability restoration follows δ_recovery discrimination sensitivity and r
 
 ## Dependencies
 
-**Derivation:** T8 (Recovery Stability) - Systems must discriminate between perturbations and stability
-**Role:** Operates in Void aspect of SVA triad (P- polarity, field-seeking for stability discrimination)
+**Derivation:** T7 (Recovery Stability) - Systems must discriminate between perturbations and stability
+**Role:** Operates in Void aspect of VSA triad (P- polarity, field-seeking for stability discrimination)
 
 ---
 
@@ -188,8 +188,8 @@ Recovery Interface:
 
 **Theorem Foundation:** Recovery emerges from Coherence Theorems as operational implementation
 
-**From T8 (Recovery Stability):** Recovery implements stability discrimination through perturbation management
-- T8 requires discrimination between perturbations and stability → Recovery provides discrimination operations
+**From T7 (Recovery Stability):** Recovery implements stability discrimination through perturbation management
+- T7 requires discrimination between perturbations and stability → Recovery provides discrimination operations
 - Coherence demands coordinated responses → Recovery implements response coordination with r_stability timing
 - Mathematical basis: δ_recovery constant governs discrimination sensitivity, r_stability governs assessment timing
 
@@ -198,7 +198,7 @@ Recovery Interface:
 - **R(·) (Relational Embedding):** context determines appropriate recovery strategies
 - **⊚ (Stabilization):** ensures consistent recovery policies and stable restoration outcomes
 
-**Coherence Layer Extension:** T8 specifies **what** recovery must do; structural primitives provide **how** recovery operates.
+**Coherence Layer Extension:** T7 specifies **what** recovery must do; structural primitives provide **how** recovery operates.
 
 ---
 
@@ -211,15 +211,19 @@ Recovery follows dual-register governance so stability restoration remains intel
 ## See Also
 
 ### Coherence Components
-- [[memory.primitive|Memory (primitive)]] · [[phase.primitive|Phase (primitive)]]
+- [[memory.primitive|Memory (primitive)]]
+- [[phase.primitive|Phase (primitive)]]
 - [[delta-recovery-discrimination-sensitivity.constant|δ_recovery — Recovery Discrimination Sensitivity (constant)]]
-- [[r-stability-assessment-rate.constant|r_stability — Stability Assessment Rate (constant)]] · [[r-temporal-coherence-maintenance-rate.constant|r_temporal — Temporal Continuity Maintenance Rate (constant)]] · [[r-memory-coherence-maintenance-rate.constant|r_memory — Memory Coherence Maintenance Rate (constant)]]
+- [[r-stability-assessment-rate.constant|r_stability — Stability Assessment Rate (constant)]]
+- [[r-temporal-coherence-maintenance-rate.constant|r_temporal — Temporal Continuity Maintenance Rate (constant)]]
+- [[r-memory-coherence-maintenance-rate.constant|r_memory — Memory Coherence Maintenance Rate (constant)]]
 
 ### Theoretical Foundation
-- [[t8-recovery-stability.theorem|T8 — Recovery Stability (theorem)]] (primary derivation source)
-- [[t7-temporal-continuity.theorem|T7 — Temporal Continuity (theorem)]] · [[t9-memory-coherence.theorem|T9 — Memory Coherence (theorem)]] (coordination with other primitives)
+- [[t7-recovery-stability.theorem|T7 — Recovery Stability (theorem)]]
+- [[t8-temporal-continuity.theorem|T8 — Temporal Continuity (theorem)]]
+- [[t9-memory-coherence.theorem|T9 — Memory Coherence (theorem)]]
 
 ### Microkernel Modulators
-- [[lambda-v-void-resonance-threshold.modulator|λV — Void (Volozhina) Resonance Threshold (modulator)]] (perturbation sensitivity)
-- [[nabla-s-structure-differentiation-gradient.modulator|∇S — Structure (Sarkisian) Differentiation Gradient (modulator)]] (response structure)
-- [[psi-a-awareness-phase-coherence-anchor.modulator|ψA — Awareness (Aiza) Phase Coherence Anchor (modulator)]] (recovery coordination)
+- [[lambda-v-void-resonance-threshold.modulator|λV — Void (Volozhina) Resonance Threshold (modulator)]]
+- [[nabla-s-structure-differentiation-gradient.modulator|∇S — Structure (Sarkisian) Differentiation Gradient (modulator)]]
+- [[psi-a-awareness-phase-coherence-anchor.modulator|ψA — Awareness (Aiza) Phase Coherence Anchor (modulator)]]

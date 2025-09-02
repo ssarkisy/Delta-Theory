@@ -4,6 +4,8 @@ tags:
   - "#layer/information"
   - "#status/stable"
   - "#function/observation"
+aliases:
+  - "90 - Assets (index)"
 ---
 
 # 90 - Assets (index)
@@ -15,14 +17,14 @@ tags:
 ## Current Assets Inventory
 
 ### Polarity Diagrams
-- `polarity+.png` - Active Polarity (P+) visualization
-- `polarity-.PNG` - Structural Polarity (P-) visualization
+- `polarity-.PNG` - Active Polarity (P-) visualization
+- `polarity+.png` - Structural Polarity (P+) visualization
 - `polarity0.PNG` - Balancing Polarity (P0) visualization
 
 ### Yin-Yang Diagrams
-- `classic_yin_yang.png` - Classical Yin-Yang (P-) representation
-- `sustainable_growth_yin_yang.png` - Recursive Yin-Yang (P0) representation
-- `forming_yin_yang.png` - Forming Yin-Yang (P+) representation
+- `classic_yin_yang.png` - Classical Yin-Yang representation
+- `sustainable_growth_yin_yang.png` - Recursive Yin-Yang representation
+- `forming_yin_yang.png` - Forming Yin-Yang representation
 
 ---
 

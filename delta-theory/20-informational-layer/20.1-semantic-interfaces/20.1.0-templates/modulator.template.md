@@ -10,7 +10,7 @@ aliases:
 
 # Modulator (template)
 
-> Template for microkernel modulators using sublayer-based architecture. All modulators are fundamental SVA control parameters (∇S, λV, ψA). Capture definition, base constants, coupling, and dual‑register mapping.
+> Template for microkernel modulators using sublayer-based architecture. All modulators are fundamental VSA control parameters (λV, ∇S, ψA). Capture definition, base constants, coupling, and dual‑register mapping.
 
 ---
 
@@ -19,7 +19,7 @@ aliases:
 **CRITICAL:** This is template guidance - DO NOT copy instructional text into final files.
 
 ### Section Selection:
-- **All modulators** (∇S, λV, ψA): Use sections up to "See Also" only - extended operational sections have been removed
+- **All modulators** (λV, ∇S, ψA): Use sections up to "See Also" only - extended operational sections have been removed
 
 ### Header Instructions:
 - **REMOVE** all parenthetical conditions like "(if derived modulator)"
@@ -56,7 +56,7 @@ tags:
   - "#sublayer/microkernel"
   - "#status/seed"
   - "#function/modulation"
-polarity: P+|P-|P0  # P+ for ∇S, P- for λV, P0 for ψA
+polarity: P+|P-|P0  # P- for λV, P+ for ∇S, P0 for ψA
 derivation: A0+T1+T2+T3  # All modulators derive from foundational axiom and theorems
 aliases:
   - <ShortName>
@@ -83,12 +83,12 @@ aliases:
 ## Modulator Guidance
 
 ### Microkernel Modulators (#sublayer/microkernel)
-- **Nature:** Fundamental SVA control parameters
-- **Examples:** ∇S (Structure Differentiation), λV (Void Resonance), ψA (Awareness Phase Coherence)
+- **Nature:** Fundamental VSA control parameters
+- **Examples:** λV (Void Resonance), ∇S (Structure Differentiation), ψA (Awareness Phase Coherence)
 - **Derivation:** Direct from axiom and theorems (A0, T1, T2, T3)
 - **Location:** Microkernel level (00.0.3)
 - **Context:** Universal control parameters for all recursive operations
-- **Complete set:** Only three modulators exist - the SVA triad
+- **Complete set:** Only three modulators exist - the VSA triad
 
 ---
 
@@ -99,7 +99,7 @@ aliases:
 **Traceback:** [[delta.primitive|Delta (primitive)]] → [[relational-embedding.primitive|RelationalEmbedding (primitive)]] → [[stabilization-closure.primitive|Stabilization (Closure) (primitive)]] → F — why primitive operations require this modulation
 
 **Flow:** How ∆ → R(·) → ⊚ operations generate modulation needs
-**Core:** From ∇S, λV, ψA (if applicable)
+**Core:** From λV, ∇S, ψA (if applicable)
 **Control:** What variations this modulator manages
 
 ---
@@ -150,7 +150,7 @@ Provide brief, concrete examples (1 line each) across domains. Use the common or
 ## Dependencies
 
 **Constants:** <list relevant constants> (<brief purpose for each>)
-**Role:** <P+/P-/P0> modulator controlling <primary function> in SVA triad
+**Role:** <P+/P-/P0> modulator controlling <primary function> in VSA triad
 
 ---
 
@@ -167,7 +167,7 @@ Provide brief, concrete examples (1 line each) across domains. Use the common or
 - [[structure.glossary|Structure (glossary)]]
 - [[awareness.glossary|Awareness (glossary)]]
 - [[epsilon-difference-resolution-quantum.boundary|ε — Difference Resolution Quantum (boundary)]] · [[c-difference-propagation-limit.boundary|c — Difference Propagation Limit (boundary)]] · [[pi-closure-geometry-ratio.constant|π — Closure Geometry Ratio (constant)]] · [[e-natural-transformation-rate.constant|e — Natural Transformation Rate (constant)]] · [[phi-asymmetric-stabilization-ratio.constant|φ — Asymmetric Stabilization Ratio (constant)]]
-- [[nabla-s-structure-differentiation-gradient.modulator|∇S — Structure (Sarkisian) Differentiation Gradient (modulator)]] · [[lambda-v-void-resonance-threshold.modulator|λV — Void (Volozhina) Resonance Threshold (modulator)]] · [[psi-a-awareness-phase-coherence-anchor.modulator|ψA — Awareness (Aiza) Phase Coherence Anchor (modulator)]]
+- [[lambda-v-void-resonance-threshold.modulator|λV — Void (Volozhina) Resonance Threshold (modulator)]] · [[nabla-s-structure-differentiation-gradient.modulator|∇S — Structure (Sarkisian) Differentiation Gradient (modulator)]] · [[psi-a-awareness-phase-coherence-anchor.modulator|ψA — Awareness (Aiza) Phase Coherence Anchor (modulator)]]
 
 ---
 

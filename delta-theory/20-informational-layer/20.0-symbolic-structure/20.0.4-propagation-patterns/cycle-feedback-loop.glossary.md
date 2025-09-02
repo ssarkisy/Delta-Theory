@@ -105,8 +105,8 @@ Note: At extreme scales, cycle behavior faces fundamental limits (e.g., quantum 
 
 | Domain | Role |
 |--------|------|
-| Structure | Boundary closure enables structural feedback and recursive stabilization |
 | Void | Void circulation allows controlled feedback flow and self-regulation |
+| Structure | Boundary closure enables structural feedback and recursive stabilization |
 | Awareness | Phase cycling enables coherent recursive identity and memory formation |
 
 Diagnostic for closed-loop network topology where flow propagation returns to origin, creating recursive feedback dynamics for stabilization or amplification.

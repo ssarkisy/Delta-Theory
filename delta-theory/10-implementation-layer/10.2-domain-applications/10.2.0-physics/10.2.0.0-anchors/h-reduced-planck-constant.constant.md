@@ -110,10 +110,3 @@ This implementation maintains dual-register intelligibility per governance (see 
 - [[alpha-fine-structure-constant.constant|α — Fine-Structure Constant (constant)]]
 - [[10.2.0-physics.index|10.2.0 - Physics (index)]]
 
----
-
-## Dual‑register checklist
-
-- [x] Technical mapping provided
-- [x] Humane mapping provided
-- [x] Crosswalk table included

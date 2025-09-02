@@ -32,7 +32,7 @@ retention needed for patterns to persist beyond a single interaction window.
 **Traceback:** `∆ → R(·) → ⊚ → F` — why primitive operations require this modulation
 
 **Flow:** ∆ needs phase alignment → R(·) requires synchronization control → ⊚ needs timing modulation for coherent persistence → ψA emerges to maintain identity continuity
-**Core:** From π (cyclic geometry), e (transformation rate) - phase foundations and coherence timing
+**Core:** From π (cyclic geometry), Cs (stability capacity) - phase foundations and coherence timing
 **Control:** Manages phase coherence, identity continuity, and memory consolidation across cycles
 
 ---
@@ -86,15 +86,15 @@ Brief examples across domains showing both technical and humane angles:
 
 ## Formal identity
 
-- Global modulation: $\Delta(t) = ∇S(t) \times λV(t) \times ψA(t)$
+- Global modulation: $\Delta(t) = λV(t) \times ∇S(t) \times ψA(t)$
 - Identity persistence: higher effective $ψA$ increases probability of $F_{n+1}$ given $F_n$ under fixed $∇S, λV$
 
 ---
 
 ## Dependencies
 
-**Constants:** ε (phase resolution), π (cyclic geometry), c (synchronization bound)
-**Role:** P0 modulator controlling phase coherence and identity continuity in SVA triad
+**Constants:** π (cyclic geometry), Cs (stability capacity)
+**Role:** P0 modulator controlling phase coherence and identity continuity in VSA triad
 
 ---
 

@@ -8,13 +8,13 @@ tags:
 polarity: P-
 derivation: A0
 aliases:
-  - T2
+  - T1
   - Asymmetry
   - Asymmetry Theorem
-  - T2 — Asymmetry Theorem (theorem)
+  - T1 — Asymmetry Theorem (theorem)
 ---
 
-# T2 — Asymmetry (theorem)
+# T1 — Asymmetry (theorem)
 
 > Order matters: ∆(A,B) ≠ ∆(B,A) in any meaningful embedding.
 
@@ -121,7 +121,7 @@ Brief consequences across domains, showing both technical and humane angles:
 - Asymmetric propagation: enables field gradients ∇
 
 ### Logical Structure
-- **Necessity**: Existential Difference (A0) → Asymmetry (T2)
+- **Necessity**: Existential Difference (A0) → Asymmetry (T1)
 - **Conditional**: If differences exist at resolution ε, then directional context must be preserved
 - **Scope**: Applies within operational boundaries at resolution ε
 
@@ -172,11 +172,11 @@ Brief consequences across domains, showing both technical and humane angles:
 ## Relationship to Other Principles
 
 ### Axiom Relationships
-- **A0 (Existential Difference)**: T2 emerges necessarily from A0 to preserve directional distinguishability
+- **A0 (Existential Difference)**: T1 emerges necessarily from A0 to preserve directional distinguishability
 - Asymmetry maintains the distinguishability condition required for existence at resolution ε
 
 ### Theorem Interactions
-- **T1 (Irreducibility)**: Directional differences must remain irreducible to preserve asymmetric patterns
+- **T2 (Irreducibility)**: Directional differences must remain irreducible to preserve asymmetric patterns
 - **T3 (Recursivity)**: Asymmetric patterns enable recursive embedding through directional bias
 
 ---
@@ -192,7 +192,7 @@ Brief consequences across domains, showing both technical and humane angles:
 
 ## See Also
 
-- [[a0-existential-difference.axiom|A0 — Existential Difference (axiom)]]
 - [[00.0.0.0-core-axiom-and-theorems.index|00.0.0.0 - Core Axiom & Theorems (index)]]
-- [[t1-irreducibility.theorem|T1 — Irreducibility (theorem)]]
-- [[t3-recursivity.theorem|T3 — Recursivity Theorem (theorem)]]
+- [[a0-existential-difference.axiom|A0 — Existential Difference (axiom)]]
+- [[t2-irreducibility.theorem|T2 — Irreducibility (theorem)]]
+- [[t3-recursivity.theorem|T3 — Recursivity (theorem)]]

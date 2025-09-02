@@ -104,8 +104,8 @@ Note: At extreme scales, path behavior faces fundamental limits (e.g., quantum t
 
 | Domain | Role |
 |--------|------|
-| Structure | Boundary sequencing enables structural connectivity through linear chains |
 | Void | Void traversal allows controlled linear flow through sequential interfaces |
+| Structure | Boundary sequencing enables structural connectivity through linear chains |
 | Awareness | Phase sequencing enables coherent linear processing and step-by-step integration |
 
 Diagnostic for linear network topology where differences propagate through sequential connected interfaces in a single direct route.

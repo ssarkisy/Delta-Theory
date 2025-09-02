@@ -103,8 +103,8 @@ Note: At extreme scales, intermittency can become indistinguishable from fundame
 
 | Domain | Role |
 |--------|------|
-| Structure | Boundary stability oscillates causing structural identity to fluctuate |
 | Void | Void discrimination alternates between clear and unclear states |
+| Structure | Boundary stability oscillates causing structural identity to fluctuate |
 | Awareness | Phase coherence oscillates near thresholds causing unstable identity binding |
 
 Diagnostic for awareness pattern instability where ψA modulation operates near critical thresholds, creating load-dependent oscillation between coherent and desynchronized states.

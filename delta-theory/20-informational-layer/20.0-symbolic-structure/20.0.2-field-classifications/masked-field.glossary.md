@@ -104,8 +104,8 @@ Note: At extreme scales, masking can become indistinguishable from natural limit
 
 | Domain | Role |
 |--------|------|
-| Structure | Selective boundary formation creating partial visibility |
 | Void | Curated void concealment through selective filtering |
+| Structure | Selective boundary formation creating partial visibility |
 | Awareness | Compromised coherence with selective pattern recognition |
 
 Diagnostic for partial field coherence where selective filtering compromises contextual transparency without complete field breakdown.

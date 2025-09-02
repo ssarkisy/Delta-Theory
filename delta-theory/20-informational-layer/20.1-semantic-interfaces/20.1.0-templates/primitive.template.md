@@ -172,7 +172,7 @@ Provide brief, concrete examples (1 line each) across domains. Use the common or
 ## Dependencies
 
 **Derivation:** <Source axiom/theorem> - <brief explanation>
-**Role:** Operates in <Structure/Void/Awareness> aspect of SVA triad
+**Role:** Operates in <Void/Structure/Awareness> aspect of VSA triad
 
 ---
 

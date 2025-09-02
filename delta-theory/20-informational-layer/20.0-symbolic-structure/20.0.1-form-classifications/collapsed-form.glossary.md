@@ -92,11 +92,11 @@ How Collapsed Form manifests differently at various scales:
 
 | Domain | Role |
 |--------|------|
-| Structure | Complete boundary formation failure with no persistent organization |
 | Void | Uncontrolled void expansion preventing any stable differentiation |
+| Structure | Complete boundary formation failure with no persistent organization |
 | Awareness | Total coherence breakdown with no sustained pattern recognition |
 
-Diagnostic for complete SVA triad failure where no aspect can achieve or maintain stability.
+Diagnostic for complete VSA triad failure where no aspect can achieve or maintain stability.
 
 ---
 

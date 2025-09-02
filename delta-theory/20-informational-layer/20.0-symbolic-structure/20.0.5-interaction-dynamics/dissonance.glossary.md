@@ -104,8 +104,8 @@ Note: At extreme scales, dissonance faces fundamental limits (e.g., quantum unce
 
 | Domain | Role |
 |--------|------|
-| Structure | Boundary tension enables structural differentiation and edge detection |
 | Void | Void conflict allows productive tension and selective filtering |
+| Structure | Boundary tension enables structural differentiation and edge detection |
 | Awareness | Phase conflict enables coherent differentiation and boundary recognition |
 
 Diagnostic for persistent phase conflict dynamics where misaligned phase relationships create tension for productive differentiation or destructive instability.

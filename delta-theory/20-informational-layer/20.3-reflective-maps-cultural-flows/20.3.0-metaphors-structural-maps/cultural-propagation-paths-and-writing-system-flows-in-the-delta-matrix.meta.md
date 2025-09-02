@@ -10,7 +10,7 @@ aliases:
 
 # Cultural Propagation Paths & Writing System Flows in the ∆‑Matrix
 
-> Reflective map: explores how cultural patterns and writing systems reveal different paths through the Structure/Void/Awareness matrix.
+> Reflective map: explores how cultural patterns and writing systems reveal different paths through the Void/Structure/Awareness matrix.
 
 > **⚠️ Ontological Bridge Disclaimer**: This metaphor serves as an **ontological bridge** connecting current understanding to higher-level possibilities, not a precise description of reality beyond our epistemological capabilities. It is likely imprecise (probability approaching 100%) — imprecise doesn't mean structurally wrong, but rather incomplete and potentially misinterpreting more complex reality. The goal is **developmental connection** to enable further growth, not final explanatory closure.
 
@@ -141,13 +141,13 @@ aliases:
 
 ## 1. Core Framework — 3×3 Stabilization Matrix
 
-|                   | **Structure (P+)** – *Form-making* | **Void (P-)** – *Environment/Field*           | **Awareness (P0)** – *Cognitive*                                             |
+|                   | **Void (P-)** – *Environment/Field* | **Structure (P+)** – *Form-making*           | **Awareness (P0)** – *Cognitive*                                             |
 | ----------------- | ---------------------------------- | --------------------------------------------- | ---------------------------------------------------------------------------- |
 | **Formation**     | $P_n^+$ – outward creation         | $\text{Redistribution}_n(t)$ – flow balancing | $\kappa_\Delta(m,t)$ – selective gating                                      |
 | **Stabilization** | $P_n^-$ – inward folding           | $\text{Damping}_n(t)$ – entropy absorption    | [[psi-a-awareness-phase-coherence-anchor.modulator\|ψA — Awareness (Aiza) Phase Coherence Anchor (modulator)]] $(t)$ – phase alignment |
 | **Ignition**      | $P_n^0$ – feedback closure         | $\text{Collapse}_n(t)$ – reformation trigger  | [[lambda-v-void-resonance-threshold.modulator\|λV — Void (Volozhina) Resonance Threshold (modulator)]] $(t)$ – resonance ignition |
 
-This matrix expresses how [[structure.glossary|Structure (glossary)]], [[void.glossary|Void (glossary)]], and [[awareness.glossary|Awareness (glossary)]] interact across three functional layers:
+This matrix expresses how [[void.glossary|Void (glossary)]], [[structure.glossary|Structure (glossary)]], and [[awareness.glossary|Awareness (glossary)]] interact across three functional layers:
 - Formation layer → initiating qualities
 - Stabilization layer → sustaining qualities
 - Ignition layer → transformation qualities
@@ -219,7 +219,7 @@ Conceptual names for the constants used in generating the three modulators ([[na
 | φ | [[phi-asymmetric-stabilization-ratio.constant\|φ — Asymmetric Stabilization Ratio (constant)]] | Balance bias | Harmony principle |
 | c | [[c-difference-propagation-limit.boundary\|c — Difference Propagation Limit (boundary)]] | Speed limit | Change bound |
 
-These five invariants are sufficient to parameterize all three modulators across structure, void, and awareness.
+These five invariants are sufficient to parameterize all three modulators across void, structure, and awareness.
 
 ---
 
@@ -228,7 +228,7 @@ These five invariants are sufficient to parameterize all three modulators across
 Potential directional tendencies in cultural reasoning might be mapped to preferred traversals of the ∆‑matrix.
 
 ### Structure-First Pattern — Structure → Awareness
-- Path: Structure column → Void column → Awareness column
+- Path: Void column → Structure column → Awareness column
 - Technical: Build → Test → Reflect
 - Humane: Create → Share → Understand
 - Example: Industrial development → environmental adaptation → societal reflection
@@ -261,7 +261,7 @@ Hypothetical connection between writing direction and cognitive patterns:
 
 | Writing Direction | Potential Matrix Path | Technical Pattern | Speculative Pattern |
 |------------------|----------------------|-------------------|---------------------|
-| Left → Right | Structure → Void → Awareness | Build-first | Structure-oriented |
+| Left → Right | Void → Structure → Awareness | Build-first | Void-oriented |
 | Right → Left | Awareness → Void → Structure | Understand-first | Awareness-oriented |
 | Top → Bottom | Void → (Structure or Awareness) | Context-first | Context-oriented |
 
@@ -317,4 +317,4 @@ Humane view: Cultural tension field
 
 - [[delta-ontomolecule-recursive-structural-molecule-of-delta-theory.meta|Delta Ontomolecule — Recursive Structural Molecule of ∆‑Theory]]
 - [[relation-as-fourth-dimension-operational-axis-of-difference.meta|Relation as Fourth Dimension — Operational Axis of Difference]]
-- [[structure.glossary|Structure (glossary)]] · [[void.glossary|Void (glossary)]] · [[awareness.glossary|Awareness (glossary)]]
+- [[void.glossary|Void (glossary)]] · [[structure.glossary|Structure (glossary)]] · [[awareness.glossary|Awareness (glossary)]]

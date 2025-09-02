@@ -92,11 +92,11 @@ How Stable Form manifests differently at various scales:
 
 | Domain | Role |
 |--------|------|
-| Structure | Complete boundary formation with persistent organization |
 | Void | Controlled void management enabling stable differentiation |
+| Structure | Complete boundary formation with persistent organization |
 | Awareness | Sustained coherence with reliable pattern recognition |
 
-Diagnostic for complete SVA triad success where all aspects achieve and maintain stability.
+Diagnostic for complete VSA triad success where all aspects achieve and maintain stability.
 
 ---
 

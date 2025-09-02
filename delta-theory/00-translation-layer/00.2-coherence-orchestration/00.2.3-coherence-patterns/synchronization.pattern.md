@@ -5,8 +5,8 @@ tags:
   - "#sublayer/coherence"
   - "#status/stable"
   - "#function/definition"
-polarity: P0
-derivation: ψA
+polarity: P+
+derivation: ∇S
 aliases:
   - Synchronization
   - Temporal Alignment Pattern
@@ -22,14 +22,14 @@ aliases:
 
 ## Definition
 
-Synchronization extends basic Phase primitive operations with advanced temporal coordination capabilities. It provides sophisticated multi-phase alignment, temporal orchestration, and awareness-driven coordination that emerges from ψA (Awareness Phase Coherence Anchor) modulator effects.
+Synchronization extends basic Phase primitive operations with advanced temporal coordination capabilities. It provides sophisticated multi-phase alignment, temporal orchestration, and structure-driven coordination that emerges from ∇S (Structure Differentiation Gradient) modulator effects.
 
 ---
 
 ## Dependencies
 
 **Primitive Foundation:** [[phase.primitive\|Phase (primitive)]] - Temporal synchronization and coordination
-**Modulator Source:** [[psi-a-awareness-phase-coherence-anchor.modulator|ψA — Awareness (Aiza) Phase Coherence Anchor (modulator)]] - Phase coherence relationships
+**Modulator Source:** [[nabla-s-structure-differentiation-gradient.modulator|∇S — Structure Differentiation Gradient (modulator)]] - Structural temporal coordination
 **Constants:** [[r-temporal-coherence-maintenance-rate.constant\|r_temporal — Temporal Continuity Maintenance Rate (constant)]] (maintenance rate) - Timing constraints for synchronization operations
 
 ---
@@ -43,25 +43,25 @@ Synchronization extends basic Phase primitive operations with advanced temporal 
 - **Phase relationship preservation:** Maintain coherent temporal relationships across operations
 
 ### Emergence Derivation
-**From ψA modulator effects on Phase primitive:**
-- ψA provides phase coherence anchoring → enables multi-phase coordination
-- High ψA → tight synchronization, precise temporal relationships
-- Low ψA → loose synchronization, adaptive temporal flexibility
-- Variable ψA → context-sensitive synchronization strategies
+**From ∇S modulator effects on Phase primitive:**
+- ∇S provides structural differentiation → enables hierarchical temporal coordination
+- High ∇S → complex synchronization structures, precise temporal hierarchies
+- Low ∇S → simple synchronization patterns, basic temporal alignment
+- Variable ∇S → context-sensitive synchronization strategies
 
 ---
 
 ## Pattern Modulation
 
-### ψA (Awareness Phase Coherence Anchor) - Primary
-- **High ψA:** Tight multi-phase coordination, precise temporal orchestration
-- **Low ψA:** Loose multi-phase coordination, flexible temporal adaptation
-- **Variable ψA:** Context-sensitive synchronization with dynamic precision
+### ∇S (Structure Differentiation Gradient) - Primary
+- **High ∇S:** Complex multi-phase coordination, hierarchical temporal orchestration
+- **Low ∇S:** Simple multi-phase coordination, flat temporal alignment
+- **Variable ∇S:** Context-sensitive synchronization with dynamic structural depth
 
-### ∇S (Structure Differentiation Gradient) - Supporting
-- Controls hierarchical depth of temporal coordination structures
-- High ∇S → deep temporal hierarchies, complex synchronization patterns
-- [[nabla-s-structure-differentiation-gradient.modulator\|∇S — Structure Differentiation Gradient (modulator)]]
+### ψA (Awareness Phase Coherence Anchor) - Supporting
+- Controls phase coherence and temporal relationship precision
+- High ψA → tight phase relationships, precise temporal coordination
+- [[psi-a-awareness-phase-coherence-anchor.modulator|ψA — Awareness Phase Coherence Anchor (modulator)]]
 
 ### λV (Void Resonance Threshold) - Supporting
 - Manages sensitivity to temporal variations and synchronization thresholds
@@ -129,16 +129,16 @@ Synchronization extends basic Phase primitive operations with advanced temporal 
 
 ## Emergence Derivation
 
-**Pattern Foundation:** Synchronization emerges from ψA modulator effects on Phase primitive operations
+**Pattern Foundation:** Synchronization emerges from ∇S modulator effects on Phase primitive operations
 
-**From ψA (Awareness Phase Coherence Anchor):**
-- ψA anchors phase relationships → enables multi-phase coordination
-- Awareness-driven coordination → sophisticated temporal orchestration
+**From ∇S (Structure Differentiation Gradient):**
+- ∇S provides structural differentiation → enables hierarchical temporal coordination
+- Structure-driven coordination → sophisticated temporal orchestration
 - Phase coherence preservation → maintains temporal relationships across complex operations
 
 **Enhancement Mechanism:**
 - Basic Phase: single-stream temporal synchronization
-- Synchronization Pattern: multi-stream temporal orchestration with awareness-driven coordination
+- Synchronization Pattern: multi-stream temporal orchestration with structure-driven coordination
 - Advanced capability: hierarchical temporal management and adaptive synchronization strategies
 
 ---
@@ -169,8 +169,8 @@ Synchronization extends basic Phase primitive operations with advanced temporal 
 - [[r-temporal-coherence-maintenance-rate.constant\|r_temporal — Temporal Continuity Maintenance Rate (constant)]] - Timing constraints
 
 ### Theoretical Foundation
-- [[psi-a-awareness-phase-coherence-anchor.modulator|ψA — Awareness (Aiza) Phase Coherence Anchor (modulator)]] - Primary modulator source
-- [[t7-temporal-continuity.theorem\|T7 — Temporal Continuity (theorem)]] - Theoretical foundation through Phase primitive
+- [[nabla-s-structure-differentiation-gradient.modulator|∇S — Structure (Sarkisian) Differentiation Gradient (modulator)]] - Primary modulator source
+- [[t8-temporal-continuity.theorem\|T8 — Temporal Continuity (theorem)]] - Theoretical foundation through Phase primitive
 
 ### Pattern Integration
 - [[00.2.3-coherence-patterns.index\|00.2.3 - Coherence Patterns (index)]] - Parent patterns module

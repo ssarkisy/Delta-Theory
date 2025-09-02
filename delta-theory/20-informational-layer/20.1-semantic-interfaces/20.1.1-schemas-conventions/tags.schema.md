@@ -31,7 +31,7 @@ Tags are **the visible echo of the invisible structure**.
 
 Delta Theory uses **tags** distributed across **4 dimensions**:
 
-| Axis      | Tag Prefix     | SVA Alignment | Answers...                |
+| Axis      | Tag Prefix     | VSA Alignment | Answers...                |
 |-----------|----------------|----------------|----------------------------|
 | Status    | `#status/…`     | Structure       | How stable is this note?   |
 | Layer     | `#layer/…`      | Void            | Where is this note located? |
@@ -144,7 +144,7 @@ This reflects recursive **damping**: when external difference has been absorbed 
 
 As the system evolves, new recursive axes may be added. Polarity is now standardized as a YAML field with optional tags:
 
-- YAML field (canonical): `polarity: P+|P-|P0` (Structure=P+, Void=P-, Awareness=P0)
+- YAML field (canonical): `polarity: P+|P-|P0` (Void=P-, Structure=P+, Awareness=P0)
 - Optional tags (for graph filters): `#polarity/P+`, `#polarity/P-`, `#polarity/P0`
 - `#anchor/root`, `#anchor/link`, `#anchor/interface`
 - `#subsystem/physics`, `#subsystem/ontology`, etc.

@@ -110,7 +110,7 @@ Conceptual anchors that stabilize modulation across S/V/A. Values live in domain
 
 ---
 
-## Modulators — SVA Triad (not constants)
+## Modulators — VSA Triad (not constants)
 
 Coupling controls that regulate propagation; parameterized by the kernel anchors above.
 
@@ -118,7 +118,7 @@ Coupling controls that regulate propagation; parameterized by the kernel anchors
 2.  **[[lambda-v-void-resonance-threshold.modulator|λV — Void (Volozhina) Resonance Threshold (modulator)]] (Void)**: The passive, relational principle that mediates the space between structures. It represents potentiality and the dynamic interconnections. ($P_n^0$)
 3.  **[[psi-a-awareness-phase-coherence-anchor.modulator|ψA — Awareness (Aiza) Phase Coherence Anchor (modulator)]] (Awareness)**: The balancing principle that provides coherence and feedback loops, allowing the system to self-organize and adapt. ($P_n^-$)
 
-Global coupling sketch: $\Delta(t) = ∇S(t) \times λV(t) \times ψA(t)$.
+Global coupling sketch: $\Delta(t) = λV(t) \times ∇S(t) \times ψA(t)$.
 
 ---
 
@@ -173,7 +173,7 @@ This metaphorical mapping serves multiple purposes:
 - [[cultural-propagation-paths-and-writing-system-flows-in-the-delta-matrix.meta|Cultural Propagation Paths & Writing System Flows in the ∆‑Matrix]]
 - [[relation-as-fourth-dimension-operational-axis-of-difference.meta|Relation as Fourth Dimension — Operational Axis of Difference]]
 - [[universal-polarities-recursive-stabilization-through-triadic-rotation.meta|Universal Polarities — Recursive Stabilization Through Triadic Rotation]]
-- [[structure.glossary|Structure (glossary)]] · [[void.glossary|Void (glossary)]] · [[awareness.glossary|Awareness (glossary)]]
+- [[void.glossary|Void (glossary)]] · [[structure.glossary|Structure (glossary)]] · [[awareness.glossary|Awareness (glossary)]]
 - [[relational-embedding.primitive|RelationalEmbedding (primitive)]] · [[stabilization-closure.primitive|Stabilization (Closure) (primitive)]]
 - **[[00.0.3-modulators.index|00.0.3 - Modulators (index)]]**
 - **[[00.0.5-core-patterns.index|00.0.5 - Core Patterns (Foundational) (index)]]**

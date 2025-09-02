@@ -105,8 +105,8 @@ Note: At extreme scales, sparsity can become indistinguishable from fundamental 
 
 | Domain | Role |
 |--------|------|
-| Structure | Boundary detection fails due to insufficient differentiation density |
 | Void | Void dominance where signal density cannot overcome void resonance |
+| Structure | Boundary detection fails due to insufficient differentiation density |
 | Awareness | Coherence formation prevented by inadequate phase binding evidence |
 
 Diagnostic for field detection failure where signal density falls below thresholds needed for meaningful contextual discrimination.

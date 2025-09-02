@@ -33,7 +33,7 @@ Additionally, two **Anchor Types** sit outside recursion, forming the ontologica
 | Type     | Description |
 |----------|-------------|
 | `axiom`  | Foundational ontological truth (e.g., A0 — Existential Difference) |
-| `theorem` | Derived truth proven from axioms (e.g., T1 — Irreducibility, T2 — Asymmetry, T3 — Recursivity) |
+| `theorem` | Derived truth proven from axioms (e.g., T1 — Asymmetry, T2 — Irreducibility, T3 — Recursivity) |
 
 ---
 
@@ -43,7 +43,7 @@ Additionally, two **Anchor Types** sit outside recursion, forming the ontologica
 |-------------|-------------|
 | `constant`  | Mathematical invariant (e.g., π, e, φ) — derived ratios and relationships |
 | `boundary`  | Operational limits (e.g., ε, c, Cs) — system constraints and thresholds |
-| `modulator` | Control parameters (SVA triad: ∇S, λV, ψA) — tuning anchors |
+| `modulator` | Control parameters (VSA triad: λV, ∇S, ψA) — tuning anchors |
 
 ---
 
@@ -65,7 +65,7 @@ Additionally, two **Anchor Types** sit outside recursion, forming the ontologica
 | `stream`     | Directed difference propagation (stream construct) |
 | `seed`       | Minimal recursive stabilizer (e.g., microkernel) |
 | `protocol`   | Coordination logic across modules (e.g., Synchronization) |
-| `controller` | Concrete mechanism that enacts modulation (implements ∇S/λV/ψA behavior) |
+| `controller` | Concrete mechanism that enacts modulation (implements λV/∇S/ψA behavior) |
 
 ---
 

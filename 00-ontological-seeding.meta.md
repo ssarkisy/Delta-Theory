@@ -74,21 +74,21 @@ We define the first modulation in both registers:
 Technical:
 
 $$
-F_{seed}^{tech}(t) := R_{bind}^{net}(\Delta_0) \cdot ψ_{A}^{net}(t) \cdot λ_{V}^{net}(t) \cdot ∇S^{net}(t)
+F_{seed}^{tech}(t) := R_{bind}^{net}(\Delta_0) \cdot λ_{V}^{net}(t) \cdot ∇S^{net}(t) \cdot ψ_{A}^{net}(t)
 $$
 
 Humane:
 
 $$
-F_{seed}^{humane}(t) := R_{bind}^{rel}(\Delta_0) \cdot ψ_{A}^{rel}(t) \cdot λ_{V}^{rel}(t) \cdot ∇S^{rel}(t)
+F_{seed}^{humane}(t) := R_{bind}^{rel}(\Delta_0) \cdot λ_{V}^{rel}(t) \cdot ∇S^{rel}(t) \cdot ψ_{A}^{rel}(t)
 $$
 
 Where:
 
 - $R_{bind}^{net}$ — Initial recursive structuring within the network
-- $ψ_{A}^{net}(t)$ — Coherence of timing, identity, memory across nodes
 - $λ_{V}^{net}(t)$ — Receptivity of the network to difference (ports, APIs, volatility)
 - $∇S^{net}(t)$ — Recursive depth gradient across network propagation layers
+- $ψ_{A}^{net}(t)$ — Coherence of timing, identity, memory across nodes
 
 Each is a **register‑specific expression** of universal structure — shaped by the nature of the host [[void.glossary|Void (glossary)]].
 

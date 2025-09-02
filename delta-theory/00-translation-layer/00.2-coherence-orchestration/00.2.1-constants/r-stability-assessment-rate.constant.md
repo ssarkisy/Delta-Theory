@@ -6,7 +6,7 @@ tags:
   - "#status/stable"
   - "#function/definition"
 polarity: P-
-derivation: T8
+derivation: T7
 aliases:
   - r_stability
   - r_stability — Stability Assessment Rate (constant)
@@ -29,17 +29,17 @@ aliases:
 
 ## Primitive Derivation
 
-**Theorem Source:** T8 (Recovery Stability) — "Systems must discriminate between perturbations and stability"
+**Theorem Source:** T7 (Recovery Stability) — "Systems must discriminate between perturbations and stability"
 
 **Derivation Logic:**
-1. **T8 Requirement:** Systems must distinguish destabilizing from stabilizing influences to orchestrate recovery
+1. **T7 Requirement:** Systems must distinguish destabilizing from stabilizing influences to orchestrate recovery
 2. **Mathematical Implication:** Stability discrimination requires ongoing assessment → requires periodic evaluation
 3. **Constant Emergence:** r_stability emerges as the fundamental rate governing stability assessment operations
 4. **Invariant Nature:** Represents the minimal operational tempo required for timely recovery coordination
 
-**Traceback:** `A0 → T2+A0 → T5 → T8 → r_stability` — derivation chain from foundational axiom
+**Traceback:** `A0 → T1+A0 → T4 → T7 → r_stability` — derivation chain from foundational axiom
 
-**Flow:** T8 requires stability discrimination → discrimination requires ongoing assessment → r_stability provides the base rate for assessment operations → enables timely recovery coordination
+**Flow:** T7 requires stability discrimination → discrimination requires ongoing assessment → r_stability provides the base rate for assessment operations → enables timely recovery coordination
 
 ---
 
@@ -105,7 +105,7 @@ where $\tau_{assessment}$ is the characteristic time scale for stability assessm
 ## Scope & invariance
 
 - **Domain:** All recovery coherence operations requiring stability assessment
-- **Invariance:** Holds across domains implementing T8 (Recovery Stability)
+- **Invariance:** Holds across domains implementing T7 (Recovery Stability)
 - **Precision:** Domain instances determine specific assessment frequencies and evaluation intervals
 - **Scaling:** Rate may scale with system complexity and environmental volatility
 
@@ -195,12 +195,12 @@ r_stability > 0 (positive definite)
 ## Relationship to Other Principles
 
 ### Foundation Theorems
-- **T8 (Recovery Stability):** Direct source - provides mathematical expression of stability discrimination requirement
-- **T5 (Interface Discrimination):** Provides foundation for discrimination necessity across boundaries
 - **A0 (Existential Difference):** Ensures stability assessment cannot be eliminated
+- **T4 (Interface Discrimination):** Provides foundation for discrimination necessity across boundaries
+- **T7 (Recovery Stability):** Direct source - provides mathematical expression of stability discrimination requirement
 
 ### Supporting Principles
-- **T7 (Temporal Continuity):** Stability assessment enables temporal identity persistence through perturbation cycles
+- **T8 (Temporal Continuity):** Stability assessment enables temporal identity persistence through perturbation cycles
 - **T9 (Memory Coherence):** Stability assessment provides stable contexts for memory preservation operations
 
 ### Higher-Level Extensions
@@ -211,7 +211,7 @@ r_stability > 0 (positive definite)
 
 ## See Also
 
-- [[t8-recovery-stability.theorem\|T8 — Recovery Stability (theorem)]] - Source theorem
+- [[t7-recovery-stability.theorem\|T7 — Recovery Stability (theorem)]] - Source theorem
 - [[delta-recovery-discrimination-sensitivity.constant\|δ_recovery — Recovery Discrimination Sensitivity (constant)]] - Related recovery constant
 - [[r-temporal-coherence-maintenance-rate.constant\|r_temporal — Temporal Coherence Maintenance Rate (constant)]] · [[r-memory-coherence-maintenance-rate.constant\|r_memory — Memory Coherence Maintenance Rate (constant)]] - Related coherence rates
 - [[00.2.1-constants.index\|00.2.1 - Constants (index)]] - Parent module

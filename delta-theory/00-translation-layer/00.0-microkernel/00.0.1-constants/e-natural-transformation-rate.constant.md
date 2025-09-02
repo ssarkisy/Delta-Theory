@@ -6,7 +6,7 @@ tags:
   - "#status/stable"
   - "#function/definition"
 polarity: P+
-derivation: A0+T1
+derivation: A0+T2
 aliases:
   - Natural Transformation Rate
   - e — Natural Transformation Rate (constant)
@@ -29,18 +29,18 @@ aliases:
 
 ## Primitive Derivation
 
-**Theorem Source:** A0 (Existential Difference) + T1 (Irreducibility) — "Existence requires distinguishability" + "Primitive differences cannot be decomposed without loss of existence"
+**Theorem Source:** A0 (Existential Difference) + T2 (Irreducibility) — "Existence requires distinguishability" + "At resolution ε, primitive differences cannot be decomposed without loss of existence"
 
 **Derivation Logic:**
 1. **A0 Requirement:** For growth processes to exist, they must remain distinguishable at resolution ε
-2. **T1 Requirement:** Each growth increment must be irreducible to preserve existence
+2. **T2 Requirement:** Each growth increment must be irreducible to preserve existence
 3. **Mathematical Implication:** Compounding rate must preserve both existence and irreducibility at each step
 4. **Constant Emergence:** e emerges as the maximum natural compounding rate respecting both existence and irreducibility
 5. **Invariant Nature:** Represents fundamental rate constraint for distinguishable growth processes
 
-**Traceback:** `A0 + T1 → existential compounding → e` — derivation chain from foundational axiom and theorem
+**Traceback:** `A0 + T2 → existential compounding → e` — derivation chain from foundational axiom and theorem
 
-**Flow:** A0 demands distinguishable existence → T1 demands irreducible steps → natural compounding must respect both → e emerges as mathematical necessity
+**Flow:** A0 demands distinguishable existence → T2 demands irreducible steps → natural compounding must respect both → e emerges as mathematical necessity
 
 ---
 
@@ -122,7 +122,7 @@ Brief examples across domains showing both technical and humane angles:
 
 ## Detailed Mathematical Derivation
 
-### From Irreducibility to the Value of e
+### From Existential Difference and Irreducibility to the Value of e
 
 **Start with proportional compounding:**
 
@@ -143,16 +143,16 @@ $$F_n = \left(1 + \frac{1}{n}\right)^n$$
 As $n \to \infty$ (compounding into infinitely fine irreducible steps), the limit exists:
 $$\lim_{n \to \infty} \left(1 + \frac{1}{n}\right)^n = e$$
 
-**Interpretation in terms of A0 + T1:**
+**Interpretation in terms of A0 + T2:**
 
 - **A0 ensures** that each increment must remain distinguishable to exist at resolution ε
-- **T1 ensures** that each increment is an irreducible ∆ — you can't split it into "smaller" meaningfully different pieces without losing existence
+- **T2 ensures** that each increment is an irreducible ∆ — you can't split it into "smaller" meaningfully different pieces without losing existence
 - **e is the maximum growth factor** achievable in 1 unit depth when the process is entirely built from such existentially distinguishable, irreducible steps
 
 **Why the value is exactly 2.71828…:**
 
 - It's the **only number** where proportional compounding of irreducible steps converges in this exact way
-- Any **smaller base** → slower growth; any **larger** → would require sub-irreducible steps (violating T1) or indistinguishable increments (violating A0)
+- Any **smaller base** → slower growth; any **larger** → would require sub-irreducible steps (violating T2) or indistinguishable increments (violating A0)
 - e represents the **natural limit** of growth when constrained by both existence and irreducibility
 
 **Connection to primitive flow:**

@@ -39,7 +39,7 @@ aliases:
 3. **Mathematical Necessity:** ι_identity emerges as minimal stable reinforcement interval
 4. **Invariant Nature:** Represents fundamental timing constraint for identity coherence
 
-**Traceback:** `A0 → T1 → T6 → ι_identity` — why identity maintenance requires this rate invariant
+**Traceback:** `A0 → T3 → T6 → ι_identity` — why identity maintenance requires this rate invariant
 
 **Flow:** T6 demands persistent boundary identity → requires stable identity reinforcement timing → ι_identity emerges as timing invariant for identity coherence
 
@@ -156,13 +156,13 @@ where $δt_{min}$ ensures boundary recognizability persistence
 ## Relationship to Other Principles
 
 ### Foundation Theorems
-- **T6 (Identity):** Direct source - provides mathematical expression of identity requirement
-- **T1 (Irreducibility):** Provides foundation for persistent identity necessity
 - **A0 (Existential Difference):** Ensures identity maintenance cannot be eliminated
+- **T3 (Recursivity):** Provides foundation for persistent identity necessity
+- **T6 (Identity):** Direct source - provides mathematical expression of identity requirement
 
 ### Supporting Principles
-- **T5 (Discrimination):** Identity affects discrimination capability
-- **T4 (Conservation):** Identity maintenance must preserve boundary conservation
+- **T4 (Discrimination):** Identity affects discrimination capability
+- **T5 (Conservation):** Identity maintenance must preserve boundary conservation
 
 ### Higher-Level Extensions
 - **T6 (Temporal Continuity):** Extends identity into temporal coherence persistence
@@ -215,8 +215,8 @@ where $δt_{min}$ ensures boundary recognizability persistence
 
 ## See Also
 
-- [[t6-interface-identity.theorem|T6 — Interface Identity (theorem)]] (source theorem)
-- [[kappa-discrimination-rate.constant|κ_discrimination — Interface Discrimination Rate (constant)]] (complementary interface constant)
-- [[sigma-conservation-rate.constant|σ_conservation — Interface Conservation Rate (constant)]] (complementary interface constant)
-- [[00.1.2-interface-primitives.index|00.1.2 - Interface Primitives (index)]] (implementation consumers)
+- [[t6-interface-identity.theorem|T6 — Interface Identity (theorem)]]
+- [[kappa-discrimination-rate.constant|κ_discrimination — Interface Discrimination Rate (constant)]]
+- [[sigma-conservation-rate.constant|σ_conservation — Interface Conservation Rate (constant)]]
+- [[00.1.2-interface-primitives.index|00.1.2 - Interface Primitives (index)]]
 

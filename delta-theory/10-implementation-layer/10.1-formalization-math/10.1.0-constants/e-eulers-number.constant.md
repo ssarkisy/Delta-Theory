@@ -112,10 +112,4 @@ This implementation maintains dual-register intelligibility per governance (see 
 - [[pi-circle-constant.constant\|π — Circle Constant (constant)]] · [[phi-golden-ratio.constant\|φ — Golden Ratio (constant)]]
 - [[10.1-formalization-math.index\|10.1 - Formalization (Math) (index)]]
 
----
 
-## Dual‑register checklist
-
-- [x] Technical mapping provided
-- [x] Humane mapping provided
-- [x] Crosswalk table included

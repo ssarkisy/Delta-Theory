@@ -168,7 +168,7 @@ Resilience extends basic Recovery primitive operations with advanced adaptive re
 
 ### Theoretical Foundation
 - [[lambda-v-void-resonance-threshold.modulator\|λV — Void (Volozhina) Resonance Threshold (modulator)]] - Primary modulator source
-- [[t8-recovery-stability.theorem\|T8 — Recovery Stability (theorem)]] - Theoretical foundation through Recovery primitive
+- [[t7-recovery-stability.theorem|T7 — Recovery Stability (theorem)]] - Theoretical foundation through Recovery primitive
 
 ### Pattern Integration
 - [[00.2.3-coherence-patterns.index\|00.2.3 - Coherence Patterns (index)]] - Parent patterns module

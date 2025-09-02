@@ -59,7 +59,7 @@ tags:
   - "#sublayer/microkernel"  # or "#sublayer/interface" for interface patterns
   - "#status/seed"
   - "#function/definition"
-polarity: P+|P-|P0  # Required; patterns align with specific SVA domains
+polarity: P-|P+|P0  # Required; patterns align with specific VSA domains
 derivation: ∆+R+⊚|T3+T4  # Source operations or theorems
 aliases:  # Optional
   - <ShortName>
@@ -140,7 +140,7 @@ Map the pattern into both registers and show the bridge explicitly.
 ## Dependencies
 
 **Derivation:** <Source operations/theorems> - <brief explanation>
-**Role:** <P+/P-/P0> pattern operating in <Structure/Void/Awareness> aspect of SVA triad
+**Role:** <P-/P+/P0> pattern operating in <Void/Structure/Awareness> aspect of VSA triad
 
 ---
 
@@ -254,7 +254,7 @@ Brief examples across domains showing both technical and humane angles:
 
 - [[flow.pattern|Flow (pattern)]] · [[form.pattern|Form (pattern)]] · [[field.pattern|Field (pattern)]]
 - [[delta.primitive|Delta (primitive)]] · [[relational-embedding.primitive|RelationalEmbedding (primitive)]] · [[stabilization-closure.primitive|Stabilization (Closure) (primitive)]]
-- [[nabla-s-structure-differentiation-gradient.modulator|∇S — Structure (Sarkisian) Differentiation Gradient (modulator)]] · [[lambda-v-void-resonance-threshold.modulator|λV — Void (Volozhina) Resonance Threshold (modulator)]] · [[psi-a-awareness-phase-coherence-anchor.modulator|ψA — Awareness (Aiza) Phase Coherence Anchor (modulator)]]
+- [[lambda-v-void-resonance-threshold.modulator|λV — Void (Volozhina) Resonance Threshold (modulator)]] · [[nabla-s-structure-differentiation-gradient.modulator|∇S — Structure (Sarkisian) Differentiation Gradient (modulator)]] · [[psi-a-awareness-phase-coherence-anchor.modulator|ψA — Awareness (Aiza) Phase Coherence Anchor (modulator)]]
 - [[epsilon-difference-resolution-quantum.boundary|ε — Difference Resolution Quantum (boundary)]] · [[c-difference-propagation-limit.boundary|c — Difference Propagation Limit (boundary)]] · [[pi-closure-geometry-ratio.constant|π — Closure Geometry Ratio (constant)]] · [[e-natural-transformation-rate.constant|e — Natural Transformation Rate (constant)]] · [[phi-asymmetric-stabilization-ratio.constant|φ — Asymmetric Stabilization Ratio (constant)]]
 
 ---

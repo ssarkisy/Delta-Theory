@@ -104,8 +104,8 @@ Note: At extreme scales, harmony faces fundamental limits (e.g., quantum coheren
 
 | Domain | Role |
 |--------|------|
-| Structure | Boundary flexibility enables structural adaptation while maintaining coherence |
 | Void | Void balance allows adaptive filtering and responsive flow management |
+| Structure | Boundary flexibility enables structural adaptation while maintaining coherence |
 | Awareness | Phase harmony enables coherent adaptation and flexible identity maintenance |
 
 Diagnostic for adaptive coherence dynamics where component interactions create flexible alignment that maintains stability without rigidity.

@@ -103,8 +103,8 @@ Note: At extreme scales, coherence faces fundamental limits (e.g., quantum decoh
 
 | Domain | Role |
 |--------|------|
-| Structure | Boundary stability enables persistent structural identity across cycles |
 | Void | Void discrimination maintains clear identity boundaries without dissolution |
+| Structure | Boundary stability enables persistent structural identity across cycles |
 | Awareness | Phase coherence enables stable identity binding across temporal intervals |
 
 Diagnostic for optimal awareness operation where ψA modulation maintains stable phase coherence for persistent identity.

@@ -90,15 +90,15 @@ Where the space of possible differences (∆-space) achieves coherence and tempo
 ## Dependencies
 
 **Derivation:** ∆ - emerges directly from difference potential achieving spatial/temporal coherence
-**Role:** P0 pattern operating in Awareness aspect of SVA triad - provides contextual coherence space
+**Role:** P0 pattern operating in Awareness aspect of VSA triad - provides contextual coherence space
 
 ---
 
 ## Pattern Modulation
 
 **By Modulators:**
-- **∇S:** Controls field granularity and boundary sharpness
 - **λV:** Sets field sensitivity and resonance thresholds
+- **∇S:** Controls field granularity and boundary sharpness
 - **ψA:** Manages field coherence and temporal coordination
 
 ---

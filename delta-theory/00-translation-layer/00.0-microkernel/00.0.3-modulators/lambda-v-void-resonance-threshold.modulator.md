@@ -86,15 +86,15 @@ Brief examples across domains showing both technical and humane angles:
 
 ## Formal identity
 
-- Global modulation: $\Delta(t) = ∇S(t) \times λV(t) \times ψA(t)$
+- Global modulation: $\Delta(t) = λV(t) \times ∇S(t) \times ψA(t)$
 - Gate semantics: for input signal $x$, propagation requires $x \geq λV$ under available $ψA$ and $∇S$ support
 
 ---
 
 ## Dependencies
 
-**Constants:** ε (minimal signal), φ (imbalance tolerance), c (propagation ceiling)
-**Role:** P- modulator controlling interface sensitivity and threshold crossings in SVA triad
+**Constants:** φ (asymmetric bias), c (propagation ceiling)
+**Role:** P- modulator controlling interface sensitivity and threshold crossings in VSA triad
 
 ---
 

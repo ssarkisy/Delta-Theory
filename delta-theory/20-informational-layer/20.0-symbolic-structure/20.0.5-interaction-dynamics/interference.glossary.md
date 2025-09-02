@@ -104,8 +104,8 @@ Note: At extreme scales, interference faces fundamental limits (e.g., quantum su
 
 | Domain | Role |
 |--------|------|
-| Structure | Boundary resolution determines constructive/destructive pattern mixing outcomes |
 | Void | Void filtering enables selective superposition and controlled interference effects |
+| Structure | Boundary resolution determines constructive/destructive pattern mixing outcomes |
 | Awareness | Phase discrimination allows coherent pattern separation and interference detection |
 
 Diagnostic for pattern mixing dynamics where overlapping signals create superposition effects with constructive or destructive outcomes based on phase relationships.

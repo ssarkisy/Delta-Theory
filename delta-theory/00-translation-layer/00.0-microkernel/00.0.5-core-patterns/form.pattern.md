@@ -73,7 +73,7 @@ Where successful closure (⊚) of relationally embedded difference (R(∆)) prod
 ## Dependencies
 
 **Derivation:** ∆ → R(·) → ⊚ → Form - emerges from completed primitive sequence achieving stable closure
-**Role:** P+ pattern operating in Structure aspect of SVA triad - provides stable persistent configurations
+**Role:** P+ pattern operating in Structure aspect of VSA triad - provides stable persistent configurations
 
 ---
 
@@ -93,8 +93,8 @@ Where successful closure (⊚) of relationally embedded difference (R(∆)) prod
 ## Pattern Modulation
 
 **By Modulators:**
-- **∇S:** Controls form granularity and structural differentiation
 - **λV:** Sets form stability thresholds and boundary permeability
+- **∇S:** Controls form granularity and structural differentiation
 - **ψA:** Manages form coherence and recursive self-maintenance
 
 ---

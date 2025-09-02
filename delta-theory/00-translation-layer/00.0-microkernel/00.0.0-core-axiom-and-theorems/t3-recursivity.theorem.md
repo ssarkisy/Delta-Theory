@@ -187,8 +187,8 @@ Brief consequences across domains, showing both technical and humane angles:
 - Recursive closure provides the mechanism by which distinguishable patterns achieve stable recognition
 
 ### Theorem Interactions
-- **T1 (Irreducibility)**: Recursive patterns must remain irreducible to preserve form integrity
-- **T2 (Asymmetry)**: Directional bias guides recursive embedding patterns toward specific recognizable forms
+- **T1 (Asymmetry)**: Directional bias guides recursive embedding patterns toward specific recognizable forms
+- **T2 (Irreducibility)**: Recursive patterns must remain irreducible to preserve form integrity
 
 ---
 
@@ -203,7 +203,7 @@ Brief consequences across domains, showing both technical and humane angles:
 
 ## See Also
 
-- [[a0-existential-difference.axiom|A0 — Existential Difference (axiom)]]
 - [[00.0.0.0-core-axiom-and-theorems.index|00.0.0.0 - Core Axiom & Theorems (index)]]
-- [[t1-irreducibility.theorem|T1 — Irreducibility (theorem)]]
-- [[t2-asymmetry.theorem|T2 — Asymmetry Theorem (theorem)]]
+- [[a0-existential-difference.axiom|A0 — Existential Difference (axiom)]]
+- [[t1-asymmetry.theorem|T1 — Asymmetry (theorem)]]
+- [[t2-irreducibility.theorem|T2 — Irreducibility (theorem)]]

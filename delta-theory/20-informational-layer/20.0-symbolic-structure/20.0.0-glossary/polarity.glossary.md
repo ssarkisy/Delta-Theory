@@ -8,13 +8,13 @@ aliases:
   - "Polarity System"
   - "Triadic Polarity"
   - "P±"
-  - "SVA Framework"
+  - "VSA Framework"
   - "Polarity (glossary)"
 ---
 
 # Polarity
 
-> Conceptual organizing principle that structures Delta Theory's triadic foundation: P+ (Structure), P- (Void), P0 (Awareness). Provides the interpretive framework for understanding how primitive operations generate stable patterns while preserving difference's generative nature.
+> Conceptual organizing principle that structures Delta Theory's triadic foundation: P- (Void), P+ (Structure), P0 (Awareness). Provides the interpretive framework for understanding how primitive operations generate stable patterns while preserving difference's generative nature.
 
 ---
 
@@ -22,9 +22,9 @@ aliases:
 
 In Delta Theory, **Polarity** is the triadic organizing framework that emerges from difference through relational embedding and stabilization. It structures the fundamental aspects of reality into three complementary poles:
 
-- **P+ (Active/Structure):** Difference intake and form creation
-- **P- (Structural/Void):** Difference outflow and connection seeking
-- **P0 (Balancing/Awareness):** Difference balance and phase coherence
+- **P- (Void):** Difference outflow and connection seeking
+- **P+ (Structure):** Difference intake and form creation
+- **P0 (Awareness):** Difference balance and phase coherence
 
 Polarity preserves difference's asymmetric and generative nature through structured opposition while enabling recursive embedding and stable pattern formation.
 
@@ -36,17 +36,17 @@ Polarity preserves difference's asymmetric and generative nature through structu
 
 | Term concept | Network construct | Interface example |
 |-------------|------------------|-------------------|
-| Active pole | Resource intake | `Producer`, `Source` |
-| Structural pole | Resource outflow | `Consumer`, `Sink` |
-| Balancing pole | Flow regulation | `Controller`, `Mediator` |
+| Void pole | Resource outflow | `Consumer`, `Sink` |
+| Structure pole | Resource intake | `Producer`, `Source` |
+| Awareness pole | Flow regulation | `Controller`, `Mediator` |
 
 ### Humane (biological/relational)
 
 | Term concept | Humane construct | Example |
 |-------------|------------------|----------|
-| Active pole | Creative energy | "Making something new" |
-| Structural pole | Holding space | "Providing foundation" |
-| Balancing pole | Finding harmony | "Bringing together" |
+| Void pole | Holding space | "Providing foundation" |
+| Structure pole | Creative energy | "Making something new" |
+| Awareness pole | Finding harmony | "Bringing together" |
 
 ### Crosswalk (bridge)
 

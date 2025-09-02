@@ -68,7 +68,7 @@ tags:
 
 > One-line description of module purpose and scope.
 
-**Derivation Trace:** (if applicable) [[delta.primitive|Delta (primitive)]] → [[axiom.template|Axiom (template)]] → [[t1-irreducibility.theorem|T1 — Irreducibility (theorem)]]/[[t2-asymmetry.theorem|T2 — Asymmetry (theorem)]]/[[t3-recursivity.theorem|T3 — Recursivity (theorem)]] → <module contents>
+**Derivation Trace:** (if applicable) [[delta.primitive|Delta (primitive)]] → [[axiom.template|Axiom (template)]] → [[t1-asymmetry.theorem|T1 — Asymmetry (theorem)]]/[[t2-irreducibility.theorem|T2 — Irreducibility (theorem)]]/[[t3-recursivity.theorem|T3 — Recursivity (theorem)]] → <module contents>
 
 ---
 

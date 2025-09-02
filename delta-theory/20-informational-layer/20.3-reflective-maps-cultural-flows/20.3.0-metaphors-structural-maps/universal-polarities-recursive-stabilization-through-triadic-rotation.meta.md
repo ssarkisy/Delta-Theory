@@ -326,7 +326,7 @@ The universal polarity principle manifests through several key relationships:
 
 ### Core Stabilization Equation
 
-$\Delta(t) = ∇S(t) \times λV(t) \times ψA(t)$
+$\Delta(t) = λV(t) \times ∇S(t) \times ψA(t)$
 
 Where:
 - ∇S: Structure differentiation and boundary tension

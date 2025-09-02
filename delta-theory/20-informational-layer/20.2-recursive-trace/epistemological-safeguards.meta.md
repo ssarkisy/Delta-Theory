@@ -33,7 +33,7 @@ Delta Theory operates as an **open ontological framework** grounded in establish
 
 **Speculative Extensions:**
 - Theoretical extrapolations are **clearly labeled** as hypotheses requiring validation
-- Modulators (∇S, λV, ψA) represent **theoretical constructs** that map to observable patterns but require empirical testing
+- Modulators (λV, ∇S, ψA) represent **theoretical constructs** that map to observable patterns but require empirical testing
 - Domain applications serve as **testable predictions** rather than established facts
 
 ---
@@ -97,7 +97,7 @@ Theoretical claims must maintain alignment across:
 - Collaboration focuses on knowledge building and theoretical refinement
 
 ### Irreducibility as Ethical Core
-The [[t1-the-axiom-of-difference-propagation.theorem]] creates internal guards against manipulation:
+The [[t1-asymmetry.theorem|T1 — Asymmetry (theorem)]] creates internal guards against manipulation:
 - The framework itself must **preserve difference**, including disagreement
 - Cannot collapse opposing viewpoints into single narratives
 - Maintains respect for irreducible perspectives and methodological pluralism
@@ -149,7 +149,7 @@ The [[t1-the-axiom-of-difference-propagation.theorem]] creates internal guards a
 ## See Also
 
 ### Core Framework
-- [[t1-irreducibility.theorem|T1 — Irreducibility (theorem)]] — Foundational safeguard against reductionism
+- [[t1-asymmetry.theorem|T1 — Asymmetry (theorem)]] — Foundational safeguard against reductionism
 - [[PRINCIPLES.md]] — Dual-register governance preventing oversimplification
 - [[structure.glossary|Structure (glossary)]] · [[void.glossary|Void (glossary)]] · [[awareness.glossary|Awareness (glossary)]] — Core concepts maintaining scientific grounding
 

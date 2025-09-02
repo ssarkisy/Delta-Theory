@@ -154,9 +154,9 @@ Surface Interface:
 - T6 demands recognizable boundaries → Surface provides boundary identity control
 - Mathematical basis: ι_identity constant governs boundary refresh timing
 
-**Structural Foundation:** Built upon microkernel primitives ∆, R(·), ⊚ with interface-specific application:
-- **∆ (Difference):** inside/outside distinction enables boundary definition
+**Structural Foundation:** Built upon microkernel primitives R(·), ∆, ⊚ with interface-specific application:
 - **R(·) (Relational Embedding):** context determines appropriate boundary exposure
+- **∆ (Difference):** inside/outside distinction enables boundary definition
 - **⊚ (Stabilization):** ensures consistent boundary policies
 
 **Interface Layer Extension:** T6 specifies **what** surfaces must do; structural primitives provide **how** surfaces operate.
@@ -187,12 +187,13 @@ Surface follows dual-register governance so boundary control remains intelligibl
 - [[kappa-discrimination-rate.constant|κ_discrimination — Interface Discrimination Rate (constant)]] · [[sigma-conservation-rate.constant|σ_conservation — Interface Conservation Rate (constant)]]
 
 ### Theoretical Foundation
-- [[t6-interface-identity.theorem|T6 — Interface Identity (theorem)]] (primary derivation source)
-- [[t5-interface-discrimination.theorem|T5 — Interface Discrimination (theorem)]] · [[t4-interface-conservation.theorem|T4 — Interface Conservation (theorem)]] (coordination with other primitives)
+- [[t4-interface-discrimination.theorem|T4 — Interface Discrimination (theorem)]]
+- [[t5-interface-conservation.theorem|T5 — Interface Conservation (theorem)]] 
+- [[t6-interface-identity.theorem|T6 — Interface Identity (theorem)]]
 
 ### Microkernel Modulators
-- [[nabla-s-structure-differentiation-gradient.modulator|∇S — Structure (Sarkisian) Differentiation Gradient (modulator)]] (boundary clarity)
-- [[lambda-v-void-resonance-threshold.modulator|λV — Void (Volozhina) Resonance Threshold (modulator)]] (exposure sensitivity)
-- [[psi-a-awareness-phase-coherence-anchor.modulator|ψA — Awareness (Aiza) Phase Coherence Anchor (modulator)]] (temporal consistency)
+- [[nabla-s-structure-differentiation-gradient.modulator|∇S — Structure (Sarkisian) Differentiation Gradient (modulator)]]
+- [[lambda-v-void-resonance-threshold.modulator|λV — Void (Volozhina) Resonance Threshold (modulator)]]
+- [[psi-a-awareness-phase-coherence-anchor.modulator|ψA — Awareness (Aiza) Phase Coherence Anchor (modulator)]]
 
 

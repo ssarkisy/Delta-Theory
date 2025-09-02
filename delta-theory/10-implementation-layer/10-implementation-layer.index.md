@@ -24,7 +24,7 @@ This layer provides the implementation infrastructure for Delta Theory, transfor
 - Domain-specific applications demonstrating theory implementation across sciences
 - Practical bridges between theoretical foundations and real-world systems
 
-The Implementation Layer serves as the λV (Void) anchor in the triadic vault structure, providing the execution and modulation mechanisms that propagate difference recursively across domains while maintaining theoretical coherence.
+The Implementation Layer provides the execution and modulation mechanisms that propagate difference recursively across domains while maintaining theoretical coherence, serving as the practical realization of the VSA triad foundations.
 
 ---
 
@@ -67,12 +67,12 @@ Each module provides:
 
 1. **Theoretical Fidelity**
    - All implementations maintain strict adherence to Translation Layer theoretical foundations
-   - Mathematical formalizations preserve the recursive triadic structure (∇S, λV, ψA)
+   - Mathematical formalizations preserve the recursive triadic structure (λV, ∇S, ψA)
    - Domain applications respect the fundamental axioms and theorems
 
 2. **Recursive Execution**
    - Implementation algorithms embody the recursive nature of difference propagation
-   - Execution patterns mirror the theoretical Structure-Void-Awareness triad
+   - Execution patterns mirror the theoretical Void-Structure-Awareness triad
    - Practical applications demonstrate recursive stabilization across scales
 
 3. **Domain Bridge Integrity**

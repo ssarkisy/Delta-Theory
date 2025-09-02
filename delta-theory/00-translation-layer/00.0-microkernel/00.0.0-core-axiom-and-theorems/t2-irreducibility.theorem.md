@@ -8,12 +8,12 @@ tags:
 polarity: P+
 derivation: A0
 aliases:
-  - T1
+  - T2
   - Irreducibility
-  - T1 — Irreducibility (theorem)
+  - T2 — Irreducibility (theorem)
 ---
 
-# T1 — Irreducibility (theorem)
+# T2 — Irreducibility (theorem)
 
 > At resolution ε, primitive differences cannot be decomposed without loss of existence.
 
@@ -117,14 +117,14 @@ aliases:
 
 - **Primitives:** [[delta.primitive|Delta (primitive)]] · [[relational-embedding.primitive|RelationalEmbedding (primitive)]] · [[stabilization-closure.primitive|Stabilization (Closure) (primitive)]]
 - **Boundaries:** [[epsilon-difference-resolution-quantum.boundary|ε — Difference Resolution Quantum (boundary)]]
-- **Modulators:** ∇S / λV / ψA (all depend on irreducible differences for operation)
+- **Modulators:** λV / ∇S / ψA (all depend on irreducible differences for operation)
 - **Foundational:** [[a0-existential-difference.axiom|A0 — Existential Difference (axiom)]] (source axiom)
 
 ---
 
 ## See Also
 
-- [[a0-existential-difference.axiom|A0 — Existential Difference (axiom)]] - Source axiom
 - [[00.0.0.0-core-axiom-and-theorems.index|00.0.0.0 - Core Axiom & Theorems (index)]]
-- [[t2-asymmetry.theorem|T2 — Asymmetry (theorem)]]
+- [[a0-existential-difference.axiom|A0 — Existential Difference (axiom)]]
+- [[t1-asymmetry.theorem|T1 — Asymmetry (theorem)]]
 - [[t3-recursivity.theorem|T3 — Recursivity (theorem)]]

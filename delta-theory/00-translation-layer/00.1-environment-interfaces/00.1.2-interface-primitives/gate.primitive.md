@@ -6,7 +6,7 @@ tags:
   - "#status/stable"
   - "#function/definition"
 polarity: P+
-derivation: T4
+derivation: T5
 aliases:
   - Gate
   - Threshold Control Interface
@@ -154,17 +154,17 @@ Gate Interface:
 
 **Theorem Foundation:** Gate emerges from Interface Theorems as operational implementation
 
-**From T4 (Interface Conservation):** Gates implement conservation monitoring through threshold control
+**From T5 (Interface Conservation):** Gates implement conservation monitoring through threshold control
 - Conservation requires flow accounting → threshold monitoring for flow balance
-- T4 demands accountable difference preservation → Gate provides conservation evaluation
+- T5 demands accountable difference preservation → Gate provides conservation evaluation
 - Mathematical basis: σ_conservation constant governs conservation accounting timing
 
-**Structural Foundation:** Built upon microkernel primitives ∆, R(·), ⊚ with interface-specific application:
-- **∆ (Difference):** condition/no-condition distinction enables threshold detection
+**Structural Foundation:** Built upon microkernel primitives R(·), ∆, ⊚ with interface-specific application:
 - **R(·) (Relational Embedding):** context determines appropriate thresholds
+- **∆ (Difference):** condition/no-condition distinction enables threshold detection
 - **⊚ (Stabilization):** ensures consistent activation policies
 
-**Interface Layer Extension:** Theorems T5, T6 specify **what** gates must do; structural primitives provide **how** gates operate.
+**Interface Layer Extension:** Theorems T4, T6 specify **what** gates must do; structural primitives provide **how** gates operate.
 
 ---
 
@@ -193,12 +193,13 @@ Gate follows dual-register governance so threshold control remains intelligible 
 - [[sigma-conservation-rate.constant|σ_conservation — Interface Conservation Rate (constant)]]
 
 ### Theoretical Foundation
-- [[t4-interface-conservation.theorem|T4 — Interface Conservation (theorem)]] (primary derivation source)
-- [[t5-interface-discrimination.theorem|T5 — Interface Discrimination (theorem)]] · [[t6-interface-identity.theorem|T6 — Interface Identity (theorem)]] (coordination with other primitives)
+- [[t4-interface-discrimination.theorem|T4 — Interface Discrimination (theorem)]]
+- [[t5-interface-conservation.theorem|T5 — Interface Conservation (theorem)]]
+- [[t6-interface-identity.theorem|T6 — Interface Identity (theorem)]]
 
 ### Microkernel Modulators
-- [[lambda-v-void-resonance-threshold.modulator|λV — Void (Volozhina) Resonance Threshold (modulator)]] (threshold control)
-- [[nabla-s-structure-differentiation-gradient.modulator|∇S — Structure (Sarkisian) Differentiation Gradient (modulator)]] (boundary clarity)
-- [[psi-a-awareness-phase-coherence-anchor.modulator|ψA — Awareness (Aiza) Phase Coherence Anchor (modulator)]] (temporal coordination)
+- [[lambda-v-void-resonance-threshold.modulator|λV — Void (Volozhina) Resonance Threshold (modulator)]]
+- [[nabla-s-structure-differentiation-gradient.modulator|∇S — Structure (Sarkisian) Differentiation Gradient (modulator)]]
+- [[psi-a-awareness-phase-coherence-anchor.modulator|ψA — Awareness (Aiza) Phase Coherence Anchor (modulator)]]
 
 

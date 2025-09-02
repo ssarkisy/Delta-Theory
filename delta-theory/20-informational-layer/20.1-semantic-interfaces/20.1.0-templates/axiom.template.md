@@ -139,7 +139,7 @@ Provide brief, concrete consequences (1 line each) across domains. Use the commo
 
 - Primitives: [[delta.primitive|Delta (primitive)]] · [[relational-embedding.primitive|RelationalEmbedding (primitive)]] · [[stabilization-closure.primitive|Stabilization (Closure) (primitive)]]
 - Constants: link to conceptual anchors if relevant (ε, π, e, φ, c)
-- Modulators: [[nabla-s-structure-differentiation-gradient.modulator|∇S — Structure (Sarkisian) Differentiation Gradient (modulator)]] / [[lambda-v-void-resonance-threshold.modulator|λV — Void (Volozhina) Resonance Threshold (modulator)]] / [[psi-a-awareness-phase-coherence-anchor.modulator|ψA — Awareness (Aiza) Phase Coherence Anchor (modulator)]] if influenced
+- Modulators: [[lambda-v-void-resonance-threshold.modulator|λV — Void (Volozhina) Resonance Threshold (modulator)]] / [[nabla-s-structure-differentiation-gradient.modulator|∇S — Structure (Sarkisian) Differentiation Gradient (modulator)]] / [[psi-a-awareness-phase-coherence-anchor.modulator|ψA — Awareness (Aiza) Phase Coherence Anchor (modulator)]] if influenced
 
 ---
 

@@ -135,7 +135,7 @@ How the term manifests differently at various scales:
 | Void | <void role> |
 | Awareness | <awareness role> |
 
-Brief explanation of how the term functions within the SVA triad.
+Brief explanation of how the term functions within the VSA triad.
 
 ---
 
@@ -161,7 +161,7 @@ Compare with related terms to clarify boundaries:
 - **<Test Type 3>:** <description of test approach>
 - **<Test Type 4>:** <description of test approach>
 
-*Note: This section consolidates what were previously separate Invariants/Thresholds, SVA Coupling, and Failure Modes sections to eliminate redundancy.*
+*Note: This section consolidates what were previously separate Invariants/Thresholds, VSA Coupling, and Failure Modes sections to eliminate redundancy.*
 
 ---
 

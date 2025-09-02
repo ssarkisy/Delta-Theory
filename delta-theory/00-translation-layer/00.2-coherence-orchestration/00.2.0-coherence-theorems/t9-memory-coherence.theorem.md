@@ -6,7 +6,7 @@ tags:
   - "#status/stable"
   - "#function/definition"
 polarity: P0
-derivation: T4
+derivation: T6
 aliases:
   - T9
   - Memory Coherence
@@ -38,25 +38,25 @@ aliases:
 
 **Traceback:** `∆ → R(·) → ⊚ → State-Coherent Forms` — why primitive operations require memory coherence
 
-**Foundation:** From T4 (Interface Conservation) + state extension → memory coherence necessity for state-persistent information preservation
+**Foundation:** From T6 (Interface Identity) + state extension → memory coherence necessity for state-persistent information preservation
 **Flow:** ∆ detects state information changes → R(·) embeds information patterns in state-independent relations → ⊚ achieves recursive information conservation across state transitions
-**Result:** Theorem emerges to preserve information coherence across state boundaries, extending T4's boundary conservation to state dimension
+**Result:** Theorem emerges to preserve information coherence across state boundaries, extending T6's identity to state dimension
 
 ---
 
 ## Proof
 
-**Given:** T4 (Interface Conservation) and state transition requirements
+**Given:** T6 (Interface Identity) and state transition requirements
 
 **To Prove:** Information must be preserved across state transitions
 
 **Proof:**
-1. **From T4:** Interface operations must preserve difference across boundaries: $C(F_{in}) = C(F_{out}) + C(∆State) + C(Transform)$
+1. **From T6:** Interface boundaries must maintain coherent identity: $F_I = ⊚(R(∆_{identity}))$
 2. **State transition requirement:** Systems operate through state sequences $S_1 \rightarrow S_2 \rightarrow ... \rightarrow S_n$
 3. **Information persistence need:** Information must remain accessible across state transitions
 4. **State as boundary crossing:** Each state transition represents information crossing temporal-state boundary
-5. **If state information fails:** Information becomes inaccessible → violates T4 across state dimension
-6. **Therefore:** Information must be preserved across state transitions to satisfy T4 across state boundaries □
+5. **If state information fails:** Information becomes inaccessible → violates T6 across state dimension
+6. **Therefore:** Information must be preserved across state transitions to satisfy T6 across state boundaries □
 
 **Corollaries:**
 - State information persistence is logically necessary for system coherence across state changes
@@ -123,7 +123,7 @@ aliases:
 
 ## Dependencies & scope
 
-- **Derived from:** T4 (Interface Conservation) + state extension
+- **Derived from:** T6 (Interface Identity) + state extension
 - **Requires:** System state transition operation requirements
 - **Applies to:** All information patterns requiring persistence across system state transitions beyond interface operational boundaries
 - **Exceptions:** Ephemeral information with explicitly transient state lifecycle
@@ -147,9 +147,9 @@ aliases:
 ## Relationship to Other Principles
 
 ### Theorem Relationships
-- **T4 Foundation:** Extends boundary conservation to state dimension
-- **T7 Bridge:** Memory enables temporal identity coherence
-- **T8 Support:** Information persistence enables recovery coherence
+- **T6 Foundation:** Extends identity to state dimension
+- **T8 Bridge:** Memory enables temporal identity coherence
+- **T7 Support:** Information persistence enables recovery coherence
 
 ### Axiom Relationships
 - **A0 Foundation:** Preserves existential information differences across states
@@ -167,7 +167,9 @@ aliases:
 
 ## See Also
 
-- [[t4-interface-conservation.theorem\|T4 — Interface Conservation (theorem)]] - Foundation theorem
-- [[t7-temporal-continuity.theorem\|T7 — Temporal Continuity (theorem)]] · [[t8-recovery-stability.theorem\|T8 — Recovery Stability (theorem)]] - Related coherence theorems
-- [[00.2.0-coherence-theorems.index\|00.2.0 - Coherence Theorems (index)]] - Parent module
-- [[a0-existential-difference.axiom\|A0 — Existential Difference (axiom)]] · [[t3-recursivity.theorem\|T3 — Recursivity (theorem)]] - Foundational principles
+- [[a0-existential-difference.axiom\|A0 — Existential Difference (axiom)]]
+- [[t3-recursivity.theorem\|T3 — Recursivity (theorem)]]
+- [[t6-interface-identity.theorem\|T6 — Interface Identity (theorem)]]
+- [[t7-recovery-stability.theorem\|T7 — Recovery Stability (theorem)]]
+- [[t8-temporal-continuity.theorem\|T8 — Temporal Continuity (theorem)]]
+- [[00.2.0-coherence-theorems.index\|00.2.0 - Coherence Theorems (index)]]

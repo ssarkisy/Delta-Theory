@@ -38,7 +38,7 @@ aliases:
 3. **Constant Emergence:** γ_retention emerges as the fundamental factor governing information preservation efficiency
 4. **Invariant Nature:** Represents the mathematical relationship determining how much information survives state transitions
 
-**Traceback:** `A0 → T3+A0 → T4 → T9 → γ_retention` — derivation chain from foundational axiom
+**Traceback:** `A0 → T3+A0 → T6 → T9 → γ_retention` — derivation chain from foundational axiom
 
 **Flow:** T9 requires information preservation across states → state transitions threaten information coherence → γ_retention provides the mathematical factor determining preservation efficiency → enables stable memory coherence
 
@@ -196,13 +196,13 @@ where information preservation across state transitions maintains this proportio
 ## Relationship to Other Principles
 
 ### Foundation Theorems
-- **T9 (Memory Coherence):** Direct source - provides mathematical expression of information preservation requirement
-- **T4 (Interface Conservation):** Provides foundation for conservation necessity across boundaries
 - **A0 (Existential Difference):** Ensures information preservation cannot be eliminated
+- **T6 (Interface Identity):** Provides foundation for identity preservation necessity across boundaries
+- **T9 (Memory Coherence):** Direct source - provides mathematical expression of information preservation requirement
 
 ### Supporting Principles
-- **T7 (Temporal Continuity):** Memory retention provides foundation for temporal identity persistence
-- **T8 (Recovery Stability):** Memory retention ensures recovery operations have preserved information
+- **T7 (Recovery Stability):** Memory retention ensures recovery operations have preserved information
+- **T8 (Temporal Continuity):** Memory retention provides foundation for temporal identity persistence
 
 ### Higher-Level Extensions
 - **Coherence Modulators:** γ_retention provides efficiency foundation for coherence modulation operations
@@ -212,7 +212,8 @@ where information preservation across state transitions maintains this proportio
 
 ## See Also
 
-- [[t9-memory-coherence.theorem\|T9 — Memory Coherence (theorem)]] - Source theorem
-- [[r-memory-coherence-maintenance-rate.constant\|r_memory — Memory Coherence Maintenance Rate (constant)]] - Related memory constant
-- [[r-temporal-coherence-maintenance-rate.constant\|r_temporal — Temporal Coherence Maintenance Rate (constant)]] · [[r-stability-assessment-rate.constant\|r_stability — Stability Assessment Rate (constant)]] - Related coherence rates
-- [[00.2.1-constants.index\|00.2.1 - Constants (index)]] - Parent module
+- [[t9-memory-coherence.theorem\|T9 — Memory Coherence (theorem)]]
+- [[r-memory-coherence-maintenance-rate.constant\|r_memory — Memory Coherence Maintenance Rate (constant)]]
+- [[r-temporal-coherence-maintenance-rate.constant\|r_temporal — Temporal Coherence Maintenance Rate (constant)]]
+- [[r-stability-assessment-rate.constant\|r_stability — Stability Assessment Rate (constant)]]
+- [[00.2.1-constants.index\|00.2.1 - Constants (index)]]

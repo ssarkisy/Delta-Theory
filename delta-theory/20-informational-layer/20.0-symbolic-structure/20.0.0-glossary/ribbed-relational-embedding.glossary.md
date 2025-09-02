@@ -88,7 +88,7 @@ This concept manifests when standard embedding would collapse under relational t
 | Void | Creates space for tension to be held without collapse |
 | Awareness | Enables conscious recognition of structural relationships under stress |
 
-Ribbed Relational Embedding functions as the structural backbone within the SVA triad, allowing the system to maintain coherence when standard relational connections would fail under load.
+Ribbed Relational Embedding functions as the structural backbone within the VSA triad, allowing the system to maintain coherence when standard relational connections would fail under load.
 
 ---
 

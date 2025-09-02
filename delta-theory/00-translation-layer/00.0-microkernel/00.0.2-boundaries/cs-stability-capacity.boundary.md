@@ -5,7 +5,7 @@ tags:
   - "#sublayer/microkernel"
   - "#status/stable"
   - "#function/definition"
-polarity: P+
+polarity: P0
 aliases:
   - Cs
   - Stability Capacity
@@ -117,7 +117,7 @@ Brief examples across domains showing both technical and humane angles:
 
 ---
 
-## Interplay with SVA (if relevant)
+## Interplay with VSA
 
 - ∇S (Structure): Cs constrains the maximum depth of structural differentiation possible
 - λV (Void): when differences exceed Cs, void processes activate to release excess

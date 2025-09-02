@@ -104,8 +104,8 @@ Note: At extreme scales, transparency faces fundamental limits (e.g., quantum un
 
 | Domain | Role |
 |--------|------|
-| Structure | Boundary clarity enables precise differentiation and pattern recognition |
 | Void | Void discrimination balanced with signal visibility for optimal filtering |
+| Structure | Boundary clarity enables precise differentiation and pattern recognition |
 | Awareness | Coherence maintenance enables clear phase binding and pattern integration |
 
 Diagnostic for optimal field operation where all discrimination mechanisms function within their ideal operating ranges.

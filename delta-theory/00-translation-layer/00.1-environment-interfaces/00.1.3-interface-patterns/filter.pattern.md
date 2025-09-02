@@ -32,14 +32,14 @@ Filter arises from λV's threshold sensitivity capabilities, providing the "disc
 
 ## Emergence Derivation
 
-**Traceback:** `T5 + λV → Filter (threshold discrimination pattern)` — Filter emerges from interface discrimination theorem enhanced by void modulator effects
+**Traceback:** `T4 + λV → Filter (threshold discrimination pattern)` — Filter emerges from interface discrimination theorem enhanced by void modulator effects
 
-**Theoretical Foundation:** T5 (Interface Discrimination) provides the discrimination requirement
+**Theoretical Foundation:** T4 (Interface Discrimination) provides the discrimination requirement
 **Modulator Enhancement:** λV (Void Resonance Threshold) provides threshold sensitivity and quality assessment capabilities
 **Prerequisites:** Active interface primitives requiring quality discrimination, threshold sensitivity needs, advanced filtering requirements
-**Formation:** T5 discrimination principles enhanced by λV modulator effects create sophisticated threshold discrimination patterns that stabilize into advanced quality assessment capabilities
+**Formation:** T4 discrimination principles enhanced by λV modulator effects create sophisticated threshold discrimination patterns that stabilize into advanced quality assessment capabilities
 
-**Derivation Chain:** A0+T2 → T5 (Interface Discrimination) + λV (Void Resonance) → Filter (Enhanced Discrimination Pattern)
+**Derivation Chain:** A0+T1 → T4 (Interface Discrimination) + λV (Void Resonance) → Filter (Enhanced Discrimination Pattern)
 
 ---
 
@@ -74,7 +74,7 @@ Filter arises from λV's threshold sensitivity capabilities, providing the "disc
 ## Dependencies
 
 **Derivation:** λV - emerges from void modulator effects on interface discrimination requirements
-**Role:** P- pattern operating in Void aspect of SVA triad - provides threshold discrimination for interface operations
+**Role:** P- pattern operating in Void aspect of VSA triad - provides threshold discrimination for interface operations
 
 ---
 
@@ -195,7 +195,10 @@ Filter arises from λV's threshold sensitivity capabilities, providing the "disc
 
 ## See Also
 
-- [[router.pattern|Router (pattern)]] · [[buffer.pattern|Buffer (pattern)]] - Complementary interface patterns
-- [[port.primitive|Port (Flow Control Interface)]] · [[gate.primitive|Gate (Threshold Control Interface)]] · [[surface.primitive|Surface (Boundary Control Interface)]] - Enhanced primitives
-- [[lambda-v-void-resonance-threshold.modulator|λV — Void (Volozhina) Resonance Threshold (modulator)]] - Source modulator
-- [[00.1.3-interface-patterns.index|00.1.3 - Interface Patterns (index)]] - Pattern coordination context
+- [[router.pattern|Router (pattern)]]
+- [[buffer.pattern|Buffer (pattern)]]
+- [[port.primitive|Port (Flow Control Interface)]]
+- [[gate.primitive|Gate (Threshold Control Interface)]]
+- [[surface.primitive|Surface (Boundary Control Interface)]]
+- [[lambda-v-void-resonance-threshold.modulator|λV — Void (Volozhina) Resonance Threshold (modulator)]]
+- [[00.1.3-interface-patterns.index|00.1.3 - Interface Patterns (index)]]

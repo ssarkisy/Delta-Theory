@@ -103,8 +103,8 @@ Note: At extreme scales, saturation can become indistinguishable from fundamenta
 
 | Domain | Role |
 |--------|------|
-| Structure | Boundary formation overwhelmed by excessive differentiation |
 | Void | Void discrimination lost due to signal density overload |
+| Structure | Boundary formation overwhelmed by excessive differentiation |
 | Awareness | Coherence breakdown from information processing overload |
 
 Diagnostic for complete field capacity failure where excessive difference density prevents any meaningful contextual discrimination.

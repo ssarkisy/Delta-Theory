@@ -74,7 +74,7 @@ Buffer arises from ψA's temporal coordination capabilities, providing the "memo
 ## Dependencies
 
 **Derivation:** ψA - emerges from awareness modulator effects on interface temporal requirements
-**Role:** P0 pattern operating in Awareness aspect of SVA triad - provides temporal coherence for interface operations
+**Role:** P0 pattern operating in Awareness aspect of VSA triad - provides temporal coherence for interface operations
 
 ---
 
@@ -195,7 +195,10 @@ Buffer arises from ψA's temporal coordination capabilities, providing the "memo
 
 ## See Also
 
-- [[router.pattern|Router (pattern)]] · [[filter.pattern|Filter (pattern)]] - Complementary interface patterns
-- [[port.primitive|Port (Flow Control Interface)]] · [[gate.primitive|Gate (Threshold Control Interface)]] · [[surface.primitive|Surface (Boundary Control Interface)]] - Supported primitives
-- [[psi-a-awareness-phase-coherence-anchor.modulator|ψA — Awareness (Aiza) Phase Coherence Anchor (modulator)]] - Source modulator
-- [[t4-interface-conservation.theorem|T4 — Interface Conservation (theorem)]] - Theoretical foundation for state conservation
+- [[router.pattern|Router (pattern)]]
+- [[filter.pattern|Filter (pattern)]]
+- [[port.primitive|Port (Flow Control Interface)]]
+- [[gate.primitive|Gate (Threshold Control Interface)]]
+- [[surface.primitive|Surface (Boundary Control Interface)]]
+- [[psi-a-awareness-phase-coherence-anchor.modulator|ψA — Awareness (Aiza) Phase Coherence Anchor (modulator)]]
+- [[t6-interface-identity.theorem|T6 — Interface Identity (theorem)]]

@@ -5,7 +5,7 @@ tags:
   - "#sublayer/microkernel"
   - "#status/stable"
   - "#function/definition"
-polarity: P0
+polarity: P+
 aliases:
   - ε
   - Epsilon
@@ -32,7 +32,7 @@ aliases:
 **Traceback:** `∆ → R(·) → ⊚ → F` — why primitive operations require this boundary
 
 **Flow:** ∆ cannot be subdivided below operational threshold → R(·) needs finite granularity → ⊚ requires minimal quantum for stable distinction → ε emerges
-**Foundation:** From A0+T1 (Existential Difference + Irreducibility) — existence requires distinguishability at minimum quantum levels
+**Foundation:** From A0+T2 (Existential Difference + Irreducibility) — existence requires distinguishability at minimum quantum levels
 **Role:** Enforces minimal distinguishable difference quantum limits
 
 ---
@@ -113,7 +113,7 @@ Brief examples across domains showing both technical and humane angles:
 
 ---
 
-## Interplay with SVA
+## Interplay with VSA
 
 - ∇S (Structure): chooses partitioning granularity; finer ε → deeper feasible embeddings
 - λV (Void): ε sets the minimum signal that clears the gate

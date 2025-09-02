@@ -201,7 +201,7 @@ P0(n)
 $$
 
 This transformation is modulated by the core equation:
-$\Delta(t) = ∇S(t) \times λV(t) \times ψA(t)$
+$\Delta(t) = λV(t) \times ∇S(t) \times ψA(t)$
 
 **Stability Condition:** A system remains stable when:
 $$\sum_{i=0}^{N-1} P_i^{dom} \cdot P_{i+1}^{dom} < 0$$
@@ -214,8 +214,8 @@ Heuristic with triadic encoding: using $val(P+)=+1$, $val(P-)=−1$, $val(P0)=0$
 ## Theoretical Grounding (A0, T1, T2, T3)
 
 - **A0 — Existential Difference:** Establishes that distinguishable existence requires resolution-dependent contrast, providing the foundation for meaningful layer alternation.
-- **T1 — Irreducibility (P+):** Preserves distinct layer identities so alternation has meaningful contrast and does not collapse.
-- **T2 — Asymmetry (P-):** Introduces directional bias and field gradients, enabling phase opposition between adjacent layers.
+- **T1 — Asymmetry (P-):** Introduces directional bias and field gradients, enabling phase opposition between adjacent layers.
+- **T2 — Irreducibility (P+):** Preserves distinct layer identities so alternation has meaningful contrast and does not collapse.
 - **T3 — Recursivity (P0):** Generates nested layering; alternation emerges as the stabilization strategy that prevents resonance runaway and sustains coherent form across depths.
 
 ---

@@ -225,7 +225,7 @@ Evidence that would challenge this framework:
 ## See Also
 
 ### Core Framework
-- [[a0-existential-difference.axiom|A0 — Existential Difference (axiom)]] · [[t1-irreducibility.theorem|T1 — Irreducibility (theorem)]] · [[t2-asymmetry.theorem|T2 — Asymmetry Theorem (theorem)]] · [[t3-recursivity.theorem|T3 — Recursivity Theorem (theorem)]] — Core reality anchors
+- [[a0-existential-difference.axiom|A0 — Existential Difference (axiom)]] · [[t1-asymmetry.theorem|T1 — Asymmetry (theorem)]] · [[t2-irreducibility.theorem|T2 — Irreducibility Theorem (theorem)]] · [[t3-recursivity.theorem|T3 — Recursivity Theorem (theorem)]] — Core reality anchors
 - [[delta.primitive|Delta (primitive)]] · [[form.pattern|Form (pattern)]] · [[polarity.glossary|Polarity (glossary)]] — Reality kernel primitives
 - [[universal-polarities-recursive-stabilization-through-triadic-rotation.meta|Universal Polarities — Recursive Stabilization Through Triadic Rotation]] — Cosmic stability mechanisms
 

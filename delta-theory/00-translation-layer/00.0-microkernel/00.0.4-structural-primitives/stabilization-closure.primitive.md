@@ -97,7 +97,7 @@ $$
 ## Dependencies
 
 **Derivation:** A0+T3 (Existential Difference + Recursivity) - stable forms must exist distinguishably through recursive closure
-**Role:** P0 primitive operating in Awareness aspect of SVA triad, managing temporal coherence
+**Role:** P0 primitive operating in Awareness aspect of VSA triad, managing temporal coherence
 
 ---
 

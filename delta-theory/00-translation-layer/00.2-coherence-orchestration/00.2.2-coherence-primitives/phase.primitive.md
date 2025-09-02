@@ -5,8 +5,8 @@ tags:
   - "#sublayer/coherence"
   - "#status/stable"
   - "#function/definition"
-polarity: P0
-derivation: T7
+polarity: P+
+derivation: T8
 aliases:
   - Phase
   - Temporal Synchronization Primitive
@@ -101,8 +101,8 @@ where temporal synchronization follows r_temporal maintenance cycles and ψA pha
 
 ## Dependencies
 
-**Derivation:** T7 (Temporal Continuity) - Systems must maintain identity continuity across time intervals
-**Role:** Operates in Awareness aspect of SVA triad (P0 polarity, balanced mediation for temporal coordination)
+**Derivation:** T8 (Temporal Continuity) - Interface identity must persist coherently through time
+**Role:** Operates in Structure aspect of VSA triad (P+ polarity, form-building for temporal coordination)
 
 ---
 
@@ -184,8 +184,8 @@ Phase Interface:
 
 **Theorem Foundation:** Phase emerges from Coherence Theorems as operational implementation
 
-**From T7 (Temporal Continuity):** Phase implements temporal identity persistence through active synchronization
-- T7 requires identity continuity across time intervals → Phase provides temporal coordination operations
+**From T8 (Temporal Continuity):** Phase implements temporal identity persistence through active synchronization
+- T8 requires identity continuity across time intervals → Phase provides temporal coordination operations
 - Coherence demands active maintenance → Phase implements r_temporal maintenance cycles
 - Mathematical basis: r_temporal constant governs identity maintenance timing, ψA provides phase coherence anchor
 
@@ -194,7 +194,7 @@ Phase Interface:
 - **R(·) (Relational Embedding):** temporal context determines appropriate synchronization strategies
 - **⊚ (Stabilization):** ensures consistent temporal identity and phase relationships
 
-**Coherence Layer Extension:** T7 specifies **what** phase must do; structural primitives provide **how** phase operates.
+**Coherence Layer Extension:** T8 specifies **what** phase must do; structural primitives provide **how** phase operates.
 
 ---
 
@@ -209,13 +209,17 @@ Phase follows dual-register governance so temporal synchronization remains intel
 ### Coherence Components
 - [[memory.primitive|Memory]] · [[recovery.primitive|Recovery]]
 - [[r-temporal-coherence-maintenance-rate.constant|r_temporal — Temporal Continuity Maintenance Rate (constant)]]
-- [[r-memory-coherence-maintenance-rate.constant|r_memory — Memory Coherence Maintenance Rate (constant)]] · [[r-stability-assessment-rate.constant|r_stability — Stability Assessment Rate (constant)]] · [[gamma-retention-factor.constant|γ_retention — Memory Retention Factor (constant)]]
+- [[r-memory-coherence-maintenance-rate.constant|r_memory — Memory Coherence Maintenance Rate (constant)]]
+- [[r-stability-assessment-rate.constant|r_stability — Stability Assessment Rate (constant)]]
+- [[gamma-retention-factor.constant|γ_retention — Memory Retention Factor (constant)]]
 
 ### Theoretical Foundation
-- [[t7-temporal-continuity.theorem|T7 — Temporal Continuity (theorem)]] (primary derivation source)
-- [[t9-memory-coherence.theorem|T9 — Memory Coherence (theorem)]] · [[t8-recovery-stability.theorem|T8 — Recovery Stability (theorem)]] (coordination with other primitives)
+
+- [[t7-recovery-stability.theorem|T7 — Recovery Stability (theorem)]]
+- [[t8-temporal-continuity.theorem|T8 — Temporal Continuity (theorem)]]
+- [[t9-memory-coherence.theorem|T9 — Memory Coherence (theorem)]]
 
 ### Microkernel Modulators
-- [[psi-a-awareness-phase-coherence-anchor.modulator|ψA — Awareness (Aiza) Phase Coherence Anchor (modulator)]] (phase coordination)
-- [[nabla-s-structure-differentiation-gradient.modulator|∇S — Structure (Sarkisian) Differentiation Gradient (modulator)]] (temporal structure)
-- [[lambda-v-void-resonance-threshold.modulator|λV — Void (Volozhina) Resonance Threshold (modulator)]] (timing sensitivity)
+- [[psi-a-awareness-phase-coherence-anchor.modulator|ψA — Awareness (Aiza) Phase Coherence Anchor (modulator)]]
+- [[nabla-s-structure-differentiation-gradient.modulator|∇S — Structure (Sarkisian) Differentiation Gradient (modulator)]]
+- [[lambda-v-void-resonance-threshold.modulator|λV — Void (Volozhina) Resonance Threshold (modulator)]]

@@ -6,7 +6,7 @@ tags:
   - "#status/stable"
   - "#function/definition"
 polarity: P-
-derivation: A0+T2
+derivation: A0+T1
 aliases:
   - Asymmetric Stabilization Ratio
   - φ — Asymmetric Stabilization Ratio (constant)
@@ -29,18 +29,18 @@ aliases:
 
 ## Primitive Derivation
 
-**Theorem Source:** A0 (Existential Difference) + T2 (Asymmetry) — "Existence requires distinguishability" + "Order matters: ∆(A,B) ≠ ∆(B,A) in any meaningful embedding"
+**Theorem Source:** A0 (Existential Difference) + T1 (Asymmetry) — "Existence requires distinguishability" + "Order matters: ∆(A,B) ≠ ∆(B,A) in any meaningful embedding"
 
 **Derivation Logic:**
 1. **A0 Requirement:** For asymmetric structures to exist, they must remain distinguishable at resolution ε
-2. **T2 Requirement:** Differences are inherently directional with asymmetric relationships
+2. **T1 Requirement:** Differences are inherently directional with asymmetric relationships
 3. **Partitioning Implication:** Asymmetric partitions must preserve both distinguishability and directional bias under recursion
 4. **Constant Emergence:** φ emerges as the unique ratio enabling stable asymmetric self-similarity while maintaining existence
 5. **Invariant Nature:** Represents fundamental constraint for distinguishable, scale-invariant asymmetric ratios
 
-**Traceback:** `A0 + T2 → existential asymmetric partitioning → φ` — derivation chain from foundational axiom and theorem
+**Traceback:** `A0 + T1 → existential asymmetric partitioning → φ` — derivation chain from foundational axiom and theorem
 
-**Flow:** A0 demands distinguishable existence → T2 demands directional bias → asymmetric partitions require both distinguishability and scale invariance → φ emerges as self-reinforcing ratio
+**Flow:** A0 demands distinguishable existence → T1 demands directional bias → asymmetric partitions require both distinguishability and scale invariance → φ emerges as self-reinforcing ratio
 
 ---
 
@@ -131,15 +131,15 @@ We can derive **φ** rigorously from **A0 (Existential Difference)** and **T2 (A
 
 **A0:** $\text{Existence}_\varepsilon \equiv \text{Distinguishability}_\varepsilon$ — Existence at resolution ε is equivalent to distinguishability at resolution ε
 
-**T2:** $\Delta(A \rightarrow B) \neq \Delta(B \rightarrow A)$ — Differences are inherently directional
+**T1:** $\Delta(A \rightarrow B) \neq \Delta(B \rightarrow A)$ — Differences are inherently directional
 
 **2. Asymmetric partitioning requirement:**
 
-From T2: Since differences are directional, any partitioning of a difference must preserve asymmetric relationships. Consider a difference $\Delta$ partitioned into two components $(a, b)$ where $a \neq b$ (asymmetric partition).
+From T1: Since differences are directional, any partitioning of a difference must preserve asymmetric relationships. Consider a difference $\Delta$ partitioned into two components $(a, b)$ where $a \neq b$ (asymmetric partition).
 
 **3. Recursive embedding constraint:**
 
-From A0 + T2: For stable persistence, the partitioned difference must be recursively embeddable without loss of existence or directional distinction. This requires:
+From A0 + T1: For stable persistence, the partitioned difference must be recursively embeddable without loss of existence or directional distinction. This requires:
 - The partition ratio must be preserved under recursive embedding
 - Smaller parts must relate to larger parts as larger parts relate to the whole
 
@@ -167,10 +167,10 @@ $$r^2 - r - 1 = 0$$
 
 **Positive solution:** $r = \frac{1 + \sqrt{5}}{2} = \phi$
 
-**6. Why φ is necessary from A0 + T2:**
+**6. Why φ is necessary from A0 + T1:**
 
 - **A0** requires that partitions preserve distinguishable existence at resolution ε
-- **T2** requires that partitions maintain asymmetric directional relationships
+- **T1** requires that partitions maintain asymmetric directional relationships
 - **Recursive embedding** demands scale-invariant ratios for stable persistence
 - **φ is the unique positive solution** to the scale-invariance constraint for asymmetric partitions
 

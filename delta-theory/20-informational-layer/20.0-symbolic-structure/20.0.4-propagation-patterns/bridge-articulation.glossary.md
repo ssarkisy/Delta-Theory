@@ -106,8 +106,8 @@ Note: At extreme scales, bridge behavior faces fundamental limits (e.g., quantum
 
 | Domain | Role |
 |--------|------|
-| Structure | Boundary articulation enables structural connectivity across regions |
 | Void | Void bridging allows selective flow control and regional isolation |
+| Structure | Boundary articulation enables structural connectivity across regions |
 | Awareness | Phase bridging enables coherent identity spanning across network regions |
 
 Diagnostic for critical network topology where flow convergence creates both propagation enablement and structural vulnerability through articulation points.

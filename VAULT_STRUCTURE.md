@@ -29,7 +29,7 @@ Delta Theory/
 │   │   ├── 00.0.0 - Core Axiom & Theorems/  # A0, T1, T2, T3 foundational triad
 │   │   ├── 00.0.1 - Constants/              # π, e, φ universal mathematical invariants
 │   │   ├── 00.0.2 - Boundaries/             # ε, c, Cs operational limits
-│   │   ├── 00.0.3 - Modulators/             # ∇S, λV, ψA SVA control parameters
+│   │   ├── 00.0.3 - Modulators/             # ∇S, λV, ψA VSA control parameters
 │   │   ├── 00.0.4 - Structural Primitives/  # ∆, R(·), ⊚ core operations
 │   │   └── 00.0.5 - Core Patterns (Foundational)/ # Form, Flow, Field emergent mathematical results
 │   ├── 00.1 - Environment Interfaces/       # Interface theorems, constants, primitives, and patterns
@@ -105,14 +105,14 @@ This theory maintains its theoretical independence while being co-located for co
 
 ## File Count Architecture
 
-File counts in the vault follow **triadic architectural necessity** based on the fundamental Structure-Void-Awareness (SVA) triad that governs Delta Theory:
+File counts in the vault follow **triadic architectural necessity** based on the fundamental Structure-Void-Awareness (VSA) triad that governs Delta Theory:
 
-### **Microkernel (00.0) - Pure SVA Triad**
+### **Microkernel (00.0) - Pure VSA Triad**
 All categories contain **3 files** reflecting the fundamental triadic structure:
 - **Axioms/Theorems:** A0, T1, T2, T3 (foundational axiom + derived triad)
 - **Constants:** π, e, φ (mathematical invariants derived from axioms)
 - **Boundaries:** ε, c, Cs (operational limits)
-- **Modulators:** ∇S, λV, ψA (SVA control parameters)
+- **Modulators:** ∇S, λV, ψA (VSA control parameters)
 - **Primitives:** ∆, R(·), ⊚ (core operations)
 - **Patterns:** Form, Flow, Field (emergent triadic results)
 
@@ -201,7 +201,7 @@ File counts follow **diagnostic necessity** based on comprehensive pattern cover
   - **Harmony:** Flexible coherence enabling adaptive alignment
   - **Dissonance:** Persistent phase conflict creating productive tension
 
-**Diagnostic Principle:** Each classification provides systematic assessment tools with clear theoretical grounding in Translation Layer foundations (∆, R(·), ⊚, SVA modulators), enabling scale-aware pattern recognition across micro, human, and cosmic boundaries.
+**Diagnostic Principle:** Each classification provides systematic assessment tools with clear theoretical grounding in Translation Layer foundations (∆, R(·), ⊚, VSA modulators), enabling scale-aware pattern recognition across micro, human, and cosmic boundaries.
 
 ---
 

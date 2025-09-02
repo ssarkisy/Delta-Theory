@@ -102,7 +102,7 @@ aliases:
 
 - **Primitives:** [[delta.primitive|Delta (primitive)]] · [[relational-embedding.primitive|RelationalEmbedding (primitive)]] · [[stabilization-closure.primitive|Stabilization (Closure) (primitive)]]
 - **Boundaries:** [[epsilon-difference-resolution-quantum.boundary|ε — Difference Resolution Quantum (boundary)]] · [[c-difference-propagation-limit.boundary|c — Difference Propagation Limit (boundary)]]
-- **Modulators:** ∇S / λV / ψA (all enabled by distinguishability condition)
+- **Modulators:** λV / ∇S / ψA (all enabled by distinguishability condition)
 - **Physical Constants:** [[k-boltzmann-constant.constant|k_B — Boltzmann Constant (constant)]] (thermal difference scale)
 - **Cosmological Applications:** Heat death as universal A0 violation
 

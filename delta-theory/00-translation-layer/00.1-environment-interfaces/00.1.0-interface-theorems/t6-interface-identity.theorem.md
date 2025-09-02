@@ -6,7 +6,7 @@ tags:
   - "#status/stable"
   - "#function/definition"
 polarity: P0
-derivation: A0+T1
+derivation: A0+T3
 aliases:
   - T6
   - Interface Identity
@@ -16,7 +16,7 @@ aliases:
 
 # T6 — Interface Identity (theorem)
 
-> **Interface boundaries must maintain coherent identity** — the interface itself must persist as a recognizable entity through all interactions. This theorem derives necessarily from A0 (Existential Difference) and T1 (Irreducibility).
+> **Interface boundaries must maintain coherent identity** — the interface itself must persist as a recognizable entity through all interactions. This theorem derives necessarily from A0 (Existential Difference) and T3 (Recursivity).
 
 ---
 
@@ -44,18 +44,18 @@ aliases:
 
 ## Proof
 
-**Given:** A0 (Existential Difference) and T1 (Irreducibility)
+**Given:** A0 (Existential Difference) and T3 (Recursivity)
 
 **To Prove:** Interface boundaries must maintain coherent identity
 
 **Proof:**
 1. **From A0:** For interfaces to exist, they must be distinguishable from their environment at resolution ε
 2. **Interface distinguishability:** Requires persistent identity features that remain recognizable over time
-3. **From T1:** Identity-defining differences must be irreducible to preserve interface existence
+3. **From T3:** Identity-defining differences must achieve recursive closure to preserve interface existence
 4. **Identity requirement:** Interface-environment distinction must be maintained without decomposition
 5. **If interface lacks persistent identity:** Becomes indistinguishable from environment, violating A0
-6. **If interface identity decomposes:** Violates T1 (loses irreducible distinction)
-7. **Therefore:** Interface must maintain coherent identity to satisfy both A0 and T1 □
+6. **If interface identity decomposes:** Violates T3 (loses recursive closure)
+7. **Therefore:** Interface must maintain coherent identity to satisfy both A0 and T3 □
 
 **Corollaries:**
 - Identity persistence is logically necessary for stable interfaces
@@ -133,7 +133,7 @@ aliases:
 
 ## Dependencies & scope
 
-- **Derived from:** A0 (Existential Difference) and T1 (Irreducibility) - derives from their combination
+- **Derived from:** A0 (Existential Difference) and T3 (Recursivity) - derives from their combination
 - **Requires:** Interface existence and temporal persistence requirements
 - **Applies to:** All interface primitives requiring persistent identity across time
 - **Exceptions:** Temporary interfaces with explicitly transient identity (boundary case)
@@ -144,11 +144,11 @@ aliases:
 
 ### Foundation Theorems
 - **A0 (Existential Difference):** Interfaces must exist through distinguishable identity features
-- **T1 (Irreducibility):** Preserves irreducible interface-environment distinction
+- **T3 (Recursivity):** Enables recursive closure for interface-environment distinction
 
 ### Supporting Principles
-- **T4 (Interface Conservation):** Identity conservation enables resource preservation
-- **T5 (Interface Discrimination):** Identity enables consistent discrimination patterns
+- **T4 (Interface Discrimination):** Identity enables consistent discrimination patterns
+- **T5 (Interface Conservation):** Identity conservation enables resource preservation
 
 ---
 
@@ -162,13 +162,13 @@ aliases:
 
 ## See Also
 
-- [[A0-existential-difference.axiom]] - Source axiom
-- [[T1-irreducibility.theorem]] - Co-derivation source
-- [[t4-interface-conservation.theorem|T4 — Interface Conservation (theorem)]]
-- [[t5-interface-discrimination.theorem|T5 — Interface Discrimination (theorem)]]
-- [[00.1.0-interface-theorems.index|00.1.0 - Interface Theorems (index)]]
-- [[t2-asymmetry.theorem|T2 — Asymmetry Theorem (theorem)]]
+- [[a0-existential-difference.axiom|A0 — Existential Difference (axiom)]]
+- [[t1-asymmetry.theorem|T1 — Asymmetry Theorem (theorem)]]
+- [[t2-irreducibility.theorem|T2 — Irreducibility Theorem (theorem)]]
 - [[t3-recursivity.theorem|T3 — Recursivity Theorem (theorem)]]
+- [[t4-interface-discrimination.theorem|T4 — Interface Discrimination (theorem)]]
+- [[t5-interface-conservation.theorem|T5 — Interface Conservation (theorem)]]
+- [[00.1.0-interface-theorems.index|00.1.0 - Interface Theorems (index)]]
 - [[nabla-s-structure-differentiation-gradient.modulator|∇S — Structure (Sarkisian) Differentiation Gradient (modulator)]]
 
 ---

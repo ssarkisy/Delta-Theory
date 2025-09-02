@@ -92,11 +92,11 @@ How Apparent Form manifests differently at various scales:
 
 | Domain | Role |
 |--------|------|
-| Structure | Incomplete boundary formation with hidden gaps |
 | Void | Masked discontinuities compromising integrity |
+| Structure | Incomplete boundary formation with hidden gaps |
 | Awareness | False coherence masking deeper incoherence |
 
-Diagnostic for partial SVA triad failures where surface stability masks underlying compromise.
+Diagnostic for partial VSA triad failures where surface stability masks underlying compromise.
 
 ---
 

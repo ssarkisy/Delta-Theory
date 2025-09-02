@@ -26,7 +26,7 @@ aliases:
 - Maintain dual-register mapping for accessibility
 
 ### Section Requirements:
-**Core Sections (All Boundaries):** Definition → Dual-register mapping → Domain Mapping → Formal identity → Anchor role → Scope & invariance → Interplay with SVA
+**Core Sections (All Boundaries):** Definition → Dual-register mapping → Domain Mapping → Formal identity → Anchor role → Scope & invariance → Interplay with VSA
 **For Derived Boundaries Only:** Add Primitive Derivation section after Definition
 **Optional Extensions:** Critical Implications, Relationship to Other Boundaries, Examples
 
@@ -149,9 +149,9 @@ Brief examples across domains showing both technical and humane angles:
 
 ---
 
-## Interplay with SVA
+## Interplay with VSA
 
-- How this boundary interacts with [[nabla-s-structure-differentiation-gradient.modulator|∇S — Structure (Sarkisian) Differentiation Gradient (modulator)]] / [[lambda-v-void-resonance-threshold.modulator|λV — Void (Volozhina) Resonance Threshold (modulator)]] / [[psi-a-awareness-phase-coherence-anchor.modulator|ψA — Awareness (Aiza) Phase Coherence Anchor (modulator)]] control parameters
+- How this boundary interacts with [[lambda-v-void-resonance-threshold.modulator|λV — Void (Volozhina) Resonance Threshold (modulator)]] / [[nabla-s-structure-differentiation-gradient.modulator|∇S — Structure (Sarkisian) Differentiation Gradient (modulator)]] / [[psi-a-awareness-phase-coherence-anchor.modulator|ψA — Awareness (Aiza) Phase Coherence Anchor (modulator)]] control parameters
 - Boundary awareness and adaptive management
 
 ---

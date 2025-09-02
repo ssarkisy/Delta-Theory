@@ -49,7 +49,7 @@ Delta Theory formalizes three core principles:
 
 The theory is anchored by:
 - Five universal constants (ε: quantum of difference, π: closure ratio, e: natural growth rate, φ: golden mean, c: propagation limit)
-- Three fundamental modulators (∇S: structural differentiation, λV: void resonance, ψA: awareness coherence)
+- Three fundamental modulators (λV: void resonance, ∇S: structural differentiation, ψA: awareness coherence)
 - A dual-register approach balancing technical precision with experiential meaning
 
 ### Canonical Formula
@@ -57,7 +57,7 @@ The theory is anchored by:
 The core dynamic is expressed as:
 
 $$
-\Delta' = \boldsymbol{\odot}\big(R(\Delta; \nabla S,\ \lambda V,\ \psi A); \varepsilon, \pi, e, \varphi, c\big)
+\Delta' = \boldsymbol{\odot}\big(R(\Delta; \lambda V,\ \nabla S,\ \psi A); \varepsilon, \pi, e, \varphi, c\big)
 $$
 
 Where:
@@ -71,11 +71,11 @@ Where:
 ### Canonical Kernel
 
 - Minimal ontology: **Difference → Recursion → Stabilization → Form**
-- Operational loop: Structure → Void → Awareness → Structure′ → …
+- Operational loop: Void → Structure → Awareness → Void′ → …
 - Canonical summary:
 
 $$
-\Delta' = \boldsymbol{\odot}\big(R(\Delta; \nabla S,\ \lambda V,\ \psi A); \varepsilon, \pi, e, \varphi, c\big)
+\Delta' = \boldsymbol{\odot}\big(R(\Delta; \lambda V,\ \nabla S,\ \psi A); \varepsilon, \pi, e, \varphi, c\big)
 $$
 
 Where:
@@ -127,12 +127,12 @@ See [[yin-yang-dancing-with-chaos-three-paths-to-living-form.meta|Yin-Yang - Dan
 | φ — Golden Mean | Stable asymmetry | Optimal proportion | Harmonious balance |
 | c — Speed Limit | Max propagation | Information boundary | Causal horizon |
 
-### SVA Triad (Modulators)
+### VSA Triad (Modulators)
 
 | Modulator | Domain | Technical Role | Experiential Role |
 |---|---|---|---|
-| ∇S | Structure (P+) | Differentiation gradient | Complexity emergence |
 | λV | Void (P−) | Resonance threshold | Field receptivity |
+| ∇S | Structure (P+) | Differentiation gradient | Complexity emergence |
 | ψA | Awareness (P0) | Phase coherence | Time-binding memory |
 
 ## Applications

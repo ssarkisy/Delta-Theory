@@ -144,7 +144,7 @@ Relation is parameterized by anchors that are intrinsic to the loop (not outside
 > **⚠️ Visual Schema Note**: The referenced diagram shows only 5 anchors (ε, π, e, φ, c) but current theory includes 6 anchors with Cs (Stability Capacity). Visual representation needs updating for theoretical completeness.
 
 - Vertices: ∆, R(·), ⊚, F
-- Edges/faces: carry anchors (ε, π, e, φ, c, Cs) and modulators (∇S/λV/ψA) as intrinsic constraints/controls
+- Edges/faces: carry anchors (ε, π, e, φ, c, Cs) and modulators (λV/∇S/ψA) as intrinsic constraints/controls
 - Nothing sits "outside" the molecule; anchors live on the structure's interfaces
 
 ---

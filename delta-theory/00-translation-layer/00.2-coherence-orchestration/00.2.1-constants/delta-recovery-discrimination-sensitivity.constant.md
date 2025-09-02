@@ -6,7 +6,7 @@ tags:
   - "#status/stable"
   - "#function/definition"
 polarity: P-
-derivation: T8
+derivation: T7
 aliases:
   - delta_recovery
   - δ_recovery
@@ -30,17 +30,17 @@ aliases:
 
 ## Primitive Derivation
 
-**Theorem Source:** T8 (Recovery Stability) — "Systems must discriminate between perturbations and stability"
+**Theorem Source:** T7 (Recovery Stability) — "Systems must discriminate between perturbations and stability"
 
 **Derivation Logic:**
-1. **T8 Requirement:** Systems must distinguish destabilizing from stabilizing influences to orchestrate recovery
+1. **T7 Requirement:** Systems must distinguish destabilizing from stabilizing influences to orchestrate recovery
 2. **Mathematical Implication:** Discrimination requires sensitivity threshold → requires minimum distinguishable difference
 3. **Constant Emergence:** δ_recovery emerges as the fundamental threshold governing discrimination sensitivity
 4. **Invariant Nature:** Represents the minimal sensitivity required for coherent recovery decision-making
 
-**Traceback:** `A0 → T2+A0 → T5 → T8 → δ_recovery` — derivation chain from foundational axiom
+**Traceback:** `A0 → T1+A0 → T4 → T7 → δ_recovery` — derivation chain from foundational axiom
 
-**Flow:** T8 requires stability discrimination → perturbations must be distinguished from stability → δ_recovery provides the sensitivity threshold for coherent discrimination → enables effective recovery coordination
+**Flow:** T7 requires stability discrimination → perturbations must be distinguished from stability → δ_recovery provides the sensitivity threshold for coherent discrimination → enables effective recovery coordination
 
 ---
 
@@ -106,7 +106,7 @@ where δ_recovery defines the minimum distinguishable difference between stabili
 ## Scope & invariance
 
 - **Domain:** All recovery coherence operations requiring stability discrimination
-- **Invariance:** Holds across domains implementing T8 (Recovery Stability)
+- **Invariance:** Holds across domains implementing T7 (Recovery Stability)
 - **Precision:** Domain instances determine specific sensitivity values and discrimination units
 - **Context sensitivity:** May vary with environmental complexity and perturbation characteristics
 
@@ -196,12 +196,12 @@ where δ_recovery defines the minimum distinguishable difference between stabili
 ## Relationship to Other Principles
 
 ### Foundation Theorems
-- **T8 (Recovery Stability):** Direct source - provides mathematical expression of discrimination sensitivity requirement
-- **T5 (Interface Discrimination):** Provides foundation for discrimination necessity across boundaries
+- **T7 (Recovery Stability):** Direct source - provides mathematical expression of discrimination sensitivity requirement
+- **T4 (Interface Discrimination):** Provides foundation for discrimination necessity across boundaries
 - **A0 (Existential Difference):** Ensures discrimination sensitivity cannot be eliminated
 
 ### Supporting Principles
-- **T7 (Temporal Continuity):** Discrimination sensitivity enables temporal stability assessment
+- **T8 (Temporal Continuity):** Discrimination sensitivity enables temporal stability assessment
 - **T9 (Memory Coherence):** Discrimination sensitivity ensures appropriate contexts for memory preservation
 
 ### Higher-Level Extensions
@@ -212,7 +212,9 @@ where δ_recovery defines the minimum distinguishable difference between stabili
 
 ## See Also
 
-- [[t8-recovery-stability.theorem\|T8 — Recovery Stability (theorem)]] - Source theorem
-- [[r-stability-assessment-rate.constant\|r_stability — Stability Assessment Rate (constant)]] - Related recovery constant
-- [[r-temporal-coherence-maintenance-rate.constant\|r_temporal — Temporal Coherence Maintenance Rate (constant)]] · [[r-memory-coherence-maintenance-rate.constant\|r_memory — Memory Coherence Maintenance Rate (constant)]] · [[gamma-retention-factor.constant\|γ_retention — Retention Factor (constant)]] - Related coherence constants
-- [[00.2.1-constants.index\|00.2.1 - Constants (index)]] - Parent module
+- [[t7-recovery-stability.theorem\|T7 — Recovery Stability (theorem)]]
+- [[r-stability-assessment-rate.constant\|r_stability — Stability Assessment Rate (constant)]]
+- [[r-temporal-coherence-maintenance-rate.constant\|r_temporal — Temporal Coherence Maintenance Rate (constant)]]
+- [[r-memory-coherence-maintenance-rate.constant\|r_memory — Memory Coherence Maintenance Rate (constant)]]
+- [[gamma-retention-factor.constant\|γ_retention — Retention Factor (constant)]]
+- [[00.2.1-constants.index\|00.2.1 - Constants (index)]]

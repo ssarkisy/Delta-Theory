@@ -5,7 +5,7 @@ tags:
   - "#sublayer/coherence"
   - "#status/stable"
   - "#function/definition"
-polarity: P+
+polarity: P0
 derivation: T9
 aliases:
   - Memory
@@ -102,7 +102,7 @@ where information preservation follows γ_retention efficiency across state tran
 ## Dependencies
 
 **Derivation:** T9 (Memory Coherence) - Information must be preserved across state transitions
-**Role:** Operates in Structure aspect of SVA triad (P+ polarity, structure-building for information preservation)
+**Role:** Operates in Awareness aspect of VSA triad (P0 polarity, balanced mediation for information preservation)
 
 ---
 
@@ -208,13 +208,17 @@ Memory follows dual-register governance so information preservation remains inte
 ### Coherence Components
 - [[phase.primitive\|Phase (primitive)]] · [[recovery.primitive\|Recovery (primitive)]]
 - [[gamma-retention-factor.constant\|γ_retention — Memory Retention Factor (constant)]]
-- [[r-memory-coherence-maintenance-rate.constant\|r_memory — Memory Coherence Maintenance Rate (constant)]] · [[r-temporal-coherence-maintenance-rate.constant\|r_temporal — Temporal Continuity Maintenance Rate (constant)]] · [[r-stability-assessment-rate.constant\|r_stability — Stability Assessment Rate (constant)]]
+- [[r-memory-coherence-maintenance-rate.constant\|r_memory — Memory Coherence Maintenance Rate (constant)]]
+- [[r-temporal-coherence-maintenance-rate.constant\|r_temporal — Temporal Continuity Maintenance Rate (constant)]]
+- [[r-stability-assessment-rate.constant\|r_stability — Stability Assessment Rate (constant)]]
 
 ### Theoretical Foundation
-- [[t9-memory-coherence.theorem\|T9 — Memory Coherence (theorem)]] (primary derivation source)
-- [[t7-temporal-continuity.theorem\|T7 — Temporal Continuity (theorem)]] · [[t8-recovery-stability.theorem\|T8 — Recovery Stability (theorem)]] (coordination with other primitives)
+
+- [[t7-recovery-stability.theorem\|T7 — Recovery Stability (theorem)]]
+- [[t8-temporal-continuity.theorem\|T8 — Temporal Continuity (theorem)]]
+- [[t9-memory-coherence.theorem\|T9 — Memory Coherence (theorem)]]
 
 ### Microkernel Modulators
-- [[gamma-retention-factor.constant\|γ_retention — Memory Retention Factor (constant)]] (preservation efficiency)
-- [[nabla-s-structure-differentiation-gradient.modulator\|∇S — Structure (Sarkisian) Differentiation Gradient (modulator)]] (information organization)
-- [[psi-a-awareness-phase-coherence-anchor.modulator|ψA — Awareness (Aiza) Phase Coherence Anchor (modulator)]] (temporal coordination)
+- [[gamma-retention-factor.constant\|γ_retention — Memory Retention Factor (constant)]]
+- [[nabla-s-structure-differentiation-gradient.modulator\|∇S — Structure (Sarkisian) Differentiation Gradient (modulator)]]
+- [[psi-a-awareness-phase-coherence-anchor.modulator|ψA — Awareness (Aiza) Phase Coherence Anchor (modulator)]]

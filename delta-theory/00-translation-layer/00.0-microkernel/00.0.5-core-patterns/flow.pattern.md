@@ -74,7 +74,7 @@ Where relationally embedded differences (R(∆)) gain dynamic properties through
 ## Dependencies
 
 **Derivation:** ∆ → R(·) → Flow - emerges from relational embedding operations achieving dynamic propagation
-**Role:** P- pattern operating in Void aspect of SVA triad - provides dynamic transmission processes
+**Role:** P- pattern operating in Void aspect of VSA triad - provides dynamic transmission processes
 
 ---
 
@@ -94,8 +94,8 @@ Where relationally embedded differences (R(∆)) gain dynamic properties through
 ## Pattern Modulation
 
 **By Modulators:**
-- **∇S:** Controls flow granularity and structural channeling
 - **λV:** Sets flow thresholds and transition sensitivities
+- **∇S:** Controls flow granularity and structural channeling
 - **ψA:** Manages flow synchronization and phase coordination
 
 ---

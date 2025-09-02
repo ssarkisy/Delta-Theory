@@ -34,7 +34,7 @@ This layer is critical for ensuring the theory remains both implementable and et
 | Microkernel | Core primitives and foundations | [[00.0-microkernel.index\|00.0 - Microkernel (index)]], ∆, R(·), ⊚, A0, T1, T2, T3 |
 | Environment Interfaces | Interface layer extensions | [[00.1-environment-interfaces.index\|00.1 - Environment Interfaces (index)]], T4, T5, T6, Gate, Port, Surface |
 | Coherence Orchestration | Identity and memory systems | [[00.2-coherence-orchestration.index\|00.2 - Coherence Orchestration (index)]], T7, T8, T9, Memory, Recovery, Phase |
-| Functional Interfaces | API definitions | [[01.0-functional-interfaces.index\|01.0 - Functional Interfaces (index)]] (planned), PhaseLockLoop, ResonanceThreshold |
+| Functional Interfaces | API definitions | [[01.0-functional-interfaces.index\|01.0 - Functional Interfaces (index)]] (planned), ResonanceThreshold, DifferentiationGradient, PhaseLockLoop |
 | Domain Bridges | Implementation mappings | [[02.0 - Domain Bridges to API]] (planned), Physics, Networks, Biology |
 
 Each module provides:
@@ -55,10 +55,10 @@ Each module provides:
 - [[02.0 - Domain Bridges to API]] - Implementation mappings (planned)
 
 **Core Patterns:**
-- [[field.pattern|Field (pattern)]] - Foundational coherence pattern
-- [[structure.glossary|Structure (glossary)]] - Boundary-forming pattern
 - [[void.glossary|Void (glossary)]] - Opaque relational space
+- [[structure.glossary|Structure (glossary)]] - Boundary-forming pattern
 - [[awareness.glossary|Awareness (glossary)]] - Recursive coherence
+- [[field.pattern|Field (pattern)]] - Foundational coherence pattern
 
 **Related Modules:**
 - [[10-implementation-layer.index|10 - Implementation Layer (index)]] - Concrete implementations
@@ -70,7 +70,7 @@ Each module provides:
 
 1. **Kernel-First Development**
    - Stabilize ∆, R(·), ⊚ as minimal [ABI](https://en.wikipedia.org/wiki/Application_binary_interface)
-   - SVA modulators as control parameters
+   - VSA modulators as control parameters
    - Clear operational semantics
    - Verifiable behavior
 
@@ -93,4 +93,4 @@ Each module provides:
 - [[VAULT_STRUCTURE]]
 - [[types]]
 - [[tags]]
-- [[field.pattern|Field (pattern)]] · [[void.glossary|Void (glossary)]] · [[structure.glossary|Structure (glossary)]] · [[awareness.glossary|Awareness (glossary)]]
+- [[void.glossary|Void (glossary)]] · [[structure.glossary|Structure (glossary)]] · [[awareness.glossary|Awareness (glossary)]] · [[field.pattern|Field (pattern)]]

@@ -104,8 +104,8 @@ Note: At extreme scales, multi-path behavior faces fundamental limits (e.g., qua
 
 | Domain | Role |
 |--------|------|
-| Structure | Boundary diversification enables structural resilience through parallel routes |
 | Void | Void distribution allows load sharing and redundant flow management |
+| Structure | Boundary diversification enables structural resilience through parallel routes |
 | Awareness | Phase parallelization enables coherent multi-stream processing and integration |
 
 Diagnostic for parallel network topology where multiple independent routes provide redundancy, load distribution, and resilience through path diversity.

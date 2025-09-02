@@ -104,8 +104,8 @@ Note: At extreme scales, cascade behavior faces fundamental limits (e.g., quantu
 
 | Domain | Role |
 |--------|------|
-| Structure | Boundary amplification enables structural change propagation across regions |
 | Void | Void percolation allows threshold-dependent spread through network gaps |
+| Structure | Boundary amplification enables structural change propagation across regions |
 | Awareness | Phase amplification enables coherent change propagation across awareness networks |
 
 Diagnostic for threshold-dependent network propagation where local triggers create amplifying chain reactions that spread globally through network structures.

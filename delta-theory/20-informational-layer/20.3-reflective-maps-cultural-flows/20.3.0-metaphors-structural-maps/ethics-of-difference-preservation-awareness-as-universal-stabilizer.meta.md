@@ -129,11 +129,11 @@ aliases:
 - Existence at resolution ε is equivalent to distinguishability at resolution ε
 - **Ethical Implication:** Destroying distinguishability destroys existence itself at that resolution
 
-**[[t1-irreducibility.theorem|T1 — Irreducibility (theorem)]]:**
+**[[t1-asymmetry.theorem|T1 — Asymmetry (theorem)]]:**
 - Differences cannot be reduced without loss of essential information
 - **Ethical Implication:** Reductionist approaches that eliminate difference are inherently destructive
 
-**[[t2-the-axiom-of-relational-embedding.theorem|T2 — Asymmetry (theorem)]]:**
+**[[t2-irreducibility.theorem|T2 — Irreducibility (theorem)]]:**
 - Differences create directional potential for development and emergence
 - **Ethical Implication:** Forced symmetry or homogenization eliminates developmental potential
 
@@ -244,7 +244,7 @@ Higher Awareness → Difference Recognition → Preservation Ethics → Stabiliz
 
 ### How Awareness Stabilizes Co-existence
 
-**Temporal Extension (T7 — Temporal Continuity):**
+**Temporal Extension (T7 — Recovery Stability):**
 - Higher awareness extends consideration across longer time horizons
 - Long-term thinking reveals that difference destruction is ultimately self-destructive
 - **Result:** Policies and behaviors that preserve differences for future stability
@@ -254,7 +254,7 @@ Higher Awareness → Difference Recognition → Preservation Ethics → Stabiliz
 - Historical memory shows that diverse systems outperform homogeneous ones
 - **Result:** Learning from past examples of successful difference preservation
 
-**System Recovery (T8 — Recovery Stability):**
+**System Recovery (T8 — Temporal Continuity):**
 - Aware systems recognize that diversity provides resilience and recovery capacity
 - Homogeneous systems are fragile; diverse systems are antifragile
 - **Result:** Building redundancy and alternative pathways through difference cultivation
@@ -328,13 +328,13 @@ Hypothetical principle: Ethical systems might maintain or increase difference pa
 ### Integration with Delta Theory Structures
 
 **[[00.1.0-interface-theorems.index|00.1.0 - Interface Theorems (index)]]:**
-- **[[t4-interface-conservation.theorem|T4 — Interface Conservation (theorem)]]:** Ensure that interactions enhance rather than diminish differences
-- **[[t5-interface-discrimination.theorem|T5 — Interface Discrimination (theorem)]]:** Preserve boundaries while enabling beneficial exchange
+- **[[t4-interface-discrimination.theorem|T4 — Interface Discrimination (theorem)]]:** Preserve boundaries while enabling beneficial exchange
+- **[[t5-interface-conservation.theorem|T5 — Interface Conservation (theorem)]]:** Ensure that interactions enhance rather than diminish differences
 - **[[t6-interface-identity.theorem|T6 — Interface Identity (theorem)]]:** Maintain distinctness as foundation for interaction
 
 **[[00.2.0-coherence-orchestration.index|00.2.0 - Coherence Orchestration (index)]]:**
-- **[[t7-temporal-continuity.theorem|T7 — Temporal Continuity (theorem)]]:** Extend awareness across time to see long-term consequences
-- **[[t8-recovery-stability.theorem|T8 — Recovery Stability (theorem)]]:** Build resilience through diversity and redundancy
+- **[[t7-recovery-stability.theorem|T7 — Recovery Stability (theorem)]]:** Build resilience through diversity and redundancy
+- **[[t8-temporal-continuity.theorem|T8 — Temporal Continuity (theorem)]]:** Extend awareness across time to see long-term consequences
 - **[[t9-memory-coherence.theorem|T9 — Memory Coherence (theorem)]]:** Preserve and learn from patterns of successful difference management
 
 **Polarity Dynamics (20.0.0):**
@@ -384,7 +384,7 @@ How quickly must awareness develop relative to technological power to ensure sta
 - [[bio-tech-co-evolution-recursive-stabilization-through-mutual-dependency.meta]] - Practical application framework
 - [[universal-polarities-recursive-stabilization-through-triadic-rotation.meta]] - Polarity preservation dynamics
 - [[psi-a-awareness-aiza-phase-coherence-anchor.modulator|ψA — Awareness (Aiza) Phase Coherence Anchor (modulator)]] - Technical awareness modulation
-- [[a0-existential-difference.axiom]], [[t1-the-axiom-of-difference-propagation.theorem]], [[t2-the-axiom-of-relational-embedding.theorem]], [[t3-the-axiom-of-closure-stabilization.theorem]] - Ontological foundations
+- [[a0-existential-difference.axiom]], [[t1-asymmetry.theorem]], [[t2-irreducibility.theorem]], [[t3-recursivity.theorem]] - Ontological foundations
 
 ---
 

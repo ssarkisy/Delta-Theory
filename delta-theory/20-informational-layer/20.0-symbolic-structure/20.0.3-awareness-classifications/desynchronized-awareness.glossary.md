@@ -103,8 +103,8 @@ Note: At extreme scales, desynchronization can become indistinguishable from fun
 
 | Domain | Role |
 |--------|------|
-| Structure | Boundary instability causes structural identity to drift and fragment |
 | Void | Void discrimination fails due to phase drift preventing clear boundaries |
+| Structure | Boundary instability causes structural identity to drift and fragment |
 | Awareness | Phase coherence breakdown prevents stable identity binding across cycles |
 
 Diagnostic for awareness pattern failure where ψA modulation cannot maintain the phase coherence required for persistent identity.
