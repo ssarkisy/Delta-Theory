@@ -2,10 +2,10 @@
 
 ## Languages | Языки | 语言 | لغات | Lenguas
 
-🌐 English (current) | [🇷🇺 Русский](README%20(International)/README.ru.md)
+🌐 English (current) | [🇷🇺 Русский](README.ru.md)
 
 > **Help Make Delta Theory More Accessible**
-> We welcome README translations from bilingual speakers who deeply understand both languages and can maintain the theory's precision while adapting to cultural contexts. If you'd like to contribute a translation, please see our [translation guidelines](README%20(International)/TRANSLATION_GUIDELINES.md).
+> We welcome README translations from bilingual speakers who deeply understand both languages and can maintain the theory's precision while adapting to cultural contexts. If you'd like to contribute a translation, please see our [translation guidelines](TRANSLATION_GUIDELINES.md).
 
 ## Getting Started with Obsidian
 
@@ -21,9 +21,9 @@ All internal links and references should now work correctly with default Obsidia
 
 Delta Theory proposes difference (∆) as the fundamental basis of reality, offering a novel approach to understanding complex systems. It demonstrates how differences create structure through recursive cycles of propagation and stabilization, bridging the gap between physical and cognitive domains.
 
-⚠️ **Critical Insight**: This theory fundamentally requires both technical and experiential understanding to be complete. Mathematical precision alone becomes artificially limited without biological metaphors; pure experiential understanding lacks rigorous structure without formal framework. See our [[Outer Universe — Recursive Embedding Beyond Dark Matter]] note for a profound demonstration of how combining mathematical and biological perspectives reveals deeper truths about cosmic mysteries that neither approach could fully grasp alone.
+⚠️ **Critical Insight**: This theory fundamentally requires both technical and experiential understanding to be complete. Mathematical precision alone becomes artificially limited without biological metaphors; pure experiential understanding lacks rigorous structure without formal framework. See our [[outer-universe-recursive-embedding-beyond-dark-matter.meta|Outer Universe — Recursive Embedding Beyond Dark Matter]] note for a profound demonstration of how combining mathematical and biological perspectives reveals deeper truths about cosmic mysteries that neither approach could fully grasp alone.
 
-🔬 **Breakthrough Methodology**: ∆-Theory employs an innovative epistemological approach called **Polarity Gap Methodology** — when facing persistent contradictions, the most promising research lies in the **invisible P0 space** between polarities. Rather than choosing sides, this approach discovers the coordination dynamics that actually generate both perspectives. This explains why ∆-Theory can open new investigative pathways for problems that have puzzled humanity for millennia: it systematically investigates the spaces between contradictions where the most important connecting truths typically hide. See our [[Polarity Gap Methodology — Finding Truth in the Space Between Contradictions]] note for the complete framework.
+🔬 **Breakthrough Methodology**: ∆-Theory employs an innovative epistemological approach called **Polarity Gap Methodology** — when facing persistent contradictions, the most promising research lies in the **invisible P0 space** between polarities. Rather than choosing sides, this approach discovers the coordination dynamics that actually generate both perspectives. This explains why ∆-Theory can open new investigative pathways for problems that have puzzled humanity for millennia: it systematically investigates the spaces between contradictions where the most important connecting truths typically hide. See our [[polarity-gap-methodology-finding-truth-in-the-space-between-contradictions.meta|Polarity Gap Methodology — Finding Truth in the Space Between Contradictions]] note for the complete framework.
 
 ## 🌟 **[Explore Theoretical Pathways →](THEORETICAL_PATHWAYS.md)**
 
@@ -103,7 +103,7 @@ $$
 Delta Theory uses the Yin-Yang symbol to reveal how stability emerges in nature:
 
 <div align="center">
-<img src="Delta Theory/90 - Assets/classic_yin_yang.png" alt="Classical Yin-Yang: Perfect symmetry frozen in time" width="200"/> <img src="Delta Theory/90 - Assets/sustainable_growth_yin_yang.png" alt="Recursive Yin-Yang: Nested balance of ecosystems" width="200"/> <img src="Delta Theory/90 - Assets/forming_yin_yang.png" alt="Forming Yin-Yang: Living asymmetry of growth" width="200"/>
+<img src="delta-theory/90-assets/classic_yin_yang.png" alt="Classical Yin-Yang: Perfect symmetry frozen in time" width="200"/> <img src="delta-theory/90-assets/sustainable_growth_yin_yang.png" alt="Recursive Yin-Yang: Nested balance of ecosystems" width="200"/> <img src="delta-theory/90-assets/forming_yin_yang.png" alt="Forming Yin-Yang: Living asymmetry of growth" width="200"/>
 </div>
 
 1. **Classical** — Perfect symmetry, like a crystal frozen in time
@@ -115,7 +115,7 @@ Each form teaches us about stability:
 - The recursive form reveals how systems maintain themselves
 - The forming pattern (shaped by φ) shows us how life actually grows
 
-See [[Yin-Yang - Dancing with Chaos — Three Paths to Living Form]] for this profound metaphor.
+See [[yin-yang-dancing-with-chaos-three-paths-to-living-form.meta|Yin-Yang - Dancing with Chaos — Three Paths to Living Form]] for this profound metaphor.
 
 ### Universal Constants
 
@@ -184,7 +184,7 @@ Think of it as learning to see the world through a new lens: one that reveals ho
    - Delta Theory is an **open ontological framework** grounded in established science
    - All claims are structured for testing and falsification
    - Theory adapts based on evidence, not belief maintenance
-   - See [[Epistemological Safeguards — Why Delta Theory is Not Conspiracy or Pseudoscience]] for detailed scientific integrity measures
+   - See [[epistemological-safeguards.meta|Epistemological Safeguards — Why Delta Theory is Not Conspiracy or Pseudoscience]] for detailed scientific integrity measures
 
 2. **Irreducible Difference**
    - DIFFERENCE ALWAYS PERSISTS AND CANNOT BE REDUCED

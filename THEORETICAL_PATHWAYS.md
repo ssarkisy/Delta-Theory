@@ -21,10 +21,10 @@
 - **Integration Principle:** Religious intuitions could be literally true through technological means rather than supernatural intervention
 
 **Key Resources:**
-- [Resurrection Ecology](Delta%20Theory/20%20-%20Informational%20Layer/20.3%20-%20Reflective%20Maps%20&%20Cultural%20Flows/20.3.0%20-%20Metaphors%20&%20Structural%20Maps/Resurrection%20Ecology%20—%20Reviving%20Historical%20Humans%20from%20Universal%20Memory.md) — Complete analysis of civilizational self-reinforcement loop and religion as approximation
-- [Ethics of Difference Preservation](Delta%20Theory/20%20-%20Informational%20Layer/20.3%20-%20Reflective%20Maps%20&%20Cultural%20Flows/20.3.0%20-%20Metaphors%20&%20Structural%20Maps/Ethics%20of%20Difference%20Preservation%20—%20Awareness%20as%20Universal%20Stabilizer.md) — Universal ethical foundation bridging domains
-- [Yin-Yang - Dancing with Chaos](Delta%20Theory/20%20-%20Informational%20Layer/20.3%20-%20Reflective%20Maps%20&%20Cultural%20Flows/20.3.0%20-%20Metaphors%20&%20Structural%20Maps/Yin-Yang%20-%20Dancing%20with%20Chaos%20—%20Three%20Paths%20to%20Living%20Form.md) — Eastern wisdom validation through scientific framework
-- [Temporal Field Resonance](Delta%20Theory/20%20-%20Informational%20Layer/20.3%20-%20Reflective%20Maps%20&%20Cultural%20Flows/20.3.0%20-%20Metaphors%20&%20Structural%20Maps/Temporal%20Field%20Resonance%20—%20Angels%20as%20Future%20Selves%20Across%20Time.md) — Reinterpreting spiritual experiences through natural mechanisms
+- [Resurrection Ecology](resurrection-ecology-reviving-historical-humans-from-universal-memory.meta)  — Complete analysis of civilizational self-reinforcement loop and religion as approximation
+- [Ethics of Difference Preservation](ethics-of-difference-preservation-awareness-as-universal-stabilizer.meta) — Universal ethical foundation bridging domains
+- [Yin-Yang - Dancing with Chaos](yin-yang-dancing-with-chaos-three-paths-to-living-form.meta) — Eastern wisdom validation through scientific framework
+- [Temporal Field Resonance](temporal-field-resonance-angels-as-future-selves-across-time.meta) — Reinterpreting spiritual experiences through natural mechanisms
 
 ### **Individual vs. Collective Tension**
 **Problem:** Apparent conflict between personal autonomy and social coordination, leading to political polarization.
@@ -35,8 +35,8 @@
 - **Dynamic Balance (P0):** Institutional coordination preserving both individual and collective integrity
 
 **Key Resources:**
-- [Universal Polarities](Delta%20Theory/20%20-%20Informational%20Layer/20.3%20-%20Reflective%20Maps%20&%20Cultural%20Flows/20.3.0%20-%20Metaphors%20&%20Structural%20Maps/Universal%20Polarities%20—%20Recursive%20Stabilization%20Through%20Triadic%20Rotation.md) — Triadic foundation for social organization
-- [Scaling Architecture](Delta%20Theory/20%20-%20Informational%20Layer/20.3%20-%20Reflective%20Maps%20&%20Cultural%20Flows/20.3.0%20-%20Metaphors%20&%20Structural%20Maps/Scaling%20Architecture%20—%20Vertical%20Structure,%20Horizontal%20Distribution,%20and%20Coherence%20Balance.md) — Technical solutions to political conflicts
+- [Universal Polarities](universal-polarities-recursive-stabilization-through-triadic-rotation.meta) — Triadic foundation for social organization
+- [Scaling Architecture](scaling-architecture-vertical-structure-horizontal-distribution-and-coherence-balance.meta) — Technical solutions to political conflicts
 
 ---
 
@@ -51,7 +51,7 @@
 - **Unified Explanation:** Both phenomena arise from cross-scale difference dynamics
 
 **Key Resources:**
-- [Outer Universe](Delta%20Theory/20%20-%20Informational%20Layer/20.3%20-%20Reflective%20Maps%20&%20Cultural%20Flows/20.3.0%20-%20Metaphors%20&%20Structural%20Maps/Outer%20Universe%20—%20Recursive%20Embedding%20Beyond%20Dark%20Matter.md) — Cosmological reframing approach
+- [Outer Universe](outer-universe-recursive-embedding-beyond-dark-matter.meta)  — Cosmological reframing approach
 
 ### **Consciousness Hard Problem**
 **Problem:** No scientific explanation for how subjective experience arises from physical processes.
@@ -62,7 +62,7 @@
 - **Not Emergence:** Fundamental aspect of difference dynamics rather than secondary phenomenon
 
 **Key Resources:**
-- [Ethics of Difference Preservation](Delta%20Theory/20%20-%20Informational%20Layer/20.3%20-%20Reflective%20Maps%20&%20Cultural%20Flows/20.3.0%20-%20Metaphors%20&%20Structural%20Maps/Ethics%20of%20Difference%20Preservation%20—%20Awareness%20as%20Universal%20Stabilizer.md) — Consciousness as universal stabilizer
+- [Ethics of Difference Preservation](ethics-of-difference-preservation-awareness-as-universal-stabilizer.meta) — Consciousness as universal stabilizer
 
 ### **System Stability Without Control**
 **Problem:** How complex hierarchical systems maintain stability without external management.
@@ -73,7 +73,7 @@
 - **No External Control:** Stability emerges from recursive structure itself
 
 **Key Resources:**
-- [Alternating Polarity](Delta%20Theory/20%20-%20Informational%20Layer/20.3%20-%20Reflective%20Maps%20&%20Cultural%20Flows/20.3.0%20-%20Metaphors%20&%20Structural%20Maps/Alternating%20Polarity%20—%20Recursive%20Stabilization%20Through%20Phase%20Opposition.md) — Universal engineering principle
+- [Alternating Polarity](bio-tech-co-evolution-recursive-stabilization-through-mutual-dependency.meta) — Universal engineering principle
 
 ### **Optimal Cognitive Architecture Problem**
 **Problem:** Why does consciousness require specific brain architectures, and what determines optimal intelligence scaling?
@@ -85,7 +85,7 @@
 - **Cross-Domain Validation:** Same scaling principles apply to AI systems, data centers, and organizations
 
 **Key Resources:**
-- [Cognitive Scaling Limits](Delta%20Theory/20%20-%20Informational%20Layer/20.3%20-%20Reflective%20Maps%20&%20Cultural%20Flows/20.3.0%20-%20Metaphors%20&%20Structural%20Maps/Cognitive%20Scaling%20Limits%20—%20Signal%20Speed%20and%20Coherence%20Windows%20in%20Biological%20Intelligence.md) — Physical implementation constraints on consciousness
+- [Cognitive Scaling Limits](cognitive-scaling-limits-signal-speed-and-coherence-windows-in-biological-intelligence.meta) — Physical implementation constraints on consciousness
 
 ---
 
@@ -100,7 +100,7 @@
 - **Universal Ethics:** Objective moral foundation through difference preservation imperative
 
 **Key Resources:**
-- [Ethics of Difference Preservation](Delta%20Theory/20%20-%20Informational%20Layer/20.3%20-%20Reflective%20Maps%20&%20Cultural%20Flows/20.3.0%20-%20Metaphors%20&%20Structural%20Maps/Ethics%20of%20Difference%20Preservation%20—%20Awareness%20as%20Universal%20Stabilizer.md) — Developmental approach to philosophical deadlock
+- [Ethics of Difference Preservation](ethics-of-difference-preservation-awareness-as-universal-stabilizer.meta) — Developmental approach to philosophical deadlock
 
 ### **Mind-Body Dualism**
 **Problem:** How does non-physical mind interact with physical matter?
@@ -111,7 +111,7 @@
 - **Process Ontology:** Relationship more fundamental than substance
 
 **Key Resources:**
-- [Universal Polarities](Delta%20Theory/20%20-%20Informational%20Layer/20.3%20-%20Reflective%20Maps%20&%20Cultural%20Flows/20.3.0%20-%20Metaphors%20&%20Structural%20Maps/Universal%20Polarities%20—%20Recursive%20Stabilization%20Through%20Triadic%20Rotation.md) — Mind-body as triadic relationship
+- [Universal Polarities](universal-polarities-recursive-stabilization-through-triadic-rotation.meta) — Mind-body as triadic relationship
 
 ### **Free Will vs. Determinism**
 **Problem:** How can genuine choice exist in causally determined universe?
@@ -122,7 +122,7 @@
 - **Recursive Causation:** Effects influence their own causes through feedback loops
 
 **Key Resources:**
-- [Yin-Yang - Dancing with Chaos](Delta%20Theory/20%20-%20Informational%20Layer/20.3%20-%20Reflective%20Maps%20&%20Cultural%20Flows/20.3.0%20-%20Metaphors%20&%20Structural%20Maps/Yin-Yang%20-%20Dancing%20with%20Chaos%20—%20Three%20Paths%20to%20Living%20Form.md) — Dynamic balance in decision-making
+- [Yin-Yang - Dancing with Chaos](yin-yang-dancing-with-chaos-three-paths-to-living-form.meta) — Dynamic balance in decision-making
 
 ### **Order vs. Chaos Dichotomy**
 **Problem:** Traditional view sees order and chaos as opposing forces.
@@ -133,7 +133,7 @@
 - **Dynamic Stability:** Sustainable systems require continuous interaction of both
 
 **Key Resources:**
-- [Yin-Yang - Dancing with Chaos](Delta%20Theory/20%20-%20Informational%20Layer/20.3%20-%20Reflective%20Maps%20&%20Cultural%20Flows/20.3.0%20-%20Metaphors%20&%20Structural%20Maps/Yin-Yang%20-%20Dancing%20with%20Chaos%20—%20Three%20Paths%20to%20Living%20Form.md) — Order-chaos partnership
+- [Yin-Yang - Dancing with Chaos](yin-yang-dancing-with-chaos-three-paths-to-living-form.meta) — Order-chaos partnership
 
 ---
 
@@ -148,7 +148,7 @@
 - **Translation Possible:** Pattern recognition enables cross-cultural understanding
 
 **Key Resources:**
-- [Cultural Propagation Paths](Delta%20Theory/20%20-%20Informational%20Layer/20.3%20-%20Reflective%20Maps%20&%20Cultural%20Flows/20.3.0%20-%20Metaphors%20&%20Structural%20Maps/Cultural%20Propagation%20Paths%20&%20Writing%20System%20Flows%20in%20the%20∆‑Matrix.md) — Universal patterns in cultural diversity
+- [Cultural Propagation Paths](cultural-propagation-paths-and-writing-system-flows-in-the-delta-matrix.meta) — Universal patterns in cultural diversity
 
 ### **Ancient Wisdom vs. Modern Science**
 **Problem:** Apparent conflict between traditional knowledge and scientific methodology.
@@ -159,8 +159,8 @@
 - **Integration:** Both capture essential truth about recursive difference dynamics
 
 **Key Resources:**
-- [Yin-Yang - Dancing with Chaos](Delta%20Theory/20%20-%20Informational%20Layer/20.3%20-%20Reflective%20Maps%20&%20Cultural%20Flows/20.3.0%20-%20Metaphors%20&%20Structural%20Maps/Yin-Yang%20-%20Dancing%20with%20Chaos%20—%20Three%20Paths%20to%20Living%20Form.md) — Eastern philosophy validation
-- [Alternating Polarity](Delta%20Theory/20%20-%20Informational%20Layer/20.3%20-%20Reflective%20Maps%20&%20Cultural%20Flows/20.3.0%20-%20Metaphors%20&%20Structural%20Maps/Alternating%20Polarity%20—%20Recursive%20Stabilization%20Through%20Phase%20Opposition.md) — Traditional Chinese Medicine confirmed
+- [Yin-Yang - Dancing with Chaos](yin-yang-dancing-with-chaos-three-paths-to-living-form.meta) — Eastern philosophy validation
+- [Alternating Polarity](bio-tech-co-evolution-recursive-stabilization-through-mutual-dependency.meta) — Traditional Chinese Medicine confirmed
 
 ### **Technology vs. Human Values**
 **Problem:** Fear that technological advancement threatens human meaning and autonomy.
@@ -171,7 +171,7 @@
 - **Interface Design:** Technology designed to enhance rather than replace human capabilities
 
 **Key Resources:**
-- [Bio-Tech Co-Evolution](Delta%20Theory/20%20-%20Informational%20Layer/20.3%20-%20Reflective%20Maps%20&%20Cultural%20Flows/20.3.0%20-%20Metaphors%20&%20Structural%20Maps/Bio-Tech%20Co-Evolution%20—%20Recursive%20Stabilization%20Through%20Mutual%20Dependency.md) — Addressing technological fears
+- [Bio-Tech Co-Evolution](bio-tech-co-evolution-recursive-stabilization-through-mutual-dependency.meta) — Addressing technological fears
 
 ---
 
@@ -187,7 +187,7 @@
 - **All Three Required:** Sustainable systems need dynamic balance of all approaches
 
 **Key Resources:**
-- [Scaling Architecture](Delta%20Theory/20%20-%20Informational%20Layer/20.3%20-%20Reflective%20Maps%20&%20Cultural%20Flows/20.3.0%20-%20Metaphors%20&%20Structural%20Maps/Scaling%20Architecture%20—%20Vertical%20Structure,%20Horizontal%20Distribution,%20and%20Coherence%20Balance.md) — Complete scaling solution
+- [Scaling Architecture](scaling-architecture-vertical-structure-horizontal-distribution-and-coherence-balance.meta) — Complete scaling solution
 
 ### **Control vs. Autonomy in Organizations**
 **Problem:** Organizations need coordination but over-control stifles innovation and motivation.
@@ -198,8 +198,8 @@
 - **Self-Organization:** Structure enables autonomy rather than controlling it
 
 **Key Resources:**
-- [Scaling Architecture](Delta%20Theory/20%20-%20Informational%20Layer/20.3%20-%20Reflective%20Maps%20&%20Cultural%20Flows/20.3.0%20-%20Metaphors%20&%20Structural%20Maps/Scaling%20Architecture%20—%20Vertical%20Structure,%20Horizontal%20Distribution,%20and%20Coherence%20Balance.md) — Organizational design principles
-- [Alternating Polarity](Delta%20Theory/20%20-%20Informational%20Layer/20.3%20-%20Reflective%20Maps%20&%20Cultural%20Flows/20.3.0%20-%20Metaphors%20&%20Structural%20Maps/Alternating%20Polarity%20—%20Recursive%20Stabilization%20Through%20Phase%20Opposition.md) — Self-stabilizing hierarchies
+- [Scaling Architecture](scaling-architecture-vertical-structure-horizontal-distribution-and-coherence-balance.meta) — Organizational design principles
+- [Alternating Polarity](bio-tech-co-evolution-recursive-stabilization-through-mutual-dependency.meta) — Self-stabilizing hierarchies
 
 ### **AI Architecture Optimization**
 **Problem:** How to design artificial intelligence systems that balance computational capacity, coordination overhead, and coherent operation.
@@ -211,8 +211,8 @@
 - **Bio-AI Integration:** Design hybrid systems respecting both biological and digital optimization constraints
 
 **Key Resources:**
-- [Cognitive Scaling Limits](Delta%20Theory/20%20-%20Informational%20Layer/20.3%20-%20Reflective%20Maps%20&%20Cultural%20Flows/20.3.0%20-%20Metaphors%20&%20Structural%20Maps/Cognitive%20Scaling%20Limits%20—%20Signal%20Speed%20and%20Coherence%20Windows%20in%20Biological%20Intelligence.md) — AI design principles from biological optimization
-- [Scaling Architecture](Delta%20Theory/20%20-%20Informational%20Layer/20.3%20-%20Reflective%20Maps%20&%20Cultural%20Flows/20.3.0%20-%20Metaphors%20&%20Structural%20Maps/Scaling%20Architecture%20—%20Vertical%20Structure,%20Horizontal%20Distribution,%20and%20Coherence%20Balance.md) — Technical system scaling principles
+- [Cognitive Scaling Limits](cognitive-scaling-limits-signal-speed-and-coherence-windows-in-biological-intelligence.meta) — AI design principles from biological optimization
+- [Scaling Architecture](scaling-architecture-vertical-structure-horizontal-distribution-and-coherence-balance.meta) — Technical system scaling principles
 
 ---
 
@@ -256,32 +256,6 @@
 - **Design Principles:** Engineer stable, adaptive systems using recursive difference dynamics
 
 **The framework suggests that the universe may not be a collection of separate domains requiring separate theories, but potentially a unified recursive system where similar organizational principles operate at multiple scales—from quantum mechanics to human consciousness to cosmic evolution. This remains a developmental hypothesis requiring further investigation.**
-
----
-
-## 📚 **Complete Resource Map**
-
-### Core Technical Framework
-- [Microkernel — Foundational Axioms & Primitives](Delta%20Theory/00%20-%20Translation%20Layer/00.0%20-%20Microkernel/00.0%20-%20Microkernel%20(index).md)
-- [Core Axiom & Theorems — A0, T1, T2, T3](Delta%20Theory/00%20-%20Translation%20Layer/00.0%20-%20Microkernel/00.0.0%20-%20Core%20Axiom%20&%20Theorems/00.0.0.0%20-%20Core%20Axiom%20&%20Theorems%20(index).md)
-- [Coherence Orchestration — Identity & Memory](Delta%20Theory/00%20-%20Translation%20Layer/00.2%20-%20Coherence%20Orchestration/00.2%20-%20Coherence%20Orchestration%20(index).md)
-
-### Foundational Metaphors
-- [Universal Polarities](Delta%20Theory/20%20-%20Informational%20Layer/20.3%20-%20Reflective%20Maps%20&%20Cultural%20Flows/20.3.0%20-%20Metaphors%20&%20Structural%20Maps/Universal%20Polarities%20—%20Recursive%20Stabilization%20Through%20Triadic%20Rotation.md)
-- [Alternating Polarity](Delta%20Theory/20%20-%20Informational%20Layer/20.3%20-%20Reflective%20Maps%20&%20Cultural%20Flows/20.3.0%20-%20Metaphors%20&%20Structural%20Maps/Alternating%20Polarity%20—%20Recursive%20Stabilization%20Through%20Phase%20Opposition.md)
-- [Yin-Yang - Dancing with Chaos](Delta%20Theory/20%20-%20Informational%20Layer/20.3%20-%20Reflective%20Maps%20&%20Cultural%20Flows/20.3.0%20-%20Metaphors%20&%20Structural%20Maps/Yin-Yang%20-%20Dancing%20with%20Chaos%20—%20Three%20Paths%20to%20Living%20Form.md)
-
-### Applied Frameworks
-- [Ethics of Difference Preservation](Delta%20Theory/20%20-%20Informational%20Layer/20.3%20-%20Reflective%20Maps%20&%20Cultural%20Flows/20.3.0%20-%20Metaphors%20&%20Structural%20Maps/Ethics%20of%20Difference%20Preservation%20—%20Awareness%20as%20Universal%20Stabilizer.md)
-- [Bio-Tech Co-Evolution](Delta%20Theory/20%20-%20Informational%20Layer/20.3%20-%20Reflective%20Maps%20&%20Cultural%20Flows/20.3.0%20-%20Metaphors%20&%20Structural%20Maps/Bio-Tech%20Co-Evolution%20—%20Recursive%20Stabilization%20Through%20Mutual%20Dependency.md)
-- [Scaling Architecture](Delta%20Theory/20%20-%20Informational%20Layer/20.3%20-%20Reflective%20Maps%20&%20Cultural%20Flows/20.3.0%20-%20Metaphors%20&%20Structural%20Maps/Scaling%20Architecture%20—%20Vertical%20Structure,%20Horizontal%20Distribution,%20and%20Coherence%20Balance.md)
-- [Cognitive Scaling Limits](Delta%20Theory/20%20-%20Informational%20Layer/20.3%20-%20Reflective%20Maps%20&%20Cultural%20Flows/20.3.0%20-%20Metaphors%20&%20Structural%20Maps/Cognitive%20Scaling%20Limits%20—%20Signal%20Speed%20and%20Coherence%20Windows%20in%20Biological%20Intelligence.md)
-- [Cultural Propagation Paths](Delta%20Theory/20%20-%20Informational%20Layer/20.3%20-%20Reflective%20Maps%20&%20Cultural%20Flows/20.3.0%20-%20Metaphors%20&%20Structural%20Maps/Cultural%20Propagation%20Paths%20&%20Writing%20System%20Flows%20in%20the%20∆‑Matrix.md)
-
-### Speculative Applications
-- [Outer Universe](Delta%20Theory/20%20-%20Informational%20Layer/20.3%20-%20Reflective%20Maps%20&%20Cultural%20Flows/20.3.0%20-%20Metaphors%20&%20Structural%20Maps/Outer%20Universe%20—%20Recursive%20Embedding%20Beyond%20Dark%20Matter.md)
-- [Resurrection Ecology](Delta%20Theory/20%20-%20Informational%20Layer/20.3%20-%20Reflective%20Maps%20&%20Cultural%20Flows/20.3.0%20-%20Metaphors%20&%20Structural%20Maps/Resurrection%20Ecology%20—%20Reviving%20Historical%20Humans%20from%20Universal%20Memory.md)
-- [Temporal Field Resonance](Delta%20Theory/20%20-%20Informational%20Layer/20.3%20-%20Reflective%20Maps%20&%20Cultural%20Flows/20.3.0%20-%20Metaphors%20&%20Structural%20Maps/Temporal%20Field%20Resonance%20—%20Angels%20as%20Future%20Selves%20Across%20Time.md)
 
 ---
 

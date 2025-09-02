@@ -2,6 +2,17 @@
 
 This project adheres to a human‑readable changelog. Versions reference GitHub releases; unreleased items track upcoming work.
 
+## [v0.4.7] — File Names and Links Refactoring
+
+**Why:** Standardize file names across the entire Delta Theory repository to be CLI-friendly, ensuring consistency and improving navigability. This refactoring addresses manual inconsistencies and enforces a clear naming convention for enhanced readability and maintainability.
+
+### Changed
+- **Wikilink Standardization:** Updated hundreds of internal wikilinks across 20+ files to include aliases matching canonical file titles. This includes:
+  - `[[filename.md|Alias - Title (type)]]` for standard links
+  - `[[filename.md\|Alias - Title (type)]]` for links within markdown tables (escaped pipe `\|`)
+  - All wikilinks now use the full canonical title for clarity.
+- **File Name Consistency:** Ensured all file names are consistently referenced in wikilinks, aligning with the hierarchical and descriptive naming conventions of Delta Theory.
+
 ## [v0.4.6] — Geometrical Model of Nature - Action
 
 ### Added/Changed
