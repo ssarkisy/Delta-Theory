@@ -1,9 +1,9 @@
 # Changelog
 
 This project adheres to a human‑readable changelog. Versions reference GitHub releases; unreleased items track upcoming work.
-## [v0.5.1] — File Names Refactoring
+## [v0.5.2] — Delay Differential Equations
 
-**Why:** Standardize file names across the Geometry of Nature section to be CLI-friendly, ensuring consistency and improving navigability. This refactoring addresses manual inconsistencies and enforces a clear naming convention for enhanced readability and maintainability.
+**Why:** Adding the delay differential equations for simple scenarios. Ai says there are no closed form analytical solutions even in the simple cases.
 
 ## [v0.5.1] — File Names Refactoring
 
