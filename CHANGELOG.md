@@ -5,6 +5,10 @@ This project adheres to a human‑readable changelog. Versions reference GitHub 
 
 **Why:** Standardize file names across the Geometry of Nature section to be CLI-friendly, ensuring consistency and improving navigability. This refactoring addresses manual inconsistencies and enforces a clear naming convention for enhanced readability and maintainability.
 
+## [v0.5.1] — File Names Refactoring
+
+**Why:** Standardize file names across the Geometry of Nature section to be CLI-friendly, ensuring consistency and improving navigability. This refactoring addresses manual inconsistencies and enforces a clear naming convention for enhanced readability and maintainability.
+
 ## [v0.5.0] — VSA Framework Implementation and Complete Theoretical Consistency
 
 **Why:** Achieve perfect theoretical consistency across the entire Delta Theory repository by implementing the corrected VSA (Void-Structure-Awareness) framework, fixing theorem assignments, and establishing canonical polarity ordering. This comprehensive update ensures every component—from foundational axioms to cultural metaphors to root documentation—properly references the corrected theoretical architecture while maintaining all functionality and meaning.
